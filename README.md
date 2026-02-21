@@ -6,7 +6,7 @@
 
 ## 📖 Czym jest Rezeryum?
 
-**Rezeryum** to rozbudowany, mroczny świat fantasy zaprojektowany jako fundament gry fabularnej (TTRPG) i/lub powieści. Łączy elementy dark fantasy, cosmic horroru i anime-inspirowanej progresji mocy w spójną całość.
+**Rezeryum** to rozbudowany świat fantasy zaprojektowany jako fundament gry fabularnej (TTRPG) i/lub powieści. Łączy elementy dark fantasy, epickich podróży i anime-inspirowanej progresji mocy z żywą, wielorasową cywilizacją.
 
 Nazwa pochodzi od słowa *rezerwuar* — Rezeryum to dosłownie **rezerwuar Zerum**, uwięziony między bytami światła (Wysokimi) a otchłaniami chaosu (Głębokimi). Nie jest planetą — jest **raną po Wojnie Koron**, kosmicznym starciu, które rozbiło tkankę rzeczywistości.
 
@@ -19,16 +19,18 @@ Nazwa pochodzi od słowa *rezerwuar* — Rezeryum to dosłownie **rezerwuar Zeru
 | **Rozszczepiona Boskość** | Pradawna Wojna Koron rozdarła wszechświat. W miejscach boskich ciosów powstały Pęknięcia — rany w rzeczywistości. |
 | **Zerum — Żar Duszy** | Każda istota nosi w sobie Zerum — pierwotną energię. Przebudzenie daje moce, ale i klątwy, mutacje, wewnętrzne Cienie. |
 | **Więzi i Bestie** | Dusze mogą splatać się z bestiami, cieniami, artefaktami — tworząc symbiotyczne duety dzielące rany, emocje i moc. |
-| **Bastiony na Skraju** | Cywilizacja przetrwała w ufortyfikowanych miastach-twierdzach, między śmiertelną Dziczą a szlakami kolosalnych Pustoszycieli. |
+| **Bastiony i Cywilizacja** | Wielorasowe miasta zbudowane wokół stabilnych Pęknięć. Handlują, rywalizują, zawierają sojusze. Między nimi — lasy, stepy, góry. |
 | **Niewidzialna Wojna** | Wysocy i Głębokie toczą wojnę przez awatary, kulty i sny. Śmiertelnicy to narzędzia obu stron. |
 
 ---
 
 ## 🗺️ Świat w Skrócie
 
-- **Popękany krajobraz** — kontynenty przecięte rozpadlinami, morza z unoszącymi się wyspami, leje po upadłych bogach
-- **Dzicz Rezeryum** — biomy, gdzie prawa natury nie obowiązują: Mgławicowe Puszcze, Krystaliczne Pustynie, Morza Pamięci, Odwrócone Lasy
-- **Bastiony** — warstwy miast-twierdz: Żywe Mury, Ruchome Cytadele, Pierścieniowe Fortece, Miasta-Nomadzi
+- **Popękany, ale żywy krajobraz** — blizny po Wojnie Koron, ale między nimi bujne lasy, stepy, góry i jeziora. Im więcej Zerum, tym zdrowsza przyroda.
+- **Przedpola** — zamieszkałe tereny wokół Bastionów: farmy, wioski, lasy z dzikimi bestiami
+- **Normalne biomy** — Puszcze Żywiczne, Stepy Szarego Wichru, Jeziora Splotu, Góry Kręgowe, Równiny Ziaren
+- **Głęboka Dzicz** — egzotyczne biomy, gdzie Zerum przejmuje kontrolę: Mgławicowe Puszcze, Krystaliczne Pustynie, Morza Pamięci
+- **Bastiony** — wielorasowe miasta: Żarnogród, Głębomir, Splecin, Prządka, Kres Wichrów, Kornak, Jasne Progi, Czerszawa
 - **Pęknięcia i Komnaty** — rany w rzeczywistości prowadzące do stref o odrębnych prawach fizyki
 - **Mury-Koron** — legendarne, zapomniane Bastiony zbudowane *wewnątrz ciał* skamieniałych Pustoszycieli
 
@@ -41,10 +43,13 @@ Iskra → Żar → Płomień → Żagiew → Gwiazda
 ```
 
 - **Zerum** — duchowo-fizyczna energia obecna w każdej istocie
+- **Iskrzyk** — zwierzęcy towarzysz z czystej esencji, nietykalny objaw Zerum każdej istoty
 - **6 Natur Zerum** — Żar 🔥, Przepływ 🌊, Cień 🌑, Rdza ⚙️, Pryzmat ✨, Czas ⏳
 - **Prawdziwe Imiona** — fundamentalny kod duszy, nadawany przez potężniejsze istoty
 - **Głosy Pierwszych** — pierwotne słowa-wzorce zmieniające prawa rzeczywistości
 - **Więzi** — kontrakty dusz (Żywa, Pustki, Koronna, Artefaktowa)
+- **Bramy (Gates)** — stabilizowane Pęknięcia; portale do równoległych wymiarów Zerum z 5 tierami trudności
+- **Kamienie Esencji** — skondensowane Zerum z bestii Bramowych; waluta i paliwo
 - **Ziarna Przemiany** — unikalne owoce dające absurdalną moc za cenę zablokowania ewolucji
 - **Emotywne Klątwy** — Cienie zasilane tłumionymi emocjami i traumami społecznymi
 
@@ -78,7 +83,7 @@ Iskra → Żar → Płomień → Żagiew → Gwiazda
 - **Zarodki Cieni** — niewidzialne fragmenty woli Głębokich, rosnące w sercach
 - **Głos-Kamienie** — zakazana wiedza o prawdziwej historii świata
 - **Wysocy** — milczący bogowie z ukrytymi celami (Promienni), wymazujący pamięć pokoleń
-- **Dzicz** — 90% wypraw nie wraca
+- **Głęboka Dzicz** — najgłębsze strefy mają ~10% szans na powrót; normalne biomy bezpieczniejsze
 
 ---
 
@@ -104,12 +109,14 @@ Iskra → Żar → Płomień → Żagiew → Gwiazda
 ```
 Rezeryum/
 ├── 00_overview.md       # Kosmologia, filary świata, Pęknięcia
-├── 01_geografia.md      # Mapy, biomy, Bastiony, ekonomia
+├── 01_geografia.md      # Biomy, Bastiony, relacje, ekonomia, transport
 ├── 02_system_mocy.md    # Zerum, Natury, Progi, Więzi, Imiona
-├── 03_rasy.md           # 21 ras w 4 rodzinach + ewolucje
 ├── 04_zagrozenia.md     # Pustoszyciele, Wydrążeni, Głos-Kamienie
 ├── 05_frakcje.md        # Zakony, gildie, kulty, Załogi
-└── 06_przewodnik.md     # Opisowy przewodnik po świecie
+├── 06_przewodnik.md     # Opisowy przewodnik po świecie
+└── Rasy/                # 21 ras w osobnych plikach
+    ├── 00_index.md      # Spis i dynamika społeczna ras
+    ├── aervin.md ... zylmari.md
 ```
 
 ---

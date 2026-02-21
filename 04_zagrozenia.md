@@ -101,11 +101,55 @@ Wysocy potrafią wymazać wspomnienia **całych pokoleń**:
 
 ### 6.6. Dzicz Rezeryum
 
-Sama Dzicz nie jest „wrogiem" w tradycyjnym sensie, ale stanowi stałe zagrożenie:
-- 90% wypraw nie wraca
-- biomy aktywnie atakują intruzów (Mgławicowe Puszcze, Krystaliczne Pustynie)
-- spontaniczne Pęknięcia mogą się otworzyć w dowolnym miejscu i czasie
-- bestie Dziczy (niebędące Pustoszycielami) stanowią oddzielną kategorię zagrożeń
+Dzicz Rezeryum to gradient zagrożeń, nie jednolita ściana śmierci:
+
+**Przedpola (wokół Bastionów):**
+- Względnie bezpieczne — dzikie bestie (kryształowe wilki, rogacze, gady nasycone Zerum) stanowią realne, ale kontrolowane zagrożenie
+- Regularne patrole Latarników i Przysięgłych utrzymują porządek
+- Bandyci i wataha bestii — główne zagrożenia
+- Spontaniczne mini-Pęknięcia otwierają się raz na kilka tygodni, szybko zamykane
+
+**Normalne Biomy (między Bastionami):**
+- Pustacza, stepy, lasy z dzikimi bestiami — niebezpieczne, ale do przeżycia z eskortą
+- Karawany handlowe poruszają się regularnymi szlakami z akceptowalnym ryzykiem
+- Bestie w tych strefach są groźne, ale znane — służą też jako cel treningowy dla młodych Przebudzonych
+
+**Głęboka Dzicz:**
+- Prawa natury uginają się — strefy egzotycznych, nieprzewidywalnych biomów
+- Biomy aktywnie wrogo reagują na intruzów (Mgławicowe Puszcze, Krystaliczne Pustynie)
+- Spontaniczne Pęknięcia mogą się otworzyć w dowolnym miejscu i czasie
+- Bestie Głębokiej Dziczy to oddzielna kategoria zagrożeń — stworzenia, z którymi mierzą się tylko doświadczeni Przebudzeni
+- Wyprawy w najgłębsze strefy mają ~10% szans na powrót
+
+---
+
+### 6.7. Zagrożenia Bramowe ⚠️ NIEZDEFINIOWANE
+
+Bramy (stablizowane Pęknięcia eksploatowane przez Latarników) niosą własne, specyficzne zagrożenia wykraczające poza same bestie wewnątrz. Poniższe kierunki wymagają doprecyzowania w przyszłej iteracji:
+
+**Kierunek 1: Toksyczność Zerum**
+- Czy przebywanie w Bramie zbyt długo nasyca ciało Zerum do toksycznych poziomów?
+- Opcje: timer zdrowia, progresywne mutacje, wypalenie Splotu
+- Pytanie: Czy Iskrzyk absorbuje nadmiar Zerum jako bufor?
+
+**Kierunek 2: Dylatacja Czasu**
+- Czy czas w Bramach płynie inaczej? (dni wewnątrz = godziny na zewnątrz?)
+- Opcje: stały mnożnik per tier, losowy, zależny od Natury Zerum Bramy
+- Implikacja: Latarnicy wracający po „godzinach" walki, podczas gdy na zewnątrz minęły tygodnie
+
+**Kierunek 3: Degradacja Mentalna**
+- Czy Bramy wyższych tierów nasilają Cienie właściciela?
+- Pytanie: Czy Iskrzyk może służyć jako „kotwica" tożsamości?
+- Powiązanie z istniejącą mechaniką Emotywnych Klątw
+
+**Kierunek 4: Inteligencja Bestii Bramowych**
+- Czy bestie w Bramach to bezrozumne mutanty, czy organizują się w hierarchie?
+- Opcje: czyste potwory, społeczności bestii, echo dawnych cywilizacji
+
+**Kierunek 5: Władcy Bram (Bossowie)**
+- Czy każda Brama ma najsilniejszą bestię blokującą dostęp do jądra Esencji?
+- Opcje: zawsze, tylko wyższe tiery, losowo
+- Nagroda: pokonanie Władcy = zamknięcie Bramy + masywna nagroda (Rdzeń/Serce Esencji)
 
 ---
 
@@ -115,3 +159,5 @@ Sama Dzicz nie jest „wrogiem" w tradycyjnym sensie, ale stanowi stałe zagroż
 - Ile Głos-Kamieni odkryto? Jakie fragmenty udało się rozszyfrować?
 - Jakie Bastiony mają wymazaną historię?
 - Czy istnieje sposób na przywrócenie wymazanej pamięci?
+- **[NOWE]** Finalizacja mechanik zagrożeń Bramowych (sekcja 6.7)
+- **[NOWE]** Czy Bramy mogą się „zepsuć" i stać się dzikimi Pęknięciami?

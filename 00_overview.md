@@ -19,9 +19,9 @@ Każde stworzenie nosi w sobie **Zerum** — pierwotną energię duszy. Po Przeb
 
 Dusze mogą splatać się z bestiami, cieniami, artefaktami i innymi istotami, tworząc symbiotyczne duety. Rany, rozwój, emocje i szaleństwo są współdzielone między Splecionymi.
 
-### 1.4. Bastiony na Skraju Zagłady
+### 1.4. Bastiony i Cywilizacja
 
-Ocalała cywilizacja żyje w ufortyfikowanych **Bastionach** zbudowanych wokół stabilnych Pęknięć, między śmiertelną Dziczą a szlakami kolosalnych Pustoszycieli.
+Tysiące lat po Wojnie Koron, cywilizacja odbudowała się w **Bastionach** — wielorasowych miastach zbudowanych wokół stabilnych Pęknięć. Bastiony handlują, rywalizują, zawierają sojusze i toczą wojny o zasoby. Między nimi rozciągają się normalne krajobrazy — lasy, stepy, góry — a bliżej Pęknięć zaczyna się egzotyczna i niebezpieczna Głęboka Dzicz.
 
 ### 1.5. Wojna Wysokich i Głębokich
 
