@@ -113,7 +113,11 @@ U podstaw duszy leży **Prawdziwe Imię** — złożony wzór Zerum. To nie zwyk
 4. **Żagiew** — ingerencja w struktury Pęknięć
 5. **Gwiazda** — lokalne naginanie praw rzeczywistości poprzez Głosy Pierwsze
 
-Progi Mocy i ewolucje rasowe są **niezależnymi osiami rozwoju**. Postać może być na Progu Płomienia bez ewolucji, lub ewoluować rasowo będąc na Żarze (jeśli otrzyma Imię od potężnej istoty).
+**Ewolucja przez Doświadczenie:**
+- Postać rośnie w siłę przez **doświadczenie zdobyte w walce** — walki z bestiami w Bramach, ekspedycje, sparringi
+- Przejście na wyższy Próg następuje **stopniowo**, po zgromadzeniu wystarczającego doświadczenia
+- **Nadanie Imienia** nie powoduje natychmiastowej ewolucji — daje **potężny boost**, który znacznie zwiększa szansę na ewolucję z czasem
+- Progi Mocy i ewolucje rasowe są **niezależnymi osiami rozwoju**
 
 ### 4.8. Cień i Emotywne Klątwy
 
@@ -230,12 +234,12 @@ Przedmiot ewoluuje w pół-istotę (np. miecz-symbiot, pancerz-organizm, wieża-
 
 **Fabularnie:** Ziarno to ultimatum — absurdalna moc za cenę normalnej ścieżki rozwoju. Ci, którzy je spożyli, są wyrzutkami systemu Imion — potężnymi, ale na zawsze „innymi".
 
-### 4.13. Iskrzyk — Więź Esencji
+### 4.13. Iskrzyk — Duchowe Zwierzę Zerum
 
-**Iskrzyk** to mały zwierzęcy towarzysz z **czystej esencji Zerum**, połączony z duszą właściciela od momentu narodzin. Każda istota w Rezeryum rodzi się z Iskrzykiem — jest on **zewnętrzną manifestacją Splotu**, żywym wskaźnikiem siły, zdrowia i stanu duszy.
+**Iskrzyk** to niematerialny zwierzęcy towarzysz z **czystej esencji Zerum** — zewnętrzna manifestacja Splotu właściciela. Każda istota w Rezeryum rodzi się z Iskrzykiem. Iskrzyk odzwierciedla duchowy charakter i Naturę Zerum właściciela.
 
 **Forma:**
-Iskrzyk przybiera postać zwierzęcia (lub bestii Rezeryum) odzwierciedlającego charakter i Naturę Zerum właściciela:
+Iskrzyk przybiera postać zwierzęcia (lub bestii Rezeryum):
 - Pyrrhani → ogniste salamandry, płomykówki
 - Ghorran → małe wilki, lisy, borsuki
 - Drask → kamienne żuki, stalowe krety
@@ -247,28 +251,35 @@ Iskrzyk przybiera postać zwierzęcia (lub bestii Rezeryum) odzwierciedlającego
 
 | Reguła | Opis |
 |---|---|
-| **Nieśmiertelność** | Iskrzyk nie może zginąć. Nie podlega fizycznej śmierci. |
-| **Nietykalność** | Ataki fizyczne i magiczne **przechodzą przez** Iskrzyka — jest z czystej esencji, nie z materii. |
-| **Zanik** | Iskrzyk **znika** wyłącznie gdy Zerum właściciela spada do zera (wyczerpanie, Rozszarpanie, Wymazanie). |
-| **Powrót** | Iskrzyk **powraca** automatycznie gdy właściciel odzyskuje Zerum powyżej minimum przetrwania. |
+| **Niematerialność** | Iskrzyk **nie jest fizyczny** — jest z czystej esencji. Nie walczy, nie atakuje, nie może być zaatakowany. |
+| **Nieśmiertelność** | Iskrzyk nie może zginąć. Ataki przechodzą przez niego. |
+| **Zanik** | Iskrzyk **znika** wyłącznie gdy Zerum właściciela spada do zera. |
+| **Powrót** | Iskrzyk **powraca** automatycznie gdy właściciel odzyskuje Zerum. |
 | **Śmierć właściciela** | Jeśli właściciel umiera, Iskrzyk rozpływa się na zawsze. |
 
-#### Funkcje Użytkowe
+#### Funkcje — Wyłącznie Użytkowe
+
+Iskrzyk **nie walczy i nie ma żadnych zdolności bojowych**. Jego rola jest czysto narzędziowa:
 
 | Funkcja | Opis |
 |---|---|
-| **Komunikacja** | Iskrzyk przenosi krótkie wiadomości na dystans — zasięg zależy od Progu właściciela |
-| **Ekwipunek** | Służy jako **żywy plecak** — przechowuje przedmioty w „kieszeni esencji" |
-| **Nawigacja w Bramach** | Wewnątrz Bram wyczuwa koncentracje Zerum, lokalizacje bestii i drogę wyjścia |
-| **Wskaźnik stanu** | Wygląd Iskrzyka odzwierciedla stan Zerum właściciela — blady = wyczerpany, jaskrawy = pełen mocy |
-| **Bariera emocjonalna** | Łagodzi wpływ Cieni na właściciela — ale nie eliminuje go |
+| 📱 **Komunikacja (Telefon)** | Przenosi krótkie wiadomości na dystans — zasięg zależy od Progu właściciela |
+| 🧭 **Nawigacja (GPS)** | Wyczuwa koncentracje Zerum, lokalizacje bestii, drogę wyjścia z Bram |
+| 🎒 **Ekwipunek (Plecak)** | Przechowuje łupy i przedmioty w „kieszeni esencji" |
+| 📚 **Wiedza (Wyrocznia)** | Odpowiada na pytania o świat — wie tyle, ile właściciel + ogólna wiedza Zerum |
+| 💡 **Wskaźnik stanu** | Wygląd Iskrzyka odzwierciedla stan Zerum — blady = wyczerpany, jaskrawy = pełen mocy |
 
-#### Relacja z Więziami i Systemem
+#### Czego Iskrzyk NIE robi
 
-- Iskrzyk to **NIE** Więź Żywa — to coś głębszego, fundamentalnego. Więzi to kontrakty; Iskrzyk to część duszy.
-- Przebudzony może mieć Więź Żywą z Archaionem **i** Iskrzyka jednocześnie — nie kolidują.
-- Istoty Wydrążone zachowują Iskrzyka — ale jego forma **zmienia się** (ciemnieje, zniekształca). To potencjalny sposób na wykrywanie Wydrążonych.
-- Forma Iskrzyka może ewoluować razem z właścicielem — Iskrzyk Przebudzonego na Progu Gwiazdy wygląda zupełnie inaczej niż Iskrzyk nie-Przebudzonego.
+- ❌ Nie walczy — żadne zdolności ofensywne ani defensywne
+- ❌ Nie leczy
+- ❌ Nie można go ranić, przejąć ani kontrolować
+
+#### Relacja z systemem
+
+- Iskrzyk to manifestacja duszy, nie Więź — nie koliduje z Więziami
+- Istoty Wydrążone zachowują Iskrzyka — ale jego forma **ciemnieje i zniekształca**
+- Forma Iskrzyka ewoluuje razem z właścicielem
 
 ---
 
@@ -298,11 +309,11 @@ Kryształy Zerum to surowa, naturalna forma energii — jak ruda. Kamienie Esenc
 
 ---
 
-### 4.15. Bramy (Gates)
+### 4.15. Bramy (Szczeliny / Dungeony)
 
-**Brama** to stabilne przejście do **równoległego wymiaru Zerum** — kopii fizycznej lokalizacji, ale nasyconej Zerum do ekstremalnych poziomów. Bramy to eksploatowalna, ustrukturyzowana forma Pęknięć.
+**Brama** to stabilne przejście do **równoległego wymiaru Zerum** — kopii fizycznej lokalizacji, nasyconej Zerum do ekstremalnych poziomów. Bramy to dungeony Rezeryum — wchodzi się do nich **grupą** i walczy z bestiami.
 
-Wewnątrz Bramy teren wygląda jak zniekształcona wersja świata zewnętrznego: te same formacje skalne pokryte kryształami, te same lasy zamieszkane przez mutanty zamiast zwierząt.
+Wewnątrz Bramy teren wygląda jak zniekształcona wersja świata zewnętrznego: te same formacje skalne pokryte kryształami, te same lasy zamieszkane przez mutanty.
 
 **Hierarchia Tier'ów:**
 
@@ -314,14 +325,22 @@ Wewnątrz Bramy teren wygląda jak zniekształcona wersja świata zewnętrznego:
 | IV | Brama Żagwi | Żagiew | Archaiczne potwory, strażnicy | Rdzenie Esencji | Bardzo rzadkie |
 | V | Brama Gwiazdy | Gwiazda | Proto-byty, echo dawnych bogów | Serca Esencji | Legendarne |
 
+**Drużyny Bramowe (Party):**
+Bramy eksploruje się w **drużynach 4-6 osób** z uzupełniającymi się rolami:
+- **Ostrze** — główny zadający obrażenia (Vrakai, Ghorran, Pyrrhani)
+- **Tarcza** — obrona i kontrola pozycji (Drask, Tharumi)
+- **Splot** — wsparcie magiczne, leczenie, manipulacja Zerum (Shenn, Solhari, Voryth)
+- **Cień** — zwiad, pułapki, rozpoznanie (Skaeth, Orvhan, Kalitropi)
+- Iskrzyki drużyny współpracują — nawigacja, komunikacja, transport łupów
+
 **Zasady wejścia:**
-- Brama wymaga **minimalnego Progu Mocy** — wejście poniżej progu oznacza natychmiastowe przytłoczenie Zerum
-- Brama ma **limit czasowy** — po jego upływie zamyka się; uwięzieni wewnątrz giną lub są wyrzuceni losowo
-- Bramy pojawiają się **spontanicznie** lub są **kotwiczone** przez Latarników (Bramy Stabilne = serce Bastionów)
-- Wewnątrz Bramy Iskrzyk właściciela pełni rolę nawigacyjną i logistyczną
+- Brama wymaga **minimalnego Progu Mocy** — wejście poniżej progu oznacza przytłoczenie Zerum
+- Brama ma **limit czasowy** — po jego upływie zamyka się
+- Bramy pojawiają się **spontanicznie** lub są **kotwiczone** przez Latarników
+- Doświadczenie zdobyte w Bramach to **główny motor ewolucji** Przebudzonych
 
 **Relacja z Pęknięciami:**
-Pęknięcia to **dzikie rany** w rzeczywistości — niestabilne, chaotyczne, prowadzące do Komnat o nieprzewidywalnych prawach fizyki. Bramy to ich **ustrukturyzowana forma** — stabilne, zmapowane, eksploatowane ekonomicznie. Nie każde Pęknięcie staje się Bramą — Latarnicy muszą je zakotwić i ustabilizować.
+Pęknięcia to **dzikie rany** w rzeczywistości — niestabilne, chaotyczne. Bramy to ich **ustrukturyzowana forma** — stabilne, zmapowane, eksploatowane. Nie każde Pęknięcie staje się Bramą — Latarnicy muszą je zakotwić.
 
 ---
 

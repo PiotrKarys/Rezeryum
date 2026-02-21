@@ -89,11 +89,8 @@ Milczący bogowie, którzy nigdy nie odeszli. Ich interwencje są rzadkie, ale z
 **Prawda:**
 Nie bronią śmiertelników, lecz własnej wizji harmonii. Świadomie poświęcą narody, Bastiony i całe pokolenia Przebudzonych, jeśli uznają to za konieczne.
 
-**Wymazana Pamięć Bastionów:**
-Wysocy potrafią wymazać wspomnienia **całych pokoleń**:
-- Niektóre Bastiony nie wiedzą, że kiedyś same były Wydrążone — oczyszczone siłą i pozbawione wspomnień o hańbie.
-- **Mury-Koron** (Bastiony w ciałach Pustoszycieli) to najskrajniejszy przykład — ich mieszkańcy nie wiedzą, że ich „mury" to martwe ciała potworów.
-- Kartografowie Otchłani i Korzennicy (frakcja egzekutorów szukająca źródeł klątw) odkrywają te prawdy — i są za to ścigani.
+**Wymazana Pamięć — Mury-Koron:**
+Wysocy potrafią wymazać wspomnienia **całych pokoleń**. Istnieje jeden jedyny Bastion dotknięty tym zjawiskiem na pełną skalę: **Mury-Koron** — Bastion zbudowany w ciele martwego Pustoszyciela, kompletnie odizolowany od reszty cywilizacji. Prawie **nikt o nim nie wie** — nie figuruje na mapach handlowych, nie utrzymuje szlaków, nie wysyła posłów. Jego mieszkańcy nie wiedzą, że ich „mury" to martwe ciało potwora, ani nie pamiętają, dlaczego ich Bastion jest ukryty. Kartografowie Otchłani i Korzennicy są jedynymi, którzy szukają Mury-Koron — i są za to ścigani.
 
 **Paradoks:** Solhari i Aurynn, jako rasy najbliższe Wysokim, są jednocześnie najbardziej narażone na ich manipulacje — i najbardziej świadome ich prawdziwej natury.
 
