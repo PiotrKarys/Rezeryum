@@ -94,7 +94,7 @@ Iskra → Żar → Płomień → Żagiew → Gwiazda
 | **Kartografowie Otchłani** | Szaleńcy szukający wzoru w Pęknięciach |
 | **Gildie Handlowe** | Kartele Zerum kontrolujące ekonomię |
 | **Kulty Pęknięć** | Religie wokół Wysokich, Głębi lub Równowagi |
-| **Spire of the Named** | Akademia Przebudzonych — elitarna szkoła mocy |
+| **Iglica Nazwanych** | Akademia Przebudzonych — elitarna szkoła mocy |
 | **Załogi Ekspedycyjne** | Niezależne drużyny eksploratorów i awanturników |
 
 ---
