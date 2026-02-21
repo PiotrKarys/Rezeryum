@@ -118,8 +118,17 @@ Kontrola handlu kryształami Zerum — de facto ekonomiczna władza nad Bastiona
 - utrzymywanie prywatnych armii i Przebudzonych najemników
 - korumpowanie władz politycznych
 
+**Główne szlaki handlowe:**
+- **Szlak Kryształowy** (Żarnogród ↔ Głębomir ↔ Kornak) — transport surowego Zerum z kopalni
+- **Szlak Wichrów** (Żarnogród ↔ Kres Wichrów) — ryzykowny, ale opłacalny szlak stepowy
+- **Szlak Mokry** (Prządka ↔ Splecin) — transport wodny przez Jeziora Splotu
+- **Szlak Nomada** (Czerszawa → wszędzie) — ruchomy szlak Miasta-Nomady
+
+**Towary:**
+- Kryształy Zerum (waluta i paliwo), broń z Kornaku, medykamenty grzybowe z Prządki, żywność z Równin Ziaren, artefakty z Komnat, bestie hodowlane
+
 **Status:**
-Oficjalnie — szanowani kupcy. W praktyce — siła polityczna porównywalna z samymi władzami Bastionów.
+Oficjalnie — szanowani kupcy. W praktyce — siła polityczna porównywalna z samymi władzami Bastionów. Gildie z Żarnogrodu kontrolują największy rynek, ale Kornak ma monopol na produkcję broni.
 
 ---
 
@@ -138,10 +147,10 @@ Kulty Wysokich bywają infiltrowane przez samych Wysokich. Kulty Głębi to pote
 
 ---
 
-### 7.9. Iglica Nazwanych (Bastion-Akademia) — NOWY
+### 7.9. Iglica Nazwanych (Bastion-Akademia)
 
 **Rola:**
-Elitarna instytucja szkoląca Przebudzonych — od Iskry do Płomienia — w jednym wyjątkowo stabilnym Bastionie.
+Elitarna instytucja szkoląca Przebudzonych — od Iskry do Płomienia — z siedzibą w **Splecinie**, mieście-ogrodzie.
 
 **Cechy:**
 - Własny **kodeks** regulujący użycie Zerum, Więzi i Głosów Pierwszych

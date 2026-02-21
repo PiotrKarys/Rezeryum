@@ -1,6 +1,6 @@
 # REZERYUM — Przewodnik po Świecie
 
-> *Wyobraź sobie, że stoisz na krawędzi Bastionu i patrzysz na rozciągającą się przed tobą Dzicz. Ten dokument opisuje, co widzisz, co czujesz i co próbuje cię zabić.*
+> *Wyobraź sobie, że stoisz na murach Żarnogrodu o poranku. Niebo nad tobą pulsuje ciemnofioletowym Sklepieniem przetkanym złocistymi smugami — ale na dole, za bramą, rozciąga się targ. Handel, krzyki, życie. Ten dokument opisuje ten świat od krawędzi nieba po ostatnią tavernę.*
 
 ---
 
@@ -8,73 +8,99 @@
 
 ### Niebo i horyzont
 
-Rezeryum nie ma normalnego nieba. Nad głową rozpościera się **Sklepienie Blizn** — ciemnofioletowa, ciągle pulsująca kopuła, przez którą prześwitują smugi złocistego i karmazynowego światła. To resztki energii z Wojny Koron, wciąż dogasające po tysiącleciach. Nie ma słońca w ziemskim sensie — światło pochodzi z **Rozszczepień**: gigantycznych szczelin w sklepieniu, przez które promieniuje surowe Zerum. Dzień i noc istnieją, ale są nieregularne i różnią się między Bastionami.
+Rezeryum nie ma normalnego nieba. Nad głową rozpościera się **Sklepienie Blizn** — ciemnofioletowa, pulsująca kopuła, przez którą prześwitują smugi złocistego i karmazynowego światła. To resztki energii z Wojny Koron, wciąż dogasające po tysiącleciach. Nie ma słońca w ziemskim sensie — światło pochodzi z **Rozszczepień**: gigantycznych szczelin w sklepieniu, przez które promieniuje surowe Zerum. Dzień i noc istnieją, ale są nieregularne i różnią się między regionami.
 
-Horyzont jest **złamany**. Dosłownie — linie perspektywy załamują się pod niemożliwymi kątami. W oddali widać unoszące się wyspy, odwrócone góry i wiry powietrza, w których zamarły całe ekosystemy. Gdzieniegdzie niebo jest *dziurawe* — to mniejsze Pęknięcia, przez które przecieka ciemność z Głębin lub nieziemskie światło Wysokich.
+Horyzont jest **złamany** — w oddali widać unoszące się wyspy, pojedyncze odwrócone góry i wiry powietrzne. Ale to elementy **tła**, nie codzienności. Mieszkańcy Rezeryum żyją pod tym niebem od tysięcy lat — jest dla nich normalne, jak dla nas zachody słońca. Gdzieniegdzie niebo jest *dziurawe* — to mniejsze Pęknięcia, prześwitujące niczym gwiazdy.
 
 ### Ziemia i krajobraz
 
-Rezeryum wygląda jak **rozbite szkło w skali kontynentalnej**. Ogromne masy lądu są porozdzielane rozpadlinami o nieznanej głębokości — niektóre wędrują w dół nieskończenie, inne zamykają się po kilkuset metrach na stwardniałych kryształach Zerum. Kontynenty nie są stabilne; zdarza się, że fragmenty lądu odrywają się i zaczynają unosić.
+Rezeryum nosi blizny po Wojnie Koron — wielkie rozpadliny, Leje po upadłych Koronach, pęknięta skorupa kontynentu. Ale między blizny wrosła **przyroda**. Tam, gdzie Zerum nasyca glebę, rosną bujne lasy, wielkie drzewa o intensywnych kolorach, soczyste łąki. Tam, gdzie Zerum jest słabe, ziemia jest szara i jałowa.
 
-Tam, gdzie upadły boskie Korony podczas Wojny, pozostały **Leje** — krateroidy o średnicy dziesiątek kilometrów, z których emanuje resztkowe Zerum. Wokół największych Lejów wyrastają Bastiony, bo nasycenie Zerum jest tam na tyle stabilne, że można je eksploatować.
+**Typowy widok z murów Bastionu:**
+- Przedpola — pola uprawne, wioski pod ochroną, lasy na horyzoncie
+- Dalej — stepy, góry, naturalne biomy z dzikimi bestiami
+- Na granicy wzroku — znaki Głębokiej Dziczy: dziwne kolory, unoszące się formacje, mgły
 
 ---
 
 ## Czym są Bastiony?
 
-**Bastiony** to jedyne bezpieczne — a właściwie *mniej niebezpieczne* — miejsca w Rezeryum. To miasta-twierdze, warstwowe i ponure, zbudowane na przetrwanie, nie na komfort.
+**Bastiony** to miasta Rezeryum — od wielkich metropolii po małe osady. Powstały wokół stabilnych Pęknięć (Bram), bo Zerum z nich płynące jest fundamentem ekonomii. Ale to nie bunkry przetrwania — to **żywe miasta z całą złożonością cywilizacji**.
 
-### Jak wyglądają?
+### Jak wygląda życie w Bastionie?
 
-Typowy Bastion to wielowarstwowa forteca zbudowana wokół stabilnego Pęknięcia lub Leja:
+Typowy dzień w dużym Bastionie jak Żarnogród:
 
-- **Zewnętrzne mury** — mogą być z kamienia, ale w najstarszych Bastionach to **Żywe Mury**: olbrzymie, skamieniałe drzewa, splecione ze sobą i nasycone Zerum, tworzące nieprzeniknione ściany organicznego materiału. Mury oddychają, rosną i samodzielnie naprawiają uszkodzenia.
+- **Rano** — handlarze otwierają stragany na Targu Kryształów. Drask-kowal rozpala kuźnię. Shenn-ogrodniczka śpiewa do Żywych Murów, podtrzymując ich wzrost. Dzieci różnych ras idą do szkoły.
+- **W południe** — karawan przybył Szlakiem Kryształowym. Eskorta Przysięgłych z bestiami-partnerami wchodzi triumfalnie przez bramę. Gildie Handlowe negocjują ceny.
+- **Po południu** — młodzi Przebudzeni trenują w szkolnej arenie Iglicy. Latarnicy zbierają się przed wyprawą do najbliższego Pęknięcia. W tawernie „Pod Trzecim Progiem" siedzą weterani i opowiadają o Głębokiej Dziczy.
+- **Wieczorem** — światła Żywych Run oświetlają ulice. Na placu centralnym bard-Aurynn śpiewa (ostrożnie, żeby przypadkowo nie zmienić rzeczywistości). Straże obejmują nocną zmianę na murach.
 
-- **Pierścienie miejskie** — im bliżej centrum (Pęknięcia), tym wyższy status. Zewnętrzne pierścienie to slumsy dla nie-Przebudzonych, wewnętrzne to dzielnice szlachty, zakonów i Gildii Zerum. Architektura jest ciężka, masywna, z dominacją kamienia, metalu i kryształów.
+### Typy Bastionów
 
-- **Centrum: Brama** — serce Bastionu. Tu jest stabilne Pęknięcie, otoczone sanktuariami, laboratoriami Zerum, zbrojowniami i siedzibami Latarników. Przy Bramie powietrze mieni się i drży, grawitacja bywa niestabilna, a rzeczywistość jest *cieńsza*.
+Nie ma dwóch identycznych Bastionów:
 
-- **Podziemia** — tunele wydrążone przez Drask i Nythrai, łączące Bastiony między sobą. Prowadzą przez niebezpieczne strefy, ale dla karawan to jedyny pewny szlak.
+- **Żarnogród** — wielki, bogaty, kosmopolityczny. Targ Kryształów, siedziby Gildii, ambasady. Tętni życiem jak wielkie wielorasowe miasto handlowe.
+- **Głębomir** — surowa górska twierdza. Militarny, zdyscyplinowany, garnizonowy. Tu czuć powagę — bliskość Głębokiej Dziczy od wschodu.
+- **Splecin** — miasto-ogród. Żywe Mury pielęgnowane przez Shenn, uczelnie, biblioteki, sady. Najspokojniejsze miejsce w Rezeryum.
+- **Prządka** — mokradła Velmari. Częściowo pod wodą, częściowo w grzybowych koloniach. Pachnie wilgocią, sporami i alchemią. Dziwne, ale fascynujące.
+- **Kres Wichrów** — mały, biedny, na granicy stepów. Wiatr wieje tu stale. Ludzie są twardzi i honorowi. Piwo jest mocne.
+- **Kornak** — podziemny. Ogromne kuźnie, huk młotów, tunele ciągnące się na setki kilometrów. Gorąco, ciasno, przemysłowo — ale Drask i Nythrai czują się tu jak w domu.
+- **Jasne Progi** — otwarte, bez wielkich murów. Chronione przez Solhari i stabilizatory. Neutralny grunt dyplomacji, świątynia Równowagi.
+- **Czerszawa** — na grzbiecie gigantycznego Archaiona. Miasto w drodze. Najbardziej kolorowe, wielorasowe, pełne dziwnych towarów z krańców świata.
 
 ### Co słychać w Bastionie?
 
-Hałas. Stały, niski hum Zerum emanujący z Bramy. Dźwięk młotów w kuźniach Drask. Burczenie hodowli bestii na obrzeżach. Śpiewy Shenn pielęgnujących Żywe Mury. Wrzaski handlarzy na targach kryształów. I pod tym wszystkim — cichy, ledwie słyszalny **szept** dochodzący z Pęknięcia. Większość mieszkańców go ignoruje. Niektórzy twierdzą, że to Głos Pierwszych. Inni, że to wołanie Głębi.
+Hałas. Stały, niski hum Zerum emanujący z Bramy w centrum. Dźwięk młotów w kuźniach Drask. Targowe krzyki handlarzy. Śpiewy Shenn przy Żywych Murach. Śmiech dzieci na ulicach. Wrzaski trenujących Przebudzonych. I pod tym wszystkim — cichy, ledwie słyszalny **szept** dochodzący z Pęknięcia. Większość mieszkańców go ignoruje. Jest częścią tła, jak szum morza w portowym mieście.
 
 ### Miasta-Nomadzi
 
-Nie wszystkie Bastiony stoją w miejscu. **Miasta-Nomadzi** to kolosalne konstrukcje na grzbietach **Archaionów** — gigantycznych bestii, z którymi całe społeczności zawarły Więzi. Te żywe fortece wędrują po Dziczy, omijając szlaki Pustoszycieli i niestabilne Pęknięcia. Są mostem między osiadłymi Bastionami — przynoszą wieści, towary i uchodźców do miejsc, do których nie dociera żadna karawana.
+Nie wszystkie Bastiony stoją w miejscu. **Miasta-Nomadzi** to konstrukcje na grzbietach **Archaionów** — gigantycznych bestii, z którymi całe społeczności zawarły Więzi. Czerszawa jest najsłynniejsza, ale istnieją mniejsze — karawany-osady wędrujące po szlakach, przynoszące wieści, towary i uchodźców do miejsc, do których nie dotrze żadna karawana.
 
 ### Mury-Koron — Bastiony Zapomniane
 
-Gdzieś w Rezeryum istnieją Bastiony, o których nikt nie wie. **Mury-Koron** to osady zbudowane wewnątrz skamieniałych ciał Pustoszycieli — kolosalnych monstrów, które z nieznanych przyczyn zastygły tysiące lat temu. Ich mieszkańcy **nie wiedzą**, że ich mury to ciała potworów. Wysocy celowo wymazali im pamięć o zewnętrznym świecie. Dla reszty Rezeryum Mury-Koron to legendy, zaginione Bastiony, których nikt żyjący nie potrafi zlokalizować.
+Gdzieś w Rezeryum istnieją Bastiony, o których nikt nie wie. **Mury-Koron** to osady zbudowane wewnątrz skamieniałych ciał Pustoszycieli. Ich mieszkańcy **nie wiedzą**, że ich mury to ciała potworów. Wysocy celowo wymazali im pamięć o zewnętrznym świecie. Dla reszty Rezeryum Mury-Koron to legendy.
 
 ---
 
-## Czym jest Dzicz?
+## Co jest poza Bastionami?
 
-Wszystko poza Bastionami to **Dzicz Rezeryum** — nieokiełznana, śmiertelna, pełna niemożliwych biomów. Klasyczne prawa natury działają tu tylko fragmentarycznie, w wąskich pasach zwanych **Splotami**. Reszta to zmienna, chaotyczna przestrzeń, gdzie grawitacja, czas i nawet kolor mogą się zachowywać inaczej.
+### Przedpola
 
-### Biomy Dziczy
+Bezpośrednie otoczenie Bastionu to **Przedpola** — normalne, zamieszkałe tereny. Pola uprawne, wioski, lasy, łąki. Tu toczy się codzienne życie tych, którzy nie zmieścili się w murach — rolników, hodowców, drwali, zbieraczy. Przedpola są pod ochroną garnizonów Bastionu.
 
-- **Mgławicowe Puszcze** — lasy, w których drzewa rosną jednocześnie w każdym kierunku. Powietrze jest nasycone pyłkami, które przepalają Zerum w płucach. Każdy oddech to ryzyko mimowolnego Przebudzenia lub wypalenia Splotu. Światło nie dochodzi tu normalnie — filtruje się przez warstwy pyłu, tworząc nieziemską, fosforyzującą poświatę.
+**Zagrożenia?** Tak — dzikie bestie, bandyci, sporadyczne mini-Pęknięcia. Ale to zagrożenia porównywalne z dzikimi zwierzętami i rozbójnikami, nie z końcem świata. Młodzi Przebudzeni i Latarnicy patrolują Przedpola regularnie. To też doskonałe miejsce do **treningu** — kryształowe wilki, rogacze i gady nasycone Zerum to pierwsi przeciwnicy, z którymi mierzą się adepci walki.
 
-- **Krystaliczne Pustynie** — bezkresne równiny pokryte kryształami skondensowanego Zerum. Każdy krok uruchamia *wspomnienie trzęsienia ziemi sprzed tysiącleci* — ziemia drży echem dawnych kataklizmów, jakby kryształy przechowywały traumę świata. Horyzont migocze, załamuje się i powraca, jakby pustynna gdzieś dalej zaczynała się od tyłu.
+### Normalne Biomy
 
-- **Archipelagi Księżycowe** — odłamki zniszczonego księżyca (lub czegoś, co kiedyś nim było) zawieszone w martwych wirach wiatru. Można po nich skakać, ale grawitacja jest kapryśna — jedne przyciągają normalnie, inne odpychają, a na jeszcze innych czas płynie wolniej.
+Między Bastionami rozciągają się krajobrazy Rezeryum — nie tak bezpieczne jak Przedpola, ale dalekie od koszmarów Głębokiej Dziczy:
 
-- **Odwrócone Lasy** — rosną pionowo w dół, wzdłuż ścian gigantycznych Lejów po upadłych Koronach. Korzenie wyciągają się ku niebu, a korony sięgają ciemności. Światło dociera tu tylko odblaskami od kryształów Zerum tkwiących w ścianach.
+- **Puszcze Żywiczne** — gęste lasy z toksyczną żywicą Zerum. Pyrrhani i Drask czują się tu jak w domu.
+- **Stepy Szarego Wichru** — bezkresne trawiaste równiny z kryształowymi mustangami i rogaczami.
+- **Jeziora Splotu** — opalizujące jeziora z naturalnymi osadami Zylmari.
+- **Góry Kręgowe** — łańcuchy ze złożami Zerum, kopalnie Drask i Kragath.
+- **Bagna Mglistej Głębi** — mokradła na granicy Głębokiej Dziczy, królestwo Velmari.
+- **Równiny Ziaren** — żyzne tereny z nasycającą się Zerum roślinnością, sady Shenn.
 
-- **Morza Pamięci** — oceany, których wody nie odbijają teraźniejszości. Kto spojrzy w taflę, zobaczy przeszłość lub możliwą przyszłość — nigdy „teraz". Żeglarze muszą nauczyć się nie patrzeć w dół, bo wizje mogą być tak realistyczne, że umysł „wpada" w nie i nie potrafi się wydostać.
+Podróż między bliskimi Bastionami z eskortą to rutyna — trwa dni lub tygodnie, wymaga czujności, ale nie jest aktem desperacji. Karawany kursują regularnie. Kupcy, posłowie, wędrowcy, pielgrzymi — szlaki żyją.
 
-### Jak wygląda podróż przez Dzicz?
+### Głęboka Dzicz
 
-90% wypraw nie wraca. Karawany Lądowe poruszają się w eskortach Więzi Bojowych — drużyn Przebudzonych z bestiami-partnerami. Latające Okręty — zasilane rdzeniami Zerum — przelatują nad najniebezpieczniejszymi strefami, ale są kosztowne i rzadkie. Każda trasa jest inna, bo Pęknięcia pojawiają się i znikają, zmieniając topografię co tydzień.
+Im dalej od Bastionów, tym dziwniej. **Głęboka Dzicz** zaczyna się tam, gdzie Zerum przejmuje kontrolę nad przyrodą — biomy stają się egzotyczne, prawa natury uginają i zachowują się nieprzewidywalnie:
+
+- **Mgławicowe Puszcze** — fosforyzujące lasy, pyłki przepalające Zerum w płucach
+- **Krystaliczne Pustynie** — echo dawnych kataklizmów w każdym kroku
+- **Archipelagi Księżycowe** — kapryśna grawitacja, zawieszone odłamki
+- **Odwrócone Lasy** — rosną w dół wzdłuż ścian Lejów
+- **Morza Pamięci** — wody odbijające przeszłość, nie teraźniejszość
+
+Wyprawy w Głęboką Dzicz wymagają doświadczenia, sprzętu i odwagi. W najgłębszych strefach przeżywa ok. 10%. Ale strefy brzegowe eksplorowane są regularnie — to tam Latarnicy i Załogi Ekspedycyjne szukają chwały, Ziaren Przemiany i legendarnych Głos-Kamieni.
 
 ---
 
-## Czym są Pęknięcia?
+## Czym są Pęknięcia i Bramy?
 
-**Pęknięcia** to rany w tkance rzeczywistości — blizny po ciosach wymienialnych przez boskie awatary podczas Wojny Koron. Przez te rany do Rezeryum przeciekają:
+**Pęknięcia** to rany w tkance rzeczywistości — blizny po Wojnie Koron. Przez te rany do Rezeryum przeciekają:
 - martwi bogowie z innych epok
 - sny żywych krain
 - gnijące światło
@@ -82,25 +108,46 @@ Wszystko poza Bastionami to **Dzicz Rezeryum** — nieokiełznana, śmiertelna, 
 
 ### Komnaty
 
-Wewnątrz każdego Pęknięcia znajdują się **Komnaty** — strefy o własnych, odrębnych prawach fizyki. W jednej grawitacja może być odwrócona, w innej czas jest zamknięty w pętli. Rośliny mogą karmić się wspomnieniami, a przestrzeń może być złożona jak origami. Im głębiej, tym dziwniej i niebezpieczniej.
+Wewnątrz każdego Pęknięcia znajdują się **Komnaty** — strefy o własnych prawach fizyki. W jednej grawitacja może być odwrócona, w innej czas jest zamknięty w pętli. Im głębiej, tym dziwniej i niebezpieczniej.
 
-W najgłębszych Komnatach drzemią **pierwo-byty** — pierwowzory tytanów, demonów i bogów. Nikt nie wie, czym naprawdę są. Nikt, kto się dowiedział, nie wrócił w jednym kawałku.
+W najgłębszych Komnatach drzemią **pierwo-byty** — pierwowzory tytanów, demonów i bogów. Nikt nie wie, czym naprawdę są.
 
-### Stabilne Bramy
+### Bramy — Eksploatowalne Pęknięcia
 
-Część Pęknięć jest dzikich — pojawiają się na godziny i znikają. Inne **zakotwiczyły się** w przepływach Zerum i stały się stałymi przejściami — **Bramami**. Wokół nich wyrosły Bastiony, religie, ekonomie i najkrwawsze wojny o kontrolę.
+Nie wszystkie Pęknięcia są dzikie. Część z nich Latarnicy **zakotwiczyły i ustabilizowali** — stały się **Bramami**: portale do równoległych wymiarów Zerum. Wokół Bram wyrosły Bastiony.
+
+**Jak wygląda wejście do Bramy?**
+Stoisz przed szczeliną w powietrzu — jest jak pęknięta szyba, przez którą widać *inną wersję* tego samego miejsca. Ta sama skała, ale pokryta pulsującymi kryształami. Te same drzewa, ale poskręcane i świecące. Powietrze jest gęstsze, cieplejsze, naelektryzowane. Twój Iskrzyk zaczyna świecić jaśniej — czuje Zerum.
+
+Wchodzisz. Świat zamienia się w intensywniejszą wersję samego siebie. Kolory są przesycone. Bestie — zniekształcone wersje zwierząt, które znasz — czają się w kryształowych zaroślach. Iskrzyk prowadzi cię — wyczuwa zagrożenia, wskazuje drogę wyjścia.
+
+**Tiery Bram:**
+Bramy mają hierarchię — im wyższy tier, tym silniejsze bestie, cenniejsze łupy i większe ryzyko:
+- **Brama Iskry** (tier I) — dla początkujących, słabe mutanty
+- **Brama Żaru** (tier II) — silniejsze bestie, stada
+- **Brama Płomienia** (tier III) — elitarne potwory, mini-bossowie
+- **Brama Żagwi** (tier IV) — archaiczne stworzenia, strażnicy
+- **Brama Gwiazdy** (tier V) — legendarne, proto-byty, echo bogów
+
+### Kamienie Esencji — Łupy z Bram
+
+Bestie zabite wewnątrz Bram zostawiają **Kamienie Esencji** — skondensowane jądra Zerum, cenniejsze i stabilniejsze niż surowe Kryształy. Kamienie to główna waluta Rezeryum, paliwo, materiał rzemieślniczy. Od Okruchów Esencji (drobna waluta) po legendarne Serca Esencji (nasiona Sztucznych Słońc) — to one napędzają ekonomię Bastionów i motywują Latarników do ryzykowania życia w Bramach.
 
 ---
 
 ## Co to jest Zerum?
 
-**Zerum** to fundamentalna substancja Rezeryum — duchowo-fizyczny żar obecny w każdej żywej istocie i w samym splocie świata. W spoczynku podtrzymuje życie, wolę i sny. W Pęknięciach kondensuje się w mgły, kryształy i pasożytnicze rośliny, tworząc *pogodę dusz* — zjawiska wpływające na emocje i Sploty istot w okolicy.
+**Zerum** to fundamentalna substancja Rezeryum — duchowo-fizyczny żar obecny w każdej żywej istocie i w samym splocie świata. W spoczynku podtrzymuje życie, wolę i sny. W Pęknięciach kondensuje się w mgły, kryształy i pasożytnicze rośliny.
 
-**Kryształy Zerum** to waluta, paliwo i pożywienie Rezeryum jednocześnie. Bez nich — głód, ciemność, upadek Bastionu.
+**Cecha kluczowa:** Im wyższe nasycenie Zerum w glebie, tym **bujniejszy i zdrowszy krajobraz**. Lasy rosną wyższe, kolory są intensywniejsze, zwierzęta są silniejsze. Ale ekstremalnie wysokie nasycenie powoduje nieprzewidywalność — stąd Głęboka Dzicz.
 
-### Splot Zerum
+**Kryształy Zerum** występują naturalnie w formacjach skalnych. **Kamienie Esencji** — cenniejsza, przefiltrowana forma — wypadają z bestii zabitych w Bramach. Oba krążą w ekonomii jako waluta, paliwo i pożywienie.
 
-Każda istota ma swój **Splot** — unikalny wzór Zerum definiujący jej moce, naturę i potencjał. Jest jak duchowy DNA. Nadużywanie go prowadzi do wypalenia, mutacji, utraty wspomnień, a w ekstremalnych przypadkach — do **Rozszarpania**: ciało staje się chwilową mini-Bramą i gwałtownie ginie.
+### Splot Zerum i Iskrzyk
+
+Każda istota ma swój **Splot** — unikalny wzór Zerum definiujący jej moce, naturę i potencjał. Jest jak duchowy DNA. Nadużywanie go prowadzi do wypalenia, mutacji, utraty wspomnień, a w ekstremalnych przypadkach — do **Rozszarpania**.
+
+Zewnętrzną manifestacją Splotu jest **Iskrzyk** — mały zwierzęcy towarzysz z czystej esencji Zerum. Każda istota rodzi się z Iskrzykiem. Iskrzyk odzwierciedla charakter właściciela: Pyrrhani mają ogniste salamandry, Ghorran małe wilki, Drask kamienne żuki. Iskrzyk jest **nietykalny** — ataki przechodzą przez niego, bo jest z esencji, nie z materii. Znika tylko gdy Zerum właściciela spadnie do zera, i wraca gdy się odrodzi. Służy jako posłaniec, żywy plecak i nawigator w Bramach.
 
 ### 6 Natur Zerum
 
@@ -115,7 +162,7 @@ Każdy Splot ma dominującą Naturę — fundamentalny „smak" energii:
 | ✨ **Pryzmat** | Światło, oczyszczenie, prawda |
 | ⏳ **Czas** | Pamięć, wizje, pętle temporalne |
 
-Natury tworzą cykliczną „tabelkę przewag" — Żar pokonuje Rdzę, Rdza pokonuje Cień, etc. Techniki bojowe bazują na kreatywnych kombinacjach Natur.
+Natury tworzą cykliczną „tabelkę przewag" — Żar pokonuje Rdzę, Rdza pokonuje Cień, etc.
 
 ---
 
@@ -137,26 +184,24 @@ Każdy Przebudzony rozwija się przez Progi:
 
 ### Prawdziwe Imię
 
-Głęboko w duszy każdej istoty ukryty jest wzór zwany **Prawdziwym Imieniem**. To nie zwykłe imię — to fundamentalny kod określający granice potencjału i ścieżki ewolucji. Gdy istota potężniejsza od nosiciela krystalizuje to Imię (*Nadanie Imienia*), następuje skokowy wzrost mocy, zmiana fizjologii, a czasem ewolucja rasowa. Nadawca płaci ogromny koszt — największe Nadania mogą go zabić.
+Głęboko w duszy każdej istoty ukryty jest wzór zwany **Prawdziwym Imieniem**. To fundamentalny kod określający granice potencjału. Gdy istota potężniejsza od nosiciela krystalizuje to Imię (*Nadanie Imienia*), następuje skokowy wzrost mocy.
 
 ### Emotywne Klątwy (Cienie)
 
-Na każdym Progu, Przebudzony konfrontuje się z własnym **Cieniem** — uosobieniem jego lęków, traumy i tłumionych emocji. Nie są to generyczne potwory. Cień Wstydu przybiera formę twarzy bez rysów. Cień Gniewu jest ognistą bestią. Cień Żalu wygląda jak duch bliskiej osoby.
-
-Co gorsza — im mocniej społeczeństwo Bastionu tłumi daną emocję, tym potężniejsze stają się z nią związane Cienie. Gdy cała wspólnota wystawia jedną emocję, rodzi się **Cień Zbiorowy** — autonomiczny pasożyt żerujący na samym Bastionie.
+Na każdym Progu, Przebudzony konfrontuje się z własnym **Cieniem** — uosobieniem jego lęków, traumy i tłumionych emocji. Im mocniej społeczeństwo Bastionu tłumi daną emocję, tym potężniejsze stają się z nią związane Cienie.
 
 ### Więzi
 
-**Więź** to kontrakt dusz — dwa Sploty Zerum przeplatają się, dzieląc moc, rany, emocje i sny. Są cztery typy:
+**Więź** to kontrakt dusz — dwa Sploty Zerum przeplatają się, dzieląc moc, rany, emocje i sny:
 
-- **Więź Żywa** — z istotami cielesnymi (bestiami, innymi Przebudzonymi)
-- **Więź Pustki** — z bytami z Głębi (ogromna, „nieuczciwa" moc za cenę poczytalności i jaźni)
-- **Więź Koronna** — z odłamkami Wysokich (niemal boskie cuda, ale stajesz się pionkiem)
-- **Więź Artefaktowa** — z przedmiotami (miecz-symbiot, pancerz-organizm, wieża-świadomość)
+- **Więź Żywa** — z istotami cielesnymi
+- **Więź Pustki** — z bytami z Głębi
+- **Więź Koronna** — z odłamkami Wysokich
+- **Więź Artefaktowa** — z przedmiotami
 
 ### Ziarna Przemiany
 
-Ekstremalnie rzadkie, naturalne kondensacje Zerum w formie owoców. Każde daje jedną absurdalną, niepowtarzalną moc — ale w zamian **na zawsze blokuje** Nadanie Imienia i ewolucję rasową. To ultimatum: moc za cenę normalnej ścieżki rozwoju.
+Ekstremalnie rzadkie kondensacje Zerum w formie owoców. Każde daje jedną absurdalną, niepowtarzalną moc — ale na zawsze blokuje Nadanie Imienia.
 
 ---
 
@@ -164,109 +209,95 @@ Ekstremalnie rzadkie, naturalne kondensacje Zerum w formie owoców. Każde daje 
 
 ### 21 ras w 4 rodzinach
 
-W Rezeryum żyje 21 znanych ras, pogrupowanych w cztery **Rodziny** według pochodzenia:
+W Rezeryum żyje 21 znanych ras, pogrupowanych w cztery **Rodziny**. Wszystkie rasy **współdzielą Bastiony** — żyją ze sobą jak narody na jednym kontynencie. Są dzielnice etniczne, małżeństwa międzyrasowe, wspólne szkoły i targi, ale też napięcia, uprzedzenia i rywalizacja.
 
-**🏔️ Żywiołowi** — ukształtowani przez surowe siły natury:
-- **Vrakai** — masywni, brutalni giganci o kolosalnej sile (forma finalna: Vrathan walczy z Pustoszycielami)
-- **Shenn** — smukli, splecieni z roślinnością, śpiewają Głosy (forma finalna: Shenalor tworzy ruchome lasy)
-- **Drask** — kamienno-krasnoludzcy, skóra i kości jak skała, mistrzowie metalu i geologii
-- **Zylmari** — amfibijna linia z głębinowych Pęknięć, kontrolerzy mórz
-- **Pyrrhani** — zrodzeni z czystego żaru, ich ciała płoną wewnętrznym ogniem
+**🏔️ Żywiołowi** — Vrakai · Shenn · Drask · Zylmari · Pyrrhani
 
-**🐺 Bestyjni** — hybrydy drapieżników:
-- **Ghorran** — wilczo-bestialska linia, wzmocnione zmysły, pełne transformacje
-- **Kalitropi** — gadzia linia, łuski, jad, w wyższych formach smokowate
-- **Aervin** — ptasi, skrzydlaci, w najwyższej formie to burze w humanoidalnej postaci
-- **Skaeth** — pająkowaci tkacze Zerum, widzenie 360°, naprawiacze mikro-Pęknięć
+**🐺 Bestyjni** — Ghorran · Kalitropi · Aervin · Skaeth
 
-**🌑 Głębinowi** — naznaczeni Pęknięciami:
-- **Thrakkor** — demoniczne pojawienie, naturalna Więź Pustki, rogi i pazury (forma finalna: pół-awatary Głębi)
-- **Voryth** — duchy wytrącone z czasu, wizje przyszłości, mogą zamrażać strefy czasowe
-- **Prosterzy** — ci, którzy Przebudzili się po śmierci — nieumarli, ale nie martwi
-- **Myrrhan** — śluzowate istoty z ciekłego Zerum, zmieniają kształt, absorbują cechy wrogów
-- **Velmari** — grzybowe, kolektywne świadomości, żyjące poza Bastionami w Dziczy
-- **Orvhan** — cieniste widma, echo poległych Wysokich, jedyna rasa odporna na Wymazanie
+**🌑 Głębinowi** — Thrakkor · Voryth · Prosterzy · Myrrhan · Velmari · Orvhan
 
-**🏗️ Cywilizowani** — budowniczowie i organizatorzy:
-- **Raashari** — ludzka baza, najliczniejsi, najróżnorodniejsi w Splotach
-- **Kragath** — goblinoidalni inżynierowie, budują mechaniczne konstrukty Zerum
-- **Nythrai** — insektoidalni, myślą rojowo, chitynowy pancerz, organiczne ule
-- **Tharumi** — gdy Żywe Runy wrosły w ciała martwych wojowników, stworzyli nowe życie
+**🏗️ Cywilizowani** — Raashari · Kragath · Nythrai · Tharumi
 
-**☀️ Niebiańscy** — bliscy Wysokim:
-- **Solhari** — anielska linia, emanacja światła, stabilizatorzy Pęknięć
-- **Aurynn** — echy Bezimiennego Chóru, potrafią przypadkowo zmienić rzeczywistość śpiewem
+**☀️ Niebiańscy** — Solhari · Aurynn
 
 ### Dynamika społeczna
 
-Większość ras współdzieli Bastiony i walczy ramię w ramię, ale napięcia istnieją:
-- **Raashari** dominują politycznie przez liczebność — mniejsze rasy czują marginalizację
-- **Prosterzy** (nieumarli) budzą lęk i są rzadko w pełni akceptowani
-- **Thrakkor** noszą piętno Głębi — muszą stale udowadniać lojalność
-- **Velmari** żyją poza cywilizacją, w swoich grzybowych terytoriach
+Rasy Rezeryum żyją ze sobą — nie zawsze w zgodzie, ale w konieczności i coraz częściej z wyboru:
 
-Ale współpraca międzyrasowa jest kluczem do przetrwania: Drask + Pyrrhani budują najlepsze fortyfikacje, Kragath + Nythrai tworzą rojowo-mechaniczne systemy obronne, Shenn + Zylmari zarządzają biomami.
+- **Wielorasowe Bastiony** — większość Bastionów to kosmopolityczne mieszanki. Żarnogród i Czerszawa przodują, Kornak jest bardziej zamknięty.
+- **Rasy na uboczu** — Velmari żyją poza cywilizacją, Aurynn ukrywają się wśród innych ras
+- **Współpraca** — Drask + Pyrrhani (fortyfikacje), Kragath + Nythrai (konstrukty), Shenn + Zylmari (biomy)
+- **Napięcia** — Raashari dominują liczebnie, Prosterzy budzą lęk, Thrakkor noszą piętno Głębi
 
 ---
 
 ## Kto rządzi? Frakcje i zakony
 
-W Rezeryum nie ma jednego rządu. Każdy Bastion ma własną strukturę władzy, ale pewne organizacje działają ponadregionalnie:
+Każdy Bastion ma własną strukturę władzy, ale pewne organizacje działają ponadregionalnie:
 
 ### Latarnicy
-Kręgosłup każdego Bastionu. Zakony prowadzące wyprawy do Pęknięć — wydobywają kryształy Zerum, kartografują Komnaty i „czyszczą" je z zagrożeń. Bez Latarników Bastion umiera.
+Kręgosłup każdego Bastionu. Wyprawy do Pęknięć, wydobycie Zerum, kartografia Komnat.
 
-### Milczący Imion (Przymierze Związanych Imieniem)
-Najtajniejsza organizacja. Strażnicy Prawdziwych Imion, Głosów Pierwszych i Żywych Run. Kontrolują rytuały Nadawania Imion. Ich broń ostateczna — **Wymazanie** — niszczy Prawdziwe Imię ofiary, sprowadzając ją do pustej powłoki. Nikt nie wie, ilu ich jest. Nikt nie zna ich siedzib.
+### Milczący Imion
+Najtajniejsza organizacja. Strażnicy Prawdziwych Imion i Głosów Pierwszych.
 
 ### Żniwiarze Cieni
-Walczą z Głębią jej własną bronią. Specjaliści od Więzi Pustki, nekromancji Zerum i kontrolowanego użycia Zarodków Cieni. Tolerowani, bo potrzebni — ale budzący głęboki lęk. W jednych Bastionach to tajna policja, w innych wygnańcy.
+Walczą z Głębią jej własną bronią. Tolerowani, bo potrzebni — ale budzący lęk.
 
 ### Korzennicy
-Radykałowie. Zamiast gasić pożary (Cienie, klątwy), szukają ich **źródeł** — społecznych systemów, dogmatów i struktur, które *produkują* klątwy. Twierdzą, że Bastiony same hodują swoje potwory. Ścigani przez elity, ale popularni wśród młodych.
+Radykałowie szukający społecznych źródeł klątw. Popularni wśród młodych Przebudzonych.
 
-### Iglica Nazwanych (Akademia)
-Elitarna szkoła Przebudzonych. Własny kodeks, system rankingów, wyroki na „klątwo-użytkowników". Absolwenci rozchodzą się po świecie jako elita. Prowadzą ideologiczną wojnę z Korzennikami.
+### Iglica Nazwanych
+Elitarna szkoła Przebudzonych w Splecinie. Ideologiczny rywal Korzenników.
 
 ### Załogi Ekspedycyjne
-Niezależne drużyny eksploratorów — elita eksploratorów Rezeryum. Własne bandery, kodeksy i marzenia. Wyścig o Ziarna Przemiany, Głos-Kamienie i niezbadane Komnaty. Sławne Załogi mają reputację dorównującą całym zakonom.
+Niezależne drużyny eksploratorów — elita wypraw w Głęboką Dzicz i Komnaty.
+
+### Gildie Handlowe
+Kartele kontrolujące handel Zerum — ekonomiczna potęga porównywalna z władzami Bastionów.
 
 ---
 
 ## Co zagraża Rezeryum?
 
 ### Pustoszyciele (Rozrywacze Pustki)
-Kolosalne, półmaterialne awatary Głębi — ruchome kataklizmy. Chodzące ruiny złożone z fragmentów wielu cywilizacji (Twierdzokłady), bezkształtne masy oczu i paszcz (Masokształty), morskie kolosy wciągające wyspy pod wodę (Kleszczowładcy). Ich obecność deformuje Sploty Zerum na dziesiątki kilometrów, rodzi spontaniczne monstra i wywraca umysły śmiertelników. Walka z nimi wymaga koordynacji wielu Bastionów i zwykle kończy się poświęceniem.
+Kolosalne awatary Głębi — ruchome kataklizmy. Pojawiają się rzadko, ale każde pojawienie to wydarzenie na skalę dekady. Wymagają koordynacji wielu Bastionów.
 
 ### Wydrążeni
-Istoty, których Imiona zostały *przepisane przez Głębię*. Zachowują wspomnienia, umiejętności, wygląd — ale ich cele i lojalność są odwrócone. Wydrążony Głosiciel wciąż zna Głosy Pierwszych — teraz używa ich przeciw swoim. Pojawienie się Wydrążonego Bohatera to wydarzenie na skalę dekady, zagrażające całemu regionowi.
+Istoty przejęte przez Głębię — zachowują wspomnienia i umiejętności, ale ich cele są odwrócone. Ekstremalnie rzadkie.
 
 ### Zarodki Cieni
-Niewidzialne fragmenty woli Głębokich, latami uśpione w sercach nosicieli. Aktywują się przy traumie, pobycie w głębokich Komnatach lub błędach w Głosach. Przemieniają ofiarę od wewnątrz — fizycznie i mentalnie.
+Niewidzialne fragmenty woli Głębokich, latami uśpione w sercach nosicieli.
 
 ### Wysocy
-Paradoks: ci, którzy wygrali Wojnę Koron i *powinni* chronić śmiertelników, są jednym z największych zagrożeń. Milczący bogowie, którzy nigdy nie odeszli — ich interwencje mają zawsze ukryty cel. Poświęcą narody i pokolenia, jeśli uznają to za konieczne. Potrafią wymazać pamięć całych Bastionów. Solhari i Aurynn, jako rasy im najbliższe, są jednocześnie najbardziej narażeni na ich manipulacje — i najbardziej świadomi ich prawdziwej natury.
+Milczący bogowie z ukrytymi celami. Poświęcą narody, jeśli uznają to za konieczne.
 
 ### Głos-Kamienie
-W najgłębszych Komnatach ukryto zapisy o prawdziwej historii Rezeryum — w języku *starszym od samych Głosów Pierwszych*. Fragmenty sugerują, że oficjalna historia świata (Chór → Wysocy → Głębokie → Wojna) to uproszczenie lub kłamstwo. Ta wiedza jest zagrożeniem, bo może zmienić układ sił między wszystkimi stronami. Kartografowie Otchłani poświęcają życia, by je zbadać. Milczący Imion chcą je zniszczyć.
+Zakazana wiedza o prawdziwej historii świata — może zmienić układ sił.
+
+### Dzikie Bestie
+Na Przedpolach i w normalnych biomach żyją bestie nasycone Zerum — od kryształowych wilków po stepowe raptory. Kontrolowane zagrożenie, ale realne i codzienne.
 
 ---
 
 ## Co się teraz dzieje w Rezeryum?
 
-Rezeryum nie jest w stanie równowagi. Kilka procesów zachodzi jednocześnie:
+Rezeryum żyje i rozwija się. Kilka procesów zachodzi jednocześnie:
 
-1. **Pęknięcia się poszerzają** — nowe pojawiają się szybciecej niż stare się zamykają. Więcej Komnat, więcej zasobów, ale i więcej zagrożeń.
+1. **Handel i dyplomacja kwitną** — szlaki handlowe między Bastionami są coraz lepiej chronione, Gildie zyskują wpływ, coroczne Zjazdy w Jasnych Progach rozstrzygają spory.
 
-2. **Pustoszyciele się budzą** — po epokach relatywnego spokoju, częstotliwość ataków rośnie. Bastiony, które wcześniej mogły bronić się samodzielnie, teraz potrzebują koalicji.
+2. **Pęknięcia się poszerzają** — nowe pojawiają się szybciej niż stare się zamykają. Więcej zasobów, ale i nowe zagrożenia — oraz nowe obiekty rywalizacji między Bastionami.
 
-3. **Korzennicy zyskują wpływ** — ich teoria, że społeczne struktury Bastionów *produkują* klątwy, zyskuje poparcie wśród młodych Przebudzonych. **Iglica Nazwanych** prowadzi z nimi ideologiczną wojnę.
+3. **Korzennicy zyskują wpływ** — ich teoria o społecznych źródłach klątw zyskuje poparcie. Iglica Nazwanych prowadzi z nimi ideologiczną wojnę.
 
-4. **Wymazana pamięć zaczyna powracać** — Kartografowie Otchłani odkrywają coraz więcej Głos-Kamieni sugerujących, że historia jest kłamstwem. Niektóre Bastiony zaczynają *wspominać rzeczy, które powinny być zapomniane*.
+4. **Wymazana pamięć powraca** — Kartografowie odkrywają Głos-Kamienie sugerujące, że historia jest kłamstwem. Niektóre Bastiony zaczynają *wspominać rzeczy, które powinny być zapomniane*.
 
-5. **Wyścig o Ziarna Przemiany** — Załogi Ekspedycyjne rywalizują o legendarne owoce mocy w najgłębszych Komnatach. Każde znalezione Ziarno zmienia układ sił.
+5. **Wyścig o Ziarna Przemiany** — Załogi rywalizują o legendarne owoce mocy. Każde znalezione Ziarno zmienia układ sił.
 
-6. **Niewidzialna wojna Wysokich i Głębokich się nasila** — obie strony eskalują, używają śmiertelników jako pionków, a granica między „obrońcami" a „wrogami" staje się coraz mniej wyraźna.
+6. **Napięcia terytorialne rosną** — w miarę jak Bastiony się rozrastają, ich Przedpola zaczynają na siebie nachodzić. Spory o ziemię, Pęknięcia i szlaki nasilają się.
+
+7. **Pustoszyciele budzą się rzadziej, ale silniejsi** — po epokach spokoju, nowe pojawienia się Pustoszycieli zmuszają Bastiony do zacieśniania sojuszy.
 
 ---
 
@@ -276,7 +307,7 @@ Rezeryum nie jest w stanie równowagi. Kilka procesów zachodzi jednocześnie:
 |---|---|
 | **Rezeryum** | Świat — blizna po Wojnie Koron, rezerwuar Zerum uwięziony między Wysokimi a Głębią |
 | **Zerum** | Duchowo-fizyczna energia obecna w każdej istocie i splocie świata |
-| **Splot Zerum** | Unikalny wzór Zerum definiujący moce, naturę i poten|cjał istoty |
+| **Splot Zerum** | Unikalny wzór Zerum definiujący moce, naturę i potencjał istoty |
 | **Natura Zerum** | Dominujący „smak" energii (Żar, Przepływ, Cień, Rdza, Pryzmat, Czas) |
 | **Przebudzenie** | Gwałtowny zapłon Zerum — transformacja zwykłej istoty w Przebudzonego |
 | **Progi Mocy** | Etapy rozwoju: Iskra → Żar → Płomień → Żagiew → Gwiazda |
@@ -288,9 +319,10 @@ Rezeryum nie jest w stanie równowagi. Kilka procesów zachodzi jednocześnie:
 | **Pęknięcie** | Rana w rzeczywistości po Wojnie Koron — portal do Komnat |
 | **Komnata** | Strefa wewnątrz Pęknięcia o odrębnych prawach fizyki |
 | **Brama** | Stabilne, zakotwiczone Pęknięcie — serce Bastionu |
-| **Bastion** | Miasto-twierdza — jedyne „bezpieczne" miejsce w Rezeryum |
-| **Dzicz** | Wszystko poza Bastionami — śmiertelna, chaotyczna, piękna |
-| **Pustoszyciel** | Kolosalny awatar Głębi — ruchomy kataklizm |
+| **Bastion** | Miasto Rezeryum — wielorasowe, zróżnicowane, zbudowane wokół Bramy |
+| **Przedpola** | Zamieszkałe tereny wokół Bastionów — farmy, wioski, normalna przyroda |
+| **Głęboka Dzicz** | Strefy daleko od Bastionów, gdzie Zerum przejmuje kontrolę — egzotyczne i niebezpieczne biomy |
+| **Pustoszyciel** | Kolosalny awatar Głębi — rzadki, ale katastrofalny |
 | **Wysocy** | Istoty światła, które wygrały Wojnę Koron — milczący bogowie z ukrytymi celami |
 | **Głębokie** | Bezimienne otchłanie — dysharmonie dążące do chaosu i entropii |
 | **Ziarno Przemiany** | Jednorazowy owoc mocy — absurdalna zdolność za cenę ewolucji rasowej |

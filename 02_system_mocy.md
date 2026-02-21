@@ -230,6 +230,99 @@ Przedmiot ewoluuje w pół-istotę (np. miecz-symbiot, pancerz-organizm, wieża-
 
 **Fabularnie:** Ziarno to ultimatum — absurdalna moc za cenę normalnej ścieżki rozwoju. Ci, którzy je spożyli, są wyrzutkami systemu Imion — potężnymi, ale na zawsze „innymi".
 
+### 4.13. Iskrzyk — Więź Esencji
+
+**Iskrzyk** to mały zwierzęcy towarzysz z **czystej esencji Zerum**, połączony z duszą właściciela od momentu narodzin. Każda istota w Rezeryum rodzi się z Iskrzykiem — jest on **zewnętrzną manifestacją Splotu**, żywym wskaźnikiem siły, zdrowia i stanu duszy.
+
+**Forma:**
+Iskrzyk przybiera postać zwierzęcia (lub bestii Rezeryum) odzwierciedlającego charakter i Naturę Zerum właściciela:
+- Pyrrhani → ogniste salamandry, płomykówki
+- Ghorran → małe wilki, lisy, borsuki
+- Drask → kamienne żuki, stalowe krety
+- Zylmari → ryby-bąble, meduzy, węgorze esencji
+- Raashari → najróżniejsi — koty, ptaki, gryzonie, gady
+- Solhari → świetliste motyle, kolibry z pryzmatycznym pyłem
+
+#### Protokół Nietykalności — Reguły Żelazne
+
+| Reguła | Opis |
+|---|---|
+| **Nieśmiertelność** | Iskrzyk nie może zginąć. Nie podlega fizycznej śmierci. |
+| **Nietykalność** | Ataki fizyczne i magiczne **przechodzą przez** Iskrzyka — jest z czystej esencji, nie z materii. |
+| **Zanik** | Iskrzyk **znika** wyłącznie gdy Zerum właściciela spada do zera (wyczerpanie, Rozszarpanie, Wymazanie). |
+| **Powrót** | Iskrzyk **powraca** automatycznie gdy właściciel odzyskuje Zerum powyżej minimum przetrwania. |
+| **Śmierć właściciela** | Jeśli właściciel umiera, Iskrzyk rozpływa się na zawsze. |
+
+#### Funkcje Użytkowe
+
+| Funkcja | Opis |
+|---|---|
+| **Komunikacja** | Iskrzyk przenosi krótkie wiadomości na dystans — zasięg zależy od Progu właściciela |
+| **Ekwipunek** | Służy jako **żywy plecak** — przechowuje przedmioty w „kieszeni esencji" |
+| **Nawigacja w Bramach** | Wewnątrz Bram wyczuwa koncentracje Zerum, lokalizacje bestii i drogę wyjścia |
+| **Wskaźnik stanu** | Wygląd Iskrzyka odzwierciedla stan Zerum właściciela — blady = wyczerpany, jaskrawy = pełen mocy |
+| **Bariera emocjonalna** | Łagodzi wpływ Cieni na właściciela — ale nie eliminuje go |
+
+#### Relacja z Więziami i Systemem
+
+- Iskrzyk to **NIE** Więź Żywa — to coś głębszego, fundamentalnego. Więzi to kontrakty; Iskrzyk to część duszy.
+- Przebudzony może mieć Więź Żywą z Archaionem **i** Iskrzyka jednocześnie — nie kolidują.
+- Istoty Wydrążone zachowują Iskrzyka — ale jego forma **zmienia się** (ciemnieje, zniekształca). To potencjalny sposób na wykrywanie Wydrążonych.
+- Forma Iskrzyka może ewoluować razem z właścicielem — Iskrzyk Przebudzonego na Progu Gwiazdy wygląda zupełnie inaczej niż Iskrzyk nie-Przebudzonego.
+
+---
+
+### 4.14. Kamienie Esencji
+
+**Kamienie Esencji** to skondensowane jądra Zerum wypadające z bestii zabitych wewnątrz **Bram**. W odróżnieniu od surowych Kryształów Zerum (naturalnych formacji), Kamienie Esencji są **przefiltrowaną, stabilną formą** — cenniejszą i wszechstronniejszą.
+
+**Tiery Kamieni:**
+
+| Tier | Nazwa | Źródło | Wartość |
+|---|---|---|---|
+| I | Okruch Esencji | Bramy Iskry | Drobna waluta, podstawowe racje |
+| II | Odłamek Esencji | Bramy Żaru | Standardowa waluta handlowa |
+| III | Kryształ Esencji | Bramy Płomienia | Materiał do Żywych Run, cennych wyrobów |
+| IV | Rdzeń Esencji | Bramy Żagwi | Paliwo Latających Okrętów, wzmocnienie Splotu |
+| V | Serce Esencji | Bramy Gwiazdy | Legendarne — nasiona Sztucznych Słońc, klucze do Głos-Kamieni |
+
+**Zastosowania:**
+- Waluta (zamiast/obok surowych Kryształów Zerum)
+- Paliwo dla Bastionów, okrętów, konstruktów
+- Wzmocnienie Splotu Zerum (tymczasowe lub permanentne)
+- Materiał do Żywych Run i artefaktów
+- Pożywienie w przetworzonej formie
+
+**Relacja z Kryształami Zerum:**
+Kryształy Zerum to surowa, naturalna forma energii — jak ruda. Kamienie Esencji to przefiltrowany koncentrat — jak sztabka złota. Oba krążą w ekonomii, ale Kamienie mają wyższą i stabilniejszą wartość.
+
+---
+
+### 4.15. Bramy (Gates)
+
+**Brama** to stabilne przejście do **równoległego wymiaru Zerum** — kopii fizycznej lokalizacji, ale nasyconej Zerum do ekstremalnych poziomów. Bramy to eksploatowalna, ustrukturyzowana forma Pęknięć.
+
+Wewnątrz Bramy teren wygląda jak zniekształcona wersja świata zewnętrznego: te same formacje skalne pokryte kryształami, te same lasy zamieszkane przez mutanty zamiast zwierząt.
+
+**Hierarchia Tier'ów:**
+
+| Tier | Nazwa | Wymagany Próg | Bestie | Kamienie | Dostępność |
+|---|---|---|---|---|---|
+| I | Brama Iskry | Iskra | Słabe mutanty, gady, owady | Okruchy Esencji | Częste, krótkotrwałe |
+| II | Brama Żaru | Żar | Silniejsze bestie, stada | Odłamki Esencji | Regularne |
+| III | Brama Płomienia | Płomień | Elitarne bestie, mini-bossowie | Kryształy Esencji | Rzadkie |
+| IV | Brama Żagwi | Żagiew | Archaiczne potwory, strażnicy | Rdzenie Esencji | Bardzo rzadkie |
+| V | Brama Gwiazdy | Gwiazda | Proto-byty, echo dawnych bogów | Serca Esencji | Legendarne |
+
+**Zasady wejścia:**
+- Brama wymaga **minimalnego Progu Mocy** — wejście poniżej progu oznacza natychmiastowe przytłoczenie Zerum
+- Brama ma **limit czasowy** — po jego upływie zamyka się; uwięzieni wewnątrz giną lub są wyrzuceni losowo
+- Bramy pojawiają się **spontanicznie** lub są **kotwiczone** przez Latarników (Bramy Stabilne = serce Bastionów)
+- Wewnątrz Bramy Iskrzyk właściciela pełni rolę nawigacyjną i logistyczną
+
+**Relacja z Pęknięciami:**
+Pęknięcia to **dzikie rany** w rzeczywistości — niestabilne, chaotyczne, prowadzące do Komnat o nieprzewidywalnych prawach fizyki. Bramy to ich **ustrukturyzowana forma** — stabilne, zmapowane, eksploatowane ekonomicznie. Nie każde Pęknięcie staje się Bramą — Latarnicy muszą je zakotwić i ustabilizować.
+
 ---
 
 ## Do Doprecyzowania
@@ -238,3 +331,6 @@ Przedmiot ewoluuje w pół-istotę (np. miecz-symbiot, pancerz-organizm, wieża-
 - Jakie konkretne Ziarna (z nazwami) istnieją w świecie?
 - Czy klany mogą istnieć między rasami (np. klan Raashari-Drask)?
 - Jak Bastionowe Style Walki różnią się między sobą?
+- **[NOWE]** Zagrożenia Bramowe — toksyczność Zerum, dylatacja czasu, degradacja mentalna (→ patrz: [04_zagrozenia.md](file:///a:/Coding/game/Rezeryum/04_zagrozenia.md))
+- **[NOWE]** Czy Bramy mają Władców (bossów)? Jakie nagrody za ich pokonanie?
+- **[NOWE]** Czy Iskrzyk ewoluuje wizualnie z każdym Progiem? Jakie formy przyjmuje?
