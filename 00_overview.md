@@ -1,7 +1,7 @@
 # REZERYUM — Biblia Świata
 
 **Wersja:** 2.0  
-**Typ:** Dark-Epic Fantasy TTRPG & Novel Universe  
+**Typ:** Mroczne Epickie Fantasy TTRPG i Uniwersum Literackie  
 
 ---
 
@@ -57,7 +57,7 @@ W obrębie każdego Pęknięcia powstają **Komnaty** — strefy o odrębnych pr
 - flora karmiąca się wspomnieniami
 - przestrzeń składana jak origami
 
-Im głębiej w Komnatę, tym bliżej do uśpionych **proto-bytów** — pierwowzorów tytanów, demonów i bogów.
+Im głębiej w Komnatę, tym bliżej do uśpionych **pierwo-bytów** — pierwowzorów tytanów, demonów i bogów.
 
 ### 2.4. Stabilne Bramy
 

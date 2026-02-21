@@ -84,7 +84,7 @@ Wszystko poza Bastionami to **Dzicz Rezeryum** — nieokiełznana, śmiertelna, 
 
 Wewnątrz każdego Pęknięcia znajdują się **Komnaty** — strefy o własnych, odrębnych prawach fizyki. W jednej grawitacja może być odwrócona, w innej czas jest zamknięty w pętli. Rośliny mogą karmić się wspomnieniami, a przestrzeń może być złożona jak origami. Im głębiej, tym dziwniej i niebezpieczniej.
 
-W najgłębszych Komnatach drzemią **proto-byty** — pierwowzory tytanów, demonów i bogów. Nikt nie wie, czym naprawdę są. Nikt, kto się dowiedział, nie wrócił w jednym kawałku.
+W najgłębszych Komnatach drzemią **pierwo-byty** — pierwowzory tytanów, demonów i bogów. Nikt nie wie, czym naprawdę są. Nikt, kto się dowiedział, nie wrócił w jednym kawałku.
 
 ### Stabilne Bramy
 
@@ -133,7 +133,7 @@ Każdy Przebudzony rozwija się przez Progi:
 2. **Żar** — świadome kanałowanie Zerum, pierwsze techniki
 3. **Płomień** — projekcje energii, manipulacja żywiołami na dużą skalę
 4. **Żagiew** — ingerencja w struktury samych Pęknięć
-5. **Gwiazda** — lokalne naginanie praw rzeczywistości, quasi-boska moc
+5. **Gwiazda** — lokalne naginanie praw rzeczywistości, niemal boska moc
 
 ### Prawdziwe Imię
 
@@ -150,8 +150,8 @@ Co gorsza — im mocniej społeczeństwo Bastionu tłumi daną emocję, tym pot�
 **Więź** to kontrakt dusz — dwa Sploty Zerum przeplatają się, dzieląc moc, rany, emocje i sny. Są cztery typy:
 
 - **Więź Żywa** — z istotami cielesnymi (bestiami, innymi Przebudzonymi)
-- **Więź Pustki** — z bytami z Głębi (ogromna, „nieuczciwa" moc za cenę poczytalności)
-- **Więź Koronna** — z odłamkami Wysokich (quasi-boskie cuda, ale stajesz się pionkiem)
+- **Więź Pustki** — z bytami z Głębi (ogromna, „nieuczciwa" moc za cenę poczytalności i jaźni)
+- **Więź Koronna** — z odłamkami Wysokich (niemal boskie cuda, ale stajesz się pionkiem)
 - **Więź Artefaktowa** — z przedmiotami (miecz-symbiot, pancerz-organizm, wieża-świadomość)
 
 ### Ziarna Przemiany
@@ -183,7 +183,7 @@ W Rezeryum żyje 21 znanych ras, pogrupowanych w cztery **Rodziny** według poch
 - **Thrakkor** — demoniczne pojawienie, naturalna Więź Pustki, rogi i pazury (forma finalna: pół-awatary Głębi)
 - **Voryth** — duchy wytrącone z czasu, wizje przyszłości, mogą zamrażać strefy czasowe
 - **Prosterzy** — ci, którzy Przebudzili się po śmierci — nieumarli, ale nie martwi
-- **Myrrhan** — slime'owe istoty z ciekłego Zerum, zmieniają kształt, absorbują cechy wrogów
+- **Myrrhan** — śluzowate istoty z ciekłego Zerum, zmieniają kształt, absorbują cechy wrogów
 - **Velmari** — grzybowe, kolektywne świadomości, żyjące poza Bastionami w Dziczy
 - **Orvhan** — cieniste widma, echo poległych Wysokich, jedyna rasa odporna na Wymazanie
 
@@ -213,29 +213,29 @@ Ale współpraca międzyrasowa jest kluczem do przetrwania: Drask + Pyrrhani bud
 
 W Rezeryum nie ma jednego rządu. Każdy Bastion ma własną strukturę władzy, ale pewne organizacje działają ponadregionalnie:
 
-### Latarnicy (Riftwardens)
+### Latarnicy
 Kręgosłup każdego Bastionu. Zakony prowadzące wyprawy do Pęknięć — wydobywają kryształy Zerum, kartografują Komnaty i „czyszczą" je z zagrożeń. Bez Latarników Bastion umiera.
 
-### Milczący Imion (Namebound Covenant)
+### Milczący Imion (Przymierze Związanych Imieniem)
 Najtajniejsza organizacja. Strażnicy Prawdziwych Imion, Głosów Pierwszych i Żywych Run. Kontrolują rytuały Nadawania Imion. Ich broń ostateczna — **Wymazanie** — niszczy Prawdziwe Imię ofiary, sprowadzając ją do pustej powłoki. Nikt nie wie, ilu ich jest. Nikt nie zna ich siedzib.
 
-### Żniwiarze Cieni (Shadowreapers)
+### Żniwiarze Cieni
 Walczą z Głębią jej własną bronią. Specjaliści od Więzi Pustki, nekromancji Zerum i kontrolowanego użycia Zarodków Cieni. Tolerowani, bo potrzebni — ale budzący głęboki lęk. W jednych Bastionach to tajna policja, w innych wygnańcy.
 
-### Korzennicy (Root-Seekers)
+### Korzennicy
 Radykałowie. Zamiast gasić pożary (Cienie, klątwy), szukają ich **źródeł** — społecznych systemów, dogmatów i struktur, które *produkują* klątwy. Twierdzą, że Bastiony same hodują swoje potwory. Ścigani przez elity, ale popularni wśród młodych.
 
-### Spire of the Named (Akademia)
+### Iglica Nazwanych (Akademia)
 Elitarna szkoła Przebudzonych. Własny kodeks, system rankingów, wyroki na „klątwo-użytkowników". Absolwenci rozchodzą się po świecie jako elita. Prowadzą ideologiczną wojnę z Korzennikami.
 
-### Załogi Ekspedycyjne (Crews)
-Niezależne drużyny eksploratorów — pirackie crews Rezeryum. Własne bandery, kodeksy i marzenia. Wyścig o Ziarna Przemiany, Głos-Kamienie i niezbadane Komnaty. Sławne Załogi mają reputację dorównującą całym zakonom.
+### Załogi Ekspedycyjne
+Niezależne drużyny eksploratorów — elita eksploratorów Rezeryum. Własne bandery, kodeksy i marzenia. Wyścig o Ziarna Przemiany, Głos-Kamienie i niezbadane Komnaty. Sławne Załogi mają reputację dorównującą całym zakonom.
 
 ---
 
 ## Co zagraża Rezeryum?
 
-### Pustoszyciele (Voidrenders)
+### Pustoszyciele (Rozrywacze Pustki)
 Kolosalne, półmaterialne awatary Głębi — ruchome kataklizmy. Chodzące ruiny złożone z fragmentów wielu cywilizacji (Twierdzokłady), bezkształtne masy oczu i paszcz (Masokształty), morskie kolosy wciągające wyspy pod wodę (Kleszczowładcy). Ich obecność deformuje Sploty Zerum na dziesiątki kilometrów, rodzi spontaniczne monstra i wywraca umysły śmiertelników. Walka z nimi wymaga koordynacji wielu Bastionów i zwykle kończy się poświęceniem.
 
 ### Wydrążeni
@@ -260,7 +260,7 @@ Rezeryum nie jest w stanie równowagi. Kilka procesów zachodzi jednocześnie:
 
 2. **Pustoszyciele się budzą** — po epokach relatywnego spokoju, częstotliwość ataków rośnie. Bastiony, które wcześniej mogły bronić się samodzielnie, teraz potrzebują koalicji.
 
-3. **Korzennicy zyskują wpływ** — ich teoria, że społeczne struktury Bastionów *produkują* klątwy, zyskuje poparcie wśród młodych Przebudzonych. Spire of the Named prowadzi z nimi ideologiczną wojnę.
+3. **Korzennicy zyskują wpływ** — ich teoria, że społeczne struktury Bastionów *produkują* klątwy, zyskuje poparcie wśród młodych Przebudzonych. **Iglica Nazwanych** prowadzi z nimi ideologiczną wojnę.
 
 4. **Wymazana pamięć zaczyna powracać** — Kartografowie Otchłani odkrywają coraz więcej Głos-Kamieni sugerujących, że historia jest kłamstwem. Niektóre Bastiony zaczynają *wspominać rzeczy, które powinny być zapomniane*.
 

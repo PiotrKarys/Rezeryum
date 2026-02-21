@@ -1,4 +1,4 @@
-# 🌌 REZERYUM — Dark-Epic Fantasy Universe
+# 🌌 REZERYUM — Uniwersum Mrocznego Fantasy
 
 > *Świat, który jest blizną po kosmicznej wojnie — i wciąż krwawi.*
 
@@ -73,11 +73,11 @@ Iskra → Żar → Płomień → Żagiew → Gwiazda
 
 ## ☠️ Zagrożenia
 
-- **Pustoszyciele** — kolosalne awatary Głębi przetaczające się przez świat
+- **Pustoszyciele** — kolosalne awatary Głębi przetaczające się przez świat (Rozrywacze Pustki)
 - **Legiony Wydrążonych** — przejęci przez Głębię byli bohaterowie i ich armie
 - **Zarodki Cieni** — niewidzialne fragmenty woli Głębokich, rosnące w sercach
 - **Głos-Kamienie** — zakazana wiedza o prawdziwej historii świata
-- **Wysocy** — milczący bogowie z ukrytymi celami, wymazujący pamięć pokoleń
+- **Wysocy** — milczący bogowie z ukrytymi celami (Promienni), wymazujący pamięć pokoleń
 - **Dzicz** — 90% wypraw nie wraca
 
 ---
@@ -87,10 +87,10 @@ Iskra → Żar → Płomień → Żagiew → Gwiazda
 | Frakcja | Rola |
 |---|---|
 | **Latarnicy** | Zakony eksplorujące Pęknięcia — kręgosłup ekonomii |
-| **Milczący Imion** | Strażnicy Imion i Głosów — władza nad Wymazaniem |
+| **Milczący Imion** | Strażnicy Imion i Głosów (Przymierze Związanych Imieniem) |
 | **Żniwiarze Cieni** | Specjaliści od Głębi — walczą ogniem z ogniem |
 | **Korzennicy** | Radykalni łowcy źródeł klątw społecznych |
-| **Przysięgli Więzi** | Rycerze na grzbietach bestii |
+| **Zakony Przysięgłych** | Rycerze na grzbietach bestii związani Więziami |
 | **Kartografowie Otchłani** | Szaleńcy szukający wzoru w Pęknięciach |
 | **Gildie Handlowe** | Kartele Zerum kontrolujące ekonomię |
 | **Kulty Pęknięć** | Religie wokół Wysokich, Głębi lub Równowagi |
@@ -114,16 +114,6 @@ Rezeryum/
 
 ---
 
-## 🎨 Inspiracje
-
-Rezeryum czerpie z:
-- **Jujutsu Kaisen** — emotywne klątwy, Cienie zasilane tłumionymi uczuciami
-- **Naruto** — natury Zerum, rodowe Sploty (klany), system progresji
-- **One Piece** — Ziarna Przemiany, Załogi Ekspedycyjne, pirackie crews
-- **Attack on Titan** — Mury-Koron, Pustoszyciele, wymazana pamięć pokoleń
-- **Dark Souls / Berserk** — mroczna kosmologia, blizny po boskiej wojnie
-
----
 
 ## 📝 Status
 

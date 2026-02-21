@@ -4,7 +4,7 @@
 
 ## 7. FRAKCJE I ZAKONY
 
-### 7.1. Latarnicy (Riftwardens)
+### 7.1. Latarnicy
 
 **Rola:**
 Zakony prowadzące wyprawy do Pęknięć — kręgosłup ekonomii i przetrwania każdego Bastionu.
@@ -22,7 +22,7 @@ Struktura zależy od Bastionu: rody szlacheckie, bractwa rycerskie, gildie zawod
 
 ---
 
-### 7.2. Milczący Imion (Namebound Covenant)
+### 7.2. Milczący Imion (Przymierze Związanych Imieniem)
 
 **Rola:**
 Strażnicy Głosów Pierwszych, Prawdziwych Imion i tajemnic Żywych Run. Najbardziej tajemnicza organizacja w Rezeryum.
@@ -38,7 +38,7 @@ Szanowani i lękani jednocześnie. Nikt nie wie, ilu ich jest, ani gdzie mają s
 
 ---
 
-### 7.3. Żniwiarze Cieni (Shadowreapers)
+### 7.3. Żniwiarze Cieni
 
 **Rola:**
 Nekromanci Zerum, specjaliści Więzi Pustki — ci, którzy walczą z Głębią jej własną bronią.
@@ -54,7 +54,7 @@ Tolerowani, potrzebni, ale budzący głęboki lęk. W jednych Bastionach działa
 
 ---
 
-### 7.4. Korzennicy (Root-Seekers) — NOWI
+### 7.4. Korzennicy — NOWI
 
 **Rola:**
 Radykalny nurt egzekutorów klątw, odłam od Latarników i Żniwiarzy. Zamiast gasić pożary, szukają **źródeł** — systemów społecznych, doktryn Wysokich i Głębi, które **generują** Cienie i klątwy.
@@ -72,7 +72,7 @@ Naturalni sojusznicy — obaj szukają ukrytej prawdy. Korzennicy skupiają się
 
 ---
 
-### 7.5. Przysięgli Więzi (Bondsworn Orders)
+### 7.5. Zakony Przysięgłych Więzi
 
 **Rola:**
 Rycerze i nomadzi związani Więziami Żywymi z Archaionami i innymi potężnymi bestiami.
@@ -88,7 +88,7 @@ Bardziej wobec rodu, bestii-partnera i tradycji niż wobec konkretnego Bastionu.
 
 ---
 
-### 7.6. Kartografowie Otchłani (Abysscartographers)
+### 7.6. Kartografowie Otchłani
 
 **Rola:**
 Tworzenie „map niemożliwych" — prób nałożenia topografii Komnat na świat fizyczny.
@@ -107,7 +107,7 @@ Uważani za szaleńców przez większość, za proroków przez niektórych.
 
 ---
 
-### 7.7. Gildie Handlowe (Zerum Cartels)
+### 7.7. Gildie Handlowe (Kartele Zerum)
 
 **Rola:**
 Kontrola handlu kryształami Zerum — de facto ekonomiczna władza nad Bastionami.
@@ -123,7 +123,7 @@ Oficjalnie — szanowani kupcy. W praktyce — siła polityczna porównywalna z 
 
 ---
 
-### 7.8. Kulty Pęknięć (Rift Cults)
+### 7.8. Kulty Pęknięć
 
 **Rola:**
 Religie budowane wokół Pęknięć, Przebudzenia i sił kosmicznych.
@@ -138,7 +138,7 @@ Kulty Wysokich bywają infiltrowane przez samych Wysokich. Kulty Głębi to pote
 
 ---
 
-### 7.9. Spire of the Named (Bastion-Akademia) — NOWY
+### 7.9. Iglica Nazwanych (Bastion-Akademia) — NOWY
 
 **Rola:**
 Elitarna instytucja szkoląca Przebudzonych — od Iskry do Płomienia — w jednym wyjątkowo stabilnym Bastionie.
@@ -147,17 +147,17 @@ Elitarna instytucja szkoląca Przebudzonych — od Iskry do Płomienia — w jed
 - Własny **kodeks** regulujący użycie Zerum, Więzi i Głosów Pierwszych
 - **Wyroki na „klątwo-użytkowników"** — tych, którzy celowo hodują, prowokują lub wykorzystują Cienie jako broń
 - System rankingów i egzaminów (progresja przez zadania, ekspedycje i sparringi)
-- Absolwenci Spire rozchodzą się po całym Rezeryum jako elitarni wojownicy, doradcy i egzekutorzy
+- Absolwenci Iglicy rozchodzą się po całym Rezeryum jako elitarni wojownicy, doradcy i egzekutorzy
 
 **Status:**
 Szanowani, ale kontrowersyjni — ich władza nad edukacją Przebudzonych daje im ogromny wpływ polityczny. Nie każdy Bastion akceptuje ich jurysdykcję.
 
 **Konflikt z Korzennikami:**
-Spire uważa Korzenników za niebezpiecznych radykałów. Korzennicy uważają Spire za narzędzie systemu, który generuje klątwy.
+Iglica uważa Korzenników za niebezpiecznych radykałów. Korzennicy uważają Iglicę za narzędzie systemu, który generuje klątwy.
 
 ---
 
-### 7.10. Załogi Ekspedycyjne (Crews) — NOWE
+### 7.10. Załogi Ekspedycyjne — NOWE
 
 **Rola:**
 Niezależne drużyny eksploratorów, Przebudzonych i specjalistów, działające poza strukturami zakonów.
@@ -169,7 +169,7 @@ Niezależne drużyny eksploratorów, Przebudzonych i specjalistów, działające
 - Wyścig o największe Pęknięcia i sekrety
 
 **Dynamika:**
-Załogi to odpowiednik pirackich crews — mieszanina ras, klas i frakcji, zjednoczona wspólnym celem. Sławne Załogi mają reputację porównywalną z całymi zakonami.
+Załogi to mieszanina ras, klas i frakcji, zjednoczona wspólnym celem. Sławne Załogi mają reputację porównywalną z całymi zakonami.
 
 **Przykłady:**
 - **Chodzący po Krawędzi** — specjalizacja w dzikich, niestabilnych Pęknięciach
@@ -185,14 +185,14 @@ Każdy Bastion ma unikalny układ sił:
 - **Żniwiarze** raz działają jako tajna policja, raz jako wyjęci spod prawa
 - **Gildie** mogą kontrolować Latarników przez finansowanie lub rywalizować z Milczącymi
 - **Przysięgli** mogą być elitą społeczną lub pogardzonymi „bestioludźmi"
-- **Spire** i **Korzennicy** prowadzą ideologiczną wojnę o dusze młodych Przebudzonych
+- **Iglica** i **Korzennicy** prowadzą ideologiczną wojnę o dusze młodych Przebudzonych
 - **Załogi** lawirują między wszystkimi, nie przywiązane do żadnej doktryny
 
 ---
 
 ## Do Doprecyzowania
 
-- Nazwa i lokalizacja Bastionu-Akademii (Spire)?
+- Nazwa i lokalizacja Bastionu-Akademii (Iglicy)?
 - Ile Załóg jest znanych? Jakie mają hierarchie?
 - Jak Korzennicy rekrutują? Czy mają strukturę, czy są ruchem?
 - Relacje Gildii z Miastami-Nomadami (które wymykają się monopolom).

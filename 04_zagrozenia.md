@@ -4,7 +4,7 @@
 
 ## 6. ZAGROŻENIA EGZYSTENCJALNE
 
-### 6.1. Pustoszyciele (Voidrenders)
+### 6.1. Pustoszyciele (Rozrywacze Pustki)
 
 Kolosalne, półmaterialne awatary Bezimiennych Głębin — manifestacje czystego głodu Głębi, które przetaczają się przez Rezeryum niczym ruchome kataklizmy.
 
@@ -23,7 +23,7 @@ Wymaga koordynacji wielu Przebudzonych na wysokich Progach, Więzi Bojowych i cz
 
 ---
 
-### 6.2. Legiony Wydrążonych (Hollowborn Legions)
+### 6.2. Legiony Wydrążonych
 
 Armie istot, które przeszły Wydrążenie — ich Imiona zostały przepisane przez Głębię.
 
@@ -77,7 +77,7 @@ W najgłębszych Komnatach, na dnie najstarszych Pęknięć, ukryte są **Głos-
 
 ---
 
-### 6.5. Wysocy (The Radiant) i Wymazana Pamięć
+### 6.5. Wysocy (Promienni) i Wymazana Pamięć
 
 Milczący bogowie, którzy nigdy nie odeszli. Ich interwencje są rzadkie, ale zawsze mają ukryty cel.
 

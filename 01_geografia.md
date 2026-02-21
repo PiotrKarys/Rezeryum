@@ -58,7 +58,7 @@ Brak dostępu do Pęknięć = głód + brak energii + upadek Bastionu.
 - **Tunele Podziemne** — prowadzone przez Drask i Nythrai
 - **Miasta-Nomadzi** — żywe mosty między osadami
 
-### 3.6. Bastionowe Style Walki (Technique Culture)
+### 3.6. Bastionowe Style Walki
 
 Każdy Bastion rozwija własny **styl walki** — unikalne kombinacje Natur Zerum, Głosów Pierwszych i Więzi, przekazywane z pokolenia na pokolenie.
 

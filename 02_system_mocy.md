@@ -20,7 +20,7 @@ W Pęknięciach:
 ### 4.2. Splot Zerum
 
 Każda istota ma własny **Splot Zerum** — unikalny wzór definiujący:
-- typ Przebudzenia (fizyczne, mentalne, iluzje, nekromoc, manipulacja Pęknięciami)
+- typ Przebudzenia (fizyczne, mentalne, iluzje, nekromancja, manipulacja Pęknięciami)
 - dominującą **Naturę Zerum**
 - potencjał do Głosów Pierwszych
 - podatność na Więzi i Zarodki Cieni
@@ -210,7 +210,7 @@ Efekt: ogromna, „nieuczciwa" moc za cenę poczytalności i jaźni.
 
 Z odłamkami Wysokich: relikty dawnych Koron, uśpione Awatary, fragmenty boskich kości.
 
-Efekt: quasi-boskie cuda, ale posiadacz staje się „pionkiem" w kosmicznej partii.
+Efekt: niemal boskie cuda, ale posiadacz staje się „pionkiem" w kosmicznej partii.
 
 #### Więź Artefaktowa
 
@@ -228,7 +228,7 @@ Przedmiot ewoluuje w pół-istotę (np. miecz-symbiot, pancerz-organizm, wieża-
 - Ziarna to **jednorazowe fenomeny** — każde jest unikalne, żadne dwa te same nigdy nie istniały.
 - Legendarne Ziarna są celem wyścigów między Załogami, Gildami i Zakonami.
 
-**Fabularnie:** Ziarno to ultimatum — absurdalna moc za cenę normalnej ścieżki rozwoju. Ci, którzy je spożyli, są outsiderami systemu Imion — potężnymi, ale na zawsze „innymi".
+**Fabularnie:** Ziarno to ultimatum — absurdalna moc za cenę normalnej ścieżki rozwoju. Ci, którzy je spożyli, są wyrzutkami systemu Imion — potężnymi, ale na zawsze „innymi".
 
 ---
 
