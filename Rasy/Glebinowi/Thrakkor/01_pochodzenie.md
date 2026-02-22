@@ -1,31 +1,27 @@
-# THRAKKOR — Pochodzenie Demonicznego Odkupienia
+# THRAKKOR — Pochodzenie Piętna Cieni
 
 **Rodzina:** Głębinowi
-**Status w świecie:** Mroczni Paladyni, ciężcy pokutnicy krwi w zakutych zbrojach, stanowiący pierwszą żywą tarczę przeciwko Głębi — utkaną z jej własnej mrocznej esencji.
+**Status w świecie:** Wyrzutkowie budzący największy strach społeczny. Nienawidzą Głębi równie mocno co reszta cywilizacji, lecz z racji wizualnego i biologicznego podobieństwa do demonów nocy, muszą nieustannie krwią udowadniać swoją lojalność w wojnie z Pęknięciami.
 
 ---
 
-## 1. Ontologia — Skaza Pokoleniowa i Krew z Pustki
+## 1. Ontologia — Urodzeni z Nienawistnego Mroku
 
-Thrakkor to żywy, chodzący i budzący we wszystkich grozę dowód na to, że ryzykowny kontakt przodków z Głębią trwale modyfikuje Splot Zerum w drzewie genealogicznym całej rasy. 
-Są oni dumnymi potomkami dawnych istot (ludzi, a być może i połączonych elfów i orków z przed epok), które w akcie desperacji lub pychy zachłannie zawarły pakt zwany **Więzią Pustki z Głębokimi** i cudem przetrwały ten obłąkańczy proces, płacąc za to wieczną mutacją swego rodu.
+Historia Thrakkorów to dzieje zdrady ciał przez Zerum o naturze Cienia. W początkach formowania się Bastionów, przodkowie tej rasy ulegli ekspozycji na najbardziej niszczycielską mutację Głębokiej Dziczy. Splot, próbując powstrzymać obłęd, całkowicie pochłonął ciemność, mutując ich wygląd do postaci z pogranicza demonicznej groteski. Przekleństwem Thrakkora jest to, że potwory z dziczy widzą w nim wroga, a zwykli zjadacze chleba na targu – potwora z dziczy. Wyznają absolutną, spartańską filozofię gniewu.
 
-Zawsze, bez wyjątków rodzą się mocno obwarowani w **Naturę Cienia (Dominująca)**, której nie da się odrzucić, wyprzeć ani powstrzymać. Nie są jednak rasą "złą z natury" czy służącą demonom tak, jak czynią to pozbawieni ludzkości Wydrążeni; Ich mozolna, codzienna egzystencja to milcząca i nieustanna wola odparcia mroku, pokuta oraz odkupienie przewinień praojców. Nie istnieje Thrakkor wyrzekający się z wrodzonej, mrocznej Natury — istnieje tylko taki, który uczy się nad nią absolutnie panować.
+## 2. Anatomia Upiornego Splotu
 
-## 2. Prawidła Zepsutego Ciała (Demoniczny Wymiar)
-
-- **Rogate i Zimne Ciało:** Humanoidalna, wysoka i silna postać mężczyzn i kobiet. Rogi wyrastające z ich głów mają strukturę czarnego szkła (ostrego obsydianu) lub chropowatego, starego, skamieniałego dębu ułożonego w koronę wokół czaszki. Ich skóra jest głęboko i jednolicie matowa, pochłaniając poblask i zawsze niepokojąco chłodna w dotyku o strukturze twardego węgla.
-- **Dłonie Mordu i Oczy Śmierci:** Dłonie u palców brutalnie zakończone są ostrymi, grubymi, naturalnie powleczonymi w czarną skorupę pancerza szponami. Ich spojrzenie to puste, pozbawione białek, jednolicie lśniące wewnętrznym, groźnym fioletowym lub krwisto-czerwonym jarzącym się blaskiem otchłanie. 
-- **Brak Podatności na Umysłową Plagę Oponenta:** Ich naturalna skaza od krwi, uodparnia ród od niemowlęctwa; Więź Pustki sprawia, że od lat są wybitnie odporni na wampiryczne i opętańcze manipulacje mentalne, strachy Cieni czy opętania Głębokich zarodników u narzucanych przez oponenta z Dziczy. Ich umysły są po prostu trwale „zajęte” głośną, bolesną Pustką w głowie, nie wpuszczając do środka nowych oblegających demonów!
+Wygląd przeciętnego przedstawiciela tej nacji ucieleśnia strach w opowieściach rasy Raashari:
+- **Demonologiczna Budowa:** Ich skóra przybiera odcienie najgłębszego granatu, popiołu lub chłodnej czerni. Posiadają uderzająco ostre rysy twarzy oraz rogowate wypustki krystalizującego się Splotu na skroniach i łokciach.
+- **Oddech Pustki:** Fizjologia pozwala im przetrwać w pełnych, opadających oparach mżonki Pęknięcia dłużej niż przeciętnemu Latarnikowi bez maski filtrującej.
+- **Pochłaniacze Cienia:** Ich ciała zdają się naturalnie "połykać" światło świec w zamkniętych pomieszczeniach. Noc jest ich sprzymierzeńcem na terytorium Głębi, gdzie potrafią wtopić się w całkowite ciemności lasu, stając się bezszelestnymi kłami oddziałów.
 
 ## 3. Przewodnik Wizualny (AI Prompt)
 
-- **Cechy kluczowe**: Zjowo mroczny, demoniczny potężny humanoid. Rogi wokół głowy obficie mają rozrzeźbioną strukturę czarnego ostrego szkła (obsydianu). Skóra pochłaniająca światło, gładko czarna, matowa bez ludzkich przebarwień kory. Dłonie duże i pancerne zakończone pazurczastymi czarnymi masywnymi szponami z kości u rogu. Puste bez białkowe okrągłe oczy, lśniące fioletem lub jarzącą czystą czerwienią otchłanie. 
-- **Forma 3 (Thrakhalor - Skrzydlaty Władca Mroku)**: Mroozący krew w ciele czarny pół-bóg wojny. Z szerokich potężnych pleców wyrastają potężne i ogromne, nielotne lecz chroniące i rozłożyste strzępiaste czarne skrzydła, grube utkane jakby z gęstego, chropowatego dymu z nocy. Z potężnej klatki piersiowej wyrastają szkieletowe kościane zewnętrzne wypustki tworzące twardy grzebień naturalnego pancerza na żebrach i obojczykach. Głęboka aura fioletu i czerni naokoło rzuca chłód i pochłania poblask, zakrzywiając światło słońca w swym pobliżu.
-- **Ubiór**: Pancerze płytowe szczelnie zabudowane z przerażająco ciężkiego, kutego w mroku krasnoludzkiej hutnictwa od metalu u Draska, ozdobione fioletowo święcącymi wypalanymi potęznymi i odpędzającymi zło runami z ochrony przed Głębią. Ciężkie opończe chroniące i okrywające z dymu z postrzępionych futrach od czarnych ubitych niedźwiedzi.  
-- **Prompt Base**: `demonic majestic armored humanoid man, huge massive black obsidian horns on head, pitch-black eyes glowing violet, matte smooth black skin, tattered huge shadow mist wings, bone spikes coming from chest armor, wearing heavy dark enchanted rune metal armor and black furs, void dark energy aura surrounding body, infernal noble aesthetic`
+- **Cechy kluczowe**: Zjawiskowy w swym strachu demoniczny humanoid o ciemnopopielatej skórze. Oczy całkowicie czarne z lśniącą czerwoną ryliną bieli. Na skroniach drobne pęknięcia przypominające skamieniałe, czarne rogi. Ubrany w ponure, praktyczne skórzane zbroje łowcy o mrocznym designie z ukrytymi twarzami we kapturech.
+- **Forma 4 (Thrakkarn ★ - Uosobienie Otchłani)**: Rzadka, majestatyczna postać dowódcy wyrzutków. Ciało całkowicie lewitujące na obłokach mroku, z ogromnymi, podobnymi do dymu potężnymi wyrostkami na plecach i tarczami bojowymi utkanymi wprost z czarnych materii jądra gwiazdy Pustki.
+- **Prompt Base**: `demonic looking humanoid protagonist, dark grey skin, small crystalline black horns, totally black eyes with red glow, assassin rogue dark fantasy, shadowy grimdark aesthetic, wearing tattered black leather armor, deep ruin twilight background`
 
 ## Pytania Pomocnicze
-
-- W obliczu niezwykle silnych skłonności u Raashari do obawy przed rasizmem i paniką społeczną przez lud posplity, czy istnieją skrajne miasta Bastonów u wschodu gdzie przebywanie w postaci Thrakkora uważa się za jawną zbrodnię, karząc ujęciem go w wielkie lochy przed trybunał egzekucyjny by uchronić chłopstwo we wiochach przed rzekomym "demonem"?
-- O ile czarny metal jest pozyskiwany często we współpracy od Draska, o tyle czy zdobienia wykwalifikowanymi i wyrytymi Prawidłowymi Głębinowymi Runami po zbroi każdy rycerz wykonuje sam poprzez krwawy obrzęd w nocy, czy istnieje od tego elitarny ród Thrakkorskich kowali-kapłanów?
+- Ile dziesiątek lat musi służyć potężnie opancerzony młody Thrakkor generałom w Ligiach, by zyskać pozwolenie władcy miasta na zakup zwyczajnego domu bez nocnej warty strażników u drzwi?
+- Jeśli ich iskrzyk jest tak przerażający jak natura, jak reagują na niego konie karawan na szlaku do Mórz Pamięci?
