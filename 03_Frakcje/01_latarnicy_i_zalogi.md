@@ -1,25 +1,24 @@
-# REZERYUM — Latarnicy i Niezależne Załogi
+# REZERYUM — Latarnicy i Wolne Załogi Ekspedycyjne
 
-Szlaki, dungeony Bram, zwiad przed Pustoszycielami czy sam pościg za awanturniczym majątkiem dają gigantyczne zatrudnienie dla Przebudzonych na dzikich krańcach. Siła robocza najemnych awanturników to ogromne ujęcie fabularne we Rezerum stanowiąc odrebny kastowy przymiot rynsztunków walki:
+Świat brutalnej obrony Bastionów napędzany jest przez zapotrzebowanie na surowce magiczne. Oznacza to, że wyspecjalizowane gildie eksploracyjne zyskują niemal wyższą pozycję społeczną niż państwowe wojsko, ryzykując życie za dostęp do skrystalizowanego Zerum.
 
 ---
 
 ## 1. Zakony Latarników
 
-Potężne organizacyjne trzewia przetrwania murów bastiony na ekonomicznych wyprawkach dla urzędów burmistrza lub na poczet bogatej magnaterji. 
-Zbrojni rzemieślnicy powoływani do niebezpiecznej roboty w podziemiach: Ustalają trasy Pęknięć ukrytych na pustyni, pomagając ustabilizować je jako potencjalne wejścia dla przyszłych kopalni. W ostateczności regularnie niszczą pod zbrojami zmutowane bestie próbujące uciec z głębin na powierzchnię, chroniąc mieszkańców przedpól.
-- Służebny charakter ich pracy sprawia, że w twierdzach o silnej tradycji rzemieślniczo-militarnej traktuje się ich jak bohaterów wojennych o twardym fachu, jednak w stolicach nastawionych czysto kupiecko stanowią jedynie tanie zbrojne zaplecze do opłacania najniebezpieczniejszej pracy górniczej w dziczy.
+Latarnicy to oficjalne, potężne i w pełni dotowane przez Bastiony organizacje ekspedycyjne.
+- Są zbrojnym ramieniem władców. Ich celem jest lokalizowanie wejść do nowych, wrogich Pęknięć i ustabilizowanie ich potężnym magicznym olinowaniem, przemieniając dziką anomalię w funkcjonującą Bramę-Kopalnię.
+- Zajmują się eksterminacją watahy zmutowanych bestii, które przedzierają się w okolice podgrodzkich upraw, by utrzymać system żywnościowy miasta.
+- Cieszą się gigantycznym mirem wśród miejskiego biedactwa, stanowiąc tytanów obrony cywilizacji. Często posługują się magią o naturze Żaru lub Przepływu. Bez ich inżynierów i kotwic, komnaty Bram rozerwałyby granice miast w parę dni.
 
-## 2. Niezależne Załogi Ekspedycyjne
+## 2. Wolne Załogi Ekspedycyjne
 
-Gdy wojskowe i burmistrzowskie szlify męczą awanturnika szukając po swobodę rządu do rąk dla swobodnych podróży, zakłada małe bojowe "Załogi Ekspedycyjne" o własnej banderze dla rynsztunków tarczy za pieniądz na łup o wielką sławą u wejściu "wolnych kopalnianów na własnych listach gildyjnych po stocznie miast ze szlakowych dróg pod obozów koczowniczą dymną biesiadą nocą".
+Nie wszyscy bohaterowie służą monarchii. Awanturnicy, dysydenci i wygnani oficerowie formują niezależne brygady uderzeniowe, określane potocznie mianem **Załóg Ekspedycyjnych**.
+- Działają głównie w Głębokiej Dziczy, obierając najśmielsze, niezbadane i na poły pulsujące życiem szlaki Pęknięć z wrogiej pustki.
+- Pozyskują rudy z najniebezpieczniejszych zmutowanych gniazd, wymijając wojska rządowe celem ucieczki przed monstrualnym opodatkowaniem i oddawaniem zysków dla gildii kupieckich.
+- Ich wyczyny często wpadają w poczet obozowych legend. Bunt młodzieży w miastach przeciwstawiającej się urzędom traktuje członków tych załóg jako ucieleśnienie wolności.
 
-**Działania:**
-- Elitarne ryzkowne parcia dnem nieodkrytych i najbardziej porażających Pęknięć po dzwon komnat za legendarnymi Głos-Kamieniami o których uczeni milczą dla zdobycia z bogactwem, ukryte Ziarna Przemiasny zmieniającego bieg losowości i historii bez oddawania myta ze straganowych podatków!
-- Nie zrzeszone niczyim zakonom dają wolność od służalczości wojsk - jednoczą mocnych przyjaźnią drużyny za 5 Przebudzonych bez wyroczni prawa muru (Wolna Rzesza za mrokiem).
-- Reputacja z znanych załóg róna tło za całe bataliony dowódcze państwowe na poszanowaniach u gości w najwspanialych karczm u we wrotach do krągłej szlachnickiej obrad miejskich - jako wolni mocarze wynajmeniczy i gośni wędrowcowi.
-
-**Znane Formacje Bojowych Załóg z nazwami u flag okrętów namiotu:** 
-- **Chodzący po Krawędzi** — specjalizacja w dzikich, ekstremalnych i całkowicie chwiejnych dzikich Pęknięciach na wschodzie, których nikt nie potrafi uwięzić po wiatr z burz!
-- **Krew i Sól** — Zylmari i piraccy eksploratorzy wycinających wodną głębię w mżonki z mgieł mórz o ukrytych statkach na tarcie rzeki!
-- **Ostatni Głos** — Własna organizacja dziwacznych wędrownych Głosicieli po słowa dawnych bogów. Dążą po legendarne, zatajane "Głos-kamienie z lochu" przed Milczących chcących zniszczenie zapiski by rozlać pismo ludom z wiedzą prawd starego Kosmosu.
+### Przykłady Słynnych Załóg:
+* **Chodzący po Krawędzi** — Brygada specjalizująca się w dzikich zejściach we wschodnie, niestabilizowane jaskinie o potężnych emisjach lęku. Nie używają lin asekuracyjnych do oznaczania powrotu.
+* **Krew i Sól** — Brudna flotylla operująca na podziemnych rzekach i archipelagach Splotu. Napadają na handlowe nawodnie okręty Ligi i walczą używając harpunów przesyconych klątwami iluzji.
+* **Ostatni Głos** — Buntownicy, na co dzień ukrywający się pod maskami cywilów. Celują w odzyskiwanie z Pęknięć zakazanych przez kościół reliktów (Głos-Kamieni), nieustannie ryzykując egzekucją przez ogień inkwizytorów u steru miasta.

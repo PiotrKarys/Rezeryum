@@ -1,28 +1,19 @@
-# SOLHARI — Zrodzeni z Blasku i Brzemienia
+# SOLHARI — Zrodzeni z Blasku Odkupienia 
 
 **Rodzina:** Niebiańscy
-**Status w świecie:** Posłańcy światła, tragiczni w swojej wierności wyższym celom, traktowani jak święte elity lub żywe narzędzia przez władców Bastionów.
+**Status w świecie:** Posłańcy dawnego ładu, tragiczni w swojej wierności kapłańskim rządom stolic. Oślepiająca siła frontu obronnego.
 
 ---
 
-## 1. Ontologia — Wykuci z Boskiego Echa
+## 1. Ontologia — Wykuci Ze Światłości
+Solhari powstali w drodze modyfikacji wczesnych osadników promieniowaniem pryzmatycznym. Sploty tych istot rezonują w prężnym i doskonałym posłuszeństwie wobec rygorów. Opanowali w niesamowitym stopniu władanie czystym światłem bitewnym. Eliminują na przedpolach jaskiniowych wszelkie zgubne anomalie cienia z bezkompromisową ślepotą dla litości i pokoju. 
 
-Solhari nie są rasą wyewoluowaną z błota czy krwi wymieszanej w dziczy. Ich istnienie jest bezpośrednim pokłosiem Wojny Koron, a dokładniej – opadającymi iskrami woli Wysokich. Posiadają uderzającą, eteryczną urodę i wrodzone poczucie porządku, ale ich tragizm polega na braku pełnej wolnej woli. W głębi ich Splotów zawsze rezonuje cichy, wymuszający posłuszeństwo nakaz od wyższych bytów. 
-- Ich dziedzictwo objawia się w niemal ekskluzywnym władaniu **Pryzmatem** - uchodzącym za światło stabilizujące potęgi anomalii i chroniące wyprawy przed mrokiem głębi. Ze względu na tę iskrę, rzadko kiedy inne rasy potrafią władać światłem równie naturalnie co oni.
+## 2. Piekielnie Perfekcyjna Anatomia
+Ich ciała ewolucyjnie odrzuciły proces fizycznego starzenia i bliznowacenia urazów z ran na tarczy w nocy. 
+- Posiadają nienaturalnie jasną, alabastrową skórę lekko mieniącą się księżycowym blaskiem nocą. W ich krwi brakuje tlenowych pigmentów, co daje iluzję posągowej bieli.
+- Cechą decydującą w posturze Solhari są nienaznaczone ludzką gałką oczną białe świetliste puste sfery oczne.
+- Potężnie maskują własne emocje, nie mrugając podczas straszliwych morderczych bitew prowadzonych ramię w ramię z ludzkością za miecze. Wygładzone dłonie Solhari miażdżą bez potu siłą mięśni całe okucia rycerskie draskowych pancerzy.
 
-## 2. Anatomia Perfekcyjnego Chłodu
-
-- **Skóra z Alabastru:** Ich ciała przypominają ożywione posągi. Mają nienaturalnie gładką, bladą i satynową skórę, z której w całkowitych ciemnościach emanuje subtelna, księżycowa poświata.
-- **Brak Blizn:** Solhari posiadają niezrozumiałą zdolność do regeneracji defektów urody. Rana bitewna po zagojeniu nie zostawia twardej blizny, lecz blask wygładzający powierzchnię ciała, co wprawia w konsternację rasy wykuwające potęgę w bliznach.
-- **Oczy Wyższych:** Tęczówki Solhari są jednolitymi plamami pulsującego błękitu, złota lub czystej bieli, pozbawionymi źrenic.
-
-## 3. Przewodnik Wizualny (AI Prompt)
-
-- **Cechy kluczowe**: Zjawiskowa, ponadludzka uroda, proporcje wyciągnięte z obrazów renesansowych. Błyszcząca poświata, oczy bez źrenic emanujące złotym lub świetlisto-białym światłem.
-- **Forma 3 (Solhareel)**: Archistrateg światła. Sylwetka spowita w lewitujące aureole Skondensowanego Pryzmatu. Oślepiająca, dominująca postura odziana w pancerze z hartowanego szkła i białego złota.
-- **Ubiór**: Lekkie, niekrępujące ruchów materiały przypominające płynny jedwab połączone z twardymi, lecz smukłymi zdobieniami z białego metalu.
+## 3. Przewodnik Wizualny 
+- **Cechy kluczowe**: Eteryczna doskonałość humanoidalna, alabastrowa gładka jasna skóra, jedwabiście połyskujące stroje ze złota i srebra, puste i błyszczące wprost bielą oczy od ślepca.
 - **Prompt Base**: `ethereal humanoid, pale glowing skin, pupilless golden eyes, flawlessly beautiful, wearing white liquid silk and white-gold armor, floating geometric halos of light, divine aesthetic, grimdark angel concept`
-
-## Pytania Pomocnicze
-- Czy młody Solhari, który uświadomi sobie brak wolnej woli, jest w stanie popełnić samobójstwo uciekając przed przeznaczeniem, czy Splot go przed tym fizycznie zablokuje?
-- Który z Bastionów uważa Solhari za bóstwa i pozwala im rządzić z poziomu złotych pałaców, zamiast używać w wojnie?

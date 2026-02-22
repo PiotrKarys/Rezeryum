@@ -1,19 +1,19 @@
-# VORYTH — Kultura Przeszłości Zapisanej W Kurzach
+# VORYTH — Kultura Zakurzonej Eteryczności
 
-Życie w izolacji oraz doskonała wiedza o tym, co może wydarzyć się w wojnie jutro, sprawia ze zachowują oni dystans do reszty politycznego świata i Ligi Handlowej.
+Zamknięci we własnych anomaliach, stanowią wielkie umysły polityki mrocznego fantasy z dystansem do bezpośredniego brudzenia sobie miedzianym pancerzem rąk za miastem w deszczu Pęknięć.
 
 ---
 
-## 1. Elitarne Klany Mędrców W Złotych Klatkach
-Są bardzo poszukiwanymi pracownikami i generałami. Gwardia ludzi chętnie ich najmuje jako dowódców garnizonu, gdyż doskonale przewidują kiedy nastąpi szturm bestii z pustkowi na miasto zza rogu.
-- Żyją we własnych, odizolowanych dzielnicach dla wybitnie uzdolnionych. Często posiadają całe pokoje pełne starych manuskryptów oraz map gwiazd. 
-- Zjawisko nadużywania swoich mocy magicznych prowadzi u nich do szaleństwa zwanego w medycynie miejskiej "Gorączką Zapoznania", przez którą na stałe blokują wzrok na wizji tego, co działo się sto lat temu. Stają się wiecznie milczącymi obłąkanymi starcami, patrzącymi w jedną kropkę ściany do końca życia.
+## 1. Wyższe Sfery Taktyczne Ligi
+To elitarne klany strategów operacyjnych posiadające niebagatelną cechę - potrafią widzieć drobne przebłyski przyszłości pozwalające oszczędzać dziesiątki milionów monet od złota miedzi bojowych skarbów rydwanów królów przed zmiażdżeniem pułapkami. 
+- Przekłada się to na życie w potężnie zabezpieczonych dzielnicach wyższych elit i wybitnych bogaczy dla kupców, otoczni najemnikami. O dziwo nienawidzą drogich uczt a przebywają w odosobnionych, ciemnych i u dusznych od kurzu setek manuskryptowych salach analiz i zegarów zębatek cienia na mosiądzu tchu szaf do badań Czaso-linii po bitwie z mrukami u nocy mż! 
 
-## 2. Podział a Na Rze O Wo W Relacjach (Czystość W Sojuszach)
-- **Koegzystencja z Ludźmi:** Traktują ogromne rzesze obywateli ludzkich stolic (Raashari) bardzo chłodno jak pionki na szachownicy, kierując armiami gwardii na lewo i prawo. Ludzie im ufają, ale potwornie denerwują się brakiem radosnego stosunku Vorythów w gospodach do pysznego jedzenia.
-- **Sprzeczności z Drask:** Skalne tytany (Draskowie) uwielbiają używać ciężkich taranów. Kpią z faktu, że żołnierz Voryth walczy z bestią tylko za pomocą stania w miejscu i ruszania ręką. Jednak szanują ich talent dyplomatycznej taktyki.
-- **Konflikt z Magią Cienia:** Nienawidzą zabójców rasy Kalitropi (węże bagienne), ponieważ trucizny rzucane na gwardie przez morderców zakłócają wizje przyszłości zaburzając bieg czasu.
+## 2. Niestabilność Czasowa Psychiki
+Bycie panem przyszłości narzuca wysoką karę u bogów. 
+- Voryth używający mocy na wielkie plagi i szturmy całych armii, z racji rykoszetu uderzenia Splotu, doświadcza rzadkiej ślepoty szaleństwa stając się starcem z amnezją nie poznającym rodów za dumn błąd we puszczach. Widzi tylko czas przedwieczny ze z woj i tytan z ciosa w ciele u dół lodu. 
 
-## Pytania Pomocnicze
-- Dlaczego Inkwizycja rzadko stawia Vorythów pod pręgierzem na rynku za złamanie starych praw handlowych?
-- Jeśli żołnierz u u przewidzi wielki kataklizm i zagładę całej stolicy wojsk, ale nikt z radców burmistrza jemu nie wierzy i jest wyśmiany - co zaplanuje klan u nocy Mędrców przed wielkim wybuchem?
+## 3. Pogarda względem Chaosu Trucizny (Kalitropi na szał z o nocy)
+Ich perfekcja we wiedzy co się wydarzy we szarży i po łuku walk w nocy ciosu bez jest całkowicie rozmywana na ataki chemiczne pociągające za zatrucie. Z powodu trucia roju bagiennych morderców od węży u na gwardie cios, widzą w plemieniu Kalitropi największe ropiejące dziury dymne na mapie świata bo roki. 
+
+## Zadania do Bojo 
+- Z ro za i boj po w jeśli z u tarcza widzi szturm miasta a na boj, król śmieje mu z a noża ro w twarz lęki? Co robi generał do nocy o ro w klanach we u bój?

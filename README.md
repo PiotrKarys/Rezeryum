@@ -60,7 +60,7 @@ Wyprawy poza mury to niemal pewna śmierć dla zwykłych ludzi. Tylko Przebudzen
 - **Normalne Biomy** — Rozległe stepy, lasy i puszcze blisko ludzkich osad, posiadają znośne stężenie mżonki pęknięć.
 - **Głęboka Dzicz** — Tereny gdzie wybuchy pęknięć przeobraziły fizykalność świata (płynące w górę rzeki, lasy kryształów).
 - **Bastiony** — Gigantyczne i brutalnie zmilitaryzowane fortece broniące ocalałej populacji. Zasilane magią, napędzane hutnictwem i dyktowane prawami handlowych Gildii.
-- **Bramy (Dungeony)** — Ustabilizowane wielkie wejścia pod ziemię, pełniące funkcję śmiertelnie niebezpiecznych kopalni z których herosi znoszą potężne Kryształy Czasu i łupy z martwych bossów.
+- **Bramy (Pęknięcia)** — Ustabilizowane wielkie wejścia pod ziemię, pełniące funkcję śmiertelnie niebezpiecznych kopalni z których herosi znoszą potężne Kryształy Czasu i łupy z martwych bossów.
 
 ## 🧬 Rasy (17 ras w 5 rodzinach)
 

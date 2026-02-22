@@ -1,56 +1,47 @@
 # REZERYUM — Zerum, Splot i Przebudzenie
 
-Magia w świecie wiąże się nierozerwalnie ze światłem dawnej Wojny Koron i obecnym oddechem ziemi.
+Magia w świecie Rezeryum opiera się na destrukcyjnych pozostałościach po starożytnej Wojnie Koron. Pęknięcia wyżłobione w rzeczywistości przez walczące bóstwa do dziś emanują potężnym promieniowaniem, które ukształtowało nowe prawa biologii i fizyki.
 
 ---
 
-## 1. Zerum — Żar Duszy
+## 1. Zerum — Energia Wszechświata
 
-Fundamentalna w ujęciu uniwersum tkanka substancjalna: **Zerum** to duchowo-fizyczna wiązka promieniowania. Żar przesiąkający sam splot rzeczywistości i tlący się powoli we krwi istot. 
-Dla zwyczajnych ludzi (90% na świecie pracujących na polach, kupców czy urzędników w mieście), rdzennie i spokojnie podtrzymuje zwykłe oddychanie, wolę przetrwania i zapewnia kolor snów nocami.
+Zerum to fundamentalna substancja napędzająca cały obecny świat. Przepływa przez naturę i wszystkie organizmy mrocznego fantasy. Dla przeciętnego obywatela Bastionu (np. rolnika czy kupca) siła ta pozostaje bierna – zapewnia jedynie spokojny sen i witalność.
 
-Zerum u Pęknięć na swym najwyższym ekstrawertycznym woltażu nabiera form zbitków gazu, mgieł lub kryształowych stalaktytyków u dna jam komnaty, a także powoduje pasożytnicze deformowanie samej roślinności. W ekonomii świata przetworzone skrystalizowane Zerum (jako waluta i paliwo) utrzymuje funkcjonowanie ogrzewania, żeru czy mocy kuźni.
+Stężenie Zerum drastycznie wzrasta w pobliżu Pęknięć i Bram. W swej surowej formie uchodzi stamtąd jako toksyczna, gęsta **mżonka** (opary mutujące płuca) lub krystalizuje się w twarde bryły. Odważne załogi wydobywają skrystalizowane Zerum (Kamienie Esencji) — jest to najdroższa waluta w Lidze Handlowej, służąca do zasilania potężnej inżynierii fortec i miejskich pieców.
 
-## 2. Konstrukcja Splotu Zerum
+## 2. Architektura Splotu Zerum
 
-Obywatel świata posiada w jaźni niewidzialny **Splot Zerum** — kodowany unikalny splot decydujący o rzemieślniczym używaniu magii, gdy wejdzie on powołany z tłumu do akcji. Splot definiuje:
-- Przynależność naturalną do 6 dominujących **Natur Zerum**.
-- Granicę obciążeń u wypowiadania boskich form (Głosy Pierwszych).
-- Gwałtowne ciążenie do symbiotycznych połączeń zwanych Więziami ze zwierzętami/zjawami bez załamania poczytalności w umyśle nosiciela.
+Każdy mieszkaniec posiada w sobie mistyczną sieć nerwową zwaną Splotem Zerum. Funkcjonuje ona jak duchowy krwiobieg, decydując o trzech kluczowych aspektach ludzkiej egzystencji w nowym świecie:
+- Determinuje przydział Przebudzonego do jednej z 6 podstawowych Natur Zerum.
+- Pełni funkcję bariery ochronnej dla umysłu w przypadku bezpośredniego podszeptu Głos-Kamieni (reliktów przedwiecznych).
+- Stanowi fizyczny limit pojemności magicznej w trakcie nawiązywania Więzi bitewnych z sojusznikami.
 
-Każde potężne, codzienne wypalanie na zawołanie swego magazynu u maga w walce brutalnie obciąża ramy splotu z czasem przynosząc za sobą obciążenie potężnymi i groźnymi Cieniami wewnętrznymi, oparzeniami utraty kawałków lat z ubiegłego roku w głowie czy deformacjami ręki. Całkowite wyprucie zerum po naderwaniu węzła przez czar potrafi rozerwać bohatera dookoła stwarzającej się błyskawicznej mini-Bramy pochłaniania z ucięciem głowy i eksplozją zwłok (Rozszarpanie).
+Rzucanie potężnych zaklęć nieustannie osusza rezerwę Splotu. Przekroczenie limitu i całkowite wypalenie rezerw energetycznych skutkuje tzw. "Rozszarpaniem". Splot eksploduje, a ciało wojownika rozrywa się od wewnątrz w potężnej fali uderzeniowej mżonki.
 
-## 3. Przebudzenie — Stanie się Iskrą 
+## 3. Przebudzenie — Narodziny Iskry
 
-Przejście za rubież "bezbronnego chłopa/mieszczanina" nazywa się Przebudzeniem. Następuje zazwyczaj po wywołaniu gwałtownego strachu we krwi od oparcia śmierci na karku z napadu u ulicy (Pęknięcia/wypadku/zarazy). Zapłon potrafi nastąpić przy przypadkowym znalezieniu i dotknięciu gorącego reliktu w starych jamach komnat Pęknięcia.
-Wyrzucenie potężnej nadpotencji u Przebudzonego wprowadza go automatycznie i stale w pierwszą rangę drabiny zaawansowania. 
+Większość populacji umrze, nigdy nie świadkując aktywacji własnego Splotu. Przeistoczenie zwykłego śmiertelnika w maga wojennego nazywane jest **Przebudzeniem**. Następuje ono w wyniku potężnego szoku — najczęściej w momencie absolutnego przerażenia, śmiertelnej agonii na polu walki, lub bezpośredniego kontaktu z oparem Głębokiej Dziczy. Aktywacja przypomina pęknięcie pancerza na rdzeniu duszy i wprowadza herosa na pierwszy szczebel hierarchii magicznej.
 
-*Uwaga: W systemach mechanicznych i TTRPG od momentu Przebudzenia kreujemy grywalne postaci jako herosów świata walczących od samego fundamentu ze świadomością mocy.*
+## 4. Pięć Szczebli Mocy (Ewolucja Bitewna)
 
-## 4. Pięć Progów Mocy (Ewolucja)
+Trening, asymilacja kryształów oraz przetrwanie w morderczych starciach wewnątrz Bram pozwala żołnierzom na pokonywanie kolejnych barier Splotu:
 
-Bohater po przebudzeniu awansuje podnosząc pulę doświadczenia z wiekiem i po starciach z bestiami wyrwanymi do dna eksportowanych Bram we skrawkach nieznanych otchłani. Ewolucja u systemów rasowych (zdobywane Imiona) podążają drugą osią, dając wsparcia stałych mocnych umiejętności czy ciosów przy odpalaniu samego Progu.
-Wszyscy rozwijający się przechodzą nieuchronnie pod rygor:
+1. **Iskra:** Początkujący adept. Wykazuje wyostrzone zmysły (słuch, węch jak u drapieżnika). Potrafi manifestować Zerum w postaci chaotycznych, krótkodystansowych uderzeń kinetycznych i powłok ochronnych tłumiących obrażenia fizyczne.
+2. **Żar:** Dojrzały żołnierz gwardii piechoty. Potrafi precyzyjnie operować żywiołami krążącymi wokół ostrzy. Jest to poziom, na którym zatrzymuje się rozwój potężnej większości uderzeniowych sił zbrojnych w Bastionach.
+3. **Płomień:** Elitarny oficer rangi wyższej. Magika zaczyna bezpośrednio oddziaływać na grawitację i struktury fizyczne na polu walki. Płomień jest zdolny jednym gestem łamać potężne fortyfikacje skalne na dystans i masakrować gęste roje wrogów w potężnych manifestacjach obszaru (AoE).
+4. **Żagiew:** Użytkownik potrafiący zarysowywać prawa fizyki. Zakrzywia przestrzeń na linii frontu i pożera energię z oponentów. Wymaga nieustannego hartu woli, gdyż moc ta ściąga bolesne lęki umysłowe, wywołując u użytkowników koszmarne wizje i zjawiska paranoiczne jako skutek uboczny napromieniowania Pęknięciem.
+5. **Gwiazda:** Istoty bliskie uśpionym u przedwiecznych bóstw. Jednostki o znaczeniu wręcz religijnym. Generałowie i wodzowie panteonów, zdolni zatrzymać upadek całego miasta. Mogą wyciszyć gigantyczne trzęsienia ziemi, trwale uleczyć całe zdziesiątkowane w wojnie rody lub stworzyć z powietrza absolutną zaporę niszczącą szarże Pustoszycieli samym dotykiem światła.
 
-Oto **Pięć Progów Zaawansowania**:
+## 5. 6 Natur Splotu (System Kamień-Papier-Nożyce)
 
-1. **Iskra (Rozumiejący Splot):** Gwałtownie przyspiesza oddech i potężnieje szybkość w walce w zwarciu i zmysł zapachów, chociaż same uderzenia żywiołami opierają się na bezkształtnych odruchowych plaskach, a strzały trafiają u wróżby nieudanej walki na odległość.
-2. **Żar (Opalający Mag/Wojownik):** Kształt uderzenia, ułożenie ostrza płomienia, pełna samoświadomość na zużyciu many i zapożyczenie pod pieczę ciągnięciem prostej magii. Największy pułap dla zwykłego wyrobionego przez lata wprawnego gwardzisty przy mieście.
-3. **Płomień (Władający Naturą):** Elita Iglic i zakonnych oddziałów dowodzących frontem na skraju murów w armii oblężnej. Projekcja pocisków energii wielkoobszarowo okrywających stropy jaskiń wielkiej głębi i władanie surowymi żywiołami wyginającymi bloki żelaza w powietrzu do połowy.
-4. **Żagiew (Krzyżujący Czas i Przestrzeń):** Manipulowanie w same prastare struktury z załamań światła Bram potężną złością dla wycinania okrężnych tarcz przestrzennych. Tytuł absolutnie utopiony w straszliwych ranach na ciele lub we wspomnieniach mistrza, nierzadko dający potężne dowództwa z kłopotami psychicznymi z lat mrocznej złości i braku wytchnienia od własnego Cienia u ucha z szeptu po nocy.
-5. **Gwiazda (Dotykający Głosów Pierwszych):** Postacie potrafiące ingerować na pewien dystans na zasadach boskich Głosów, bez użycia reliktów do zmieniania otocznych założeń ewolucji (np stałej kaskady wody zawracającej o 180 stopni wbrew rzecznym prawom dolin, palące niebem i mchem dla uzdrowień potężnych batalionów naraz u bram rannych z oddziału pod gruzem twierdzy po wybuchu bram bez zadraśnięcia). Mitologiczne panteony władców świata w ujęciu doczesnych mieszkańców.
+System magii funkcjonuje w oparciu o obieg sześciu natur. Każda z nich nakłada specyficzny styl uderzeń wojownika i posiada wyraźne przewagi (Konta) nad innymi, wykazując jednocześnie dramatyczne słabości względem przeciwników.
 
-## 5. Natury Zerum — Tabela Zależności Osi Mocy
-
-Zależnie od Rodów każda postać ma na zawsze zaprogramowany 1 odcień ("smak") energii puszczającej jej u zaklęć magii żywiołu potężnego ciosu w rękach. Posiada jedną z Sześciu Natur opartym na cyklu silnych i miażdżących powiązań przewagi - podobnie z bestiami we wrotach (co wymusza strategiczne rzucanie się po ukosach grup drużyny podczas ataku po lochach żeby przeżyć ryk rynsztunków i szpon ciosów u szarżujących potworów na plecy maga z gorszą w kontrze przewagą obronną):
-
-| Nazywana Natura moca | Symboliką Znaku | Specjalizacja Zaklęcia z Rzędzie | Uderza w Zniszczeniach Bardzo Silnie vs | Wymięka we Frakcjach Kompletnie Słabo z |
-|---|---|---|---|---|
-| **Żar** | 🔥 | Czysty potężny Ogień w strzałach, niszczycielskie przepalania ciał, wielkie i głośne eksplozje z rur i odrzuceń kamiennych dymiących min wrogom pod brzuchem bestii w tłumie lochu | Odpędza Rdzę | Strumieni Przepływu |
-| **Przepływ** | 🌊 | Krwiste strumienie rzucanych pod stopy noży z kryształów w krwii, ciche formowanie wody na pociski, elastyczna adaptacja lecznictwa wyciąganiu zepsutego ciała | Miażdży Żar | Topi się z Cieniem |
-| **Cień** | 🌑 | Bezwględna utrata oświetlenia załogom i ciemności puszczy o strzałach z ukryć do nerek z zimnej broni, rzuty kłamstwa z wyciem z zaangażowaniem halucynacji wokół pajączych pajęczyn mózgu trujących gazów i ciemności pod plecach. | Rzuca na Zmroki Przepływ | Tnie się na ostrym ziele z Rdzą |
-| **Rdza** | ⚙️ | Brutalne roztrzaskanie czaszek w bliskich starciach łamanym żeliwem na odlew ciosu pod żebra, ogołocenie na rzemiesie ołowiem z podniesieniem ściany z gruntu, rozkruszenie zapór u progu domów taranami dębu tytanami z kośćca | Niszczy do resztek miękkie iluzje u Cienia | Nie potrafi pojąć u oślepień Pryzmatu |
-| **Pryzmat** | ✨ | Niezwykle cenne światło odsłaniające ułudę dla rozświetlań tunelów dla karawan kupieckich idących głęboko pod morzem potępionych. Lecznik ukrytych wirusów we krwi od klątw Cieni a tarcza uśmierzająca ranny cios dla całujących z mocą w zmartwychstania słońca zaświatów bez ognia po walce. | Spalania chropowacji z blatu Rdzy | Zginą i zagubią ostateczność przed Czasem |
-| **Czas** | ⏳ | Magia przepysznie mroczna w wyrywające poty opóźnienia zdarzeń u pchnięcia miecznika z ułamkach spowolnionych sekund po walce - zatrucie u pamięci na lat parę w wstecz dla rany kłutej i uwiązanie bestii o powtarzające pętle o mur co rzut kamieniem do roztworzenia jej zmęczenia przed zadziaganiem we wejściach Bram za wrogiem z wrogiem obrotów tarczy czasochronu pod zbroję strzelca tyłów z zaskoczenia u potęgi uderzenia magii po tytanów ze zbroi | Załamują Pryzmat w ślepe wnęki zaułków bez promieni do osłony dusz strzałami lat świetlnych ciosów miecza. | Palący za prędkie unieszkodliwienia w walcu walk z furią Żarnego ciosnego miecza |
-
-Warto pamiętać na arenie: Elitarne, hermetyczne **Rodowe Sploty (klany po potężnych dziadach)** - takie jak mroczni "Widmowi Vorythowie z Czasem", albo potężnie zębatych gęstych żelazowych gniecionych z kości taranowych "Drask-Rdzewnych Kowali po matce" niekiedy dla wykuwania genów do zwojów klanowych rodzą się potrafiące do połączeń skomplikowanych hybryd ze starszych dwóch zmiksowanych dziwnych barwach natury tworząc mroczne tajemnice taktyczne na ringach u żołnierzy armii pod słońce nad obozem nocą w drodze, zrzucających pule dla rodzenia potykaczek rodowodowych.
+| Natura | Styl Zdolności Bojowych | Silny przeciwko (Konta) | Słaby przeciwko (Otrzymuje wady) |
+|---|---|---|---|
+| **Żar** | Wybuchowe manifestacje termiczne, spalające mżonkę obszarowe ataki uderzeniowe, dewastacja pancerzy na pierwszej linii. | Niszczy pancerze okopowe rycerzy **Rdzy**. | Słabnie w starciach z potokami i biczami wodnymi **Przepływu**, tracąc siłę przebicia. |
+| **Przepływ**| Mistrzostwo w leczeniu ran oraz operowania płynami fizycznymi. Bicze wodne do śmiertelnie szybkich cięć wrogiej piechoty w dystansie. | Tłumi termiczną potęgę szarży **Żaru**, odcinając tlen z uderzeń wybuchowych wrogów. | Podatny na klątwy iluzji z obszaru **Cienia**, które paraliżują szybkość reakcji obronnej wody. |
+| **Cień** | Ciche zabójstwa, trucizny alchemiczne, skrytobójcze ataki, rzucanie halucynogennych oparów lęku i dezinformacji mroków Pęknięcia. | Oślepia szermierkę oficerów **Przepływu**, nie dając im czasu na uderzenia odwetowe. | Brutalnie łamany przez bezpośredni opancerzony ciężar kowalskich natarć **Rdzy**. |
+| **Rdza** | Nieprawdopodobny ciężar zbrodni, potężne kowalskie ataki młotów kruszące fortyfikacje obronne i ulepszenia pancerzy całych koloni sojuszników. | Gruchocze zasłony, łamie kości w zwarciu ze szczupłymi skrytobójcami frakcji **Cieni**. | Niewidomy u oślepiony na świetliste fale laserowych ataków kapłaństwa **Pryzmatu**. |
+| **Pryzmat** | Prawa uzdrawiania skazżeń dusz i wypędzania trucizny podłej magii. Oślepiające snopy światła likwidujące mglistą, czarcią strukturę opozycji. | Otwiera ostre laserowe uderzenie w strukturę potężnej obrony żelaznej pancerzy **Rdzy**. | Szybkość bez problemu zablokowana i zakrzywiona na opadających bańkach **Czasu**. |
+| **Czas** | Zaginanie grawitacji, zwalnianie upadków ciał starych bossów z Pustkowi w lochach dla ułatwienia oflankowania ze spowolnieniem wektorów minuty walk. | Przewiduje ataki świetlne o zabójczej precyzji promieni słońca dając radę formacji **Pryzmatu**. | Brak szybkości reagowania na dzikie pole walki usłane eksplozjami obrzydliwego wybuchu z kasty **Żaru**. |

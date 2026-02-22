@@ -14,14 +14,14 @@ To uniwersum to fascynująca mieszanka mrocznego fantasy z mechanikami przypomin
 3.  **Ekonomia i Geografia:**
     - Świat nie jest „pusty”. Podział na stabilne Przedpola i niebezpieczną Głęboką Dzicz daje jasną strukturę ekspedycji. Fakt, że Zerum jest walutą (kryształy/kamienie), sprawia, że każda walka ma bezpośrednie przełożenie na postęp ekonomiczny Bastionu.
 4.  **Różnorodność Ras:**
-    - 21 ras to ogromny potencjał. Podoba mi się, że każda ma swoją niszę (np. Drask jako kowale, Voryth jako doradcy temporalni) i specyficzne linie ewolucyjne.
+    - 17 ras to ogromny potencjał. Podoba mi się, że każda ma swoją niszę (np. Drask jako kowale, Voryth jako doradcy temporalni) i specyficzne linie ewolucyjne.
 
 ---
 
 ## ⚠️ Co warto ZMIENIĆ lub DOPRACOWAĆ?
 
 1.  **Zagrożenie „Bloatem” (Przeładowaniem):**
-    - **Problem:** Masz 21 ras, 6 Natur Zerum, Progi Mocy, Imiona, Więzi, Iskrzyki, Ziarna Przemiany i Głosy Pierwszych. Nowy gracz może poczuć się przytłoczony.
+    - **Problem:** Masz 17 ras, 6 Natur Zerum, Progi Mocy, Imiona, Więzi, Iskrzyki, Ziarna Przemiany i Głosy Pierwszych. Nowy gracz może poczuć się przytłoczony.
     - **Sugestia:** Upewnij się, że „00_overview.md” pozostaje bardzo proste. Wprowadzaj mechaniki stopniowo. Może warto stworzyć „Starter Set” z 5-6 najpopularniejszymi rasami?
 2.  **Balans „Ziaren Przemiany”:**
     - **Problem:** Ziarna dają „absurdalną moc”, ale blokują ewolucję. Jeśli moc z ziarna będzie zbyt silna, nikt nie będzie chciał ewolucji przez Imię. Jeśli za słaba — ziarna będą bezużyteczne.

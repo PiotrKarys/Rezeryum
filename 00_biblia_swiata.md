@@ -1,67 +1,68 @@
 # 🌌 Biblia Świata Rezeryum (Zarys Fabularny)
 
-*Ten dokument stanowi merytoryczne i klimatyczne spoiwo całego uniwersum. Czytając go, zyskasz pełen kontekst tego, czym żyje szary obywatel, awanturnik i kapłan w zrujnowanym po wielkiej wojnie świecie rezeryum.*
+*Ten dokument stanowi merytoryczne i klimatyczne spoiwo całego uniwersum. Czytając go, zyskasz pełen kontekst tego, czym żyje szary obywatel, awanturnik i kapłan w zrujnowanym po wielkiej wojnie świecie Rezeryum.*
 
 ---
 
 ## 1. Początek i Rozdarcie (Kosmiczny Upadek)
 
-Świat Rezeryum nie jest typową planetą fantasy stworzoną w harmonii. Dawniej, w niewyobrażalnych eonach wstecz, wymiar ten był placem boju ostatecznego starcia nazwanego **Wojną Koron**. Stronami konfliktu były dwa niemożliwe do pojęcia przez ludzki rozum absolutne byty: **Wysocy** (uosobienia sterylnego, bezlitosnego światła i brutalnego porządku) oraz **Głębokie** (istoty czystego, mrocznego chaosu, głodu i mutacji formy). 
+Świat Rezeryum nie jest typową planetą fantasy stworzoną w harmonii. Dawniej, w niewyobrażalnych eonach wstecz, wymiar ten był placem boju ostatecznego starcia nazwanego **Wojną Koron**. Stronami konfliktu były dwa niemożliwe do pojęcia przez ludzki rozum, absolutne byty: **Wysocy** (uosobienia sterylnego, bezlitosnego światła i brutalnego porządku) oraz **Głębokie** (istoty czystego, mrocznego chaosu, głodu i potwornej mutacji). 
 
-Efektem tej kolosalnej wojny było wzajemne rozerwanie się bóstw. Świat fizyczny nie uległ zniszczeniu, lecz głębokiemu *uszkodzeniu*. Powstały **Pęknięcia** – dosłowne, majestatyczne lub przerażające, wiszące w powietrzu lub wryte w ziemię rany w strukturze powszechnej pętli bytu i powłok. To z nich, jak krew z rany zranionego boga, zaczęła uchodzić mistyczna esencja – **Zerum**.
+Efektem tej kolosalnej wojny było wzajemne rozerwanie się bóstw. Świat fizyczny nie uległ całkowitemu zniszczeniu, lecz głębokiemu *uszkodzeniu*. Powstały **Pęknięcia** – dosłowne, majestatyczne lub przerażające, wiszące w powietrzu lub wryte w ziemię rany w samej strukturze bytu. To z nich, niczym krew ze zranionego boga, zaczęła uchodzić mistyczna esencja – **Zerum**.
 
-Obecnie bogowie wydają się milczeć lub funkcjonować jedynie w ukrytych anomaliach Pęknięciach, jednak wojna nigdy się nie skończyła. Kontynuowana jest po cichu, w snach, w podziemiach i poprzez szepczące **Głos-Kamienie**, a myląca wszystko ludzkość (podzielona dziś na 17 po-mutacyjnych ras) jest zaledwie pionkiem rozstawionym u dołu potężnej, obłąkanej szachownicy.
+Obecnie bóstwa wydają się trwać w uśpieniu lub funkcjonować jedynie jako koszmarne anomalie wewnątrz Pęknięć. Wojna jednak nigdy się nie skończyła. Kontynuowana jest po cichu, w snach, w mrokach podziemi i poprzez szepczące **Głos-Kamienie**. Sama ludzkość – podzielona dziś na 17 zmutowanych ras – jest zaledwie pionkiem na tej potężnej, obłąkanej szachownicy.
 
 ---
 
 ## 2. Podstawa Życia w Odrętwieniu (Zerum i Splot)
 
-Cały świat fizyczny ożył nasycony resztkami uwięzionego Zerum. Las, góra, rzeka i zwierzę posiadają w sobie **Splot** – układ krwionośny duszy, w którym rezonuje Zerum.
+Cały świat fizyczny, nasycony resztkami wszechobecnego Zerum, uległ przebudzeniu. Lasy, góry, rzeki i zwierzęta posiadają w sobie **Splot** – ezoteryczny układ krwionośny duszy, w którym rezonuje Zerum.
 
-Dla zwykłego chłopa na farmie, Splot pozostaje uśpiony. Orze ziemię, płaci podatki i modli się, by mżonka z pobliskiego lasu (opary Zerum) nie przyszła nocą razem ze wiatrem i nie zmutowała mu wołu. Jednak niektórzy, dotknięci potężnym bodźcem (traumą obłędu u nocnej walki, spotkaniem z magią Cieni lub rzadko – urodzeniem w bliskości wyrwy), ulegają **Przebudzeniu**.
-Ich Splot "otwiera się", a oni sami zyskują jedno z 6 powiązań magicznych, zwanych *Naturą Zerum* (Żar 🔥, Przepływ 🌊, Cień 🌑, Rdza ⚙️, Pryzmat ✨, Czas ⏳).
+Dla zwykłego chłopa na farmie Splot pozostaje uśpiony. Orze on ziemię, płaci podatki i modli się, by trująca *mżonka* (opary Zerum) niesiona nocnym wiatrem z pobliskiego lasu nie zmutowała jego dobytku. Jednak niektóre jednostki, dotknięte potężnym bodźcem – traumą po nocnej walce, bezpośrednim kontaktem z magią Cieni lub rzadszym zjawiskiem, jakim są narodziny w pobliżu wyrwy – ulegają **Przebudzeniu**.
+Ich Splot "otwiera się", a oni sami zyskują jedno z 6 magicznych powiązań, zwanych *Naturą Zerum* (Żar 🔥, Przepływ 🌊, Cień 🌑, Rdza ⚙️, Pryzmat ✨, Czas ⏳).
 
-Z czasem i walką u boku u Pęknięciach, Przebudzony może awansować od *Iskry* (ledwo odpalającej płomyk na dłoni) do legendarnych rzędów i *Gwiazd* (potrafiących spalić stolicę mieczem rzepy z mocą). 
+Dzięki treningowi i przetrwaniu walk w Pęknięciach, Przebudzeni mogą awansować: od słabej *Iskry* (zdolnej ledwie utrzymać płomyk na dłoni) do legendarnych rang *Gwiazd* (potrafiących jedną techniką zetrzeć w pył połowę miasta). 
 
-Najwyższym dowodem Przebudzenia Splotu staje się natchnione stworzenie niematerialnego towarzysza — **Iskrzyka**. Pół-duchowy, miniaturowy chowaniec utworzony z nadmiaru mżonki duszy wojownika. Iskrzyk rzadko walczy fizycznie; jest żywym ubezpieczeniem. Zżera toksyny z wyziewów jaskiń na u tarcze by nosiciel oddech złapał, wyłapuje zmysłowo ciosy z dymu rzucając lęk o życie przed właścicielem i działa za swoisty żywy magazyn, GPS dusz u morderczych komnat i "zmywarkę strachu". Gdy właściciel dusi się w walce z braku Zerum, Iskrzyk przypłaca to uśpieniem z potu na piersiach, stając się ledwie popiołem lub stworkową martwą bransoleta dla dachu w obronę!
+Najwyższym dowodem mistrzostwa nad Splotem i Przebudzeniem staje się manifestacja niematerialnego towarzysza — **Iskrzyka**. Jest to półduchowy, miniaturowy chowaniec uformowany z nadmiaru duchowej energii wojownika. Iskrzyk rzadko walczy bezpośrednio; stanowi raczej mistyczne ubezpieczenie. Pochłania toksyny wydzielane przez uśpione Pęknięcia, działając jak filtr chroniący płuca nosiciela. Wyczuwa zagrożenia czające się w dymie, pełniąc rolę zmysłowego radaru i kompasu dusz w śmiercionośnych podziemiach. Gdy właścicielowi brakuje Zerum i znajduje się na skraju wyczerpania, Iskrzyk oddaje mu własną energię, zapadając przy tym w letarg na piersiach właściciela, przypominając nic nieznaczącą bransoletę lub garstkę popiołu.
 
 ---
 
 ## 3. Geografia Rozpadu: Bastiony przeciw Dziczy
 
-Cywilizacja nie rozlała się po całym kontynencie jak plama oleju. Świat dzieli się na ostre granice bezpiecznego światła i śmiercionośnego mroku:
+Cywilizacja nie rozlała się po całym kontynencie jak plama oleju. Świat odgrodzony jest ostrymi granicami, oddzielającymi strefy bezpiecznego światła od śmiercionośnego mroku:
 
-*   **Bastiony (Mega-Miasta)**: Ponownie ocalona cywilizacja (wszystkich 17 koegzystujących ras) skupia się wokół zaledwie kilkunastu gigantycznych, otoczonych murami (czasem utkanymi z drzew i dębów by magię chłonąć jak Splecin) twierdz lub podziemnych państw. W nich kwitnie rzemiosło, intryga i handel, chronione murem grubym na kilkadziesiąt metrów o w kluci gwardzistów. (np. Żarnogród - kupiecka stolica, czy Górski Głębomir - forteca Kresów).
-*   **Przedpola i Normalne Biomy**: Znośnie zanieczyszczone mżonką terytoria chłopów za murami – lasy, jeziora, pola. Tu żyją drwale, woje u puszczy za wózkiem karawan i tutejsze bestie nie są jeszcze wypatrzone umysłu, chociaż bywają śmiertelne w grupach.
-*   **Głęboka Dzicz**: Teren odpuszczony przez bóstwa na rzeź. Egzotyczne odłamki od pęknięcia. Lewitujące archipelagi we dymie, o rzek płynących w górę cieni do w grawitacji. Toksyczne mżonki zabijają drwala w u godziny bez Iskrzyków i u w magiczych masek od Latarników!  
+*   **Bastiony (Mega-Miasta)**: Ocalona cywilizacja (wszystkich 17 koegzystujących ras) skupia się wokół zaledwie kilkunastu gigantycznych twierdz lub podziemnych państw. W nich tętni życie – kwitnie rzemiosło, snują się intrygi i rozwija się handel. Miasta te dzieli od potwornej dziczy mur gruby na kilkadziesiąt metrów (niekiedy utkany z splotodrzewów, by chłonąć uderzenia magii), chroniony przez gwardię (np. kupiecka stolica Żarnogród lub forteca Kresów – Górski Głębomir).
+*   **Przedpola i Normalne Biomy**: Znośnie zanieczyszczone magiczną mżonką terytoria wokół murów – wyludnione lasy, mroczne jeziora, osamotnione pola. Tutaj żyją drwale, podróżni z wozów karawan oraz pomniejsze bestie, które nie postradały jeszcze całkowicie zmysłów, choć w stadach bywają śmiertelnie niebezpieczne.
+*   **Głęboka Dzicz**: Tereny porzucone przez bóstwa na rzeź. Pełno tu egzotycznych odłamków Pęknięć. Lewitujące w oparach dymu archipelagi i wylewające rzeki gęstego mroku łamiące prawa grawitacji. Toksyczna mżonka panująca na tych ziemiach zabije podróżnika w parę godzin, chyba że nosi on ochronne maski zaprojektowane przez Latarników lub korzysta z protekcji Iskrzyka!  
 
 ---
 
 ## 4. Bramy Łupu i Frakcje Przetrwania
 
-Zerum, będąc o energii, stało się potężną **walutą** świata napędzającą państwa. Zwykłe pęknięcia u potworów można próbować „zakotwiczyć”. Zbrojni rzemieślnicy rozpalają potężne pale u barier z nitek stabilizujących mrok. Pęknięcie staje się wtedy **Bramą (Dungeonem)** – zamkniętym instancjalnym środowiskiem rzezi. 
+Zerum stało się potężną, brutalną **walutą** świata napędzającą funkcjonowanie całych imperiów. Zwykłe Pęknięcia w potwornej dziczy można próbować „zakotwiczyć”. Zbrojni inżynierowie rozstawiają wokół nich systematyczne bariery z nitek esencji, stabilizując zjawisko. Tego typu zakleszczone Pęknięcie staje się **Bramą (zamkniętym uśpieniem Pęknięcia)** – środowiskiem gotowym do eksploracji. 
 
-Bogate gildie, władcy ziem i u gwardziści płacą krocie zbrojnym awanturnikom (**Frakcje Latarników, Załogi Najemnych Awanturników**). Ich zadaniem jest wkroczyć w potwornie duszny i zatruty mżonką labirynt wycięty w czasoprzestrzeni Głębi u nocy, wybić mutujące bestie uległe Splotowi – i wydobyć cenne minerały oraz **Kamienie Esencji**. Kamienie te zasilają Bastiony podczas klęsk z mroku z obłędem za Cienie u podziemi. 
+Bogate gildie, obłąkani bogactwem arystokraci i potężne wojska płacą fortunę zbrojnym awanturnikom (**Frakcje Latarników, Załogi Zbieraczy**). Zadaniem tych Frakcji jest przekroczenie progu do dusznych, labiryntowych Pęknięć, wycięcie w pień zmutowanych bestii – i zdobycie drogocennych minerałów oraz **Kamieni Esencji**. Kamienie te utrzymują Bastiony przy życiu podczas długich Mroków i inwazji z podziemi. 
 
-*Frakcje polityczne*, tocząc brudne gry i spory na u miejskich posadzkach targowisk, często omijają prawa Bastionowych królów u władzy za pot z u krwie u w ulicach. Szczękajà bronią, sztyletami Cienia i złotem gildzystów u po dymo Cieni! Wiele rzepa frakcji wprost łamie rządy nad u w imię własnej u potężności potężnych rodów nad Cieniem! 
+*Frakcje polityczne* toczą swoje mroczne spory pod stołem kupieckich targowisk. Wiele z nich podważa prawa Bastionowych królów, załatwiając swoje porachunki poprzez przelaną na ulicy krew, skrytobójcze ataki brzytwą w nocnych alejach i płacąc mrocznym gildiom wyśnionym złotem. Poszczególne rody uganiają się za esencją, wprost łamiąc prawa monarchii dla zyskania surowej potęgi z Cienia! 
 
 ---
 
 ## 5. Przędze Grozy i Zaraza Duszy
 
-Aby zachować unikalny klimat grozy anime za mroku we rynsztuku (inspirowany *Jujutsu Kaisen* czy *One Piece*), świat cierpi na nietypowe zjawiska:
+Aby zachować unikalny, mroczny klimat walki o przetrwanie (inspirowany anime spod znaku *Jujutsu Kaisen*), w świecie szerzą się okrutne patologie magiczne:
 
-*   **Pustoszyciele i Wydrążeni:** Istoty uległe całkowicie podszeptom Głębokich potworów od w pod pęknięcia. Pustoszyciel to potężna żywa rzeźba chaosu sunąca do miast, mogąca być wielkości góry, gniotąca lasy po drodze w mróz obłędu nocach pod z do atak u rzew.
-*   **Emotywne Cienie i Klątwy:** Świat chłonie negatywne emocje miasta z szeptu pod z u ro ści po gno do w ulic!. Z nienawiści szlachty nad u klas chłopstwa rodzą się z dymu nieświadome dla niemagicznych ludzkich oczu **Cienie Miast** - bezkształtne poczwary lęku pasożytującego rodem u mrokiem!  Tylko specyficzni łowcy rzeźni za obrońca z o miecz u w walce i potęgi widzenia Cieni (Jak Żniwiarze!) likwidują mniejsze plagi potajemnie. 
-*   **Wtajemniczeni „Ostatni Rzut”:** Ludzie na skraju śmierci potrafią użyć tak potężnej i niewyobrażalnej magii, pożerając z rozpaczy mżonkę w obronie przed cioskiem dając dym potężny dla rzutu ceni – w zamian za mutację, obłęd i z ciche zatracenie we fioletowym Splot w o cienia. Wielu łowców oddaje w boju dusze rzepo we w noc! 
+*   **Pustoszyciele i Wydrążeni:** Istoty bezgranicznie uległe podszeptom Pęknięć. Pustoszyciel to potężna żywa inkarnacja chaosu, górująca wielkością ponad lasami; sunąca w mrozie obłędu by niszczyć mury z dziką rzezią w oczach. Wydrążeni to mniejsze puste naczynia szaleństwa.
+*   **Emotywne Cienie i Klątwy:** Świat wnika niczym gąbka w ludzkie rozterki, a magia je materializuje w rynsztokach miast! Z powszechnej nienawiści szlachty do najniższych warstw chłopstwa rodzą się z dymu w zaułkach podziemnych sekcji **Cienie Miast** - bezkształtne, wynaturzone potwory lęku. Tylko specjalistyczni wojownicy – potężni mistrzowie ostrza, wyposażeni w zdolność widzenia Cieni (Frakcje Żniwiarzy) – likwidują je w tajemnicy, chroniąc nieświadomą niczego społeczność.
+*   **Wtajemniczeni „Ostatni Rzut”:** Zdesperowani Przebudzeni na skraju śmierci potrafią użyć zakazanej procedury obronnej. Z rozpaczy przed egzekucją od potwora uwalniają absolutnie całe swoje Zerum w ostatecznej erupcji dymu – miażdżąc wroga i poświęcając duszę, która nieodwracalnie pochłonięta przez purpurowy Splot przemienia ich samych w monstra błąkające się nocą jako cienie z wyrzutów sumienia! Wielu mistrzów oddaje tak życie za szansę przeżycia reszty Załogi!
 
-Utrata własnego **Prawdziwego Imienia** wymazuje ofiarę i całą o niej pamięć z historii ludzkości poprzez ingerens milczących Inkwizytorów Wysokich potęg za władnięciem Pęknięcia!
+Pamiętaj, że utrata **Prawdziwego Imienia** wymazuje ofiarę i całą o niej pamięć z historii ludzkości, co jest konsekwencją bezpośredniej kary od uśpionych bóstw w Pęknięciach lub brutalnej cenzury narzucanej przez specjalne formacje Inkwizycji (Milczący Imion).
 
 ---
 
 ## 💡 Podstawowe Tezy do Zapamiętania:
-1. Świat to połamany poligon pozostały po rozdarciu bogów.
-2. Niskie rody żyją w wielkich, oblężonych potęgami natury Bastionach Miejsycznych z władz.
-3. Najodważniejsi ("Latarnicy" z awantur u za wojnie z pędem) eksplorują zablokowane Bramy w Dziczy celem dungeoncrawlingu - poszukiwań Kamieni Czasu z potęgo magiczną do waluty łupy.
-4. Istnieje 17 koegzystujących o przetrwanie ras (Ludzie, żywe żary kowali, olbrzymy ze skał i potężne wielkie u owady nocy z Cienia), które mają własną kulturę i ewolucyjne drogi rozwijania magii tarczy we w boju!.
-5. Wierny towarzysz Przebudzonego to drobny Iskrzyk chłonący mżonkę i toksyczność potężnego lochu w ratuje życie posiadacza przed lęku z ciemnością! 
+1. Świat to zniszczony wszechświat po gigantycznym rozdarciu starcia dwóch niezrozumiałych stron (Wysokich i Głębokich).
+2. Niższe i wyższe sfery trwają zabarykadowane w kolosalnych Bastionach, otoczonych zepsutą dziczą pełną oparów Zerum.
+3. Elitarne jednostki (np. Latarnicy) decydują się na krucjaty za Mury miast, nurkując w uśpione anomalie (Bramy) i wyruszając by zdobywać magiczne minerały z ciał potworów.
+4. Istnieje 17 grywalnych i powiązanych sojuszem ras (m.in. powszechni Ludzie, ożywione płomienie z kowadła, podwodne relikty i insekty operujące klątwami).
+5. Podstawowym orężem chroniącym w mroku, poza ostrzem, są powołane przez Splot miniaturowe byty – Iskrzyki. Pochłaniają one trucizny i klątwy otoczenia, skutecznie zachowując zdrowie psychiczne podróżnika!
+
