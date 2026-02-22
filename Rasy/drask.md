@@ -1,4 +1,4 @@
-# DRASK (linia krasnoludzko-kamienna i żarząca)
+﻿# DRASK (linia krasnoludzko-kamienna i żarząca)
 
 **Rodzina:** Żywiołowi
 
@@ -47,10 +47,4 @@ Dominują w **Kornaku** (podziemna cytadela-kuźnia), **Głębomirze** (fortyfik
 
 - skóra i kości jak skała / wybitna potęga ognia i odporność na żar
 - praca kowalska bez oporów na zmęczenie
-- Draskharn może scalić się z Bastionem, Pyrrhakos może rozgrzewać i niszczyć formacje Zerum.
-
-## Do Doprecyzowania
-
-- Czy Draskharn czuje ból uszkodzonego muru fortecy z którą jest sprzężony?
-- Z jakich rzadkich rud odlewa się maski Linii Żaru?
-- Jak wygląda święto roczne w kuźniach Kornaku?
+- Draskharn może scalić się z Bastionem, Pyrrhakos może rozgrzewać i niszczyć formacje Zerum.[Environment]::NewLine

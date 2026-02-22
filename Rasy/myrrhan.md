@@ -1,4 +1,4 @@
-# MYRRHAN (linia śluzowata/amorficzna)
+﻿# MYRRHAN (linia śluzowata/amorficzna)
 
 **Rodzina:** Głębinowi
 
@@ -44,11 +44,4 @@ Rzadcy — ich natura budzi niepokój. Najlepiej tolerowani w **Czerszawie** (tu
 - zmiana kształtu
 - absorpcja cech wrogów (czasowa)
 - odporność na fizyczne ataki
-- Myrrhakael: podział na wiele kopii z jedną świadomością
-
-## Do Doprecyzowania
-
-- Czy Myrrhan mają „domyślną" formę?
-- Jak Myrrhakael godzi jedną świadomość z wieloma ciałami?
-- Czy Myrrhan mogą kopiować wygląd konkretnych osób?
-- Czy istnieją Myrrhan, którzy znaleźli stałą formę?
+- Myrrhakael: podział na wiele kopii z jedną świadomością[Environment]::NewLine

@@ -225,61 +225,7 @@ Rola Iskrzyka zawęża się wyłącznie do technicznego wspomagania przetrwania 
 
 ---
 
-### 4.14. Kamienie Esencji
 
-**Kamienie Esencji** to skondensowane jądra Zerum wypadające z bestii zabitych wewnątrz **Bram**. W odróżnieniu od surowych Kryształów Zerum (naturalnych formacji), Kamienie Esencji są **przefiltrowaną, stabilną formą** — cenniejszą i wszechstronniejszą.
-
-**Tiery Kamieni:**
-
-| Tier | Nazwa | Źródło | Wartość |
-|---|---|---|---|
-| I | Okruch Esencji | Bramy Iskry | Drobna waluta, podstawowe racje |
-| II | Odłamek Esencji | Bramy Żaru | Standardowa waluta handlowa |
-| III | Kryształ Esencji | Bramy Płomienia | Materiał do Żywych Run, cennych wyrobów |
-| IV | Rdzeń Esencji | Bramy Żagwi | Paliwo Latających Okrętów, wzmocnienie Splotu |
-| V | Serce Esencji | Bramy Gwiazdy | Legendarne — nasiona Sztucznych Słońc, klucze do Głos-Kamieni |
-
-**Zastosowania:**
-- Waluta (zamiast/obok surowych Kryształów Zerum)
-- Paliwo dla Bastionów, okrętów, konstruktów
-- Wzmocnienie Splotu Zerum (tymczasowe lub permanentne)
-- Materiał do Żywych Run i artefaktów
-- Pożywienie w przetworzonej formie
-
-**Relacja z Kryształami Zerum:**
-Kryształy Zerum to surowa, naturalna forma energii — jak ruda. Kamienie Esencji to przefiltrowany koncentrat — jak sztabka złota. Oba krążą w ekonomii, ale Kamienie mają wyższą i stabilniejszą wartość.
-
----
-
-### 4.15. Bramy (Szczeliny / Dungeony)
-
-**Brama** to stabilne przejście do **równoległego wymiaru Zerum** — kopii fizycznej lokalizacji, nasyconej Zerum do ekstremalnych poziomów. Bramy to dungeony Rezeryum — wchodzi się do nich **grupą** i walczy z bestiami.
-
-Wewnątrz Bramy teren wygląda jak zniekształcona wersja świata zewnętrznego: te same formacje skalne pokryte kryształami, te same lasy zamieszkane przez mutanty.
-
-**Hierarchia Tier'ów:**
-
-| Tier | Nazwa | Wymagany Próg | Bestie | Kamienie | Dostępność |
-|---|---|---|---|---|---|
-| I | Brama Iskry | Iskra | Słabe mutanty, gady, owady | Okruchy Esencji | Częste, krótkotrwałe |
-| II | Brama Żaru | Żar | Silniejsze bestie, stada | Odłamki Esencji | Regularne |
-| III | Brama Płomienia | Płomień | Elitarne bestie, mini-bossowie | Kryształy Esencji | Rzadkie |
-| IV | Brama Żagwi | Żagiew | Archaiczne potwory, strażnicy | Rdzenie Esencji | Bardzo rzadkie |
-| V | Brama Gwiazdy | Gwiazda | Proto-byty, echo dawnych bogów | Serca Esencji | Legendarne |
-
-**Drużyny Bramowe (Party):**
-Bramy eksploruje się w **drużynach 4-6 osób** z uzupełniającymi się rolami:
-- **Ostrze** — główny zadający obrażenia (Vrakai, Ghorran, Pyrrhani)
-- **Tarcza** — obrona i kontrola pozycji (Drask, Tharumi)
-- **Splot** — wsparcie magiczne, leczenie, manipulacja Zerum (Shenn, Solhari, Voryth)
-- **Cień** — zwiad, pułapki, rozpoznanie (Skaeth, Orvhan, Kalitropi)
-- Iskrzyki drużyny współpracują — nawigacja, komunikacja, transport łupów
-
-**Zasady wejścia:**
-- Brama wymaga **minimalnego Progu Mocy** — wejście poniżej progu oznacza przytłoczenie Zerum
-- Brama ma **limit czasowy** — po jego upływie zamyka się
-- Bramy pojawiają się **spontanicznie** lub są **kotwiczone** przez Latarników
-- Doświadczenie zdobyte w Bramach to **główny motor ewolucji** Przebudzonych
 
 ### 4.14. Kamienie Esencji (Rdzenie Bestii)
 

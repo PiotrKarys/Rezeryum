@@ -1,4 +1,4 @@
-# THRAKKOR (linia demoniczna/otchłanna) ★ 4 formy
+﻿# THRAKKOR (linia demoniczna/otchłanna) ★ 4 formy
 
 **Rodzina:** Głębinowi
 
@@ -46,11 +46,4 @@ Obecni we wszystkich Bastionach, ale nigdy w większości. Najlicznejsi w **Gł�
 - rogi, pazury, czasem skrzydła
 - naturalna Więź Pustki
 - odporność na manipulacje mentalne
-- Thrakhalor: pół-awatary Głębi, balansujący na granicy człowieczeństwa i potwora
-
-## Do Doprecyzowania
-
-- Jak wygląda honorowy kodeks Thrakkor? Jakie śluby składają?
-- Czy Thrakhalor jest bliski przejściu na stronę Głębi?
-- Jak Thrakkor reagują fizycznie na Solhari?
-- Czy istnieją Thrakkor, którzy odrzucili Naturę Cienia?
+- Thrakhalor: pół-awatary Głębi, balansujący na granicy człowieczeństwa i potwora[Environment]::NewLine

@@ -1,4 +1,4 @@
-# VORYTH (linia czasowa/duchy) ★ 4 formy
+﻿# VORYTH (linia czasowa/duchy) ★ 4 formy
 
 **Rodzina:** Głębinowi
 
@@ -46,14 +46,4 @@ Cenieni w **Splecinie** (doradztwo, badania Zerum), **Jasnych Progach** (dyploma
 - fragmentaryczne wizje przyszłości (kosztowne)
 - przesuwanie się względem czasu
 - naturalna skłonność do Więzi Pustki
-- Vorathax: kotwice czasu — mogą „zamrozić" strefę lub tworzyć lokalne pętle
-
-## Do Doprecyzowania
-
-- Jak Voryth radzą sobie z widzeniem przyszłości na co dzień?
-- Czy Vorathax zamrażający czas jest świadomy tego, co się dzieje?
-- Jak Voryth postrzegają śmierć? Czy widzą swoją?
-- Czy istnieją Voryth z Naturą inną niż Czas?
-
-
-przeciwienstwo orvhan
+- Vorathax: kotwice czasu — mogą „zamrozić" strefę lub tworzyć lokalne pętle[Environment]::NewLine

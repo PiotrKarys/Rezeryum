@@ -1,4 +1,4 @@
-# THARUMI (linia runiczna/golemowa)
+﻿# THARUMI (linia runiczna/golemowa)
 
 **Rodzina:** Cywilizowani
 
@@ -44,11 +44,4 @@ Cenieni w **Splecinie** (badania Run, Iglica), **Kornaku** (kowalstwo runiczne),
 - ciała pokryte aktywnymi Żywymi Runami — naturalni nosiciele magii
 - zdolność do „wchłaniania" nowych Run w swoje ciało
 - odporni na Głosy Pierwszych (Runy absorbują rezonans)
-- Tharukael: żywe artefakty — ciała zmieniające prawa fizyki w otoczeniu
-
-## Do Doprecyzowania
-
-- Czy Tharumi mogą odzyskać wspomnienia poprzedniego ciała? Za jaką cenę?
-- Jak inne rasy reagują na Tharumi?
-- Czy Tharukael może „zarazić" artefaktowością otoczenie?
-- Czy istnieją Tharumi, które znalazły tożsamość poprzednika?
+- Tharukael: żywe artefakty — ciała zmieniające prawa fizyki w otoczeniu[Environment]::NewLine

@@ -1,4 +1,4 @@
-# AURYNN (linia prorocza/wyroczyjna)
+﻿# AURYNN (linia prorocza/wyroczyjna)
 
 **Rodzina:** Niebiańscy
 
@@ -59,15 +59,4 @@ Aurynn mogą **łączyć się z przedstawicielami innych ras** w procesie zwanym
 - naturalny rezonans z Głosami Pierwszych (najsilniejszy ze wszystkich ras)
 - głos, który leczy lub niszczy — przypadkowo wypowiadają Głosy przy silnych emocjach
 - niestabilne istnienie
-- Aurythiel: żywe akordy — obecność przywraca lokalne prawa natury
-
-## Do Doprecyzowania
-
-- Ile czystych Aurynn istnieje w danym momencie?
-- Czy Złączenie można wymusić? Jakie są konsekwencje przymusowej fuzji?
-- Czy hybryda Aurynn może się dalej łączyć z kolejnym Aurynn?
-- Jak wygląda codzienne życie ukrytego Aurynn wśród Raashari?
-- Czy Aurynn mają własne cele, czy są neutralni wobec konfliktu Wysokich i Głębokich?
-
-
-rasa nie autonomiczna
+- Aurythiel: żywe akordy — obecność przywraca lokalne prawa natury[Environment]::NewLine

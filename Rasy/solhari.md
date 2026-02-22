@@ -1,4 +1,4 @@
-# SOLHARI (linia świetlna/anielska)
+﻿# SOLHARI (linia świetlna/anielska)
 
 **Rodzina:** Niebiańscy
 
@@ -46,13 +46,4 @@ Dominują w **Jasnych Progach** (miasto chronione przez ich stabilizatory, bez w
 - emisja światła
 - blokada Więzi Pustki (ich natura odrzuca Głębię)
 - łatwiejszy dostęp do Głosów Pierwszych
-- Solhariel: żywe relikty, narzędzia Wysokich — ich obecność stabilizuje Pęknięcia
-
-## Do Doprecyzowania
-
-- Jak Solhari godzą lojalność wobec Wysokich z wiedzą o manipulacjach?
-- Czy Solhariel stabilizuje Pęknięcia świadomie czy automatycznie?
-- Jak wyglądają Jasne Progi (Bastion Solhari)? Czy mury są zbędne?
-- Czy istnieją Solhari, którzy odrzucili Wysokich?
-
-
+- Solhariel: żywe relikty, narzędzia Wysokich — ich obecność stabilizuje Pęknięcia[Environment]::NewLine

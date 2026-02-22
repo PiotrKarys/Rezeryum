@@ -1,4 +1,4 @@
-# RAASHARI (linia ludzka-bazowa) ★ 4 formy
+﻿# RAASHARI (linia ludzka-bazowa) ★ 4 formy
 
 **Rodzina:** Cywilizowani
 
@@ -44,11 +44,4 @@ Dominują liczebnie we **wszystkich Bastionach**, szczególnie w **Żarnogrodzie
 - wszechstronność
 - wysoki potencjał do Głosów
 - różne kierunki ewolucji (zależne od Nadawcy Imienia)
-- Raashkoryn: quasi-legendarne jednostki, często z Więzią Koronną
-
-## Do Doprecyzowania
-
-- Jak Raashari radzą sobie z byciem „rasą domyślną"?
-- Czy istnieje ruch supremacji Raashari?
-- Jak wygląda Raashkoryn (4. forma)? Jakie moce?
-- Czy Raashari mają specyficzną Naturę Zerum czy losową?
+- Raashkoryn: quasi-legendarne jednostki, często z Więzią Koronną[Environment]::NewLine

@@ -14,149 +14,106 @@ Kolosalne, nadpisane materią i wykrzywioną grawitacją awatary Głębi — mas
 - **Kleszczowładcy** — morskie demony zanurzeniowe; tytany potrafiące mechanicznym wciągnięciem poddać wchłonięciu pod wódę Głębokiej Dziczy wyspiarskie lądy.
 
 **Fizyko-Magiczne Efekty Obecności:**
-- Wymuszona deformacja systemów w warstwie eterycznej na przestrzeni dziesiątek kilometrów — "łamie" Pajączyny i Sploty słabszych Przebudzonych.
+- Wymuszona deformacja systemów w warstwie eterycznej na przestrzeni dziesiątek kilometrów — "łamie" Pajączyny i Sploty słabszych Przebudzonych na pułapie *Zarzewia* i *Nurtu*.
 - Natychmiastowe mutacje genetyczne: nagłe materializowanie mniejszych i wściekłych tworów wprost z zakrzywionego Zerum na trasie przemarszu.
 - Agresywne zmuszanie psychik ocalałych do traumy na poziomie Wydrążenia (wymuszanie zjawisk psycho-zbiorowych Cieni).
 
 **Doktryna Obronności (Walka):**
 Starcie pojedynczego Przebudzonego z Pustoszycielem to taktyczne samobójstwo w czystej postaci. Zbrojne zatrzymanie takiego makro-agresora zależy wyłącznie od ułamkowej interwencji zbrojnych eskadr międzypaństwowych:
-- Walkę w zwarciu i kontakt rdzenia mogą prowadzić włącznie jednostki dysponujące **Progiem Rezonansu**, zdolni do wyhamowania fal niszczącego promieniowania bestii własną aurą anomalną.
-- Do zagaszenia bytu potrzeba minimum jednego operatora operującego słowami rygoru z progu **Absolutu**, zdolni do zrzucenia Głosów Pierwszych o destrukcji powłok Pustoszyciela na taką skalę, by odsłonić jego zrujnowane wnętrzności dla zmasowanego uderzenia kawaleryjskiego Archaionów od Zakonów Przysięgłych.
+- Walkę w zwarciu i kontakt rdzenia mogą prowadzić wyłącznie jednostki dysponujące **Progiem Rezonansu**, zdolni do wyhamowania fal niszczącego promieniowania bestii własną aurą anomalną.
+- Do zagaszenia bytu potrzeba minimum jednego operatora operującego słowami rygoru z progu **Absolutu**, zdolnego do zrzucenia Głosów Pierwszych o destrukcji powłok Pustoszyciela na taką skalę, by odsłonić jego zrujnowane wnętrzności dla zmasowanego uderzenia kawaleryjskiego Archaionów od Zakonów Przysięgłych.
 - Uderzeniu musi zawsze asystować system Więzi (rozbicie obrażeń na sprzężonych partnerów).
+
 ---
 
 ### 6.2. Legiony Wydrążonych
 
-Armie istot, które przeszły Wydrążenie — ich Imiona zostały przepisane przez Głębię.
+Istoty, których Prawdziwe Imię zostało całkowicie nadpisane przez infekcję z Głębi. Nie są to bezmyślne zombie — Wydrążeni zachowują pełen dostęp do wspomnień, zdolności intelektualnych oraz opanowanych umiejętności bojowych. Zmienia się wyłącznie ich kompas lojalności i cel: służą poszerzaniu wpływów Pustki i infekowaniu kolejnych umysłów.
 
-**Typy:**
-- **Wydrążone Bestie** — zwierzęta przejęte przez Zarodki Cieni
-- **Wydrążeni Bohaterowie** — niegdyś potężni Przebudzeni, teraz dowódcy plugawych armii
-- **Wydrążone Miasta** — całe osady, które padły ofiarą masowej korupcji (ekstremalnie rzadkie)
+**Struktura Zagrożenia:**
+- **Wydrążone Bestie** — drapieżniki z Głębokiej Dziczy, których naturalny instynkt został zastąpiony przez zorganizowaną agresję terytorialną.
+- **Wydrążeni Agenci (Śpiochy)** — Przebudzeni na etapie *Nurtu* lub *Eskalacji*, operujący wewnątrz Bastionów. Sabotują łańcuchy dowodzenia, zatruwają rezerwy Kryształów Esencji i dyskretnie podsycają nastroje generujące Cienie Zbiorowe.
+- **Wydrążeni Bohaterowie** — jednostki od *Rezonansu* wzwyż. Potrafią formować i dowodzić potężnymi oddziałami korupcji. Ich pojawienie to bezpośredni powód do deklaracji ogólnokontynentalnego stanu wojennego.
 
-**Zdolności:**
-- zachowują wspomnienia dawnych umiejętności — Wydrążony Głosiciel wciąż zna Głosy
-- cele: poszerzanie Pęknięć, mordowanie Głosicieli, korumpowanie Bastionów od wewnątrz
-
-**Uwaga fabularna:** Wydrążenie jest ekstremalnie rzadkie. Pojawienie się Wydrążonego Bohatera to wydarzenie na skalę dekady, zagrażające stabilności całego regionu.
+**Mechanika Starcia:**
+- Posiadają dostęp do pełnego wachlarza swoich starych umiejętności bitewnych; Wydrążony strzelec korzystający ze Szkoły Fali nadal widzi przyszłe ruchy oponenta, a inkwizytor Głosiciel nadal używa potężnych Głosów.
+- Są zdolni omijać klasyczne detektory Zerum Latarników, przez co ich identyfikacja wymaga interwencji niezwykle doświadczonych weteranów zdających się na sensorykę tzw. "Smaku Zgnilizny".
 
 ---
 
 ### 6.3. Zarodki Cieni i Emotywne Klątwy
 
-Niewidzialne fragmenty woli Głębokich, wszczepiane w serca śmiertelników — ale nie jako generyczne „zło". Zarodki przybierają formę **konkretnych emocji i traum**, czerpiąc moc z tego, co społeczeństwo tłumi.
+Pasożytnicze formy bytu karmiące się tłumionymi negatywnymi emocjami (np. żalem, lękiem, upokorzeniem). Tworzą ukrytą plikację zagrożeń społeczno-magicznych. Cienie potrafią rozwijać się całkowicie niezauważenie przez lata, jeśli ofiara tłumi konkretną emocję.
 
-**Mechanizm:**
-- lata uśpienia — nosiciel nie wie, że jest zainfekowany
-- aktywacja przy: traumie, długotrwałym pobycie w Komnatach, błędach w Głosach Pierwszych
-- efekty: przemiany fizyczne, mini-Pęknięcia, utrata kontroli nad Splotem
+**Detekcja (Sensor Zarzewia):**
+Błędnym jest twierdzenie, że Cienie są wektorami nieuchwytnymi dla Przebudzonych na każdym poziomie. Już na wczesnym progu **Zarzewia** instynkt samozachowawczy układu nerwowego "czyta" bliskość aktywnego Cienia w pobliżu jako twarde, fizyczne uciski na klatkę piersiową lub arytmię serca. Splot reaguje na skaźenie jak na wibrację alarmową, co sprawia, że nowi, nadpobudliwi poborowi są idealnymi wykrywaczami zarodków podczas patroli miejskich Bastionu.
 
-**Cienie Nazwane:**
-Im silniejsze społeczne tabu wokół emocji, tym potężniejszy Cień. Bastion, który zakazuje opłakiwania, rodzi potężniejsze Cienie Żalu niż ten, który pozwala żałować.
-
-**Cienie Zbiorowe:**
-Gdy całe społeczeństwo systematycznie tłumi jedną emocję, może narodzić się **Cień Zbiorowy** — autonomiczna istota, niewidoczna dla tych, którzy ją karmią swoim wyparciem. To pasożyt żerujący na strukturach społecznych Bastionu.
-
-**Zapobieganie:**
-- rytuały Milczących Imion (badanie czystości Splotu)
-- nurt Korzenników (szukanie społecznych źródeł klątw — patrz: Frakcje)
-- izolacja podejrzanych
-- regularne kontrole po powrocie z Komnat
+**Zjawisko Cieni Zbiorowych:**
+- Stanowią śmiertelne ryzyko państwowe, nie jednostkowe. Zatajany ból z powodu opresyjnego prawa miejskiego (np. całkowity nakaz izolacji rasy, zakaz ubolewania po stracie bliskich na froncie) kumuluje energię setek ludzi.
+- Osiągnąwszy masę krytyczną, Cień Zbiorowy ma potęgę siły rażenia potężnego zaklęcia w statusie *Eskalacji*. Atakuje jednocześnie umysły tysięcy cywili, indukując niepohamowaną krwawą furię lub masowe psychotyczne paranoje.
+- Klątwy tej nie da się fizycznie przeciąć mieczem. Skutkuje jedynie drastyczne obalenie cenzury politycznej w mieście — uderzenie w socjologiczny korzeń problemu ratuje ofiary.
 
 ---
 
 ### 6.4. Głos-Kamienie (Fragmenty Pierwotnego Świata)
 
-W najgłębszych Komnatach, na dnie najstarszych Pęknięć, ukryte są **Głos-Kamienie** — nieczytelne zapisy o prawdziwej historii Rezeryum, wyryte w materiale starszym od samej Wojny Koron.
+Monolityczne, skondensowane fragmenty prastarej wiedzy wyryte w surowym Zerum i zapieczętowane na wieki. Zawierają oryginalny, niezafałszowany język sprzed uformowania Głosów Pierwszych — potężniejszy niż jakabykolwiek dzisiejsza magia. Odczytanie choćby urywka tych kamieni modyfikuje pogląd o pra-naturze Wysokich.
 
-**Cechy:**
-- Pisane w **języku sprzed Bezimiennego Chóru** — starszym niż same Głosy Pierwsze
-- Nikt żyjący nie potrafi ich w pełni odczytać — Kartografowie Otchłani poświęcają całe życie na ich interpretację
-- Fragmenty sugerują, że oficjalna historia Rezeryum (Chór → Wysocy → Głębokie → Wojna) to **uproszczenie lub kłamstwo**
-- Każdy Głos-Kamień jest chroniony przez proto-byty lub śmiertelne pułapki Komnat
-
-**Fabularnie:** Głos-Kamienie to odpowiednik zakazanej wiedzy — ich treść może zmienić układ sił między Bastionami, Wysokimi i Głębokimi. Są celem obsesji Kartografów i celem niszczenia ze strony Milczących Imion (którzy boją się tego, co tam jest napisane).
+**Bariery Dostępności:**
+- Nigdy nie występują jako łatwy łup w warstwach powierzchownych. Umiejscowione są na absolutnych szpilach najczarniejszych Komnat — w Bramach skategoryzowanych rygorystycznie jako poziom **Rezonansu** i **Absolutu**.
+- Dostępność wymaga forsowania obrony proto-bytów Głębi, nasyconych pierwotnym Zerum z pierwszych epok. Śmiertelność wśród wyspecjalizowanych załóg Kartografów Otchłani wyruszających po zbadanie kamienia sięga 90%.
+- Kamienie są niemożliwe do wydobycia i wyniesienia — ich waga waha się wokół gęstości planety. Wiedzę z nich można wyłącznie zapisać i próbować przełożyć, trwając w czasie ekspedycji bezpośrednio przy znalezisku obarczonym limitami otwartej Bramy.
 
 ---
 
-### 6.5. Wysocy (Promienni) i Wymazana Pamięć
+### 6.5. Wysocy (Promienni) i Kłamstwa Bastionów
 
-Milczący bogowie, którzy nigdy nie odeszli. Ich interwencje są rzadkie, ale zawsze mają ukryty cel.
+Byty, które przetrwały Wojnę Koron i nieformalnie definiują "dopuszczalny" wektor ludzkiej wiary i cywilizacji. Często manifestują się pod postacią wyzwalających sił boskich i religijnego przewodnictwa, chroniącego rzekomo istnienia śmiertelne przed chaosem Głębi. W rzeczywistości ich motywacją jest obsesyjne utrzymywanie "status quo".
 
-**Interwencje:**
-- sny i objawienia prowadzące wybranych na ścieżkę, której ci nie rozumieją
-- cudowne ocalenia, za które żądają niewidocznej ceny
-- przymusowe Więzi Koronne — bez pytania, bez zgody
-
-**Prawda:**
-Nie bronią śmiertelników, lecz własnej wizji harmonii. Świadomie poświęcą narody, Bastiony i całe pokolenia Przebudzonych, jeśli uznają to za konieczne.
-
-**Wymazana Pamięć — Mury-Koron:**
-Wysocy potrafią wymazać wspomnienia **całych pokoleń**. Istnieje jeden jedyny Bastion dotknięty tym zjawiskiem na pełną skalę: **Mury-Koron** — Bastion zbudowany w ciele martwego Pustoszyciela, kompletnie odizolowany od reszty cywilizacji. Prawie **nikt o nim nie wie** — nie figuruje na mapach handlowych, nie utrzymuje szlaków, nie wysyła posłów. Jego mieszkańcy nie wiedzą, że ich „mury" to martwe ciało potwora, ani nie pamiętają, dlaczego ich Bastion jest ukryty. Kartografowie Otchłani i Korzennicy są jedynymi, którzy szukają Mury-Koron — i są za to ścigani.
-
-**Paradoks:** Solhari i Aurynn, jako rasy najbliższe Wysokim, są jednocześnie najbardziej narażone na ich manipulacje — i najbardziej świadome ich prawdziwej natury.
+**Metody Kontroli:**
+- **Wymazywanie Pamięci:** Na poziomie globalnym Wysocy posługują się Głosami na szczeblu przekraczającym ludzki *Absolut*. Potrafią bez ostrzeżenia nałożyć ślepą plamę pamięciową na miliardy umysłów w ułamek sekundy, "korygując" niepasującą część rzeczywistości.
+- **Mury-Koron:** Idealny przykład ich tyranii. Brutalne zniewolenie tysięcy dusz w klatkach zbudowanych w obeschłych korpusach martwych Pustoszycieli, odzianych we wspaniałą iluzję utopii. Izolowana obojętnością mas struktura ma uniemożliwić rasiom poznanie destrukcyjności ułamkowych bogów.
+- **Infiltrowanie Ras:** Eteryczne nacje takie jak Aurynn i Solhari wykazują nienaturalną, bolesną podatność na "objawienia" Wysokich. Przebudzony Solhari na progu *Eskalacji* potrafi z dnia na dzień pod przymusem porzucić ojczystą Załogę by bez mrugnięcia okiem zgładzić wyznaczonych Korzenników na zlecenie wizji we śnie.
 
 ---
 
-### 6.6. Dzicz Rezeryum
+### 6.6. Dzicz Rezeryum (Zewnętrzne Przedpola i Egzotyka)
 
-Dzicz Rezeryum to gradient zagrożeń, nie jednolita ściana śmierci:
+Dzicz określa wszystko poza ochronną wibracją miast i Bram, charakteryzując się rosnącą śmiertelnością gęstości Zerum. Kategoryzuje się ściśle przy minimalnych standardach wypraw.
 
-**Przedpola (wokół Bastionów):**
-- Względnie bezpieczne — dzikie bestie (kryształowe wilki, rogacze, gady nasycone Zerum) stanowią realne, ale kontrolowane zagrożenie
-- Regularne patrole Latarników i Przysięgłych utrzymują porządek
-- Bandyci i wataha bestii — główne zagrożenia
-- Spontaniczne mini-Pęknięcia otwierają się raz na kilka tygodni, szybko zamykane
+**Przedpola (Zagrożenie: Niskie do Średniego):**
+- Rolnicze, opanowane militarnie obszary pod murami potęg. Skupienie drapieżników jest na stałe dławione patrolami garnizonów na zaledwie progu *Zarzewia*. Dystans ewolucyjny pozwalający na łatwy handel u bezpiecznych granic. 
 
-**Normalne Biomy (między Bastionami):**
-- Pustacza, stepy, lasy z dzikimi bestiami — niebezpieczne, ale do przeżycia z eskortą
-- Karawany handlowe poruszają się regularnymi szlakami z akceptowalnym ryzykiem
-- Bestie w tych strefach są groźne, ale znane — służą też jako cel treningowy dla młodych Przebudzonych
+**Normalne Biomy (Zagrożenie: Średnie do Wysokiego):**
+- Obszary wolne między głównymi arteriami państw. Śliskie szlaki lądowe pokonywane przez gigantyczne, uzbrojone karawany Kupieckie osłaniane tarczami opartymi o operatorów w stopniu *Nurtu*. Zwierzęta stadne zmutowane tutejszym promieniowaniem używane są przez weteranów do treningów przed wejściem w twardsze Bramy.
 
-**Głęboka Dzicz:**
-- Prawa natury uginają się — strefy egzotycznych, nieprzewidywalnych biomów
-- Biomy aktywnie wrogo reagują na intruzów (Mgławicowe Puszcze, Krystaliczne Pustynie)
-- Spontaniczne Pęknięcia mogą się otworzyć w dowolnym miejscu i czasie
-- Bestie Głębokiej Dziczy to oddzielna kategoria zagrożeń — stworzenia, z którymi mierzą się tylko doświadczeni Przebudzeni
-- Wyprawy w najgłębsze strefy mają ~10% szans na powrót
+**Głęboka Dzicz (Zagrożenie: Śmiertelne - Awangarda Rezonansu):**
+- Najwyższe znane naturalne ugięcie czasoprzestrzeni poza samymi instancjami Bram. Strefa wyłącza kompasy i klasyczne mapy geometryczne. 
+- Skupiska Mgławicowych Puszcz i Odwróconych Lasów wypalają płuca, tworząc barierę biologiczną, którą przekroczyć bez opancerzenia duchowego mogą wyłącznie elitarne jednostki *Eskalacji*. Wejście w same serca owych biomów narzuca stały drenaż mocy u progu wytrzymałości organizmu; brak asysty doświadczonej drużyny równa się ostatecznemu przepadciu w strukturze zmutowanej ewolucji.
 
 ---
 
-### 6.7. Zagrożenia Bramowe ⚠️ NIEZDEFINIOWANE
+### 6.7. Zagrożenia Bramowe (Sztywne Prawa Instancji)
 
-Bramy (stablizowane Pęknięcia eksploatowane przez Latarników) niosą własne, specyficzne zagrożenia wykraczające poza same bestie wewnątrz. Poniższe kierunki wymagają doprecyzowania w przyszłej iteracji:
+Brama — stabilna, wyrwana w Pęknięciu przez Latarników instancja dungeonu, ma brutalne prawa wymuszające żołnierski rytm łupienia i szybkiego powrotu na ubitą ziemię do cywilizacji miast. To poligon skondensowanej grozy oblekanej ewolucyjnie we wrogą architekturę wymiaru.
 
-**Kierunek 1: Toksyczność Zerum**
-- Czy przebywanie w Bramie zbyt długo nasyca ciało Zerum do toksycznych poziomów?
-- Opcje: timer zdrowia, progresywne mutacje, wypalenie Splotu
-- Pytanie: Czy Iskrzyk absorbuje nadmiar Zerum jako bufor?
+**1. Toksyczność Drenażu (Udar Zerum):**
+Dłuższa ekspozycja na surowe powietrze z głębi wewnątrz instancji błyskawicznie zabsorbuje i wypali własną krew magiczną nieprzygotowanych. Jedynym ratunkiem przed stopieniem w pył jest zaawansowany **Iskrzyk** towarzyszący operatorowi wewnątrz. U Przebudzonych na pułapie od *Eskalacji*, twarda pancerna powłoka fizycznego zwierzaka pochłania z nadmiarem promieniowanie do poziomu akceptowalnego dla nosiciela. Osobnik bez Iskrzyka to samobójca o wyznaczonym wyroku 4 minut przed bolesnym zapaleniem żył.
 
-**Kierunek 2: Dylatacja Czasu**
-- Czy czas w Bramach płynie inaczej? (dni wewnątrz = godziny na zewnątrz?)
-- Opcje: stały mnożnik per tier, losowy, zależny od Natury Zerum Bramy
-- Implikacja: Latarnicy wracający po „godzinach" walki, podczas gdy na zewnątrz minęły tygodnie
+**2. Załamanie Zgnilizny (Czas do Zapadnięcia):**
+Każda zakotwiczona przez elitarnych Latarników Brama zachowuje spięcie wyłącznie przez twardo oszacowany przed interwencją limit czasowy — tzw. Cykl Rozpadu. Na niższych instancjach (*Bramy Zarzewia*) ramy obozowe sięgają tygodnia eksploracji. Bicia o status *Absolutu* w centrach najgłębszych instancji dają Załogom zaledwie 12 do 24 twardych godzin pętli czasowej do zdobycia Serc Esencji. Niewyjście przed "Załamaniem" uwięzi całą eskadrę w ostatecznej, przymusowej próżni za wymiarem do rozerwania.
 
-**Kierunek 3: Degradacja Mentalna**
-- Czy Bramy wyższych tierów nasilają Cienie właściciela?
-- Pytanie: Czy Iskrzyk może służyć jako „kotwica" tożsamości?
-- Powiązanie z istniejącą mechaniką Emotywnych Klątw
+**3. Skok Temporalny (Dylatacja czasu terytorium mroku):**
+Zawsze zachodzi zjawisko odklejenia ram trwania. Na terenie walk w głębokich i wysokotierowych korytarzach instrukcyjnego *Rezonansu* każda wycięta krwią sekunda zmuszona jest kompensować swój impet w czasie realnym u Przedpól pod postacią dziesięciu minut. Powrót wojowników wyczerpanych rzezią kilku godzin z powrotem witany jest przez upłynięcie długich i surowych dni a czasem wprost całych pełnych księżyców w świecie doczesnym u rodzin za miastem dławiąc strachem logistykę zapasów rządu Bastionów dających pozwolenia u Bram.
 
-**Kierunek 4: Inteligencja Bestii Bramowych**
-- Czy bestie w Bramach to bezrozumne mutanty, czy organizują się w hierarchie?
-- Opcje: czyste potwory, społeczności bestii, echo dawnych cywilizacji
-
-**Kierunek 5: Władcy Bram (Bossowie)**
-- Czy każda Brama ma najsilniejszą bestię blokującą dostęp do jądra Esencji?
-- Opcje: zawsze, tylko wyższe tiery, losowo
-- Nagroda: pokonanie Władcy = zamknięcie Bramy + masywna nagroda (Rdzeń/Serce Esencji)
+**4. Władcy Instancji (Echa Bogów w Jądrach Koncentracji):**
+Bramy nie rodzą bytu chaotycznego we uścisku, układ sił hierarchizuje się o trzon ze scentralizowaną usterką i władaniu w postaci Władcy (Bossa) na końcu mapy:
+- Śmierć **Władcy Bramy (Bossa)** gasi źródło odradzającej się zgnilizny lokalnych biomów w środku a pancerz lub rdzeń opada we ułamek sekundy pod stopy wygranych łowców z eskadry, obnażając olbrzymi Rdzeń (albo u wysokich twardych wymiarach Serce) Esencji krwiobiegu, co stanowi finalny i rygorystyczny triumf walk o nagrodę cywilizacji.
 
 ---
 
 ## Do Doprecyzowania
 
-- Ile Pustoszycieli istnieje jednocześnie? Czy pojawiają się nowi?
-- Ile Głos-Kamieni odkryto? Jakie fragmenty udało się rozszyfrować?
-- Jakie Bastiony mają wymazaną historię?
-- Czy istnieje sposób na przywrócenie wymazanej pamięci?
-- **[NOWE]** Finalizacja mechanik zagrożeń Bramowych (sekcja 6.7)
-- **[NOWE]** Czy Bramy mogą się „zepsuć" i stać się dzikimi Pęknięciami?
+- Ile Pustoszycieli istnieje jednocześnie na świecie i dlaczego ramy zjawisk mają rotować w regionach osiedli?
+- Jakie konkretne i twarde daty ukryto jako spisek Mury-Koron u szczytu cywilizacji dawnej u Pustoszycieli?
+- Skala wielorakich Załamań Czasu w ujęciu gospodarczym na logistykę handlu skrystalizowanym stoperem limitowych instancji u Latarników?
