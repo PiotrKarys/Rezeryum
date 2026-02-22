@@ -1,0 +1,3 @@
+# 04 Kultura i Społeczeństwo
+
+Jako byt ula rasy tej nie spotkasz tłumnie w Bastionach rządzonych i gwarnych u polityków. Tworzą własne potężne miasta biologiczne (ule utwardzane chityną pokryte lśniącymi od Zerum wykwitowymi kominami), osiadłe w bagnach i najdalszych Kresach. Logika i dyplomacja działają poprzez przesył feromonów Zerum w powietrzu, drganie podziemnej grzybni oraz anten insektoidalnych dronów. Nie mają tradycyjnej moralności, wyczuwając jednostki z zewnątrz jako "tkankę", ale są niezwykle pożądanymi partnerami handlowymi i niebywałymi logistykami (potrafią zarządzać strukturą Bastionu obronnego).

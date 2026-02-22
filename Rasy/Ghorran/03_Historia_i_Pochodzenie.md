@@ -1,0 +1,3 @@
+# 03 Historia i Pochodzenie
+
+W przeszłości Sploty Ghorran były rozgrzane do granic zwierzęcych ekstremów – w opowieściach wierzono, że wyłami z cywilizacji wygnańcy w panice zaczęli tworzyć potwory z sierścią, przypominając typowe, wyjęte spod kontroli wilkołacze paki. Ewolucja okazała się jednak łaskawsza lub bardziej metodyczna. Udomowiwszy swój obłęd i wziąwszy udział w rewolucjach cywilizacyjnych Bastionów, Ghorran przenieśli cechy watahy nie na bestialskich morderców z pustkowii mrożących na ulicach krew w żyłach, ale szanowanych w miastach przewodników, zwiadowców gildiów łowczych i oddanych braci. Bestialska natura została zamknięta wewnątrz - eksploduje tylko, gdy zmuszą ich do objęcia naturalnej domeny krwawego przetrwania.
