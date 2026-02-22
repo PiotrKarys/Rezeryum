@@ -6,21 +6,23 @@
 
 ### 6.1. Pustoszyciele (Rozrywacze Pustki)
 
-Kolosalne, półmaterialne awatary Bezimiennych Głębin — manifestacje czystego głodu Głębi, które przetaczają się przez Rezeryum niczym ruchome kataklizmy.
+Kolosalne, nadpisane materią i wykrzywioną grawitacją awatary Głębi — masowe, wędrujące kataklizmy pożerające Pęknięcia w poszukiwaniu ujścia własnego głodu. Poruszają się niepowstrzymanym marszem po krawędziach całego kontynentu Rezeryum. Ich pojawienie w ułamku sekundy testuje sprawność frontowych Bastionów i pakty militarne. Ich wielkość mierzona jest zjawiskami makrogeograficznymi.
 
-**Typy:**
-- **Twierdzokłady** — chodzące ruiny złożone z fragmentów wielu cywilizacji, wchłoniętych na przestrzeni epok
-- **Masokształty** — bezkształtne masy oczu i paszcz, spływające z nieba lub wypełzające z morza
-- **Kleszczowładcy** — morskie kolosy obejmujące wyspy i wciągające je pod powierzchnię
+**Kategorie Geologiczne (Typy Pustoszycieli):**
+- **Twierdzokłady** — potężne, setmetrowe byty zlepieńców formacji geologicznych i wchłoniętej na przestrzeni epok infrastruktury dawnych twierdz, połączonych twardymi stopami pulsującej Rdzy i Czasu.
+- **Masokształty** — kolosalnych rozmiarów obślizgłe masy otwartych paszcz i jątrzących oczu utkanego z Przepływu oraz Cienia; zdolne "roztapiać się" w ulewę, deszczowo pędząc nad ziemią bądź z wolna wypełzać koszmarnym śluzem prosto z wód przybrzeżnych.
+- **Kleszczowładcy** — morskie demony zanurzeniowe; tytany potrafiące mechanicznym wciągnięciem poddać wchłonięciu pod wódę Głębokiej Dziczy wyspiarskie lądy.
 
-**Efekty obecności:**
-- deformacja Splotów Zerum na ogromnym obszarze (dziesiątki kilometrów)
-- spontaniczne rodzenie mniejszych monstrów z zniekształconego Zerum
-- wypaczanie umysłów śmiertelników — halucynacje, agresja, mimowolne Przebudzenia
+**Fizyko-Magiczne Efekty Obecności:**
+- Wymuszona deformacja systemów w warstwie eterycznej na przestrzeni dziesiątek kilometrów — "łamie" Pajączyny i Sploty słabszych Przebudzonych.
+- Natychmiastowe mutacje genetyczne: nagłe materializowanie mniejszych i wściekłych tworów wprost z zakrzywionego Zerum na trasie przemarszu.
+- Agresywne zmuszanie psychik ocalałych do traumy na poziomie Wydrążenia (wymuszanie zjawisk psycho-zbiorowych Cieni).
 
-**Walka z Pustoszycielami:**
-Wymaga koordynacji wielu Przebudzonych na wysokich Progach, Więzi Bojowych i często poświęcenia. Pojedynczy Bastion rzadko jest w stanie pokonać Pustoszyciela samodzielnie.
-
+**Doktryna Obronności (Walka):**
+Starcie pojedynczego Przebudzonego z Pustoszycielem to taktyczne samobójstwo w czystej postaci. Zbrojne zatrzymanie takiego makro-agresora zależy wyłącznie od ułamkowej interwencji zbrojnych eskadr międzypaństwowych:
+- Walkę w zwarciu i kontakt rdzenia mogą prowadzić włącznie jednostki dysponujące **Progiem Rezonansu**, zdolni do wyhamowania fal niszczącego promieniowania bestii własną aurą anomalną.
+- Do zagaszenia bytu potrzeba minimum jednego operatora operującego słowami rygoru z progu **Absolutu**, zdolni do zrzucenia Głosów Pierwszych o destrukcji powłok Pustoszyciela na taką skalę, by odsłonić jego zrujnowane wnętrzności dla zmasowanego uderzenia kawaleryjskiego Archaionów od Zakonów Przysięgłych.
+- Uderzeniu musi zawsze asystować system Więzi (rozbicie obrażeń na sprzężonych partnerów).
 ---
 
 ### 6.2. Legiony Wydrążonych

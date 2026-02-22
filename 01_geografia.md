@@ -5,108 +5,104 @@
 ## 3. GEOGRAFIA REZERYUM
 
 ### 3.1. Popękany, Ale Żywy Świat
+Rezeryum nosi głębokie blizny po Wojnie Koron — potężne kontynenty zostały brutalnie pocięte mrocznymi rozpadlinami, niektóre łańcuchy górskie wymykają się grawitacji, wisząc w powietrzu, a ponure niebo przecinają świetliste, pulsujące Pęknięcia Sklepienia. Jednak tamta epokowa Wojna miała miejsce eony temu. Od tamtego czasu świat przetrwał, przystosował się i na nowo wrósł we własne krwawiące rany.
 
-Rezeryum nosi blizny po Wojnie Koron — kontynenty są pocięte rozpadlinami, niektóre góry wiszą w powietrzu, a niebo pokrywają świetliste pęknięcia Sklepienia. Ale Wojna była tysiące lat temu. Od tamtego czasu świat wrósł w swoje rany.
+Pomiędzy poszarpanymi rozpadlinami tętnią **normalne krajobrazy**: cieniste lasy iglaste i liściaste, szumiące na wietrze olbrzymie stepy, wyniosłe łańcuchy górskie, zdradliwe mokradła oraz rozległe sieci rzek i jezior. Ekosystem planetarny reaguje na stężenie magicznego promieniowania. Tam, gdzie naturalne nasycenie Zerum osiąga wyższe pułapy, krajobraz staje się **skrajnie rozwinięty i bujniejszy** — pnie drzew z łatwością pną się niezwykle wysoko, pigment flory iskrzy nienaturalną intensywnością, a trawa jest wyjątkowo gęsta i soczysta. Natomiast tam, gdzie Zerum uległo katastrofalnemu wypaleniu lub skażeniu, skorupa świata zwyczajnie obumiera, pozostawiając za sobą sterylną, szarą i martwą pustkę.
 
-Między rozpadlinami ciągną się **normalne krajobrazy**: lasy iglaste i liściaste, stepy porośnięte trawą, łańcuchy górskie, bagna, rzeki i jeziora. Tam, gdzie nasycenie Zerum jest wysokie, krajobraz jest **zdrowszy i bujniejszy** — drzewa rosną wyższe, kolory są intensywniejsze, a trawa jest gęsta i soczysta. Tam, gdzie Zerum jest słabe lub wypalone, ziemia jest jałowa, szara i martwa.
+**Charakterystyczne elementy popękanego świata:**
+- **Otchłanne Rozpadliny** — szczeliny sięgające niemal samych chmur; pomimo ich grozy, pomiędzy nimi wciąż rozciągają się zielone i mocno zamieszkałe terytoria.
+- **Unoszące się wyspy** — zawieszone w powietrzu wielkie odłamy geologiczne; część z nich została skutecznie skolonizowana, inne zaś oddano bezwzględnej i nieujarzmionej dziczy.
+- **Leje po upadłych Koronach** — niezwykle rozległe kratery uderzeniowe, wokół których zagęszcza się najbogatsze naturalne Zerum. To właśnie w ich centrach wznoszono wybitne Bastiony.
+- **Złamany horyzont** — optyczna, potężna anomalia dobrze widoczna z dalekich dystansów, która wygina perspektywę globu, jednak nie utrudnia zbytnio rutynowego i codziennego życia.
 
-**Elementy popękanego świata:**
-- Rozpadliny sięgające chmur — ale między nimi rozciągają się tereny zielone i zamieszkałe
-- Unoszące się wyspy — niektóre skolonizowane, inne dzikie
-- Leje po upadłych Koronach — wokół nich gromadzi się Zerum i wyrastają Bastiony
-- Złamany horyzont — widoczny na dalekich dystansach, ale nie przeszkadza w codziennym życiu
-
-Klasyczne prawa natury działają stabilnie w szerokich pasach zwanych **Splotami**. Głęboka niestabilność występuje tylko w strefach bliskich dużym Pęknięciom i w Głębokiej Dziczy.
+Klasyczne i fizyczne prawa natury w miarę rozważnie i niezmiennie funkcjonują w szerokich, pasach zwanych **Splotami** (strefach naturalnej równowagi). Prawdziwa i skrajna niestabilność przestrzenna objawia się z brutalną siłą wyłącznie w strefach bliskich dzikim Pęknięciom oraz w bezkresnym, tajemniczym sercu Głębokiej Dziczy.
 
 ### 3.2. Przedpola (Strefy Wokół Bastionów)
+Aura terenowa chroniąca wokół bezpośredniego okalania potężnych murów każdego Bastionu, to ustalone mianem — **Przedpola**. Są to względnie ujarzmione i bezpieczne terytoria, charakteryzujące się klasyczną naturalną przyrodą, niezmienną grawitacją oraz niezakłóconym, regularnym cyklem pór dnia i nocy. To dokładnie tutaj rozgrywa się znakomita większość stabilnego, codziennego życia dla wszystkich, którzy zostali zblokowani prawem za wrotami twierdzy.
 
-Bezpośrednie otoczenie każdego Bastionu to **Przedpola** — względnie bezpieczne tereny z normalną przyrodą, stabilną grawitacją i regularnymi porami dnia. To tutaj toczy się większość codziennego życia poza murami.
-
-**Na Przedpolach znajdziemy:**
-- **Pola uprawne** — zarówno tradycyjne zbiory, jak i Kryształowe Pola (uprawy kryształów Zerum)
-- **Hodowle bestii** — udomowione stworzenia nasycone Zerum, używane jako wierzchowce, juczne i bojowe
-- **Wioski i osady** — mniejsze społeczności, które nie zmieszczą się w Bastionie, ale żyją pod jego ochroną
-- **Lasy, łąki, jeziora** — naturalne biomy, w których mieszkańcy polują, zbierają surowce i odpoczywają
-- **Patrole** — regularne obchody Latarników i Przysięgłych Więzi utrzymujące bezpieczeństwo
+**Na Przedpolach spotyka się rutynowo:**
+- **Pola uprawne** — obsługujące zarówno tradycyjne zbiory plonów zbóż, jak i zorganizowane Kryształowe Pola (wielkie plantacje rodzące potężne nasienie kryształów Zerum).
+- **Hodowle bestii** — duże obozowiska stajni i kwater dla wysoce udomowionych ewolucyjnie bestii nasyconych mocą Zerum, a wykorzystywanych powszechnie w handlu jako rącze wierzchowce eskort, zwierzęta pociągowe oraz brutalna asysta frontowa.
+- **Wioski i osady** — zbiorowiska mniejszej społeczności rzemieślników i osadników, którzy nie zdołali się osiedlić pod dachem grubych wałów w samym Bastionie, lecz zasilili strefę protekcyjną wielkiej stolicy pod wojskowym skrzydłem garnizonu.
+- **Lasy, łąki, jeziora** — odseparowane od magii biologiczne, dzikie pasma ekologii u osad. Tu wieśniacy i mieszkańcy grodu swobodnie polują w sezonowych poszukiwaniach surowców, łowią pożywne łupy i zacieśniają trudy przetrwania wyciągając zapasy.
+- **Garnizony patrolowe** — regularne, morderczo wytrwałe oddziały ekspedycyjne z utrwalonych jednostek zbrojnych Latarników i członków awangardy Zakonów Przysięgłych Więzi, podtrzymujące stalowe rygory dbania o stabilizację w regionie.
 
 **Zagrożenia Przedpoli:**
-Przedpola nie są rajem. Dzikie bestie — wilki nasycone Zerum, kryształowe niedźwiedzie, stadne raptery — wałęsają się po lasach i stepach. Bandyci napadają na karawany. Spontaniczne mini-Pęknięcia otwierają się raz na kilka tygodni. Ale to zagrożenia **kontrolowane** — porównywalne z dzikimi zwierzętami i rozbójnikami, nie z kataklizmami.
+Terytoria Przedpól definitywnie nie stanowią wymarzonej sielanki o utopijnym pokoju dla spacerowiczów. Bestie dzikiej proweniencji tętniące u wyłomu lasów w krwiożerczych i naelektryzowanych zewsząd wilków na nasyceniu Zerum, krystaliczne niedźwiedzie pancerne rzucające się gniewem w ataku łap w watahach raptorów — wszystko to bezszelestnie wałęsa się po niepokojących nocą głębokich gąszczach po bocznych traktach ubitych piasków i traw. Oszustwa oraz wyrachowane akty rozboju dopuszczane ze strony oprawców bandyckich na u kupieckim ruchu terytorium potrafią bezwzględnie w rzezi zgarnąć cenną karawanę. Rozprucia wymiarowe również się tu rzadko pojawiają jako spontaniczne incydentalne mini-Pęknięcia demoniczne wybijające raz na kilka pełnych napięcia tygodni swą parszywą skazę wprost z ciemności. Fakty pozostają jednak takie iż mimo okrucieństwa ocalonych na froncie z miast, rygor miejski określa je wyłącznie jako zagrożenia w pełni **kontrolowane** na dłoni śmiertelnika – brutalną biologię z naturalnej drapieżnej matki ewolucji o rygorach życia – zjawiska zupełnie odległe morderczą różnicą potencjału u zagłady niosącej koszmarnie przez rozpad świata z otchłani czystych i pierwotnych kataklizmów z epoki Pustoszycieli.
 
 ### 3.3. Biomy Naturalne Rezeryum
 
-Poza Przedpolami, ale jeszcze przed Głęboką Dziczą, rozciągają się **normalne biomy Rezeryum** — krajobrazy przypominające ziemskie, ale naznaczone obecnością Zerum:
+Rozciągające się swobodnie poza wytyczonymi Przedpolami, lecz wciąż przed niewyobrażalnym chaosem Głębokiej Dziczy, leżą rozległe **normalne biomy Rezeryum**. To zniewalające krajobrazy silnie przypominające ziemską przyrodę, jednak nieodwracalnie wypaczone i przesiąknięte trwającą obecnością promieniowania Zerum:
 
-- **Puszcze Żywiczne** — gęste, stare lasy iglaste. Drzewa wydzielają żywicę nasyczoną Zerum — w większych ilościach toksyczną. Pyrrhani i Drask są na nią odporni; inne rasy potrzebują masek lub mikstur. Bogate w rzadkie surowce alchemiczne.
-- **Stepy Szarego Wichru** — bezkresne trawiaste równiny, przez które przewalają się wiatry niosące drobiny kryształowego pyłu. Idealne tereny dla Ghorran i karawan. Bestie stepowe (kryształowe mustangi, rogacze) są tutaj pospolite.
-- **Jeziora Splotu** — zbiorniki wodne z naturalnie wysokim nasyceniem Zerum. Woda ma lekko opalizujący kolor. Zylmari zakładają tu osady poza Bastionami. Ryby z tych jezior są cennym pożywieniem.
-- **Góry Kręgowe** — łańcuchy górskie wypchnięte przez trzęsienia z Wojny Koron. Skały zawierają żyły surowego Zerum. Drask i Kragath prowadzą tu kopalnie i warsztaty.
-- **Bagna Mglistej Głębi** — mokradła na granicy Przedpoli i Głębokiej Dziczy. Gazy z rozkładających się kryształów tworzą trujące mgły. Velmari czują się tu najlepiej — ich grzybowe kolonie kwitną w wilgoci.
-- **Równiny Ziaren** — żyzne tereny z naturalną roślinnością nasycającą się Zerum. Tu najlepiej rosną uprawy. Shenn zarządzają tu najbujniejszymi sadami i polami.
+- **Puszcze Żywiczne** — Niezłomne, prastare lasy iglaste o kolosalnej gęstości. Pnie tych odwiecznych gigantów pulsują i stale wydzielają lepką żywicę nasyconą czystym Zerum, którego nagromadzone opary stają się zabójczo toksyczne. Pierwotne rody Pyrrhanich oraz nieugięci, kamienni Draskowie wykazują naturalną oporność na tutejsze wyziewy, jednak pozostali wędrowcy zmuszeni są korzystać z masek oddechowych lub wyspecjalizowanych mikstur. Las stanowi bezcenne źródło najbardziej poszukiwanych na rynku surowców alchemicznych.
+- **Stepy Szarego Wichru** — Bezkresne, surowe oceany trawiastych równin, nieustannie biczowane przez gwałtowne huragany niosące ostre, ścierne drobiny kryształowego pyłu. Stanowią absolutną domenę łowców z klanów Ghorran oraz odważnych, uzbrojonych po zęby kupieckich karawan. Zdziczałe, naelektryzowane stada kryształowych mustangów oraz terytorialnych rogaczy są tutaj niekwestionowanymi panami ziemi.
+- **Jeziora Splotu** — Głębokie i spokojne dorzecza o ekstremalnie wyśrubowanym, naturalnym nasyceniu magicznego Zerum. Napięcie esencji sprawia, że krystaliczne tonie wód emanują łagodnym, onirycznym i lekko opalizującym światłem. W odmętach tych szepczących jezior mroczni Zylmari budują swoje odległe osady. Łowione stąd tętniące życiem ryby uchodzą za nadzwyczaj odżywczy i ekskluzywny towar handlowy.
+- **Góry Kręgowe** — Majestatyczne, przecinające chmury łańcuchy uśpionych szczytów, dawno wyrwane z głębin lądu gigantycznymi wstrząsami tektonicznymi u kresu Wojny Koron. Zwarta skorupa ukrytych w ciemnościach skał kryje lśniące żyły pierwotnego Zerum. Zdeterminowani Draskowie we współpracy ze srogimi rzemieślnikami Kragath prowadzą we wnętrzach masywów największe na świecie, imponujące i nieugięte kopalnie oraz podziemne kuźnie.
+- **Bagna Mglistej Głębi** — Gąbczaste, ponure i bezlitosne mokradła roszące granice pomiędzy cywilizowanymi Przedpolami a koszmarem skrajnej Dziczy. Duszące gazy wydobywające się z rozkładu zatopionych na dnie kryształów formują nieprzeniknione, jadowite opary. Unikający otwartych terenów Velmari obrali te mgliste rojowiska na idealne środowisko, kultywując w gęstej wilgoci rozkładu swoje gigantyczne królestwa grzybni i ule.
+- **Równiny Ziaren** — Wyjątkowo łagodne i nieopisanie żyzne połacie lądu, na których tętniąca życiem flora w harmonijny sposób akumuluje bezcenne Zerum. Żyzność gleb sprawia, że plony uginają się w obfity, bezcenny urodzaj. Magicznie predysponowani, oddani cyklom biologicznego życia Shenn zarządzają w tym rejonie najbujniejszymi ziemskimi sadami i rzędami niekończących się pól rolniczych, chroniąc głodujące miasta przed upadkiem.
 
 ### 3.4. Głęboka Dzicz (Biomy Egzotyczne)
 
-Im dalej od Bastionów i Splotów stabilności, tym bardziej Zerum przejmuje kontrolę nad przyrodą. **Głęboka Dzicz** to strefy, gdzie prawa natury uginają się — nie łamią się całkowicie, ale zachowują się nieprzewidywalnie.
+Im dalej wędrowiec zapuszcza się od bezpiecznych Bastionów i Splotów stabilności, tym potężniej promieniowanie Zerum przejmuje absolutną kontrolę nad otaczającą go przyrodą. **Głęboka Dzicz** to mroczne i wrogie strefy, gdzie niezłomne w innych miejscach prawa natury nieodwracalnie się uginają — wprawdzie nie łamią się całkowicie w chaos, jednak zachowują się w wysoce egzotyczny i śmiertelnie nieprzewidywalny sposób.
 
-- **Mgławicowe Puszcze** — lasy, w których pyłki przepalają Zerum w płucach, drzewa rosną w wielu kierunkach jednocześnie. Powietrze fosforyzuje.
-- **Krystaliczne Pustynie** — równiny skondensowanego Zerum, gdzie każdy krok uruchamia „wspomnienie" trzęsienia ziemi sprzed tysiącleci.
-- **Archipelagi Księżycowe** — odłamki zawieszone w martwych wirach wiatru, z kaprysną grawitacją.
-- **Odwrócone Lasy** — rosnące pionowo w dół wzdłuż ścian Lejów po Koronach.
-- **Morza Pamięci** — wody, które odbijają przeszłość lub możliwe przyszłości, nigdy teraźniejszość.
+- **Mgławicowe Puszcze** — Koszmarne, gęste lasy, w których toksyczne pyłki dosłownie przepalają nagromadzone Zerum w płucach ofiar. Drzewa rosną tu w wielu kierunkach jednocześnie, ignorując wektory grawitacji, a gęste powietrze nieustannie przerażająco fosforyzuje.
+- **Krystaliczne Pustynie** — Bezkresne równiny zbudowane ze skondensowanego Zerum, gdzie każdy najdrobniejszy krok zmusza podłoże do uruchomienia niszczycielskiego „wspomnienia” potężnego trzęsienia ziemi sprzed tysiącleci.
+- **Archipelagi Księżycowe** — Dryfujące, gigantyczne odłamki lądu zawieszone w martwych wirach głuchego wiatru, rządzące się skrajnie kapryśną, wybiórczą grawitacją.
+- **Odwrócone Lasy** — Złowieszcza flora rosnąca pionowo w dół, kurczowo trzymająca się skalnych ścian przepastnych Lejów pozostałych po upadłych Koronach.
+- **Morza Pamięci** — Tajemnicze i zwodnicze akweny, których oniryczne wody odbijają zniekształconą przeszłość lub zatrważająco możliwe ścieżki przyszłości, nigdy zaś nie ukazują tego, co istnieje tu i teraz.
 
-Wyprawy w Głęboką Dzicz wymagają doświadczenia, sprzętu i eskorty. Wracalność: ok. 10% przy wyprawach w najgłębsze strefy, ale strefy brzegowe Głębokiej Dziczy są eksplorowane regularnie z akceptowalnym ryzykiem.
+Jakiekolwiek wyprawy w Głęboką Dzicz wymagają żelaznego doświadczenia, potężnego sprzętu ochronnego i doborowej eskorty. Statystyki wracalności są bezlitosne: około 10% przy ekspedycjach w najgłębsze i najciemniejsze strefy. Niemniej jednak strefy brzegowe Głębokiej Dziczy nadal są regularnie badane i eksplorowane przez ryzykantów z akceptowalnym, choć uciążliwym stopniem ryzyka.
 
 ### 3.5. Zasada Nasycenia Zerum
 
-Kluczowa reguła świata: **im wyższe nasycenie Zerum, tym bujniejszy i zdrowszy krajobraz** — ale też dziwniejszy i bardziej nieprzewidywalny.
+Kluczowa, żelazna reguła świata brzmi: **im wyższe jest nasycenie Zerum w glebie i powietrzu, tym bujniejszy i zdrowszy wydaje się z pozoru krajobraz** — automatycznie staje się on jednak mroczniejszy, bezwzględnie dziwniejszy i o wiele bardziej nieprzewidywalny.
 
-| Nasycenie | Krajobraz | Bezpieczeństwo |
-|---|---|---|
-| Niskie | Jałowy, szary, martwy | Raczej bezpieczny, ale biedny |
-| Umiarkowane | Normalny — lasy, łąki, jeziora | Kontrolowane zagrożenia |
-| Wysokie | Bujny, intensywne kolory, wielkie drzewa | Dzika fauna, lecznicze rośliny |
-| Ekstremalne | Egzotyczny, nieprzewidywalny — Głęboka Dzicz | Śmiertelnie niebezpieczny |
+| Nasycenie   | Krajobraz                                     | Bezpieczeństwo                           |
+| :---        | :---                                          | :---                                     |
+| Niskie      | Jałowy, szary, niemalże całkowicie martwy     | Raczej bezpieczny, ale nędznie biedny    |
+| Umiarkowane | Normalny — klasyczne lasy, łąki, spokojne jeziora | Kontrolowane i przewidywalne zagrożenia  |
+| Wysokie     | Bujny, pełen intensywnych barw, gigantyczne drzewa| Zdziczała fauna, terytorium leczniczych ziół|
+| Ekstremalne | Egzotyczny, chaotyczny — serce Głębokiej Dziczy   | Śmiertelnie, bezwzględnie niebezpieczny  |
 
 ---
 
 ## 4. BASTIONY
 
 ### 4.1. Czym Są Bastiony
+Bastiony to błądzące w cieniu potęgi **serca cywilizacji Rezeryum** — od tytanicznych, zapierających dech metropolii po dumnie stojące, małe warownie pogranicza. Nie są to jednak zdesperowane, ponure bunkry stworzone jedynie by przetrwać; to **tętniące życiem społeczności** przepełnione gwarem krzyczących targów, płonącymi piecami warsztatów, pieśniami w zatłoczonych tawernach, skupieniem w uczelniach i dymem kadzideł w świątyniach. Każdy Bastion u swych początków został przymusowo wzniesiony wokół ustabilizowanego Pęknięcia (Bramy), ponieważ to właśnie mroczna wyrwa decyduje w tym świecie o być albo nie być — dostarczając niezbędne Zerum zasilające energię, napędzające uprawy żywności oraz stanowiące najwyższą walutę królestw.
 
-Bastiony to **miasta Rezeryum** — od wielkich metropolii po małe warownie. Nie są to ponure bunkry przetrwania — to **żywe społeczności** z targami, warsztatami, tawernami, szkołami, świątyniami i festiwalami. Powstały wokół stabilnych Pęknięć (Bram), bo te dostarczają Zerum — energię, pożywienie, paliwo i walutę.
-
-Każdy Bastion jest inny: jedne są bogatymi ośrodkami handlu, inne wojskowymi twierdzami, jeszcze inne — biednymi osadami na skraju upadku. Wszystkie Bastiony są **wielorasowe** — 21 ras Rezeryum żyje ze sobą jak narody na jednym kontynencie. Są napięcia, ale i współpraca, handlarze i dyplomaci, małżeństwa międzyrasowe i dzielnice etniczne.
+Każdy z Bastionów wyewoluował w unikalny sposób: jedne to ociekające złotem kryształów ośrodki bezwzględnego handlu, drugie stanowią zmilitaryzowane do szpiku kości górskie fortece, a jeszcze inne — gnijące osady ziejące biedą na skraju upadku. Wszystkie rygorystycznie uznawane Bastiony są jednak **wielorasowe** — kilkanaście gatunków wymuszenie dzieli na przestrzeni murów byt podobny do ogromnego, podzielonego państwa. Ciasnota generuje naturalne, okrutne napięcia klasowe, zmuszając równocześnie do dyplomacji, zakładania ściśle strzeżonych dzielnic etnicznych oraz rzadkich układów małżeństw mieszanych w imię sojuszy politycznych.
 
 ### 4.2. Typy Bastionów
-
-- **Fortece Pierścieniowe** — klasyczne, warstwowe miasta wokół Lejów. Im bliżej centrum, tym wyższy status.
-- **Bastiony Żywomurowe** — mury z skamieniałych drzew nasyconych Zerum, które rosną, oddychają i naprawiają się same.
-- **Cytadele Górskie** — wbudowane w góry, często w pobliżu kopalni Zerum.
-- **Miasta Portowe** — nad Jeziorami Splotu lub na brzegach Mórz, handlujące z Zylmari i karawan morskich
-- **Miasta-Nomadzi** — na grzbietach Archaionów, wędrujące po Dziczy
-- **Mury-Koron** — zbudowane wewnątrz skamieniałych ciał Pustoszycieli, ich mieszkańcy nie znają prawdy o swoich murach
+- **Fortece Pierścieniowe** — Klasyczne, warstwowe miasta-molochy budowane promieniście wokół olbrzymich Lejów z Pęknięciem w centrum. Im bliżej wyrwy i bogactwa Zerum, tym silniejszy i bardziej elitarny staje się status lokatorów wewnętrznego pierścienia.
+- **Bastiony Żywomurowe** — Fenomenalne struktury botaniczne, których mury spleciono z gigantycznych, skamieniałych drzew głęboko nasyconych Zerum. Fortyfikacje te żyją własnym cyklem, samodzielnie oddychając i niezwykle powoli, w sposób naturalny, naprawiając swoje wyłomy.
+- **Cytadele Górskie** — Ściśle wbudowane w martwe jaskinie i głębokie szczeliny wysokich pasm górskich; ich chłód i niedostępność często strzegą niezwykle bezcennych i terytorialnych podziemnych kopalni z cennymi łupami surowego Zerum.
+- **Miasta Portowe** — Konstruowane niepewnie na palach lub zacumowane przy mrocznych wodach Jezior Splotu oraz na brzegach Głębokich Mórz. Silnie zintegrowane w handlu rzecznym z Zylmari i okrętową logistyką wodnych karawan.
+- **Miasta-Nomadzi** — Gigantyczne i architektonicznie chaotyczne konstrukcje osadzone ciężko na kolosalnych, spękanych pancerzach i grzbietach potężnych bestii Archaionów. Cyklicznie wędrują one swoimi własnymi szlakami przez Dzicz.
+- **Mury-Koron** — Najmroczniejszy i najbardziej bluźnierczy z sekretów Rezeryum. Zapomniane Bastiony wydrążone i obudowane wewnątrz gigantycznych, martwych powłok skamieniałych Pustoszycieli. Ich oszukani mieszkańcy bezwzględnie nie znają prawdy o przerażającej otoczce swojego własnego domu.
 
 ### 4.3. Bastiony — Mapa Świata
 
-| Bastion | Typ | Profil | Cechy |
-|---|---|---|---|
-| **Żarnogród** | Forteca Pierścieniowa (wielka) | Handlowy, bogaty | Największy szlak handlowy Rezeryum, targi kryształów, siedziba głównych Gildii Handlowych. Dominują Raashari i Kragath. Kosmopolit. |
-| **Głębomir** | Cytadela Górska | Militarny, surowy | Główna twierdza chroniąca przejście Kręgowe. Silna garnizonem Przysięgłych Więzi. Vrakai i Drask stanowią trzon obrony. |
-| **Splecin** | Żywomurowy | Naukowy, cywilizowany | Siedziba Iglicy Nazwanych. Centrum edukacji i badań nad Zerum. Żywe Mury pielęgnowane przez Shenn. Miasto-ogród. |
-| **Mokradła Velmari** — Prządka | Portowy / mokradła | Izolowany, handlowy | Jedyne stałe "miasto" Velmari — częściowo pod wodą, częściowo w grzybowych koloniach. Handluje rzadkimi grzybami, truciznami i leczniczymi wywarami z Bagien. |
-| **Kres Wichrów** | Forteca stepowa | Biedny, graniczny | Mały Bastion na skraju Stepów Szarego Wichru. Pierwsza linia obrony przed Pustoszycielami od wschodu. Biedny, twardy, ale honorowy. Wielu Ghorran i Aervin. |
-| **Kornak** | Cytadela podziemna | Przemysłowy, zamknięty | Podziemny Bastion Drask i Nythrai. Ogromne kuźnie, warsztaty i tunele łączące inne Bastiony. Produkuje większość broni i narzędzi Rezeryum. |
-| **Jasne Progi** | Otwarte miasto | Dyplomatyczny, religijny | Miasto bez wielkich murów, chronione przez Solhari i stabilizatory Pęknięć. Neutralny grunt dla negocjacji między Bastionami. Świątynia Równowagi. |
-| **Czerszawa** | Nomada (Archaion) | Handlowy, wolny | Miasto-Nomada na grzbiecie gigantycznego Archaiona. Przynosi wieści i towary do izolowanych Bastionów. Najbardziej wielorasowe miejsce w Rezeryum — tu wszyscy współistnieją z konieczności. |
+| Bastion | Typ Architektury | Profil Dominujący | Kluczowa Charakterystyka |
+| :--- | :--- | :--- | :--- |
+| **Żarnogród** | Moloch Pierścieniowy | Handlowy, ociekający bogactwem | Tętniące serce największego handlowego zbiegu szlaków w Rezeryum. Ogromne, krzyczące targi kryształów i bezwzględna siedziba potężnych Gildii Handlowych. Wysoce kosmopolityczny, prowadzony twardą ręką zdominowaną przez kupców Raashari i tytanów Kragath. |
+| **Głębomir** | Cytadela Górska | Doktryna militarna i surowość | Niezłomna górska twierdza chroniąca przejście do pasm Kręgowych. Skoszarowana masywnym garnizonem fanatycznych Przysięgłych Więzi. Bezwzględni Vrakai i wykuci w kamieniu Draskowie stanowią tu nieprzebity trzon obronny frontu. |
+| **Splecin** | Żywomurowy | Akademicki i scentralizowany | Szlachetna siedziba prestiżowej Iglicy Nazwanych. Potężne centrum gromadzenia elit edukacji i rygorystycznych badań nad Zerum. Oddychające Żywe Mury czule pielęgnowane przez zjednoczonych Shenn. Funkcjonuje jako olbrzymie miasto-ogród harmonii. |
+| **Prządka (Mokradła)** | Portowo-Grzybowy | Złowieszczy i odizolowany | Groźne, jedyne stałe "miasto" należące do rojów Velmari — zatopione na poły pod mroczną wodą, a na poły we wstrętnych, wilgotnych koloniach grzybni. Przoduje w mrocznym handlu zabójczymi truciznami, wywarami i rzadką florą bagienną. |
+| **Kres Wichrów** | Ostroga Stepowa | Wyeksploatowany i bezlitosny | Niewielki, nędzny bastion wciśnięty na sam skraj Stepów Szarego Wichru. Pełni rolę wymuszonej, pierwszej linii straceńczej obrony przed Pustoszycielami Wschodu. Skrajnie biedny, twardy i honorowy; pełny wyklętych Ghorran i szybkich Aervin. |
+| **Kornak** | Cytadela Podziemna | Przemysłowy, hermetyczny skok | Klaustrofobiczny, skąpany w żarach kuźni skrytych pod ziemią moloch zdominowany przez inżynierię Drask. Tworzy plątaninę korytarzy i szlaków głębinowych, produkując bez wytchnienia kolosalne nakłady ciężkiej broni oraz maszynerii militarnej. |
+| **Jasne Progi** | Otwarty Front | Pasywny, dyplomatyczno-religijny | Unikalna stolica otwartych ramion, niemal pozbawiona warownych murów, powierzona opiece eterycznych Solhari i zaawansowanym stabilizatorom Pęknięć. Służy za neutralny, arbitrażowy grunt dla wszelkich rozejmów dyplomatycznych i wznoszenia hołdów Równowagi. |
+| **Czerszawa** | Obozowisko-Nomada | Karawanowy, w stu procentach wolny | Żywe, chwiejne miasto na plecach kroczącego w wieczności gigantycznego Archaiona. Kolosalna platforma niosąca wieści, przemyt i egzotykę pod same wrota izolowanych Bastionów. Społecznie absolutny i bezwzględny tygiel różnorodności wszystkich istot z konieczności kroku masztu. |
 
 ### 4.4. Mury-Koron (Bastiony Zapomniane)
 
-Jeden lub kilka Bastionów zostało zbudowanych **wewnątrz zastygłych ciał Pustoszycieli** — kolosalnych form, które z nieznanych przyczyn skamieniały tysiące lat temu.
+Tajemnica chroniona wymazaną z historii ludzkości krwią — nieliczne Bastiony zostały fizycznie wybudowane i osadzone **wewnątrz zastygłych mięśni i potężnych kości ciał samych Pustoszycieli** — starożytnych, kolosalnych bestii o rozmiarach kontynentalnych makrostruktur, które tysiące lat wstecz z niezbadanych przyczyn dosłownie skamieniały.
 
-**Cechy:**
-- Mieszkańcy **nie znają prawdziwej skali świata** — wierzą, że poza Murami jest nicość.
-- Wysocy aktywnie **wymazują pamięć** tych Bastionów o ich prawdziwej historii.
-- Mury-Koron są niezwykle stabilne (martwy Pustoszyciel blokuje Pęknięcia), ale odkrycie prawdy byłoby szokiem cywilizacyjnym.
-- Dla reszty świata Mury-Koron to **legendy lub „zaginione Bastiony"**.
+**Mroczne dziedzictwo Bastionów Zapomnianych:**
+- Zamieszkujące te struktury ofiary **absolutnie nie są świadome prawdziwej skali i obrazu świata** — wierzą, otuleni w gęsty mrok indoktrynacji, iż poza zewnętrzną barierą "Muru" zieje po prostu kwasowa wędrówka kosmicznej nicości.
+- Manipulujące światem byty — Wysocy — wykazują fanatyczną, opresyjną aktywność, by raz za razem bezpowrotnie **wymazywać pamięć** każdego cyklu kulturowego po to, aby lokatorzy Murów-Koron nigdy nie poznali spisku otaczającej ich niewoli.
+- Z punktu widzenia architektonicznego mury te gwarantują niesamowity, perfekcyjny poziom fizycznej stabilności osadników (gigantyczna masa martwego Pustoszyciela odwiecznie tłumi agresję samych Pęknięć), jednak nagłe obudzenie świadomości mas wywołałoby natychmiastowy i katastroficzny szok ewolucyjny.
+- Spojrzenie obiektywne dla pospólstwa z zewnątrz w normalnych miastach sprowadza istnienie dusz w ciele boga wokół legend do taniego mitu nazywając plotki zaledwie bajkowymi **„zaginionymi Bastionami”** o straconej w wirach dziejów lokalizacji.
 
 ---
 
@@ -114,86 +110,78 @@ Jeden lub kilka Bastionów zostało zbudowanych **wewnątrz zastygłych ciał Pu
 
 ### 5.1. Szlaki Handlowe
 
-Handel jest krwiobiegiem Rezeryum. Główne szlaki:
+Handel to jedyny pulsujący krwiobieg, który utrzymuje zwaśnione Bastiony Rezeryum przy wspólnym życiu. Wytyczone, kluczowe szlaki to:
 
-- **Szlak Kryształowy** (Żarnogród ↔ Głębomir ↔ Kornak) — transport surowego Zerum z kopalni do stolic handlu. Najważniejszy i najlepiej strzeżony szlak.
-- **Szlak Wichrów** (Żarnogród ↔ Kres Wichrów) — prowadzi przez Stepy, eskortowany przez karawany z Ghorran i Przysięgłymi. Niebezpieczny, ale opłacalny.
-- **Szlak Mokry** (Prządka ↔ Splecin) — transport wodny przez Jeziora Splotu. Zylmari pilotują barki.
-- **Szlak Nomada** (Czerszawa → wszędzie) — ruchomy szlak Miasta-Nomady, docierający do izolowanych osad.
-
-**Karawany:**
-- **Karawany Lądowe** — eskortowane przez Więzi Bojowe, 10-50 wozów, podróż trwa dni lub tygodnie
-- **Latające Okręty** — zasilane rdzeniami Zerum, rzadkie i drogie, ale szybkie i bezpieczne
-- **Tunele Podziemne** (Kornak) — droga przez podziemia, prowadzona przez Drask
-- **Barki Splotu** — na szlakach wodnych, pilotowane przez Zylmari
+- **Szlak Kryształowy** *(Żarnogród ↔ Głębomir ↔ Kornak)* — Najważniejsza i najbardziej morderczo strzeżona arteria świata. Zapewnia transport najczystszego, bezcennego surowego Zerum z potężnych kopalni Gór Kręgowych wprost do ociekających luksusem stolic handlu.
+- **Szlak Wichrów** *(Żarnogród ↔ Kres Wichrów)* — Surowa, długa trasa przecinająca bezkresne Stepy. Regularnie eskortowana przez uzbrojone po zęby karawany opłacane okiem Ghorran oraz Zakonem Przysięgłych. Wysoce niebezpieczna przez bandytyzm, ale gargantuicznie opłacalna logistycznie.
+- **Szlak Mokry** *(Prządka ↔ Splecin)* — Płynny transport wodny wytyczony przez lśniące Jeziora Splotu. Zamglony szlak, w całości operowany i pilotowany przez niezawodnych i cichych Zylmari.
+- **Szlak Nomada** *(Czerszawa → wszędzie)* — Unikalny, majestatycznie ruchomy węzeł szlaku Miasta-Nomady. Przeciera nowe ścieżki transportu, docierając do najbardziej ufortyfikowanych, izolowanych osad pochowanych przed gniewem Głębokiej Dziczy.
 
 ### 5.2. Sojusze i Pakty
 
-- **Pakt Kręgowy** (Głębomir + Kornak + Kres Wichrów) — sojusz obronny trzech Bastionów wschodnich. Wzajemna pomoc militarna przy ataku Pustoszycieli.
-- **Liga Żarnogrodzia** (Żarnogród + Splecin + Prządka) — sojusz handlowy zachodni. Wspólne regulacje cen kryształów, arbitraż sporów.
-- **Jasne Progi** — neutralny mediator, nie należy do żadnego paktu, ale jest uznawany za grunt negocjacyjny przez wszystkich.
-- **Czerszawa** — formalnie niezależna, ale utrzymuje stosunki handlowe ze wszystkimi.
+- **Pakt Kręgowy** *(Głębomir + Kornak + Kres Wichrów)* — Żelazny pakt obronny łączący mrożące krew w żyłach, zbrojne i brutalne Bastiony frontu wschodniego. Gwarantuje bezwarunkową wzajemną pomoc militarną w ułamku nagłej fali ataku obudzonych Pustoszycieli Wschodu.
+- **Liga Żarnogrodzia** *(Żarnogród + Splecin + Prządka)* — Potężny zjednoczony monolit gospodarczy kierujący zachodnią cywilizacją. Wspólnie formuje twardy regulamin globalnych cen kryształów Zerum, dławiąc próby wyłamań politycznych arbitrażami.
+- **Jasne Progi** — Bastion bezwzględnie neutralnych mediatorów, kategorycznie stojący poza układami. Uzbrojony w moc dyplomacji, jest uznawany za święty, bezkrwawy grunt negocjacyjny przez wszystkie inne mocarstwa.
+- **Czerszawa** — Władza formalnie zbiegów absolutnie niezależnych. Pozostaje poza Paktami, chłodno kalkulując i utrzymując lukratywne stosunki rynkowe z każdą wymienioną stroną.
 
 ### 5.3. Konflikty i Napięcia
 
-Nie wszystko jest pokojem. Między Bastionami trwają:
+Kruchy układ świata bezustannie drży w zbrojnych posadach. Pomiędzy Bastionami niezmiennie tlą się:
 
-- **Wojny o Pęknięcia** — nowo odkryte Bramy oznaczają bogactwo. Bastiony rywalizują (dyplomatycznie i militarnie) o kontrolę nad nimi.
-- **Spory terytorialne** — granice Przedpoli nie są wyraźne. Kto kontroluje żyzne Równiny Ziaren między dwoma Bastionami?
-- **Rywalizacja ekonomiczna** — Gildie Handlowe w różnych Bastionach walczą o monopole.
-- **Napięcia rasowe** — w Bastionie zdominowanym przez jedną rasę, inne mogą czuć się marginalizowane. W kosmopolitycznym Żarnogrodzie jest to mniej widoczne niż w zamkniętym Kornaku.
-- **Kwestia Korzenników** — niektóre Bastiony (Splecin, Jasne Progi) tolerują Korzenników, inne (Głębomir, Kornak) traktują ich jak zdrajców.
+- **Wojny o Pęknięcia** — Każda nowo ujawniona, ustabilizowana Brama to rzeka energii bogactwa. Bastiony bezlitośnie rywalizują o ich przejęcie za pomocą podstępnego zamachu dyplomatycznego i szpiegowskich bitw.
+- **Spory terytorialne** — Granice biologicznych Przedpoli naturalnie i nieprzewidywalnie falują w naturze. Ostre kwestie tego, pod czyimi prawami znajduje się nowo obrodzona, suta Równina Ziaren pomiędzy metropoliami, potrafią oblać się bez ostrzeżenia posoką potężnych batalii bojowych.
+- **Rywalizacja ekonomiczna** — Wściekłe Gildie Handlowe w różnych, potężnych Bastionach toczą ukryte wojny wewnątrz samej koniunktury, likwidując bez skrupułów nowo wyłaniające się domy cechowe, pragnące łamać wybitne monopole surowców rynkowych.
+- **Napięcia rasowe** — Im bardziej miasto staje się hermetycznie nacjonalistyczne, tym surowiej są marginalizowane poszczególne rasy skazane na getta u uboższych pierścieni, co prowadzi w końcu w cykliku lat do otwartej rewolucji o godność z rzezią na dzielnicowych.
+- **Kwestia Korzenników** — Radykalna filozofia badaczy uśpionych systemów odrzucania dogmatów Pęknięć budzi lęk o utratę rytu we frakcjach. Niektóre ośrodki dyskusji tolerują Korzenników w imię rozwoju wolnego punktu wiedzy *(Splecin, Jasne Progi)* stawiając za wzór inteligencje, do potąd, gdzie inni uderzają w inkwizycję na ulicach dławiąc ogień bluźniący we władzę jako jadowity zdrajcę ładu z wyroków lochowego rygoru *(Głębomir, Kornak)*.
 
 ### 5.4. Dyplomacja
 
-- **Rady Bastionowe** — każdy Bastion ma wewnętrzną formę rządu (od rad starszyzny po militarną juntę)
-- **Posłowie** — stali przedstawiciele Bastionów w innych miastach
-- **Traktaty Bramowe** — umowy regulujące dostęp do Pęknięć i podział zasobów z Komnat
-- **Zjazdy w Jasnych Progach** — coroczne spotkania przedstawicieli głównych Bastionów, rozstrzygające spory i ustalające wspólną strategię wobec Pustoszycieli
+- **Rady Bastionowe** — Rządy miast-państw posiadają drastycznie odmienne fundamenty u fundamentu ustroju prawa potęg w izbach wewnątrz swego gmachu (od czarującej na mądrość gładkich wypowiedzi zgromadzoną starszyzn aż pod wojskową faszystowską huntę decydującej pięści żołdaków rzucając okrucieństwa dyktatur we lud).
+- **Posłowie** — Rozsiana tarcza stacjonarnych i formalnych wywiadów ambasadorów z Bastionów z zaszczytami godności roszczeń dyplomatycznych dbają we sercach konkurentach interesów mateczników o status pakt u cudzego progu.
+- **Traktaty Bramowe** — Misterne zawiłe i obszerne księga umów handlu u łap politycznych wyrobów, regulująca mordercze dyktatywa rzucana w prawo we wstępie oraz podział ociekającego władzą terytorialnego zdobywcy u surowców pozyskanych w otchłaninie w ciemnych z esencji szczelin Komnat wymiaru i u pęknięcia skrawków bramy.
+- **Zjazdy w Jasnych Progach** — Razoczo prestiżowe coroczne obrady u okrężnym obrad z reprezentacji absolutnie wyższości najwyższych z najmocarniejszych dowodzących decydujących głów w Bastionach rasy. Spęd we świątynnym zaciszu gasi twardym sędziowskim dyktatem rozpad w wojnie po wybuchu w świecie od szkodliwych spory gospodarki ras u rasy i ustala uderzenia twardej frontowej wspólnej doktryny zjednoczenia na widmo w walki szaleństwa wyższych i Pustoszycieli wobec zmarłego świata z grozy cieni wyroku od wysocy i od za do dróg we dzicz.
 
 ---
 
 ## 6. EKONOMIA ZERUM
 
-Rezeryum żyje dzięki Zerum jako uniwersalnemu zasobowi:
-- **Kryształowe Pola** — uprawy kryształów jako pożywienia, paliwa i waluty
-- **Hodowle Bestii** — stworzenia nasycone Zerum, używane do transportu, pracy i obrony
-- **Sztuczne Słońca** — z Żywych Run, oświetlające wnętrza Bastionów i podziemia
-- **Wydobycie z Komnat** — ekspedycje Latarników po rzadkie zasoby z Pęknięć
-- **Kopalnie Żył** — surowce Zerum wydobywane z Gór Kręgowych
+Całe społeczeństwo Rezeryum brutalnie zależy od Zerum jako fundamentu i uniwersalnego zasobu imperiów:
+- **Kryształowe Pola** — Rygorystycznie strzeżone, sztuczne uprawy kryształów pełniące role życiodajnego pożywienia, nieskończonego paliwa energetycznego oraz najtwardszej, stabilnej waluty wymiany.
+- **Hodowle Bestii** — Przymusowo mutowane, nasycane Zerum w kontrolowanych dawkach dzikie stworzenia używane do wzmożonego transportu, nadludzkiej pracy siłowej oraz morderczej obrony garnizonowej.
+- **Sztuczne Słońca** — Skomplikowane architektonicznie instalacje ufundowane z serc "Żywych Run", rozświetlające ponure, uwięzione pod ziemią dziedzińce Bastionów oraz całe terytoria podziemnych kopalni.
+- **Wydobycie z Komnat** — Elitarne i naznaczone masową śmiercią ekspedycje cechów Latarników wyprawiane prosto w trzewia otwartych Pęknięć po wybitnie rzadkie zasoby z wymiaru Komnat.
+- **Kopalnie Żył** — Surowe bryły krystalicznego Zerum brutalnie wydzierane i kute tysiącami kilofów głęboko z żył potężnych Gór Kręgowych.
 
-Brak dostępu do Zerum = głód + brak energii + upadek Bastionu. Dlatego kontrola nad Pęknięciami i szlakami handlowymi jest kwestią polityczną.
+Brak stałego dostępu do świeżego Zerum zawsze oznacza to samo = ostateczny głód, błyskawiczne wygaszenie energii ratunkowej i powolny, brutalny upadek całego Bastionu. Dlatego też polityczna oraz zbrojna kontrola bezwzględnie decyduje o panowaniu nad każdym odnalezionym Pęknięciem i wytyczonym szlakiem transportu.
 
 ---
 
 ## 7. TRANSPORT
 
-- **Karawany Lądowe** — eskortowane przez Więzi Bojowe, regularne kursy
-- **Latające Okręty** — zasilane Głosami Pierwszych i rdzeniami Zerum, rzadkie
-- **Tunele Podziemne** — sieć Drask i Nythrai łącząca główne Bastiony
-- **Barki Splotu** — transport wodny, tani i bezpieczny na krótkich dystansach
-- **Miasta-Nomadzi** — żywe mosty między izolowanymi osadami
+- **Karawany Lądowe** — Podstawowa masa logistyczna. Chronione i eskortowane przez zbrojne Więzi Bojowe Zakonów; krążą stałymi, wytyczonymi lądem długimi kursami spedycji.
+- **Latające Okręty** — Arcyrzadkie i wysoce arystokratyczne cudy inżynierii, zasilane tętniącymi pulsem „Głosami Pierwszych” oraz mitycznymi rdzeniami głębokiego Zerum. Ich lśniące żagle to najdroższy, lecz bezwzględnie bezpieczny luksus transportu kupiectwa.
+- **Tunele Podziemne** — Ogromna, klaustrofobiczna i duszna sieć wyrąbana siłą czystego rzemiosła przez zakłady Drask oraz wylęgarnie Nythrai, potajemnie łącząca najważniejsze w świecie dumnie mury i główne Bastiony.
+- **Barki Splotu** — Smukły ponton ciężkiego transportu mknący z wiatrem po uroczych i głębinowych szlakach rzek u wód, nieznośnie tani oraz opłacalny gwarant dla krótkodystansowych wymian surowca rolnictwa.
+- **Miasta-Nomadzi** — Gigantyczne i żywe mosty architektoniczne kute żelazem u skamieniałych muszli bestii krążące wolnym pasmem dzikiej przestrzeni a rzucającym liny pomiędzy straconymi u dziczy, całkowicie izolowanymi i umierającymi z utraty zaopatrzenia osadami peryferii.
 
 ---
 
 ## 8. BASTIONOWE STYLE WALKI
 
-Każdy Bastion rozwija własny **styl walki** — unikalne kombinacje Natur Zerum, Głosów Pierwszych i Więzi, przekazywane z pokolenia na pokolenie.
+Pod cieniem ciągłego zagrożenia Ze strony Głębokiej Dziczy i w cieniu politycznych intryg, każdy Bastion przez stulecia wykształcił swój własny, unikalny **styl walki** — wysoce wyspecjalizowane, zabójcze kombinacje wykorzystujące *Natury Zerum*, brutalną asystę bestii z *Więzi* oraz okrzyki *Głosów Pierwszych*. Wiedza ta przekazywana jest z mistrzów na nowicjuszy w ścisłej tajemnicy murów ojczystych miast.
 
-**Przykłady:**
-- **Szkoła Popiołu** (Żar + Rdza) — destrukcyjne techniki oparte na kruszeniu i przepalaniu; popularna w Głębomirze i Kornaku
-- **Szkoła Fali** (Przepływ + Czas) — płynne, adaptacyjne techniki z elementami przewidywania; ceniona w Splecinie i Prządce
-- **Szkoła Cichych** (Cień + Pryzmat) — techniki skrytobójcze łączące ukrycie i nagłe rozbłyski; rozwinięta na Czerszawie
-- **Szkoła Korzenia** (Przepływ + Rdza) — żywe fortyfikacje i manipulacja terenem; domena Splecina i Przedpoli
+**Słynne Szkoły i Techniki Zbrojne Bastionów:**
+- **Szkoła Popiołu** *(Natura Żaru i Rdzy)* — Destrukcyjna i bezwzględna doktryna ciosów nastawiona na błyskawiczne kruszenie pancerzy i spopielanie tkanek wroga. Opiera się na potężnych uderzeniach i twardej obronie. Dominuje na froncie u żołnierzy Głębomiru oraz pośród kowalskiej kasty w podziemiach Kornaku.
+- **Szkoła Fali** *(Natura Przepływu i Czasu)* — Oparta na płynności kroków mordercza adaptacja taneczna na polu bitwy. Wykorzystuje jasnowidzenie i elementy potężnej predykcji przyszłości do ucieczek przed ciosem i zwinnych kontr. Powszechnie ceniona w rozległym Splecinie oraz na mokradłach Prządki.
+- **Szkoła Cichych** *(Natura Cienia i Pryzmatu)* — Wysoce precyzyjna, akrobatyczna i skrytobójcza gałąź zabójców. Opiera się wpierw na perfekcyjnej iluzji świetlnej oraz pełnym ukryciu aury, by zadać jeden ostateczny, oślepiający i błyskawiczny rzut w serce ofiary. Zdobna sztuka sztyletu rozwinięta obfitą historią zdrad w obozowiskach Czerszawy.
+- **Szkoła Korzenia** *(Natura Przepływu i Rdzy)* — Geologiczna i mocarna manipulacja terenem oraz biologią organizmów w obronie statycznej. Mistrzowie potrafią dosłownie wyrwać ze Splotów żywe fortyfikacje i wznieść drewniano-skalne tarcze dla całych garnizonów bojowych. Defensywna duma chroniąca granice Bastionu Splecina.
 
-Każdy styl ma swoje **tradycje, rytuały treningowe i mistrzów** — poznanie cudzego stylu to zarówno akt szacunku, jak i potencjalna przewaga strategiczna.
+Poznanie sekretów, rytuałów i założeń treningów cudzego stylu walki stanowi najwyższy akt wielkiego szacunku bądź wręcz gigantycznej przewagi szpiegowsko-wojskowej.
 
 ---
 
-## Do Doprecyzowania
-
-- Dokładna mapa rozmieszczenia Bastionów i szlaków
-- Ile Murów-Koron istnieje? Czy wszystkie są zapomniane?
-- Jak duże jest Rezeryum? Czy jest skończone?
-- Lokalne festiwale, tradycje i codzienność w poszczególnych Bastionach
-- Konkretne gatunki bestii na Przedpolach i w normalnych biomach
+## Następne Cele (Do Rozszerzenia):
+- Wytyczenie szczegółowego rozmieszczenia Bastionów i twardych szlaków na mapie globu.
+- Rozstrzygnięcie, ile faktycznie Murów-Koron zaginęło na świecie i czy da się do jednego dotrzeć celowo?
+- Pytanie o skalę uwięzienia i rozmiary kontynentów Rezeryum.
+- Konkretyzacja list gatunków dzikich bestii patrolujących Przedpola oraz obiekty z Głębokiej Dziczy.
