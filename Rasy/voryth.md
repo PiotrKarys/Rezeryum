@@ -54,3 +54,6 @@ Cenieni w **Splecinie** (doradztwo, badania Zerum), **Jasnych Progach** (dyploma
 - Czy Vorathax zamrażający czas jest świadomy tego, co się dzieje?
 - Jak Voryth postrzegają śmierć? Czy widzą swoją?
 - Czy istnieją Voryth z Naturą inną niż Czas?
+
+
+przeciwienstwo orvhan

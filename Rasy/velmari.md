@@ -1,58 +1,55 @@
-# VELMARI (linia grzybowa/pasożytnicza)
+# VELMARI (linia grzybowo-insektoidalnego roju)
 
 **Rodzina:** Głębinowi
 
 ---
 
-## Pochodzenie
+## O rasie
 
-Symbiotyczne istoty z Komnat, gdzie Zerum przeniknęło grzybnie i stworzyło świadomość kolektywną. Zawsze istnieją jako sieć — nawet „jednostka" Velmari to tysiące nitek grzybni w humanoidalnym kształcie.
+Mroczny biologiczny i kolektywny triumf głębinowego życia. Velmari powstali w zakamarkach najbardziej wilgotnych terenów podziemnych. Prezentują nadświadomość ula i grzybni — pojedynczy przedstawiciele nie stanowią bytu niezależnego, ale funkcjonują jako wtyczki neuronalne całego zmutowanego ekosystemu symbiozy, zdolni opanczerzyć swą obecność żywym, chitynowym rynsztunkiem na komendy roju.
 
-## Linia ewolucyjna
+## Historia i Pochodzenie (w tym integracja dawnych ras)
 
-- **Velm** → **Velmar** → **Velmaroth**
+Setki lat temu Pęknięcia zrodziły dwie wysoce zorganizowane, rojowe cywilizacje rozwijające się zaraz obok siebie. Rozszerzająca się na poziomie biomasy i komunikacji chemicznej, ekspansywna zarodnia wegetacyjna (wczesne Velmari) naturalnie weszła na pas obronny rojów podziemnych w głębi dziczy — insektoidów, nazywanych wtedy Nythrai. Nie było jednak konwencjonalnej wojny, ani rozlewu kwasu. Grzybnia Zerum spowinęła układ nerwowy owadów w doskonałej stymulacji – całkowicie zasymilowała dawną insektoidalną rasę w jedną wielką wspólnotę ekologiczną. Ule i formy insektoidalne – ostre grawitacyjne tarcze i chityna stała się **Kastą Chitynową** macierzystej sieci Velmari (która pełni funkcję **Kasty Zarodnikowej**). Dziś nikt nie używa nazwy Nythrai; owadzia forma jest bezcennym narzędziem militarnym oraz architektem wspaniałych domów dla gąbczastych zarodników.
 
-## Wygląd
+## Kultura i Społeczeństwo
 
-Humanoidalne sylwetki o „skórze" z miękkiego, wilgotnego materiału grzybowego. Kolory od bladego kremu po głęboki fiolet i czerń. Na ich ciałach rosną miniaturowe grzyby, mchy i porosty. Nie mają typowych oczu — „widzą" przez sieć chemicznych receptorów. Velmaroth to żywy ekosystem — las grzybowy w kształcie osoby.
+Jako byt ula rasy tej nie spotkasz tłumnie w Bastionach rządzonych i gwarnych u polityków. Tworzą własne potężne miasta biologiczne (ule utwardzane chityną pokryte lśniącymi od Zerum wykwitowymi kominami), osiadłe w bagnach i najdalszych Kresach. Logika i dyplomacja działają poprzez przesył feromonów Zerum w powietrzu, drganie podziemnej grzybni oraz anten insektoidalnych dronów. Nie mają tradycyjnej moralności, wyczuwając jednostki z zewnątrz jako "tkankę", ale są niezwykle pożądanymi partnerami handlowymi i niebywałymi logistykami (potrafią zarządzać strukturą Bastionu obronnego).
+
+## Fizjologia
+
+Forma wegetologiczna dzieli się z natury funkcji, do której stworzył ją macierzysty ul:
+- **Kasta Zarodnikowa (Dawni Velmari):** Organiczne figury utkane z kołtunów porostów twardniejących w ząbrowate warstwy. Brak im widzialnej rzeźby twarzy, wykazują potężne pulsujące żyły Zerum i luminescencyjny wysyp pyłków z naturalnych porów na barkach i z głowy o kształcie grzybiczym. To w nich tkwi rdzeń zarządzania i infekcji otoczenia.
+- **Kasta Chitynowa (Dawni Nythrai):** Żywe drony i inżynierowie. Egzoszkielety segmentowane niczym owadzie (barwa od czerni po jantarną). Wyposażone w anteny, twardą chitynę, dodatkowe zestawy uśpionych rąk blisko żebrowania. Oczy wielofasetowe świecą z wewnętrznej matrycy komunikacyjnej. Znakomici rzemieślnicy architektury roju.
+
+Z ewolucją łączą się coraz mocniej w potęgę środowiskową:
+**Velm / Nyth** → **Velmar / Nythral** → **Velmaroth / Nythrakar**
 
 ### Przewodnik Wizualny (AI Prompt)
-- **Cechy kluczowe**: Humanoidalny grzyb. Brak twarzy w ludzkim sensie — zamiast oczu mogą mieć świecące pory lub skupiska zarodników. Głowa może przypominać kapelusz grzyba lub być porośnięta koralowymi formacjami mchu. Skóra jest porowata i lekko wilgotna.
-- **Forma 3 (Velmaroth)**: Postać staje się wysoka i rozłożysta, przypominając powykręcane drzewo porośnięte setkami kolorowych hub i grzybów. Z rąk zwisają girlandy porostów, a w powietrzu unosi się gęsta chmura świecących pyłków.
-- **Ubiór**: Brak ubrań lub organiczne "przeszycia" z mchu i kory. Ciało jest jednością z ekosystemem.
-- **Prompt Base**: `fungal humanoid creature, skin made of mushrooms and lichen, no face, glowing bioluminescent spores, head shaped like a mushroom cap, vibrant purple and green ecosystem growing on body, swampy misty environment`
-
-## Kultura
-
-Velmari **nie żyją w Bastionach** — zamieszkują Dzicz, tworząc własne terytoria (głównie Bagna Mglistej Głębi). Kontakt z innymi rasami odbywa się na warunkach Velmari — wchodzisz na ich terytorium tylko za zaproszeniem. Nie są wrogo nastawieni, ale ich natura (infekowanie terenu grzybami) czyni współżycie w mieście niemożliwym. Komunikują się chemicznie — feromony Zerum przenoszą emocje i informacje.
+- **Kasta Zarodnikowa (Velmari Base):** `fungal humanoid creature, skin made of mushrooms and lichen, no face, glowing bioluminescent spores, head shaped like a mushroom cap, vibrant purple and green ecosystem growing on body, swampy misty environment`
+- **Kasta Chitynowa (Nythrai Base):** `insectoid humanoid with black chitinous exoskeleton, glowing compound eyes, long antennae, four arms, triangular head, surrounded by a swarm of small bio-luminescent insects, dark alien aesthetic`
 
 ## Iskrzyk
 
-Iskrzyki Velmari to drobne organizmy grzybowe: świecące na fioletowo porosty w kształcie motyla, miniaturowe drzewka grzybowe chodzące na nitkach, obłoki sporów Zerum tworzące efemeryczne kształty.
+U Kasty Zarodnikowej: małe gąbczaste fruwające chmury pyłu, zwiadowcze lśniące bio-sowy z mchu, a u Kasty Chitynowej: stado świetlików modliszkowatych, żukowate symbionty i małe insekty esencji lecące w szyku ula.
 
 ## Bastiony
 
-**Prządka** to jedyny „Bastion" z znaczącą populacją Velmari — i to na ich warunkach. Poza tym żyją w Bagnach Mglistej Głębi i na obrzeżach Głębokiej Dziczy. Handlują z Bastionami rzadkimi grzybami, lekami i truciznami.
+Potężne populacje w dziczy na warunkach kolonii (np. Bagna Mglistej Głębi). Znaczne i pożądane kasty w robotach organizacyjnych pojawiają się w **Kornaku** (gdzie pomagają Draskom swymi systemami logistyki chitynowej) oraz na terenach **Prządki**.
 
 ## Relacje
 
-- Najlepsi sojusznicy: **Shenn** (wzajemna ciekawość ekologiczna), **Myrrhan** (obie rasy „poza normą")
-- Napięcia z: **Pyrrhani** (ogień niszczy grzybnie), **militarne Bastiony** (ich terytorialność jest traktowana jako zagrożenie)
+- Najlepsi sojusznicy: **Drask** (wspólna robota inżyniersko-konstrukcyjna w budowaniu odporności przeciw Zerum).
+- Napięcia z: **Ghorran** (myślenie stadne oparte na lojalności i indywidualności starte na koncepcji wyzbytego uczuć, matematycznego Roju budzi niesmak i obcość na obu stronach).
 
 ## Cechy
 
-- zarażanie otoczenia — transformacja terenu w „swoje" terytorium
-- komunikacja chemiczna (feromony Zerum)
-- regeneracja przez rozrost
-- Velmaroth: żywe ekosystemy — mogą przejąć kontrolę nad całym biomem
-
-## Handel z Bastionami
-
-Velmari **nigdy nie wchodzą do Bastionów** — handel odbywa się wyłącznie **na ich terytorium**. Karawany z Bastionów podróżują na granice Velmari, gdzie w wyznaczonych „strefach handlowych" (polanach, brzegach bagien) wymieniają towary. Velmari oferują: rzadkie grzyby lecznicze, trucizny, materiały biologiczne, informacje o stanie Głębokiej Dziczy.
+- ewolucja bio-architektoniczna.
+- Zarażanie terenu macierzą (Velmaroth może zasymilować ekosystem).
+- Absolutna łączność mentalno-chemiczna (rozbudowane pole świadomości bojowej).
 
 ## Do Doprecyzowania
 
-- Jak wyglądają handlowe spotkania na ziemiach Velmari?
-- Czy Velmaroth przejmujący biom zachowuje indywidualność?
-- Czy istnieje sposób, by Velmari mieszkał w Bastionie?
-- Jak Velmari postrzegają inne rasy — substraty czy partnerzy?
+- Czy pojedynczy dron z Kasty Chitynowej może zostać odcięty od roju i odzyskać samostanowienie?
+- Jak Bastiony kupują od Velmari chitynowe stelaże?
+- Gdzie leży pierwotny Rdzeń Grzybni, z którego wzięła się pierwsza asymilacja?

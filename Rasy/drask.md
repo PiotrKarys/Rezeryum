@@ -1,56 +1,56 @@
-# DRASK (linia krasnoludzko-kamienna)
+# DRASK (linia krasnoludzko-kamienna i żarząca)
 
 **Rodzina:** Żywiołowi
 
 ---
 
-## Pochodzenie
+## O rasie
 
-Potomkowie istot, które przetrwały maksymalne nasycenie Zerum w skałach. Ich ciała przystosowały się, nasiąkając minerałami i metalem.
+Masywni inżynierowie i nieugięci rzemieślnicy świata. Draskowie, zrodzeni pod ziemią w ekstremalnie naładowanych Pęknięciach, ewoluowali, pochłaniając rdzą i minerałami zabójcze ilości Zerum. Dziś stanowią najtrwalsze, opancerzone fundamenty obronne Rezeryum; skałę, dookoła której pędzi płynny chaos. Ich serca pracują jednak z mocą wulkanów.
 
-**Natura Zerum:** Rdza (dominująca)
+## Historia i Pochodzenie (w tym integracja dawnych ras)
 
-## Linia ewolucyjna
+Zapiski wskazywały ongiś, że istnieli osobni, eteryczni w swej dzikości Pyrrhani – istoty utkanie wręcz z samego żaru – oraz stoiccy Draskowie kleszczący się w kamieniu i rudach. Okazało się, że Pyrrhani reprezentowali proces czystego wybuchu ognia w sercu Pęknięcia, który wypalał swoje filigranowe ciała o wiele za szybko. Skazani na wygaśnięcie we wrogim układzie magii, związali swą linię krwi ostatecznie i nierozerwalnie z potężnymi ciałami Drasków, oficerując w zamian duszę niegasnącej kuźni. Dzisiaj ta pradawna ogień-rasa nie żyje oddzielnie, a znana jest jako **Linia Żaru** pośród pobratymców **Linii Skały** w potężnym imperium mistrzów rzemiosła. Natura Zerum to odpowiednio Rdza i Żar.
 
-- **Drasik** → **Draskul** → **Draskharn**
+## Kultura i Społeczeństwo
 
-## Wygląd
+To twórcy miast i kuźnie podziemnego świata (np. potężna sieć forteczna w Kornaku). Kultura to precyzja, dyscyplina i gildyjna praca. Gdzie kamienni Draskowie wkuwają w rudy uderzając niesamowitą siłą fizyczną, tam rzadszy Drask z Linii Żaru działa gołymi rękami – uformowany naturalnym ogniem, który czyni opancerzone dłonie żywym piecem kowalskim. Społeczeństwo targa burzliwy temperament: kamienni ważą każde słowo niczym żelazo, a wybuchowość i pasja dziedzictwa dawnych Pyrrhanich potrafi kruszyć autorytety w sekundę. Są szczerzy, głośni i niepokonani. Cenią silne alkohole z głębin (Drask-piwo warzone kryształowo).
 
-Krępi, masywni, o skórze przypominającej szlifowany kamień — szarej, brązowej lub rudej z metallicznym połyskiem. Oczy jak agaty. Dłonie szerokie, zbudowane do pracy. W wyższych formach ich ciała zrastają się z metalem — Draskharn ma kończyny z żywej stali i potrafi scalić się ze ścianami fortecy.
+## Fizjologia
+
+Dwie linie ewolucji odcisnęły tu potężny znak twardości i destrukcji w humanoidzkiej formie:
+- **Linia Skały (Klasyczna):** Niska do krępej postura o fakturze błyszczącego polerowanego granitu. Szarawa lub brązowa powłoka wchłania na bieżąco metal i piach. Z ewolucją (Draskharn) zrastają się z masywną litą stalą, a wręcz potrafią jednoczyć Splot ze ścianami twierdz, których strzegą. Wyrastają im zbrojne, rdzawe guzki kości.
+- **Linia Żaru (Dawni Pyrrhani):** Podobnie zbudowani i szerocy, ale ich potężne mięśnie i skóra odzwierciedlają zaschnięty obsydian węglowy. Z rozdarć pancerza pulsują i lśnią pod pomarańczową skórą żyły absolutnej lawy. Brak owłosienia – w zamian unoszący się popiół. Na wysokich formach ewolucji powietrze dokoła nich staje się falującą mirażą piechoty-superpieca, a żar gotowy jest przeprogramować inne artefakty.
+
+Ewolucja przebiega w kierunku gigantycznej trwagi destrukcji: 
+**Drasik / Pyrr** → **Draskul / Pyrrhan** → **Draskharn / Pyrrhakos**
 
 ### Przewodnik Wizualny (AI Prompt)
-- **Cechy kluczowe**: Szeroka, potężna sylwetka, niska postura. Skóra o fakturze granitu lub bazaltu, z wyraźnymi krawędziami przypominającymi ciosany kamień. Oczy bez białek, lśniące jak wypolerowane kamienie szlachetne (pomarańczowe lub rdzawe). Broda i włosy mogą przypominać drobne druciki lub krystaliczne nitki.
-- **Forma 3 (Draskharn)**: Postać wygląda jak posąg, który ożył. Przedramiona i nogi to lita stal z rdzawymi zaciekami. Na plecach wyrastają krystaliczne formacje. Gdzie stąpnie, tam ziemia pęka pod ciężarem.
-- **Ubiór**: Pancerze z grubych płyt metalu, skórzane fartuchy kowalskie, pasy z ciężkimi młotami i dłutami.
-- **Prompt Base**: `short massive stone-skinned humanoid, skin texture like polished granite, glowing amber gemstone eyes, robotic-like metal limbs with rust, blacksmith leather apron, heavy iron armor, subterranean dark forge background`
-
-## Kultura
-
-Drask to budowniczowie i kowale Rezeryum. Ich kuźnie w Kornaku produkują większość broni, narzędzi i maszyn. Cenią rzemiosło, precyzję i wytrwałość. Ich społeczności są hierarchiczne — mistrz-uczeń, oparte na cechach i gildiach. Drask-piwo (warzone z kryształowej wody podziemnej) jest legendarne w całym Rezeryum.
+- **Linia Skały (Drask Base):** `short massive stone-skinned humanoid, skin texture like polished granite, glowing amber gemstone eyes, robotic-like metal limbs with rust, blacksmith leather apron, heavy iron armor, subterranean dark forge background`
+- **Linia Żaru (Pyrrhani Base):** `obsidian-skinned fire elemental humanoid, cracks in skin glowing like molten lava, eyes made of burning embers, fiery hair made of smoke and sparks, heat haze efekt, intense orange and red bioluminescence, muscular and wide build`
 
 ## Iskrzyk
 
-Iskrzyki Drask to ciężkie, kamienne istoty: żuki z metalicznym pancerzem, krety ze stalowymi pazurami, miniaturowe golemy topiące się i formujące na nowo.
+U Linii Skały: Ciężkie, kamienne istoty, żuki w rdzawych chitynach, krety ze stalowymi pazurami i miniaturowe golemy. 
+U Linii Żaru: Zapalające się salamandry z iskier, płomienne wiórki formujące jaszczura dymnego zwiastujące początek erupcji.
 
 ## Bastiony
 
-Dominują w **Kornaku** (podziemna cytadela-kuźnia), **Głębomirze** (fortyfikacje), **Górach Kręgowych** (kopalnie). Obecni we wszystkich Bastionach jako kowale i budowniczowie.
+Dominują w **Kornaku** (podziemna cytadela-kuźnia), **Głębomirze** (fortyfikacje bojowe operujące lawą i skałą), **Górach Kręgowych** (kopalnie). Odporni na promieniowanie i pyły. Silnie ufortyfikowani. 
 
 ## Relacje
 
-- Najlepsi sojusznicy: **Pyrrhani** (ogień + kamień = najlepsze konstrukty), **Kragath** (wspólna pasja do budowy)
-- Napięcia z: **Aervin** (zbyt lotni, za mało przyziemni), **Myrrhan** (brak stałego kształtu drażni Drask)
+- Najlepsi sojusznicy: **Velmari / Chitynowi** (wielki wkład w architekturę, szacunek dla precyzji strukturalnych form).
+- Napięcia z: **Shenn** (Draskowie Żaru wypalają im czasem roślinność i irytują swą dominacją).
 
 ## Cechy
 
-- skóra i kości jak skała
-- naturalna praca z metalem i kamieniem
-- kontrola geologii
-- Draskharn: żywe twierdze, mogą scalić się z murami Bastionu
+- skóra i kości jak skała / wybitna potęga ognia i odporność na żar
+- praca kowalska bez oporów na zmęczenie
+- Draskharn może scalić się z Bastionem, Pyrrhakos może rozgrzewać i niszczyć formacje Zerum.
 
 ## Do Doprecyzowania
 
-- Jak wygląda hierarchia cechowa Drask? Ile cechów istnieje?
-- Czy Drask-piwo ma właściwości Zerum?
-- Jak Draskharn scalony z murami postrzega świat?
-- Czy istnieją Drask żyjący poza Bastionami?
+- Czy Draskharn czuje ból uszkodzonego muru fortecy z którą jest sprzężony?
+- Z jakich rzadkich rud odlewa się maski Linii Żaru?
+- Jak wygląda święto roczne w kuźniach Kornaku?

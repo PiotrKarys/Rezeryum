@@ -68,3 +68,6 @@ Aurynn mogą **łączyć się z przedstawicielami innych ras** w procesie zwanym
 - Czy hybryda Aurynn może się dalej łączyć z kolejnym Aurynn?
 - Jak wygląda codzienne życie ukrytego Aurynn wśród Raashari?
 - Czy Aurynn mają własne cele, czy są neutralni wobec konfliktu Wysokich i Głębokich?
+
+
+rasa nie autonomiczna

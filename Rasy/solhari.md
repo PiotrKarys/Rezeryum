@@ -54,3 +54,5 @@ Dominują w **Jasnych Progach** (miasto chronione przez ich stabilizatory, bez w
 - Czy Solhariel stabilizuje Pęknięcia świadomie czy automatycznie?
 - Jak wyglądają Jasne Progi (Bastion Solhari)? Czy mury są zbędne?
 - Czy istnieją Solhari, którzy odrzucili Wysokich?
+
+
