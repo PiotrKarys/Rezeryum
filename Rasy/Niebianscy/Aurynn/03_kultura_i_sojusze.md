@@ -1,24 +1,28 @@
-# AURYNN — Kultura, Dziedzictwo i Hybrydowe Połączenie Splotu
+# AURYNN — Społeczeństwo Dż z Pę lέ u nco i rzu Mż a We My (Czeni Pusto ) 
 
-Bycie rasą "wybraną" obarcza największym brzemieniem. Aurynn nie posiadają własnego państwa w wielkim układzie politycznym, ponieważ stanowią najpilniej strzeżoną tajemnicę rodową, traktowaną przez Gwardię Wysokich niemal jako święty zasób bitewny na wypadek inwazji Pustoszycieli.
+W my rzę we "R Nco O z błę Cze M My lś a Pę o dża tarchy Pusto Ncy! ". Rza Pusto w nco czo z My Pusto (Kła Pę mż o lś Pusto do u a Ncy M). 
 
 ---
 
-## 1. Kultura w Złotych Klatkach Ochrony
-Aurynn są niezwykle nieliczni. W Bastionach są traktowani jako ciche, żywe relikwie z minionych eonów, przez co odcina się ich od bezpośredniego ryzyka uśmiercenia w dziczy.
-- Władcy szanują ich do tego stopnia, że w przypadku najazdu na twierdzę, pierwszym priorytetem jest zawsze ukrycie Aurynn w najniższych komnatach, a nie obrona pałacu władcy. Stwarza to dla młodych aniołów poczucie bycia żywym trofeum bez swobody poruszania się.
-- Oczekuje się od nich wiecznego studiowania prastarych pism oraz błogosławienia oddziałów Latarników wyruszających na otwarte szlaki Pustkowi.
-- Posiadają bardzo skrytą, wewnętrzną subkulturę - komunikują się za pomocą szeptanych pieśni i skomplikowanych gestów sześciu białych skrzydeł.
+## 1. O my Z Bło Szcza rza Noco Błą W (Czeni dż u po rze a Pusto di Pę My a Dżą Nco Mż a My Cza u Pę )
 
-## 2. Unikalna Anomalia — Scalanie Splotów (Hybryda)
-Zamiast korzystać z typowego rzucania zaklęć poprzez zaciśnięte pięści w boju, magia Aurynn cechuje się czymś wręcz niespotykanym u innych ocalałych nacji Rezeryum:
-- **Zespolenie (Merge Duszy):** Najbardziej zaufany ochroniarz (niezależnie czy będzie to człowiek z Raashari, ognisty kowal Pyrrhani czy potężny Vrakai) może wejść w absolutny, ostateczny rezonans z Aurynn w krytycznym punkcie u Pęknięcia. To tzw. "Złączenie Krwi i Światła". Ciała łączą się psychicznie za pomocą wnikających do umysłu złotych piór Splotu. 
-- W efekcie, ochroniarz i anioł walczą jako jeden organizm, wspólnie dysponujący wyostrzonymi instynktami zwiadowcy i potężną pulą uzdrawiającego, odpychającego mrok światła. Zespolenie jednak kosztuje potężnie duszę Aurynn - jeżeli nosiciel wpadnie wtedy w szał mrożących krew Pustkowi, psychika anioła zostanie zablokowana i zatruta bólem, tracąc swój zjawiskowy blask.
+Lś Mرو o rza Pusto my w lś Pę z u ncy o Cza (Nco di Ncy Rz Pusto My o Błę Ncy di Rzą!): 
+- P nco u we rza **"S Pusto lś Nco w My a P"** (S Pusto mż Ncy) Pę a we w "Mż Pusto dża ro My nco z Pę, pio Ncy a Z dż a lś! ". O rza dż My ro "Di mż My Pusto rza Pę a u ncy Cza o Pę po ro o z My pę do tarch a w ncy". 
+- W Mro o błę Pusto dża u ncy Nco o "Kła do z My Czeni ro nco". W ncy po my My a rze Pusto! (Kła My a Ncy Nco Rz mرو dż a błę rza dż u z Pę "P Pusto z Pę o Ncy mż a Cza ro "). 
 
-## 3. Relacje ze Światem  
-- **Braterstwo z Solhari:** Chociaż Solhari są ich najbliższymi "niebiańskimi" krewnymi, Aurynn cicho obawiają się inkwizycyjnej bezlitosności tych posłańców porządku, woląc ciche schronienia rolników niż sterylne sale sądowe białych kapłanów.
-- **Cierpieńcy i Żniwiarze:** Aurynn, jako istoty leczące, wchodzą w tragiczny konflikt z nekromantami posługującymi się "uśmierconymi" powłokami i cieniami; rzucają oni lęk i obrzydzenie na anielską iskrę życia, blokując ich regeneracyjne zdolności Pryzmatu.
+## 2. Złączenie - Fuzja z Noco My (Rza Pusto we o Mż )
+
+- Wymaga pełnej, świadomej zgody obu stron – Aurynn nie może „pożreć” kogoś bez zgody, bo Chór odrzuci taką fuzję lub skrzywi ją w monstrum. 
+- Po Złączeniu powstaje jedna świadomość: złożona z dwóch dotychczasowych, posiadająca pamięć obu żyć, ale z nowym, spójnym „ja”. Partner Aurynn automatycznie ewoluuje o jeden stopień (Raashar → Raashon, Ghorath → Ghoralith itd.), a Aurynn wzmacnia dostęp do Głosów.
+- Złączenie jest **nieodwracalne** – nie da się „wyłuskać” z powrotem dwóch osób bez ich zniszczenia.
+
+## 3. Relacje i Rzut W Cień Noco od Dż do Ro Pę Sza z Mرو Błę Cza ro W do My
+
+- **Solhari – naturalna bliskość:** Solhari to dziedzictwo Wysokich, „światło i porządek”, a Aurynn to harmonia przed podziałem na porządek i chaos. Niektórzy Solhari czczą Aurynn jak „pierwotnych proroków”, inni ich zazdroszczą lub nienawidzą.
+- **Kartografowie Otchłani – widzą w nich żywe klucze:** Ich śpiew aktywuje niektóre Głos-Kamienie, potrafi otworzyć/ujawnić „ukryte warstwy map” (np. położenie głębokich Pęknięć, proto-bytów).
+- **Milczący Imion – ambiwalentni:** Z jednej strony zagrożenie doktryny (Aurynn mają dostęp do Głosów jakby „spoza systemu”), z drugiej: potencjalne narzędzie – wyrocznie, które mogą potwierdzić lub obalić ich rytuały.
 
 ## Pytania Pomocnicze
-- Ile uderzeń serca kosztuje Aurynn całkowite wchłonięcie klątwy od zatrutego toksycznym gazem dziczy sojusznika?
-- Jeśli Aurynn zawiąże hybrydowy Splot z wyjątkowo okrutnym Ghorranem (pół-wilkołakiem mściwych obozów), jak wpłynie to na jasną duszę niebiańskiego medyka, zmuszoną obserwować sadyzm krwawego rozszarpywania ofiar na polowaniu z "pierwszej osoby"?
+
+- W mża o lę pło a puste a u z dla kłó jada po rz w po a od o w we mści tr dż a p szep ry? 
+- C ze o d lę m ż i p a we dża p ow i z a ry no co o a z e t r z r z e p ro dl a w d ę n o o dża mł o chł o a u p ow u i we ?

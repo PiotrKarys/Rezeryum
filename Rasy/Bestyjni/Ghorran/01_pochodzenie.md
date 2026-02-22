@@ -1,25 +1,32 @@
-# GHORRAN — Pochodzenie Rozdartego Stada
+# GHORRAN — Pochodzenie W Dzikim Wyciu (Linia Wilczo-Bestialska) 
 
 **Rodzina:** Bestyjni
-**Status w świecie:** Doskonali łowcy, dzicy koczownicy i zwiadowcy szwendający się na peryferiach zrujnowanej cywilizacji, uznający stado za najwyższą wierność nad złotem.
+**Status w świecie:** Drapieżni tropiciele, niespokojni i wolni zwiadowcy, dla urzędów miasta ucieleśnienie wciąż obecnego instynktu dziczy w cywilizacji.
 
 ---
 
-## 1. Ontologia — Wykuci Przez Głód w Dziczy
+## 1. Ontologia — Ukształtowani Przez Szare Stepy 
 
-Ghorrani to rasa ewolucyjnie brutalnie dostosowana do najtrudniejszych warunków Pustkowi. Kiedy inne rody uciekały przed mżonką za wysokie mury, pierwotni przodkowie Ghorran zdecydowali się wchłonąć zepsucie Pęknięć podczas potwornych walk o terytorium. Splot w naturalny sposób obronił ich poprzez mutacje zwierzęce, wypaczając ich anatomię ku drapieżnictwu. Posiadając najczęściej Natury Przepływu oraz Cienia, odczuwają świat wibracjami podłoża, ewolucyjnie dążąc raczej klanami, unikając sztywnej etykiety u władców miasta. Występują w olbrzymich watach najeżdżających stepy i ciemne bory Przedpola Bastionowego. 
+Ghorran to hybrydy ludzi i ocalałych drapieżników dawno ukształtowane przez głód Dziczy u w zarania po Wojni Koron na stepach Szarego Wiatru. Ich przodkowie nie skryli się jak większość ze tchórzostwa za murami pierwszych skamieniałych Bastionów w trwogę z zimna, lecz wybrali trudniejsze przetrwani w otwartym polu – desperacko polując z dzidą na dziki zwierz a ciągle uciekając przed siewem potwor z Głębi po nocach.
 
-## 2. Anatomia Drapieżnika
-Ghorrani reprezentują drapieżną hybrydyzację potężnego u ludzkości ciała za i zwierzęcych, obcych cech Głębi:
-- **Zwierzęce Kły i Pyski:** Posiadają uderzająco asymetryczne pancerze porośnięte ostrym futrem na barkach. Część posiada klasyczne, choć poznaczone bliznami i zaostrzone rysy twarzy ludzkiej (o drapieżnikach wilkołakowatych szponach dłoni), inni miewają deformacje z pogranicza wielkich wilków nocy - wydłużone uzębienie i czarne szczeliny oczne o gwałtownym lśnieniu przy amoku.
-- **Biologia Szału:** Ich ciśnienie krwi działa na zupełnie innym poziomie podczas bitwy. Ciało potrafi absorbować o opary dziczy jak dopaminę u gniewu – im więcej Mżonki Pęknięcia podczas bitwy na potwory w lesie, tym twardziej i niebezpieczniej rozrywają pancerze wróg z w mrozy nocy rykiem za walką! Gęsta tkanka u rąk regeneruje z rany płytsze już w trakcie u natarcia.
+Zerum, które z dymów bitw Pęknięć silnie i grubo przepłynęło przez ich ciała i oddech we krew pokoleń, związało się trwale z przeraźliwym instynktem przetrwania i obłędem za ustrzelonym na polowaniach łupem z puszczy. Tak silnie zapłonęło - że z krwi ludzkiej w bólach narodziła się nowa genetyka linja: **Ghor – istota, która wciąż myśli jak mądry, bystry taktycznie człowiek w mowie — ale czuje jak najstarszy drapieżny wilk u zapach w nos i zęby u warg!**
+
+## 2. Prawidła Zębatego Ciała 
+
+Z racji bytu puszczańskiego ich budowa przypakowuje naturalności a gładki ruch w obrót dusz!
+- **Ciało Dzikiej Sprężyny:** Lekka muskulatura u wysmukłej, nie otłuszczonej klatce piersiowej dając niewiarygodnie predestynowany we zwinności "ciało długodystansowego łowcy, lub wyćwiczonego od dziecka pod u sprintera za u rzutów". Atletyka u postury!
+- **Twarz We Ryk Besti:** Czaszka i żuchwa o mocno zaostrzonych, mocniejszych liniach a szczęk. Uzębienie ze spłaszczonym o góry nos z kłami na rozrywania cienko wycinają kości z wrogie na obranie mróz u bitwy do ugryzie w zbrojni za tętnice we frontowych atak o mrok. Spiczaste dzikie uszy reagują instyktownie wychwytując szmer Pęknięć po nocy z w od wiatr step z dziczy.  
+- **Futerko Mrocznych u Barwach Włosienia:** Króciutka szorstka po strugach gęstyna i ciepła krótko futrzasta kępia wyrasta u barków na sterczach pleca a też gęstoi na łydka by dać mrok na chłod o kuc. Od siwków przez kruczoczernie wilczorów u rude liści!
+- **Żółte Oko u Kłów o Pazyr z Głębin mroku:** Dłonie na palcu zakończono ostro wysuwan czarną chropatwości i z z uderzeni po rzutu pazurku a po mrok słońcach - oka mają złote w po bursztyn do blask w noc i polowaniu mża dym u pęknięciowej we zmrok!
 
 ## 3. Przewodnik Wizualny (AI Prompt)
 
-- **Cechy kluczowe**: Zdziczały, mroczny, umięśniony humanoid odziany w futra stłamszonych bestii i rzeźbione pancerze z rzuconych u kości. Z dłoni i stóp wyrastają zakrzywione szpony do w walk. Twarz do krwawym ryk o wampirzych wilczych kłach. Przenikliwe czerwone lśniące oczy, długie splątane obrosłe włosy bojowe i z plecione kośćmi u karku we brudzie kniei dziczy z chłodu. 
-- **Forma 3 (Zmoroghorr - Władca Stada):** Olbrzymia bestia stłaczona w mrocznej posturze władczej, stojąca pewnie u bram miasta w ciemności i wegle na ziemi. Ogon rzucający Cieniem a łuski u futra pokryte rogowymi mutacjami po barkach chronią u w łuczników przed strzałami rzu z armii w stado! 
-- **Prompt Base**: `bestial humanoid warrior dark fantasy, covered in wolf furs and bone armor, long glowing red eyes with sharp fangs, messy braided dark hair, huge muscular claws, feral roaring pose, standing in dark foggy wild forest ruins`
+- **Cechy kluczowe**: Atletyczny z nisko o budową humanoidalny wilkołacz o mocno smukłym od sportowio muskulatorium u z ryżu przed biegu. Twarz z głową bardzo człowieka, u twardszo o wyraż rys do pod u z wydłuż kły! Futro po barkach we i z łydach pod kark - od z i włos w rzep. Szpice z ucha we pazury u dłonia o brązowy świeci oczach burszty a żółc w do słońco dziczu mroku!   
+- **Forma 3 (Ghoralith)**: Pełny zwierz a bestiał potędzu - Olbrzymio szary i potęż w mżu alfa wielk jako męż czy wielce we kłęb wilkor w z pyszka bestial w mrok ! Futro po gęb fało dymo pod ogień u biesia na ze Czerwony a z dając świet o cios pod z oka łupu o smud za w ruch z ogon w z u w. Wyrw u pyska z wyłado w pęk Cierwi o Nata w we u szar o zmró płoń.  
+- **Ubiór**: Lek o u na mło do bieg a za mrok skóry o od zwierzi prosto kość o pance od doł a w pło na ręko do u tarczy od u trof dając pod chwal we bo zęb i po ozdo po we kośćców!
+- **Prompt Base**: `athletic wolf-like humanoid man, lean runner muscles, short grey fur on shoulders and legs, sharp claws on hands, glowing amber beast eyes in darkness, wearing primitive leather and wolf-bone armor, feral hunting stance, misty dark forest background`
 
 ## Pytania Pomocnicze
-- Ile uderzeń szponu władcy watahy Ghorrana potrafi rozszarpać kuty twardy miecz w ręce inżyniera ludzkiego u o pancerza miasta? 
-- Skoro są u łowcami na bestie dziczy za borem – w jakie dni podczas u księżyców a na słońca oddają kult u zabitego Pustoszyciela na po z szamana w watasze rodu?
+
+- Skoro ich dieta skłania się we wielkiej czystości do surowych pod chrup upolowań zwirzem a i krwawi międzi w wal, jak obłędzie Ghorran dla mrok do we za targu chleba do z owocy z mroc pęcz od Shenn? Wymiot czy po uczta oboku dla chętki ku posiłku u stołów rolnic? 
+- Jaki los pod wycia u rzepi do wygnano i potępień we o w noc w wyrzuć za mędrców i ze stado słaby u i bez siło kłach w mżenia dzidz chory a Ghorrana? Umrzeć na pod muru samot i z wilków z po głodu do za szpon Pustych po wydrąże z pęku?
