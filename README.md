@@ -55,26 +55,19 @@ Iskra → Żar → Płomień → Żagiew → Gwiazda
 
 ---
 
-## 🌍 Krajobraz i Miasta
-Wyprawy poza mury to niemal pewna śmierć dla zwykłych ludzi. Tylko Przebudzeni potrafią używać Zerum by nie zginąć w toksycznych oparach.
-- **Normalne Biomy** — Rozległe stepy, lasy i puszcze blisko ludzkich osad, posiadają znośne stężenie mżonki pęknięć.
-- **Głęboka Dzicz** — Tereny gdzie wybuchy pęknięć przeobraziły fizykalność świata (płynące w górę rzeki, lasy kryształów).
-- **Bastiony** — Gigantyczne i brutalnie zmilitaryzowane fortece broniące ocalałej populacji. Zasilane magią, napędzane hutnictwem i dyktowane prawami handlowych Gildii.
-- **Bramy (Pęknięcia)** — Ustabilizowane wielkie wejścia pod ziemię, pełniące funkcję śmiertelnie niebezpiecznych kopalni z których herosi znoszą potężne Kryształy Czasu i łupy z martwych bossów.
-
-## 🧬 Rasy (17 ras w 5 rodzinach)
+## 🧬 Rasy (21 ras w 4 rodzinach)
 
 ### Żywiołowi
-`Vrakai` · `Shenn` · `Drask` · `Pyrrhani`
+`Vrakai` · `Shenn` · `Drask` · `Zylmari` · `Pyrrhani`
 
 ### Bestyjni
-`Ghorran` · `Kalitropi`
+`Ghorran` · `Kalitropi` · `Aervin` · `Skaeth`
 
 ### Głębinowi
 `Thrakkor` · `Voryth` · `Prosterzy` · `Myrrhan` · `Velmari` · `Orvhan`
 
 ### Cywilizowani
-`Raashari` · `Nythrai` · `Tharumi`
+`Raashari` · `Kragath` · `Nythrai` · `Tharumi`
 
 ### Niebiańscy
 `Solhari` · `Aurynn`
@@ -111,22 +104,19 @@ Wyprawy poza mury to niemal pewna śmierć dla zwykłych ludzi. Tylko Przebudzen
 
 ---
 
-## 📂 Aktualna Struktura Plików (Single Source of Truth)
+## 📂 Struktura Plików
 
 ```
 Rezeryum/
-├── 00_Podstawy/              # Kosmologia, Filary Świata, Słowniki Pojęć oraz Przewodnik
-├── 01_Geografia_i_Bastiony/  # Biomy, Bastiony, relacje, ekonomia, szlaki
-├── 02_System_Mocy/           # Zerum, Natury, Progi, Więzi, Imiona
-├── 03_Frakcje/               # Zakony, gildie, kulty, Załogi
-├── 04_Zagrozenia/            # Pustoszyciele, Wydrążeni, Głos-Kamienie
-├── Rasy/                     # 17 ocalałych ras podzielonych na zagnieżdżone foldery
-│   ├── Zywiolowi/
-│   ├── Bestyjni/
-│   ├── Glebinowi/
-│   ├── Cywilizowani/
-│   └── Niebianscy/
-└── README.md                 # Główny drogowskaz i przewodnik (ten plik)
+├── 00_overview.md       # Kosmologia, filary świata, Pęknięcia
+├── 01_geografia.md      # Biomy, Bastiony, relacje, ekonomia, transport
+├── 02_system_mocy.md    # Zerum, Natury, Progi, Więzi, Imiona
+├── 04_zagrozenia.md     # Pustoszyciele, Wydrążeni, Głos-Kamienie
+├── 05_frakcje.md        # Zakony, gildie, kulty, Załogi
+├── 06_przewodnik.md     # Opisowy przewodnik po świecie
+└── Rasy/                # 21 ras w osobnych plikach
+    ├── 00_index.md      # Spis i dynamika społeczna ras
+    ├── aervin.md ... zylmari.md
 ```
 
 ---
