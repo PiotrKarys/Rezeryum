@@ -1,0 +1,3 @@
+# 03 Historia i Pochodzenie
+
+Początkowo uważano, że Shenn to wyłącznie istoty leśne, związane z cyklem pnączy i mchu. Badania wodnych Pęknięć pod oceanami Rezeryum ujawniły jednak istnienie ich potężnej starożytnej gałęzi — **Akwatycznej Linii Zylmari**. W zamierzchłych czasach część Shenn osiedliła się w zalanych ruinach i jeziorach Splotu. Zamiast czerpać esencję spomiędzy drzew, zintegrowali się z morską florą, koralowcami oraz magią Przepływu. Zamiast pochłaniać inne rasy, ewoluowali wraz z terenem. Dziś dzielą się na **Linię Leśną** (klasyczni Shenn pokryci korą) oraz **Linię Akwatyczną** (posiadającą amfibijne cechy i bezkresną wodną pamięć z dawną tradycją Zylmari).

@@ -1,0 +1,3 @@
+# 04 Kultura i Społeczeństwo
+
+To twórcy miast i kuźnie podziemnego świata (np. potężna sieć forteczna w Kornaku). Kultura to precyzja, dyscyplina i gildyjna praca. Gdzie kamienni Draskowie wkuwają w rudy uderzając niesamowitą siłą fizyczną, tam rzadszy Drask z Linii Żaru działa gołymi rękami – uformowany naturalnym ogniem, który czyni opancerzone dłonie żywym piecem kowalskim. Społeczeństwo targa burzliwy temperament: kamienni ważą każde słowo niczym żelazo, a wybuchowość i pasja dziedzictwa dawnych Pyrrhanich potrafi kruszyć autorytety w sekundę. Są szczerzy, głośni i niepokonani. Cenią silne alkohole z głębin (Drask-piwo warzone kryształowo).
