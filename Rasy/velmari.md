@@ -1,4 +1,4 @@
-# VELMARI (linia grzybowo-insektoidalnego roju)
+﻿# VELMARI (linia grzybowo-insektoidalnego roju)
 
 **Rodzina:** Głębinowi
 
@@ -46,10 +46,4 @@ Potężne populacje w dziczy na warunkach kolonii (np. Bagna Mglistej Głębi). 
 
 - ewolucja bio-architektoniczna.
 - Zarażanie terenu macierzą (Velmaroth może zasymilować ekosystem).
-- Absolutna łączność mentalno-chemiczna (rozbudowane pole świadomości bojowej).
-
-## Do Doprecyzowania
-
-- Czy pojedynczy dron z Kasty Chitynowej może zostać odcięty od roju i odzyskać samostanowienie?
-- Jak Bastiony kupują od Velmari chitynowe stelaże?
-- Gdzie leży pierwotny Rdzeń Grzybni, z którego wzięła się pierwsza asymilacja?
+- Absolutna łączność mentalno-chemiczna (rozbudowane pole świadomości bojowej).[Environment]::NewLine

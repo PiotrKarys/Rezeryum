@@ -1,4 +1,4 @@
-# VRAKAI (linia ogrowata) ★ 4 formy
+﻿# VRAKAI (linia ogrowata) ★ 4 formy
 
 **Rodzina:** Żywiołowi
 
@@ -44,11 +44,4 @@ Najwięcej Vrakai żyje w **Głębomirze** (garnizon, linia obronna) i **Kresie 
 - kolosalna siła fizyczna
 - niski intelekt bazowy (rośnie z ewolucją)
 - Sploty nastawione na wzmocnienie ciała i regenerację
-- Vrathan: zdolność walki z pomniejszymi awatarami Pustoszycieli
-
-## Do Doprecyzowania
-
-- Jakie są tradycje wojenne Vrakai? Czy mają rytuały przed bitwą?
-- Czy Vrathan kiedykolwiek walczył z Pustoszycielem? Co się stało?
-- Jak Vrakai reagują na Iskrzyki innych ras (małe, delikatne stworzenia)?
-- Czy istnieje klan Vrakai ze specyficznym Rodowym Splotem?
+- Vrathan: zdolność walki z pomniejszymi awatarami Pustoszycieli[Environment]::NewLine

@@ -1,4 +1,4 @@
-# ORVHAN (linia cienista/widmowa)
+﻿# ORVHAN (linia cienista/widmowa)
 
 **Rodzina:** Głębinowi
 
@@ -50,11 +50,4 @@ Orvhan **nie mogą zostać Wymazani** — ich istota jest cieniem, a cień nie m
 - półmaterialność — mogą przechodzić przez cienkie bariery fizyczne
 - widzenie w całkowitej ciemności
 - manipulacja cieniami cudzymi (kradzież cieni = tymczasowe osłabienie ofiary)
-- Orvhael: architekci cieni — tworzą „ciemne przestrzenie", w których znikają kolory i dźwięk
-
-## Do Doprecyzowania
-
-- Dlaczego Orvhan nie mogą zostać Wymazani? Jak to działa mechanicznie?
-- Jak Orvhael tworzy „ciemne przestrzenie"?
-- Czy Orvhan rzucają cień?
-- Czy istnieją Orvhan szukający „źródła światła"?
+- Orvhael: architekci cieni — tworzą „ciemne przestrzenie", w których znikają kolory i dźwięk[Environment]::NewLine

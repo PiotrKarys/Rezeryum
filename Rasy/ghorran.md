@@ -1,4 +1,4 @@
-# GHORRAN (linia dzika/tropicielska)
+﻿# GHORRAN (linia dzika/tropicielska)
 
 **Rodzina:** Bestyjni
 
@@ -44,9 +44,4 @@ Królują wszędzie tam, gdzie kończy się wybetonowana strefa ochronna murów.
 
 - Niewiarygodnie wyczulone zmysły tropicielskie.
 - Gwałtowny i potężny przyrost drapieżnej furii w walce (wysuwanie kłów/pazurów aktywowane walką).
-- Ghoralith tworzy aurę watahy dającą premie i zryw bitewny dla wybranej grupy w Mrocznym Pęknięciu.
-
-## Do Doprecyzowania
-
-- Co grozi Ghorranowi wyrzuconemu z własnego Stada?
-- Jak wygląda Rytuał Krwi przy mianowaniu na najwyższych zwiadowców Kresu Wichrów?
+- Ghoralith tworzy aurę watahy dającą premie i zryw bitewny dla wybranej grupy w Mrocznym Pęknięciu.[Environment]::NewLine

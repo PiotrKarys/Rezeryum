@@ -1,4 +1,4 @@
-# SHENN (linia ewoluującej flory) ★ 4 formy
+﻿# SHENN (linia ewoluującej flory) ★ 4 formy
 
 **Rodzina:** Żywiołowi
 
@@ -49,10 +49,4 @@ Dominują w **Splecinie** (gdzie Linia Leśna pielęgnuje Żywe Mury i sady Igli
 - kontrola wzrostu roślin / manipulacja ciśnieniem i stanem wód
 - fotosynteza Linii Leśnej / amfibia Linii Akwatycznej
 - tworzenie organizmów leczniczych i barier ekologicznych
-- Shenalor: ruchome biomorfologiczne tytany zdolne pochłonąć miasta systemem korzeni / fal.
-
-## Do Doprecyzowania
-
-- Czy Linia Akwatyczna i Leśna mogą stworzyć hybrydę w pełni łączącą ich Sploty?
-- Czy na etapie Shenalor da się odwrócić przemianę?
-- Jak wygląda podwodna odnoga Splecina dla Akwatycznych Shenn?
+- Shenalor: ruchome biomorfologiczne tytany zdolne pochłonąć miasta systemem korzeni / fal.[Environment]::NewLine

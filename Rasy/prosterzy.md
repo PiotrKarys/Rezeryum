@@ -1,4 +1,4 @@
-# PROSTERZY (linia wampiryczna/krwioprawna)
+﻿# PROSTERZY (linia wampiryczna/krwioprawna)
 
 **Rodzina:** Głębinowi
 
@@ -45,12 +45,4 @@ Akceptowani z rezerwą. Najliczniejsze klany w **Kornaku** (podziemia, nocna pra
 - wzmocnione zmysły po nakarmieniu (noc, węch, słuch)
 - odporność na trucizny, choroby, starzenie
 - regeneracja przez konsumpcję Zerum
-- Prostharak: arcypredator — drenaż pasywny Zerum z otoczenia
-
-## Do Doprecyzowania
-
-- Jak działa „kontrakt krwi"? Czy jest to regulowane prawem Bastionu?
-- Czy Prosterzy mogą przeżyć bez cudzego Zerum? Jak długo?
-- Czy istnieją Prosterzy, którzy odrzucają krew i żywią się wyłącznie Kamieniami Esencji?
-- Jak inne rasy reagują na Prostera w ich drużynie Bramowej?
-- Czy Prosterzy mają własną Naturę Zerum, czy adoptują Naturę ofiaru?
+- Prostharak: arcypredator — drenaż pasywny Zerum z otoczenia[Environment]::NewLine
