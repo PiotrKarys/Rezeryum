@@ -60,7 +60,7 @@ Wewnątrz poszczególnych ras wyodrębniły się elitarne rody bazujące na utrw
 - **Ghorran-Szkarłatni** *(Przepływ + Żar):* Berserkerzy. Wykorzystują rozlaną wokół krew bestii jako ekstremalnie łatwopalne paliwo do własnych, bojowych mutacji ciała.
 
 **Czystość Linii Krwi:**
-Z obawy przed utratą przewagi genetycznej, klany są skrajnie ksenofobiczne. Zakazują tworzenia mieszanych hybryd i linii pobocznych. Dziedzictwo rodowe pozostaje precyzyjnie kontrolowane — każde pokolenie przekazuje wyłącznie sprawdzone i potężne mutacje anomalii.
+Z obawy przed utratą przewagi genetycznej, klany są skrajnie ksenofobiczne. Zakazują tworzenia mieszanych hybryd i linii pobocznych. Dziedzictwo rodowe pozostaje precyzyjnie kontrolowane — każde pokolenie przekazuje wyłącznie sprawdzone i potężne mutacje anomalii. Międzyrasowe złączenia (np. klan Raashari z Draskami) są brutalnie ścigane i wygaszane przez rodową starszyznę, a rodzące się w sekrecie mieszańce to bezwzględnie bezpłodne, okaleczone ewolucyjnie jednostki (tzw. Puste Kody), niezdolne do dalszego przekazywania Splotu krzyżowego.
 
 ### 4.5. Prawdziwe Imiona (Kod Duszy)
 
@@ -109,10 +109,10 @@ Z tego powodu Nadanie Imienia tworzy między dawcą a biorcą rygorystyczną, ni
 Każdy akt Przebudzenia trwale poszerza "naczynia" Splotu i podnosi istotę na wyższy **Próg Mocy**. Momentowi temu zawsze towarzyszy gwałtowny wybuch energii (od widocznej aury w postaci mgły, aż po destrukcyjną erupcję).
 
 **Pięć Progów Mocy:**
-1. **Stygmat:** Faza instynktu. Zmysły zyskują nieludzką ostrość. Zerum działa jako odruch bezwarunkowy (np. nieświadome zbijanie ciosów, minimalne widzenie w ciemności, niekontrolowane przyspieszenie).
-2. **Rezonans:** Świadoma kontrola. Użytkownik potrafi aktywnie channellować Zerum przez ciało i broń, stosując powtarzalne, taktyczne techniki bojowe.
-3. **Emanacja:** Przełamanie barier ciala. Energia wylewa się na zewnątrz jako agresywna projekcja (np. cięcia powietrzne, kule ognia, fale mrozu, bezpośrednia manipulacja otoczeniem).
-4. **Osobliwość:** Anomalna gęstość magii. Wojownik zaczyna funkcjonować jak jednoosobowe Pęknięcie, zyskując władzę manipulowania prawami fizyki na bliskim dystansie wokół siebie.
+1. **Zarzewie:** Faza instynktu. Zmysły zyskują nieludzką ostrość. Zerum działa jako odruch bezwarunkowy (np. nieświadome zbijanie ciosów, minimalne widzenie w ciemności, niekontrolowane przyspieszenie).
+2. **Nurt:** Świadoma kontrola. Użytkownik potrafi aktywnie channellować Zerum przez ciało i broń, stosując powtarzalne, taktyczne techniki bojowe.
+3. **Eskalacja:** Przełamanie barier ciała. Energia wylewa się na zewnątrz jako agresywna projekcja (np. cięcia powietrzne, kule ognia, fale mrozu, bezpośrednia manipulacja otoczeniem).
+4. **Rezonans:** Anomalna gęstość magii. Wojownik zaczyna funkcjonować jak jednoosobowe Pęknięcie, zyskując władzę manipulowania prawami fizyki na bliskim dystansie wokół siebie.
 5. **Absolut:** Dyktat istnienia. Całkowita fuzja ze Splotem, pozwalająca naginać grawitację, czas czy śmierć poprzez rygorystyczne posługiwanie się *Głosami Pierwszych*.
 
 **Prawa Wzrostu (Zasada Blizn):**
@@ -202,15 +202,15 @@ Głosy Pierwszych nie wybaczają jąkania ani zawahania. Język bogów wymaga pe
 **Ziarna Przemiany** to ewenementy botaniki Rezeryum — mityczne owoce lub narosty zrodzone wyłącznie w najczarniejszych strefach podziemnych Komnat. Powstają, gdy strumienie Zerum zostają zablokowane i zamknięte w próżni na całe stulecia, tworząc ekstremalnie gęsty kondensat anomalii.
 
 **Mechanika działania Ziarna:**
-- **Pojedyncza Anomalia Bojowa:** Spożycie Ziarna odblokowuje jedną, nadzwyczajną zdolność ignorującą tradycyjne drzewka rozwoju Natury (np. manipulację wektorem cudzej walki, natychmiastowe samoleczenie z prochu do ciała czy kontrolę ciążenia grawitacyjnego). Ziarna nigdy się nie powtarzają; znaleziona anomalia jest jedyna w historii.
+- **Pojedyncza Anomalia Bojowa:** Spożycie Ziarna odblokowuje jedną, nadzwyczajną zdolność ignorującą tradycyjne drzewka rozwoju Natury (np. manipulację wektorem cudzej walki, natychmiastowe samoleczenie z prochu do ciała czy kontrolę ciążenia grawitacyjnego). Ziarna nigdy się nie powtarzają; znaleziona anomalia jest jedyna w historii. Uważa się, że na świecie wykiełkowało i zostało zebranych łącznie zaledwie **dziewięć** Ziaren (w tym legendarne "Korzenie Bezwładu" oraz "Kolec Wyrzeczenia"). Ponieważ układ planetarny ustąpił od swej młodzieńczej dzikości, od setek lat nie objawiły się żadne nowe sztuki tego anomalnego plonu.
 - **Zasada Blokady Splotu (Koszt Celowy):** Zjedzenie Ziarna całkowicie przepala genetyczny kod Przebudzonego. Kod staje się "martwy" dla potężniejszych nadawców i nie potrafi rezonować. Skutkuje to permanentnym przerwaniem możliwości Nadania Imienia — osobnik zyskuje na mecie absurdalną ewolucję anomalną, ale bezpowrotnie traci wrodzone, dalsze możliwości ewolucji własnej rasy i odcięty zostaje od gigantycznych bonusów esencji starszych.
 
 ### 4.13. Iskrzyk — Zewnętrzny Narząd Duszy
 
 Każda czująca jednostka w Rezeryum rodzi się w towarzystwie **Iskrzyka** — niematerialnej manifestacji, przypominającej zwierzęcego duszka zbudowanego z chłodnego światła. W rzeczywistości jest to zewnętrzny, odłączony organ (radar ułatwiający "połykanie" magii), wyodrębniony poza ciało w celach survivalowych.
 
-**Korelacja Formy i Ewoucji:**
-Jego wygląd jest wizualizacją Natury właściciela. U pyrro-kinetyków przybiera formy gadów wulkanicznych, a władcy Cienia posiadają zazwyczaj kruki tkane z atramentu mroku. Na szczeblu *Zarzewia* Iskrzyk to tylko rozmyta plama; przechodząc jednak do momentu *Eskalacji* i wyżej, duch ewoluuje i precyzuje się pod względem detali zbroi lub mrocznej esencji.
+**Korelacja Formy i Ewolucji:**
+Jego wygląd jest wizualizacją Natury właściciela. U pyrro-kinetyków przybiera formy gadów wulkanicznych, a władcy Cienia posiadają zazwyczaj kruki tkane z atramentu mroku. Na szczeblu *Zarzewia* Iskrzyk to tylko rozmyta plama. Iskrzyk jednak bezpośrednio asymiluje i ewoluuje wraz ze skokami właściciela po Progach Mocy; na pułapie *Eskalacji* i wyżej (gdzie drenaż od Bram jest morderczy), duch drastycznie grubieje i nabiera twardych, opancerzonych detali geometrycznych (np. chitynowe powłoki radaru lub zjawiskowe, stalowe ożebrowanie chroniące zmysły nawigacyjne bestii na rdzeń udaru).
 
 **Protokół Nietykalności:**
 - Iskrzyk zbudowany jest z pustej percepcji przestrzennej. Pozostaje stale **niematerialny** i bezbronny w kwestii walki siłowej. Ostrza przenikają przez pole fuzji bez szkody. Nie atakuje fizycznie, nie potrafi leczyć oraz sam nie umiera.
@@ -256,14 +256,4 @@ Ekspedycje i Załogi wkraczają w ten ustabilizowany mrok, by wycinać bestie i 
 - **Formacja Bojowa:** Klasyczna ekipa (Party) składa się z 4-6 połączonych jednostek (np. twardego kowadła reprezentowanego przez rdzeniowego *Draska*, śmiercionośnego berserka klanu *Ghorran* i wspierającego manipulacją rozkładu klanu *Shenn*).
 - **Zarzucanie Pętli Czasowej:** Zbyt długa obecność w cudzej strefie prowadzi do "Załamania zgnilizny". Bramy nie są wieczne. Każda zakotwiczona wyprawa mierzy się z twardym limitem czasu (np. kilku dni dla niższych szczebli), nim obszar zerwie łańcuchy Latarnika i się zapadnie ze wszystkimi żywymi w środku.
 
----
 
-## Do Doprecyzowania
-
-- Ile znanych Ziaren Przemiany istnieje? Czy pojawiają się nowe?
-- Jakie konkretne Ziarna (z nazwami) istnieją w świecie?
-- Czy klany mogą istnieć między rasami (np. klan Raashari-Drask)?
-- Jak Bastionowe Style Walki różnią się między sobą?
-- **[NOWE]** Zagrożenia Bramowe — toksyczność Zerum, dylatacja czasu, degradacja mentalna (→ patrz: [04_zagrozenia.md](file:///a:/Coding/game/Rezeryum/04_zagrozenia.md))
-- **[NOWE]** Czy Bramy mają Władców (bossów)? Jakie nagrody za ich pokonanie?
-- **[NOWE]** Czy Iskrzyk ewoluuje wizualnie z każdym Progiem? Jakie formy przyjmuje?

@@ -8,7 +8,8 @@
 
 Kolosalne, nadpisane materią i wykrzywioną grawitacją awatary Głębi — masowe, wędrujące kataklizmy pożerające Pęknięcia w poszukiwaniu ujścia własnego głodu. Poruszają się niepowstrzymanym marszem po krawędziach całego kontynentu Rezeryum. Ich pojawienie w ułamku sekundy testuje sprawność frontowych Bastionów i pakty militarne. Ich wielkość mierzona jest zjawiskami makrogeograficznymi.
 
-**Kategorie Geologiczne (Typy Pustoszycieli):**
+**Kategorie Geologiczne i Skala Zjawisk (Typy Pustoszycieli):**
+Zgodnie z weryfikacją Kartografów Otchłani, na całym kontynentalnym skraju egzystuje stale i obraca się dokładnie **dwunastu ogromnych Pustoszycieli**. Ich wielokilometrowa objętość zmusza ich do terytorialnej i cyklicznej zmiany wektorów ścieżki w regionach, jako że potężne pochłanianie surowego Pęknięcia w ułamek sekund doprowadzałoby do wzajemnego wygłodzenia, jeśliby ich trasy migracyjne kiedykolwiek się przecięły.
 - **Twierdzokłady** — potężne, setmetrowe byty zlepieńców formacji geologicznych i wchłoniętej na przestrzeni epok infrastruktury dawnych twierdz, połączonych twardymi stopami pulsującej Rdzy i Czasu.
 - **Masokształty** — kolosalnych rozmiarów obślizgłe masy otwartych paszcz i jątrzących oczu utkanego z Przepływu oraz Cienia; zdolne "roztapiać się" w ulewę, deszczowo pędząc nad ziemią bądź z wolna wypełzać koszmarnym śluzem prosto z wód przybrzeżnych.
 - **Kleszczowładcy** — morskie demony zanurzeniowe; tytany potrafiące mechanicznym wciągnięciem poddać wchłonięciu pod wódę Głębokiej Dziczy wyspiarskie lądy.
@@ -72,7 +73,7 @@ Byty, które przetrwały Wojnę Koron i nieformalnie definiują "dopuszczalny" w
 
 **Metody Kontroli:**
 - **Wymazywanie Pamięci:** Na poziomie globalnym Wysocy posługują się Głosami na szczeblu przekraczającym ludzki *Absolut*. Potrafią bez ostrzeżenia nałożyć ślepą plamę pamięciową na miliardy umysłów w ułamek sekundy, "korygując" niepasującą część rzeczywistości.
-- **Mury-Koron:** Idealny przykład ich tyranii. Brutalne zniewolenie tysięcy dusz w klatkach zbudowanych w obeschłych korpusach martwych Pustoszycieli, odzianych we wspaniałą iluzję utopii. Izolowana obojętnością mas struktura ma uniemożliwić rasiom poznanie destrukcyjności ułamkowych bogów.
+- **Mury-Koron:** Idealny przykład ich tyranii. Brutalne zniewolenie tysięcy dusz w klatkach zbudowanych w obeschłych korpusach martwych Pustoszycieli, odzianych we wspaniałą iluzję utopii. Izolowana obojętnością mas struktura ma uniemożliwić rasiom poznanie destrukcyjności ułamkowych bogów. Kłamstwo skrywa konkretną anomalię dat — tzw. "Wiek Załamania", potężną pustkę rzędu niemal 300 lat luki w archiwach Bastionów, starcie z wielką insurekcją obwodów śmiertelników. Ten potężny epizod Wysocy wymazali masowo w jednej minucie, rzucając globalne zaklęcie zbiorowej amnezji utrwalającej ignorancję ofiar względem Murów-Koron.
 - **Infiltrowanie Ras:** Eteryczne nacje takie jak Aurynn i Solhari wykazują nienaturalną, bolesną podatność na "objawienia" Wysokich. Przebudzony Solhari na progu *Eskalacji* potrafi z dnia na dzień pod przymusem porzucić ojczystą Załogę by bez mrugnięcia okiem zgładzić wyznaczonych Korzenników na zlecenie wizji we śnie.
 
 ---
@@ -104,16 +105,10 @@ Dłuższa ekspozycja na surowe powietrze z głębi wewnątrz instancji błyskawi
 Każda zakotwiczona przez elitarnych Latarników Brama zachowuje spięcie wyłącznie przez twardo oszacowany przed interwencją limit czasowy — tzw. Cykl Rozpadu. Na niższych instancjach (*Bramy Zarzewia*) ramy obozowe sięgają tygodnia eksploracji. Bicia o status *Absolutu* w centrach najgłębszych instancji dają Załogom zaledwie 12 do 24 twardych godzin pętli czasowej do zdobycia Serc Esencji. Niewyjście przed "Załamaniem" uwięzi całą eskadrę w ostatecznej, przymusowej próżni za wymiarem do rozerwania.
 
 **3. Skok Temporalny (Dylatacja czasu terytorium mroku):**
-Zawsze zachodzi zjawisko odklejenia ram trwania. Na terenie walk w głębokich i wysokotierowych korytarzach instrukcyjnego *Rezonansu* każda wycięta krwią sekunda zmuszona jest kompensować swój impet w czasie realnym u Przedpól pod postacią dziesięciu minut. Powrót wojowników wyczerpanych rzezią kilku godzin z powrotem witany jest przez upłynięcie długich i surowych dni a czasem wprost całych pełnych księżyców w świecie doczesnym u rodzin za miastem dławiąc strachem logistykę zapasów rządu Bastionów dających pozwolenia u Bram.
+Zawsze zachodzi zjawisko odklejenia ram trwania. Na terenie walk w głębokich i wysokotierowych korytarzach instynktu *Rezonansu* każda wycięta krwią sekunda zmuszona jest kompensować swój impet w czasie realnym u Przedpól pod postacią dziesięciu minut. Powrót wojowników wyczerpanych rzezią kilku godzin z powrotem witany jest przez upłynięcie długich i surowych dni, a czasem wprost całych pełnych księżyców w świecie doczesnym u rodzin za miastem. To potężne ryzyko dla logistyki wykreowało w wielkich miastach gigantyczne układy **Rezerw Czasowych** u Gildii Handlowych — potężne, buforowe fundusze kryształów przygotowane specjalnie z myślą o dławieniu ryzyka krachu na rynkach obozowych w obliczu przedłużonych ekspedycji zwiadowczych.
 
 **4. Władcy Instancji (Echa Bogów w Jądrach Koncentracji):**
 Bramy nie rodzą bytu chaotycznego we uścisku, układ sił hierarchizuje się o trzon ze scentralizowaną usterką i władaniu w postaci Władcy (Bossa) na końcu mapy:
 - Śmierć **Władcy Bramy (Bossa)** gasi źródło odradzającej się zgnilizny lokalnych biomów w środku a pancerz lub rdzeń opada we ułamek sekundy pod stopy wygranych łowców z eskadry, obnażając olbrzymi Rdzeń (albo u wysokich twardych wymiarach Serce) Esencji krwiobiegu, co stanowi finalny i rygorystyczny triumf walk o nagrodę cywilizacji.
 
----
 
-## Do Doprecyzowania
-
-- Ile Pustoszycieli istnieje jednocześnie na świecie i dlaczego ramy zjawisk mają rotować w regionach osiedli?
-- Jakie konkretne i twarde daty ukryto jako spisek Mury-Koron u szczytu cywilizacji dawnej u Pustoszycieli?
-- Skala wielorakich Załamań Czasu w ujęciu gospodarczym na logistykę handlu skrystalizowanym stoperem limitowych instancji u Latarników?

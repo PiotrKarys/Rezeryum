@@ -80,7 +80,7 @@ Zimno kalkulujące imperia kupieckie, trzymające w garści całą logistykę Re
 
 **Wywiad Finansowy:**
 - Kontrolują krwiobieg ekonomiczny państw - potrafią zagłodzić Bastion nakładając bezwzględne embarga. Opłacają prywatne armie najemne (wymagany próg *Nurtu*) do ochrony karawan na Stepach Szarego Wichru.
-- Posiadają własnych szpiegów i skrytobójców w radach miejskich. Eliminują politycznych rywali bez wyprowadzenia fizycznego wojska - używając długów celnych i morderstw po ukryciu w mroku pałacowych lochów.
+- Posiadają własnych szpiegów i skrytobójców w radach miejskich. Eliminują politycznych rywali bez wyprowadzenia fizycznego wojska - używając długów celnych i morderstw po ukryciu w mroku pałacowych lochów. Podstawa ich skalowania jest brutalna w praktyce. Opłacając w krysztale najemne zbrojne grupy ciężko-szturmowe Drasków, rzemieślnicy Gildii skutecznie przeprowadzają regularne pałacowe przewroty miejskie. Cały wrogi dwór wyłapywany jest pod obiektywnym, cywilnym pretekstem przymusowej windykacji zadłużeń kupieckich, nie wchodząc nawet na trakt otwartego wypowiedzenia wojny radzie.
 
 ---
 
@@ -98,7 +98,8 @@ Skrajna bieda, przeludnienie gett i odcięcie od przywilejów doprowadziło do r
 **Rola (Akademia Wojskowa):**
 Elitarna jednostka szkoleniowa i sztab strategiczny w sercu *Splecina*. Zbrojna akademia przyjmująca starannie wyselekcjonowanych rekrutów, nadzorująca ich ewolucję i przeprowadzająca rygorystyczne awanse od progu *Zarzewia* aż do potężnej *Eskalacji*. Dowództwo Iglicy dostarcza miastom wyszkolonych wektorowo generałów i asów dowodzenia bojowego w Bramach.
 
-**Struktura Postępowań:**
+**Struktura Dowodzenia (Żelazny Kanon):**
+- Władzę nad logistyką szkoleniową i strategiczną trzyma bezwzględny, merytoryczny triumwirat — **Trzy Pierwsze Ostrza** (Ostrze Zaradnej Krwi ds. logistyki miejskiej, Ostrze Cienia Rajdu ds. dowodzenia operacyjnego i Ostrze Wyciszenia zajmujące się cenzurą oraz wywiadem). Rozciągnięci pod nimi sztabowi "Instruktorzy-Sektorowi" przydzielają z kolei misje mniejszym eskadrzyłom dowodzonym na polu rzezi.
 - Narzucają żelazny kodeks dyscypliny w zespole. Bezwzględnie zakazują jakichkolwiek działań mogących sprowokować Cienie Zbiorowe - pod groźbą sądu polowego i wygnania za mury bez ekwipunku. 
 - Absolwenci Iglicy są potężnym narzędziem politycznym w rozstrzyganiu sporów wojennych w elitach metropolii, tłumiąc bunty rygorem nabytego szacunku wojskowego i budząc grozę wśród wrogich dyktatorów innych miast.
 
@@ -110,9 +111,4 @@ Elitarna jednostka szkoleniowa i sztab strategiczny w sercu *Splecina*. Zbrojna 
 Niezależne, zrzeszone załogi najemnicze wyrzekające się państwowych doktryn i praw powszechnych miast. Odcięci od rygoru cenzury elit, operują na morderczych szlakach Głębokiej Dziczy pośród legend i zaginionych mitów dawnych ras.
 Funkcjonują poza dyktaturami Bastionów, łącząc zbiegów, weteranów i buntowników w wielorasowe, luźne bandery braterstwa, wchodząc do Bram by zdobyć sławę, walutę lub potężne Kamienie Esencji bez płacenia zaborczego myta rządom cywili.
 
----
 
-## Do Doprecyzowania
-
-- Zaprojektowanie struktury dowodzenia dla Wywiadu oraz nazewnictwa dla Komendantów Iglicy Nazwanych.
-- Skalowanie potęgi Gildii Handlowych: Czy opłacani najemnicy Drask potrafią dokonać pełnego przewrotu w pałacu miejskim pod pretekstem wojennych cesej i zadłużeń politycznych rywala?
