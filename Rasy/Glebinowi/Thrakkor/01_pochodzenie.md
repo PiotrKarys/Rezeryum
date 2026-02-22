@@ -1,27 +1,19 @@
 # THRAKKOR — Pochodzenie Piętna Cieni
 
 **Rodzina:** Głębinowi
-**Status w świecie:** Wyrzutkowie budzący największy strach społeczny. Nienawidzą Głębi równie mocno co reszta cywilizacji, lecz z racji wizualnego i biologicznego podobieństwa do demonów nocy, muszą nieustannie krwią udowadniać swoją lojalność w wojnie z Pęknięciami.
+**Status w świecie:** Cieniobyty o demonicznej aparycji. Pogardzani i zjawiskowo potężni asasyni na usługach dowództwa wielkich u murów zjednoczonych Ligi. 
 
 ---
 
-## 1. Ontologia — Urodzeni z Nienawistnego Mroku
+## 1. Ontologia — Wyklęci Przez Własną Krew
+Thrakkor to rasa, której ewolucyjne losy złączyły się nierozerwalnie ze zgubną mutacją natury Cienia. W wyniku starożytnego uwięzienia w jądrach Pęknięć podczas ucieczek cywilizacyjnych, wchłonęli energię demonicznych potworów by przetrwać i zawrzeć fuzję na powłoce. Odrzucili obłęd, ale fizycznie zostali straszliwie naznaczeni przez rogate Sploty i chłód Pustki. Są zmuszeni udowadniać w walce z bestiami swoje całkowite i ostateczne lojalności względem Bastionów poprzez bezwzględne mordowanie potworów ramię w ramię z ludźmi.
 
-Historia Thrakkorów to dzieje zdrady ciał przez Zerum o naturze Cienia. W początkach formowania się Bastionów, przodkowie tej rasy ulegli ekspozycji na najbardziej niszczycielską mutację Głębokiej Dziczy. Splot, próbując powstrzymać obłęd, całkowicie pochłonął ciemność, mutując ich wygląd do postaci z pogranicza demonicznej groteski. Przekleństwem Thrakkora jest to, że potwory z dziczy widzą w nim wroga, a zwykli zjadacze chleba na targu – potwora z dziczy. Wyznają absolutną, spartańską filozofię gniewu.
-
-## 2. Anatomia Upiornego Splotu
-
-Wygląd przeciętnego przedstawiciela tej nacji ucieleśnia strach w opowieściach rasy Raashari:
-- **Demonologiczna Budowa:** Ich skóra przybiera odcienie najgłębszego granatu, popiołu lub chłodnej czerni. Posiadają uderzająco ostre rysy twarzy oraz rogowate wypustki krystalizującego się Splotu na skroniach i łokciach.
-- **Oddech Pustki:** Fizjologia pozwala im przetrwać w pełnych, opadających oparach mżonki Pęknięcia dłużej niż przeciętnemu Latarnikowi bez maski filtrującej.
-- **Pochłaniacze Cienia:** Ich ciała zdają się naturalnie "połykać" światło świec w zamkniętych pomieszczeniach. Noc jest ich sprzymierzeńcem na terytorium Głębi, gdzie potrafią wtopić się w całkowite ciemności lasu, stając się bezszelestnymi kłami oddziałów.
+## 2. Anatomia Upiornych Rogów 
+Cielesność reprezentująca to co straszy w nocnych opowieściach rasy Raashari:
+- **Groteska Demonów:** Skóra Thrakkorów występuje w paletach od ciemnego asfalto-popiołu, aż po skrajnie wychłodzony lodowy granat blady u brzegu ran. Mocno zarysowane kości jarzmo twarzy, bardzo drapieżny wejrzenie łowiska w obiektyw wzroku na bitwę i bezlitosny krótki refleks nocy. 
+- **Narost Splotu:** Na miejscach przegubu ciała (jak skronie głowy a i łokcie), Splot wykrwawia się magicznie formując czarne wystające rogi i pancerne kruszące płytki niszczące dłuto kowali o mroku o. Daje ogromne zasilanie dla uników bez obrażeń śmiertelnych ze dżdżystej głębi dzikiej walki. Ich oczy toną w czerni i oblewają mocniejszą w potędze barwą a rylin bieli świeci od strachu w lęki po potworach. Zdolni by wtapiać w cienie. 
 
 ## 3. Przewodnik Wizualny (AI Prompt)
-
-- **Cechy kluczowe**: Zjawiskowy w swym strachu demoniczny humanoid o ciemnopopielatej skórze. Oczy całkowicie czarne z lśniącą czerwoną ryliną bieli. Na skroniach drobne pęknięcia przypominające skamieniałe, czarne rogi. Ubrany w ponure, praktyczne skórzane zbroje łowcy o mrocznym designie z ukrytymi twarzami we kapturech.
-- **Forma 4 (Thrakkarn ★ - Uosobienie Otchłani)**: Rzadka, majestatyczna postać dowódcy wyrzutków. Ciało całkowicie lewitujące na obłokach mroku, z ogromnymi, podobnymi do dymu potężnymi wyrostkami na plecach i tarczami bojowymi utkanymi wprost z czarnych materii jądra gwiazdy Pustki.
+- **Cechy kluczowe**: Mroczny, niemal demoniczny z rasy humanoidów by. Popielata skóra po na skroniach rogi pod o korony czarne mniejsze wyrosty z duma bojownika od ciem. Świecą od bieli u czarnej bieli mroku oczodoły z krwią na rubinę u ślepo!
+- **Forma 4 (Thrakkarn - Krwawy Archdemon Murów):** Potężna i monumentalna a lewitująca rysa bestia za dowódcę generał w z dziczy nocy! Cieniem zasłania widok w puszczy u rzuca z tarczy noży dymne za z szału bez o pancerz obłędu potworom bez uśmiech w puszczy do krwio łez nocy u w głąb ataku do lód mróz w obór na rzeż we.
 - **Prompt Base**: `demonic looking humanoid protagonist, dark grey skin, small crystalline black horns, totally black eyes with red glow, assassin rogue dark fantasy, shadowy grimdark aesthetic, wearing tattered black leather armor, deep ruin twilight background`
-
-## Pytania Pomocnicze
-- Ile dziesiątek lat musi służyć potężnie opancerzony młody Thrakkor generałom w Ligiach, by zyskać pozwolenie władcy miasta na zakup zwyczajnego domu bez nocnej warty strażników u drzwi?
-- Jeśli ich iskrzyk jest tak przerażający jak natura, jak reagują na niego konie karawan na szlaku do Mórz Pamięci?

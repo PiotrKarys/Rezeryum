@@ -80,4 +80,4 @@ W najgłębszych Komnatach ukryte są **Głos-Kamienie** — zapisy w języku st
 
 - **Startowy wybór:** Gracze nie mają od początku dostępu do pełnego spektrum 17 ras. Podstawowa pula tworzenia postaci to rasy lepiej asymilujące się społecznie i łatwiejsze w fabularnym poprowadzeniu drużyny (np. Prosterzy, Orvhan, Thrakkor, Solhari, Shenn).
 - **Progresywny rozwój puli:** Dostęp do bardziej egzotycznych ras lub hermetycznych obozów odblokowywany jest obustronnie w trakcie kampanii. "Złe" wybory początkowe wykluczają asymilację z pewnymi ugrupowaniami w systemie kar i nagród dla gracza.
-- **Kanon:** Spoza 17 ocalałych ras wyeliminowano wszelkie niespójne w tonie koncepcje (jak dawne maszyny badawcze / technologiczne), aby świat zachował mroczną, spójnie-magiczną tożsamość a ewolucja miała rację bytu.
+- **Kanon:** Spoza 17 ocalałych ras wyeliminowano z kanonu wszelkie niespójne koncepcje (jak dawne maszyny badawcze czy w pełni zaawansowane twory technologiczne), by świat zachował swoją brutalną, mroczną i spójnie-magiczną tożsamość, a wprowadzona Ewolucja Przebudzonych miała pełną swobodę.

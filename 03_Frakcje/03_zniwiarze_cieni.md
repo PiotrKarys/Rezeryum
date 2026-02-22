@@ -1,18 +1,19 @@
-# REZERYUM — Żniwiarze Cieni (Frakcje Ciemności Mroku)
+# REZERYUM — Żniwiarze Cieni
 
-Podziemne rzemiosło w służbie twardości świata wymaga wrogiej wiedzy nie od wbijających miecz, lecz brudzących w naczyniach o duszę. W obronie za mury świata ucieka się od światłości w najciemniejsze zakamarki walk by przetrwać Pustki okręt za mrok. Tolerowani, potrzebni urzędom dla tajnego wniknięcia w brud miasta a równolegle - budzący głęboki, powszechny społeczny lęk.
+Znaczna część magii w zrujnowanym świecie oddziałuje nie tylko z ciepłotą czy wodą, ale również z kręgiem śmierci. Organizacje opanowujące sztuki pogrzebowe egzystują głęboko w rynsztoku systemu Ligi.
 
 ---
 
-## 1. Działalnictwo i Zdolności
-Stanowią zamkniętą społeczność nekromantów Zerum oraz potężnych wykwalifikowanych wyroczni "Więzi Pustek". To ci, którzy podejmują się szaleństwa uczenia obrony u Głębi przed ukatrupieniem świata na łuku - chwytając potwora własną bronią, poświęcając swoje światło.
-- **Tworzenie Pustych Powłok:** Wykorzystywanie zabitych ciał rzuconych u dróg jako manewrujące wojsko piechotne wypełniane pustym ładunkiem z Zerum. Dają tym samym nieludzkie pospolite zastępy jako tanie tarcze obrońcam przy wojnach z kleszczym i najgroźniejszymi bestiami na polu wejścia "Pustoszyciela".
-- **Cienie Zwiadowcze:** Wyrzucanie fizycznego fragmentu od swojej aury z cienia by powędrował do okopów obozowego najeźdcy lub pod mur wrogich rodziarzy, tworząc w ukrytej nocy niezauważalne siatkowe po korytarzach miasta mroczne ślady śledzenia - dla szpiegowskiego rygoru lub skradzeń za lochu na komnacie.
-- **Analiza Wydrążonych Wędrowców:** Tylko i wyłączenie szpiedzy z Żniwiarzy potrafią dotknąć trzeźwości u najsilniejszej infekcji z ukryć "Wydrążeniu" bohatera u którego rozbudził u Cienia stary Głębinowy pasożytniczy byt by przejąć ukradkiem bohatera. Wiedzą najdoskonalej czym jest nienazwana infekcja obłędu.
+## 1. Doktryna Śmierci (Umiejętności Załogi)
 
-## 2. Lojalność polityczna Mroku u Cywili
+Żniwiarze Cieni to frakcja wyrzutków, grabarzy i wściekłych oficerów alchemii rzucających czary ze zwłok i zepsutej krwi o mrocznej Naturze Cienia. Znani z trzech głównych formacji wsparcia obozowego:
+* **Tarcze Mięsnych Konstruktów**: Użytkownicy zdolni posługiwać się rozbitymi kośćmi zmasakrowanej piechoty jako ożywioną, pustą bryłą tkanki osłaniającej żywicielskie oddziały przed potężnymi zderzeniami gigantów. Trupy są traktowane li tylko jako pancerz z gliny bojowej spryskanej Zerum bez wskrzeszania w nich starej duszy wojownika.
+* **Szpiedzy Wewnętrznej Pustki**: Wysłannicy dysponujący zaklętym okiem z mgły, zdejmujący potężnie ukrytą barierę arystokracji dowódczej miasta Ligi w celu sprzedawania plotek o zdradach królewskich dla ułaskawionej frakcji buntowników czy gildii kupców na podbój cen. 
+* **Lecznictwo Przekleństw (Amputacja Lękiem)**: Posiadają unikatową umiejętność odłączania mrocznych rzewnych klątw nakładanych przez Cienie udręki psychicznej. Leczą zdezorientowanego lub poddanego lękowi oficera w Pęknięciu poprzez wysysanie trucizn za użyciem zablokowanych technik okaleczenia od szaleństwa bojowego mroku zza ściany.
 
-Nie posiadają jednomyślnie narzucanych wielkich doktryn, dających wspólną wielką naradową izbę. Zależnie i pokornie dostrajają własne krwinki pracy pod tolerancję miejskiej aglomeracji w jakiej obecnie wykrzesają u życia dom za miastem w piwnicach:
-- W najgłębszych, podziemnych metropoliach pełnią cicho obronę jako najemne jednostki wywiadu i okrutnej inkwizycji dla władz wojskowych. W uderzeniu potrafią błyskawicznie wyeliminować cel i pozyskać jego kryształ bez głośnych, krwawych starć gwardii.
-- U słonecznych promenad cywilizowanych z targu jak u wolnego Żarnogrodzia funkcjonują jak ukryci czarodzieje u rynsztoku i kanałów z łapówkami wymuszający pomoc od kupców. Tam gwardia rzuca inkwizycję na stos za same mżonki bycia z Pustką na powiązaniach więzi "z Cienia na czoło z magią", uznając za grzeszników.
-- Nienawidzą jawnie Pustoszycieli widząc ich gorszą potężność w bezmyślnych naddatek rzezi i głodu bez kształtu (stąd są bardzo tolerowani jako obrońce gdy światu gnije grunt przed armią bez imion u dna pęknięć pod krater kopalni za atak). 
+## 2. Podwójna Gra Polityczna (Status w Bastionach)
+
+Żniwiarze stacjonują stale pod powierzchnią w państwowych oczekiwaniach, bez zwierzchnika i bez jednego szefa do likwidacji po wydaniu nakazu od burmistrzów obrony:
+* Z twardej wojennej przymusowej gwardii w np. wielkich Bastionach typu Głębomir – toleruje się ich i opłaca w sekrecie dla używania wojsk trupów na otwartych liniach muru, gdy brakuje piechoty do zalepienia ogromnych szczelin we krwi po szturmie. 
+* Wewnątrz wyższych miast wewnętrznych warstw na elitach stolicy Splecin trafiają absolutnie często pod ułożone rycyny od Inkwizytora i płoną na świetlistych polowych stosach na środku rynków. Handlowano tu jedynie zaufaniem do cichego podsłuchu. 
+* Każdy szanujący się obywatel ukraca błąd nocy – pomagają ukradkiem rzucić obóz niszczeniu w armie Pustoszyciela by zmylić mu tor we kłamanej po magicznej fali puste zapachy dla z martwego wojska, uciekając gładko by chwały uniknąć walk we wroga nocnej udręce szał z bój potężnych wroga Puszczy.

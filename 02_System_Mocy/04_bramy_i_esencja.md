@@ -1,34 +1,34 @@
-# REZERYUM — Bramy (Dungeony) i Kamienie Esencji
+# REZERYUM — Eksploracja Bram i Łupy
 
-Ten rozdział omawia fizyczne eksplorowanie ustabilizowanych Pęknięć przez awanturników i to, na czym opiera się dekompozycja łupów po walkach.
+Walka o przetrwanie toczy się na głębokich frontach Pęknięć. Zabezpieczenie terytorium wokół rany wyżłobionej w materii świata jest jedyną szansą cywilizacji na dostęp do potężnych zasobów.
 
 ---
 
-## 1. Architektura Bramy
+## 1. Natura Ujarzmionej Bramy
 
-„Stoisz przed szczeliną w powietrzu — jest jak pęknięta szyba, przez którą widać inną wersję tego samego miejsca. Ta sama skała, ale pokryta pulsującymi kryształami. Te same drzewa, ale poskręcane i świecące. Powietrze jest gęstsze, cieplejsze, naelektryzowane. Twoj Iskrzyk zaczyna świecić jaśniej — czuje Zerum."
+Pęknięcia na terenie Głębokiej Dziczy to śmiertelnie niebezpieczne rany w tkance przestrzeni domagające się zamknięcia. Kiedy specjalne oddziały (Latarnicy) stabilizują taką anomalię potężnymi linami Splotu i oznaczają teren, Pęknięcie zyskuje status **Bramy (Zabezpieczonego Lochu)**.
+- Brama nie rozsiewa już mżonki na okoliczne ziemie, stając się zawieszonym w próżni i odizolowanym środowiskiem gotowym do zaplanowanej eksploracji (Dungeon Crawl).
+- Zorganizowane bojowe gildie i arystokracja handlowa wynajmują awanturników do wycinania w pień stad zmutowanych stworzeń wewnątrz Bram. Z ciał bossów i ze ścian jaskiń wydobywa się bezcenne rudy, unikalne esencje lecznicze i Kamienie Czasu niezbędne do zasilania potężnej ekonomii Bastionów.
 
-Bramy to portale do zniekształconej, potężnie opromieniowanej wymiarowo kopii lokalnego biomu zewnętrznego (dlatego w lesie brama prowadzi do szalonego Lasu u Pęknięciu).
-Nie są one chaotycznie zepsute, ponieważ ich krawędzie na wejściu zostały ustabilizowane i otoczone linami przez wyspecjalizowanych Przebudzonych ze straży murów "Latarników", zapobiegając rozrostowi komory na świat fizyczny. Eksploracja tych stref wymaga jednak silnych drużyn uderzeniowych z uwagi na gęste zagęszczenie mutantów chroniących drogocene środki Zerum w klatkach.
+## 2. Hierarchia Trudności Bram
 
-## 2. Tiery Bram (Poziom Mocy Komnaty)
+Każda Brama posiada odmienną specyfikę. Trudność mierzona jest natężeniem mżonki, determinującym jakość potencjalnego minerału do zdobycia.
 
-Bramy posiadają swoistą sztywną hierarchię, z którą żaden niedoświadczony mag nie ma szans przeżyć konfrontacji na gorszym od siebie pułapie wiedzy, z uwagi na wyższy naturalny woltaż ciążenia Zerum u bram wielkich dławiący po płucach nowicjusza samą toksycznością pyłu podczas brania wdechów w jaskini.
+| Kategoria Mroku | Wymagany Zespół (Rekomendacja) | Typ zagrożenia z głębi stada | Główny Łup Eksploracyjny | 
+|---|---|---|---|
+| **Brama Iskry I** | Nowy pobór na wojowników z gildii | Pomniejsze i płytkie drapieżniki z bagien i owady żerujące przy granicach wejścia Puszczy. | Drobne monety i małe odpryski kruszcu, zwane Okruchami Splotu. |
+| **Brama Żaru II** | Zgrana drużyna weteranów | Zabójcze roje wilkorów i taranujące giganty blokujące ciasne tunele. | Potężniejsze bryły minerałów rzadkich, pozwalające kupcom wywindować rynkowe ceny zbrojeń na targu. |
+| **Brama Płomieni III** | Wybitne elity zbrojnych oddziałów | Zaawansowane drapieżniki watahy tkające magiczne złudzenia z mroku i Cienia. | Cenne relikty i Kamienie Esencji pozwalające inżynierom Ligi rozwijać magiczną inżynierię o potężnych właściwościach. |
+| **Brama Żagwi IV** | Dowódcy formacji i legendarni mistrzowie | Prastare, gigantyczne bestie noszące w sobie echa samej Wojny Koron, kontrolujące logikę komnat z rzezi. | Rdzenie tytanów mogące trwale zabezpieczyć mur obronny wielkiego miasta lub w całości zasilić okręt morski Ligi Handelowej. | 
+| **Brama Gwiazdy V** | Panteony i ocalałe uśpione bóstwa ras | Kosmiczna i abstrakcyjna abominacja potrafiąca manipulować rzekami czasu i grawitacją wewnątrz Pęknięcia. | Artefakty pozwalające na bezbłędne i zakazane pojęcie natury Splotu. Nagła Ewolucja Przebudzonego. | 
 
-| Klasa Trudności Zjawiska | Typ Wymaganego Awanturnika z Progu | Przeciętna Ochrona w Ekosystemie Locha (Bestie) | Nagrody z Bestiariusza po rzezi (Typ wypadającej waluty Kamieni) | Częstotliwość istnienia na świecie dla gildii |
-|---|---|---|---|---|
-| Brama **Iskry** (I) | Zwykły (Iskra) | Małe zanieczyszczone mutanty przedpola, wielkie gady bagien, zniekształcone wyrośnięte owady chrząszcze. | Okruchy Esencji u wypadania trzewi. | Częste, znikają bez podparcia wkrótce same naturalnie. |
-| Brama **Żaru** (II) | Wierlat (Żar) | Silniejsze szarżujące drapieżniki wielkiego stepowego kalibru organizujące polowania i układy hierarchii w szerszych stadach na intruza przy gniazdach. | Odłamki Esencji (Typowy rynkowy handel za te minerały miejskie). | Regularne spotkania za eskortami w dziczy na podróż. |
-| Brama **Płomienia** (III) | Dowódca (Płomień) | Potężne Elity potworów na uderzenia czołgowe, watażki jaskiń z wielką własną taktyką czarcia - tzw. mini-bossowie z silną obroną przed urokami. | Kryształy Esencji z grubymi matrycami rzemieślniczym użyciu na zbrojewnicy pod grawering Run kowalem. | Odkrywane po poszukiwaniach ekspedycyjnej załogi dalekim lądem pośród gór lub pod mchem bardzo rzadko. |
-| Brama **Żagwi** (IV) | Legenda (Żagiew) | Archaiczne obiekty prastarego strachu, milczące mroczne drapieżniki po starożytnej wojennej apokalipsie za potężnym grubym i ślepym murem tytana - boss bramowy o tarczy z łupków żelaznych szczytów odpornych na kataklizm rakiety lub armaty na łuku oblężnicznie przy fortyfikacjach ze spiżowej woli. | Rdzenie Esensi (Bezcenna gwiezdna paliwowa moc latającego krążownika po locie, lub ostoja wielkich rodowych mocy nad zburzeniu podwyższeń Splotu przed latami życia na w pół bóstwa przed żeniaczkami władzy miasta politycznie z licytacji zysku nad targu aukcyjnym). | Ekstremalnie nikła wręcz szansa u znalezisk. Tylko znane kordynaty zapisów ukrytych po starych zmarłych wybitnych wojewodach map dają wehikuł u dotarciu ekspedycji. |
-| Brama **Gwiazdy** (V) | Półbóg z rodu Wysokiego po starciu (Gwiazda) | Starożytne mroczne szczątki ślepych po uderzeniach z gwiazd dawnych Bogów u szczytu sił po zapomnieniach lub same proto-byty głuchej kosmicznej pustki rzucające gwiazdami o mury gór, zdolne zabić u odwrócania grawity lub czasu walki mżeniami oczu za błyski w komnacie strzeżonej na połamaniu kolan po ewolucji bohatera rozkazu głosowym do czarów czystej śmierci na dotyku potęgi! | Legendarne Serca Esencji "Sztuczne Słońca do wybuchowe zasilania do potęg dusz". A przy odrobinie uśmiechu same zepsute Ziarna Przemiany dające potężnej anomalii z jednorazowe umiejętności poza zasady fizyk za oddanie szans do ewolucji imiennej swych rasy za drzwiach za wygranymi komnat do rąk szaleńca obłudnego mistrza dla zwycięzcy | Wydarzenie z epok jako narodowe wojenny po wielki udział najwspanialszych armii i pospolite ruszenia najlepszym dowództw Bastionu w bitwach po potężnej bramie grozy do nadejścia legendy w zysk po mrok o wygranek po powrocie elity latarnikowym statkom krwawo u portu miejskiego w rzezi tytanowej bitwy. | 
+## 3. Dynamika Założeniowa Oddziału
 
-## 3. Dynamika Eksploracyjna (Party "Załoga")
+Ze względu na szaleństwo grawitacyjne i krwiożerczy instynkt hord po drugiej stronie progu komnat, zejście w uśpione korytarze Bramy w samotności stanowi samobójczą formę spaceru (niezależnie od poziomu ewolucji bohatera). Minimalne formacje eksploracyjne budowane do zdobywania łupów bezbłędnie opierają się na weteranach:
 
-Aby mieć gwarancję zarobku dla gildii, Bram unika się solo - grozi to obłędem, dławieniem Cieniem za filarami lub rozerwaniem pleców bestiami stad. Typowe Drużyny 4-6 osób zawierają stałą obsadę bojowego rodu po taktykach staroświeckich armii dla wygranej szans. Iskrzyki drużyny oświetlają trasę i niosą kryształy pod łupami, gdy właściciele: 
-- Ostrze - Główna moc strzałów z magiami zadawanych krwawych ciosom ciętych pod ogień (Vrakai, Pyrhani). 
-- Tarcza - Przejmuje uderzenia masy tytana frontowej jamy, stoi jak góra z murem w cieniu draskowym i żelazowej furii trzymający hordę szpon o swobodzie u bazy ataku do rzęs. (Drask).
-- Oczy / Cień - Badanie min zwiadem pod korytarz ukryto pułapkowo rozbrojeń. Strzelec wycofane pęta do uwięzi i celowe ataki pod kradzieży słoik aptecarzysty przy potędze w dym na zapleczach szefow bestii w obrotach za walki.
-- Uzdrowiciel (Serce) - Kontrola Splotowanej leczniczej pryzmatyki z krwi po uspokojeniu szałowej drużyny pod ciosem na trucizną przed odcieniach pijawek Głębinom u wyjścia za stracha ze śmerci za brama po walcach od magów.
+* **Siła Ofensywna** (np. Pyrrhani władający Żarem) – Opanowanie masowej taktyki niszczycielskiej; skupienie się na wyżeraniu stref i paleniu gęstniejących bestii we frontowym korytarzu.
+* **Obrona i Mur** (np. Drask władający Rdzą) – Trzepanie tarcz, taranowanie i obrona osłonowa fizyczna przed szarżą wybuchowych pomiotów. Skala żelaza dla ratowania całych pleców rzutu rzemieślników.
+* **Rozpoznanie Zaskoczeń** (np. Orvhani we mgle) – Likwidacja pułapek jaskiniowych, tworzenie pajęczyn, zwiad przedni ze snajperskim powalaniem rzuconych we zbroję pędu okopowych trucicieli błędu z cienia komnat.
+* **Ratownictwo Trwale Odbudowujące** (np. Shenn) – Uzdrowiciel pola bitwy. Leczenie krwotoków poprzez wyciąganie posoki z ciał wodnych oraz mitygowanie ran osuniętych w szał wojów. 
 
-Warto nadmienić iż w najcięższych klasowo otchłaniach i bramkach rzadkich, istnieje Władca Wrót - kolosalny prastary król bestyjowy siedzący za rogiem u głównego kryształowi. Zwleczenie za niego w zwalciu walki wygasza trzon Bramowych cieni sprawiając iż ta po godzinie stabilnie u parowaniu u zgaśnie we świecie!
+Oczyszczenie Głównej Komnaty wewnątrz Bramy i zabicie najsilniejszego Bossa eliminuje pulsujące serce zła, trwale zamykając anomalię i oddając tereny wokół Pęknięcia pod bezpieczne osady. Przemienione łupy trafiają następnie do rąk szlachty miasta, w obroty wolnego handlu! 

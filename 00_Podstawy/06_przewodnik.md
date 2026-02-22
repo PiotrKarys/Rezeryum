@@ -209,7 +209,9 @@ Ekstremalnie rzadkie kondensacje Zerum w formie owoców. Każde daje jedną absu
 
 ### 17 ras w 5 rodzinach
 
-W Rezeryum żyje 17 znanych ras, pogrupowanych w pięć **Rodzin**. Wszystkie rasy **współdzielą Bastiony** — żyją ze sobą jak narody na jednym kontynencie. Są dzielnice etniczne, małżeństwa międzyrasowe, wspólne szkoły i targi, ale też napięcia, uprzedzenia i rywalizacja.
+W Rezeryum koegzystuje 17 ras Przebudzonych, tradycyjnie pogrupowanych w pięć podstawowych **Rodzin**. Wszystko ze względu na fakt, że ostatecznie wymogi świata cywilizowanego wchłonęły wszelkie mniejszości. Wszystkie rasy **współdzielą Bastiony** — żyją ze sobą jak narody na jednym kontynencie. Są dzielnice etniczne, małżeństwa międzyrasowe, wspólne szkoły i targi, ale też napięcia, uprzedzenia i rywalizacja.
+
+Oto kluczowi reprezentanci poszczególnych gatunków:
 
 **🏔️ Żywiołowi** — Vrakai · Shenn · Drask · Pyrrhani
 
@@ -325,8 +327,8 @@ Rezeryum żyje i rozwija się. Kilka procesów zachodzi jednocześnie:
 | **Pustoszyciel** | Kolosalny awatar Głębi — rzadki, ale katastrofalny |
 | **Wysocy** | Istoty światła, które wygrały Wojnę Koron — milczący bogowie z ukrytymi celami |
 | **Głębokie** | Bezimienne otchłanie — dysharmonie dążące do chaosu i entropii |
-| **Ziarno Przemiany** | Jednorazowy owoc mocy — absurdalna zdolność za cenę ewolucji rasowej |
-| **Wymazanie** | Zniszczenie Prawdziwego Imienia — kara gorsza od śmierci |
+| **Ziarno Przemiany** | Rzadki zmutowany owoc pęknięć — gigantyczna moc za cenę zablokowania przyszłej ewolucji |
+| **Wymazanie Imion** | Zniszczenie Prawdziwego Imienia Splotu — tortura i kara gorsza od śmierci |
 | **Wydrążenie** | Powolne przejęcie istoty przez Głębię — szpieg we krwi |
 | **Głos-Kamienie** | Zapisy prawdziwej historii w języku starszym od Chóru |
 | **Mury-Koron** | Zapomniane Bastiony zbudowane w ciałach skamieniałych Pustoszycieli |
