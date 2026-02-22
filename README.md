@@ -55,7 +55,7 @@ Iskra → Żar → Płomień → Żagiew → Gwiazda
 
 ---
 
-## 🧬 Rasy (21 ras w 4 rodzinach)
+## 🧬 Rasy (21 ras w 5 rodzinach)
 
 ### Żywiołowi
 `Vrakai` · `Shenn` · `Drask` · `Zylmari` · `Pyrrhani`

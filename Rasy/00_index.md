@@ -9,7 +9,7 @@
 - **Domyślnie:** 3 formy (Bazowa → Ewol. 1 → Ewol. 2).
 - **5 wybranych ras** ma formę **finalną** (4. forma) — legendarne szczyty potencjału.
 - Nazwy krótkie, unikalne, obco brzmiące.
-- System jest **rozwojowy** — nowe rasy mogą pojawiać się w przyszłości.
+- System jest **rozwojowy** — ukształtowano ostateczną listę **14 bazowych linii ewoluujących**.
 
 ---
 
@@ -22,21 +22,16 @@
 |---|------|------|----------|--------------|
 | 1 | Vrakai | [vrakai.md](vrakai.md) | ★ 4 | różne |
 | 2 | Shenn | [shenn.md](shenn.md) | ★ 4 | różne |
-| 3 | Drask | [drask.md](drask.md) | 3 | Rdza |
-| 4 | Zylmari | [zylmari.md](zylmari.md) | 3 | Przepływ |
-| 5 | Pyrrhani | [pyrrhani.md](pyrrhani.md) | 3 | Żar |
+| 3 | Drask | [drask.md](drask.md) | 3 | Rdza / Żar |
 
 ---
 
 ### RODZINA: BESTYJNI
-*Hybrydy drapieżników — instynkt, prędkość, polowanie.*
+*Drapieżnicy — instynkt, prędkość, polowanie, udomowiony obłęd.*
 
 | # | Rasa | Plik | Ewolucje | Natura Zerum |
 |---|------|------|----------|--------------|
-| 6 | Ghorran | [ghorran.md](ghorran.md) | 3 | różne |
-| 7 | Kalitropi | [kalitropi.md](kalitropi.md) | 3 | różne |
-| 8 | Aervin | [aervin.md](aervin.md) | 3 | różne |
-| 9 | Skaeth | [skaeth.md](skaeth.md) | 3 | różne |
+| 4 | Ghorran | [ghorran.md](ghorran.md) | 3 | różne |
 
 ---
 
@@ -45,24 +40,22 @@
 
 | # | Rasa | Plik | Ewolucje | Natura Zerum |
 |---|------|------|----------|--------------|
-| 10 | Thrakkor | [thrakkor.md](thrakkor.md) | ★ 4 | Cień |
-| 11 | Voryth | [voryth.md](voryth.md) | ★ 4 | Czas |
-| 12 | Prosterzy | [prosterzy.md](prosterzy.md) | 3 | różne |
-| 13 | Myrrhan | [myrrhan.md](myrrhan.md) | 3 | różne |
-| 14 | Velmari | [velmari.md](velmari.md) | 3 | różne |
-| 15 | Orvhan | [orvhan.md](orvhan.md) | 3 | Cień |
+| 5 | Thrakkor | [thrakkor.md](thrakkor.md) | ★ 4 | Cień |
+| 6 | Voryth | [voryth.md](voryth.md) | ★ 4 | Czas |
+| 7 | Prosterzy | [prosterzy.md](prosterzy.md) | 3 | różne |
+| 8 | Myrrhan | [myrrhan.md](myrrhan.md) | 3 | różne |
+| 9 | Velmari | [velmari.md](velmari.md) | 3 | różne (Biomasa/Rój) |
+| 10 | Orvhan | [orvhan.md](orvhan.md) | 3 | Cień |
 
 ---
 
 ### RODZINA: CYWILIZOWANI
-*Budowniczowie, technicy, organizatorzy — siła w strukturze, nie w mięśniach.*
+*Budowniczowie, technicy, organizatorzy — siła w strukturze.*
 
 | # | Rasa | Plik | Ewolucje | Natura Zerum |
 |---|------|------|----------|--------------|
-| 16 | Raashari | [raashari.md](raashari.md) | ★ 4 | różne |
-| 17 | Kragath | [kragath.md](kragath.md) | 3 | różne |
-| 18 | Nythrai | [nythrai.md](nythrai.md) | 3 | różne |
-| 19 | Tharumi | [tharumi.md](tharumi.md) | 3 | różne |
+| 11 | Raashari | [raashari.md](raashari.md) | ★ 4 | różne |
+| 12 | Tharumi | [tharumi.md](tharumi.md) | 3 | Runa |
 
 ---
 
@@ -71,8 +64,8 @@
 
 | # | Rasa | Plik | Ewolucje | Natura Zerum |
 |---|------|------|----------|--------------|
-| 20 | Solhari | [solhari.md](solhari.md) | 3 | Pryzmat |
-| 21 | Aurynn | [aurynn.md](aurynn.md) | 3 | różne |
+| 13 | Solhari | [solhari.md](solhari.md) | 3 | Pryzmat |
+| 14 | Aurynn | [aurynn.md](aurynn.md) | 3 | różne |
 
 ---
 
@@ -81,7 +74,7 @@
 Ogólnie rasy Rezeryum żyją ze sobą — jedne w bliższej zgodzie, inne w dalszej. Większość współdzieli Bastiony, handluje i walczy ramię w ramię.
 
 **Rasy na uboczu:**
-- **Velmari** — żyją w naturze, nie w miastach. Kontakt na ich warunkach.
+- **Velmari** — żyją w naturze lub własnych ulach roju (Kasta Zarodnikowa i Chitynowa), kontakt na ich warunkach.
 - **Aurynn** — garstka ukryta wśród innych ras, traktowana jako legenda.
 
 **Rasy „w cieniu":**
@@ -89,13 +82,12 @@ Ogólnie rasy Rezeryum żyją ze sobą — jedne w bliższej zgodzie, inne w dal
 - **Thrakkor** — nosiciele piętna Głębi, muszą stale udowadniać swoją lojalność.
 
 **Współpraca międzyrasowa:**
-- Drask + Pyrrhani = elitarne konstrukty fortyfikacyjne
-- Kragath + Nythrai = systemy rojowo-mechaniczne
-- Shenn + Zylmari = zarządzanie biomami
+- Wszyscy na wszystkich — elastyczność cywilizacji sprawia, że Drask mogą współpracować z Thraktorem, a Shenn z Vorythem, w zależności od potrzeb logistycznych w Bramach. Szczególne więzi łączą Drask z Velmari(Kasta Chitynowa dawniej Nythrai) przy budownictwie w Kornaku, a także Ghorran z Vrakai jako niepokonani obrońcy i najemnicy. 
 
 **Napięcia:**
 - Raashari dominują politycznie (liczebność) — mniejsze rasy czują się marginalizowane.
-- Prosterzy budzą lęk (nieumarli) — tolerowani, ale rzadko w pełni akceptowani.
+- Prosterzy budzą lęk (wampiryzm Zerum) — tolerowani poprzez ścisłe Kontrakty Krwi.
+- Shenn i Drask czasem się ścierają z powodu pożarów i wypalania biomów pod industrializację przez Linię Żaru u Drasków.
 
 ---
 
@@ -104,4 +96,3 @@ Ogólnie rasy Rezeryum żyją ze sobą — jedne w bliższej zgodzie, inne w dal
 - Jakie konkretne klany (Rodowe Sploty) istnieją w ramach poszczególnych ras?
 - Czy hybrydy Aurynn z innymi rasami mają własne formy ewolucji?
 - Jak Bastiony prawnie traktują Prosterów (prawa, obywatelstwo)?
-- Czy Velmari handlują z Bastionami (np. rzadkie grzyby z Zerum)?

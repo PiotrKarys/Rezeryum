@@ -32,7 +32,7 @@ Iskrzyki Raashari to pełne spektrum form: koty, psy, ptaki, gryzonie, gady, owa
 
 ## Bastiony
 
-Dominują liczebnie we **wszystkich Bastionach**, szczególnie w **Żarnogrodzie** (polityka, handel), **Splecinie** (edukacja) i **Jasnych Progach** (dyplomacja). Jedyne miasto, gdzie nie stanowią większości, to **Kornak** (Drask i Nythrai).
+Dominują liczebnie we **wszystkich Bastionach**, szczególnie w **Żarnogrodzie** (polityka, handel), **Splecinie** (edukacja) i **Jasnych Progach** (dyplomacja). Jedyne miasto, gdzie nie stanowią większości, to **Kornak** (Draskowie i Kasta Chitynowa Velmari).
 
 ## Relacje
 
