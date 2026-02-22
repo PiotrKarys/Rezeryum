@@ -44,7 +44,7 @@ Ciosy wymieniane „poniżej" czasu rozbiły świat na epoki, warstwy i pękają
 W obrębie każdego Pęknięcia powstają **Komnaty** — strefy o odrębnych prawach fizyki (np. odwrócona grawitacja, czas w pętli, flora pochłaniająca pamięć). Im głębiej w Komnatę, tym bliżej do uśpionych **pierwo-bytów**.
 
 ### 2.4. Stabilne Bramy
-Część Pęknięć pozostaje dzika, otwierając się znikąd i pożerając w panice niczego niepodejrzewające karawany. Inne, za sprawą uwięzionych strumieni Zerum oraz w morderczym pocie operacji zbrojnych frakcji, **zakotwiczyły się** w strukturze świata. Wokół takich stabilnych **Bram** wyrastają kolosalne Bastiony, rynki handlu uśpionymi surowcami oraz nierzadkie wojny polityczne staczane we krwi w pogoni za surowcową dominacją z Cieni.
+Część Pęknięć jest dzika i pojawia się znikąd. Inne **zakotwiczyły się** w strukturze świata przepływami Zerum i działaniami śmiertelników. Wokół takich **Bram** wyrastają Bastiony, całe ekonomie w oparciu o ich zasoby oraz najkrwawsze wojny o ich kontrolę.
 
 ### 2.5. Nazwa Świata
-Uniwersum zwane jest **Rezeryum**, ponieważ w wyniku zrzucanych ciosów przez oba wielkie bóstwa, uformowało się w jeden gigantyczny „rezerwuar Zerum" – potężne uwięzienie gęstej mocy pozostawionej w wojnie między Wysokimi a zmutowaną Głębią. To nie jest harmonijna, słoneczna planeta, lecz ziejąca ogniem spopielona blizna na ciele wszechświata!
+Świat nazywany jest **Rezeryum**, bo po Wojnie Koron stał się „rezerwuarem Zerum" — wszystkim, co zostało uwięzione między Wysokimi a Głębiami. To nie planeta — to wielka, wciąż krwawiąca bliźna po kosmicznej wojnie.

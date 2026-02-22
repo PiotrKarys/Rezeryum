@@ -1,20 +1,21 @@
 # PROSTERZY — Ewolucje Pijących Życie
 
-Rozwój wampiryczny rośnie liniowo wraz ze zgromadzeniem ilości potęgi przyswojonej z wypitej krwi magicznej Splotu Pęknięć.
+Magia tej rasy skaluje się wraz z wchłanianiem energii życiowej pokonanych przeciwników na polu bitwy.
 
 ---
 
-## 1. Ewolucja Pragnień (3 Formy)
+## 1. Drzewo Ewolucyjne (3 Formy)
 
-- **Prost (Łowik Nocy):** Wojownik otwierający szlak wewnątrz Bramy. Szybko uzupełnia wigor konsumując z bitew krew mniejszych potworów by zatrzymać krwawienie powłoki a zmęczenie ignorować rzezią mieczy. Zadaje silnie precyzyjne ataki z obudzenia nocnych manewrów w cieniu skał. 
-- **Prosterzy (Egzekutor Krwi):** Bydlęca wampiryczna groza i wojak dający zaporę krwawych cięć. Magia pozwala im fizycznie skrystalizować własną wylaną na dłoniach posokę do form ostrych naręcznych włóczni bojowych. Wchłonięcie ofiary niemal od razu zalecza ogromne uszkodzenia frontowych kości do perfekcji ciała z balastu na szlaku bitew wojownika łowcy na.
-- **Prost-Ghul (Awatar Krwiożerczy z Pustkowi):** Demoniczny szanowany drapieżnik elity u Ligi nocy. Budzi wszechogarniającą panikę Cienia w oddziałach bestii Pęknięcia zrzucając je o drgawki na kolana. Obudowany twardą pękatą formacją ciała u uderzeniowych pysk pędzonych lewitującymi wyrzutniami skrzepniętej do zabójstw posoki i igieł magii boj.
+- **Prost (Forma I - Łowik Nocy):** Podstawowa faza rozwoju. Wojownik uczy się wysysać małe ilości magii z krwi pokonanych zwierząt. Używa swoich mocy do szybkiego poruszania się w cieniu i zadawania precyzyjnych ciosów sztyletami.
+- **Prosterzy (Forma II - Egzekutor Krwi):** W pełni dojrzały żołnierz. Potrafi manipulować swoją własną krwią, utwardzając ją i tworząc z niej fizyczne ostrza na dłoniach. Zyskuje zdolność regeneracji głębokich ran ciętych po wypiciu posoki potwora.
+- **Prost-Ghul (Forma III - Awatar Rzezi):** Rzadka i potężna forma dowództwa. Wojownik staje się mrocznym koszmarem na polu walki. Skóra twardnieje, a wokół niego unosi się krwawa mgła paraliżująca słabszych wrogów.
 
-## 2. Iskrzyk – Dymny Gacek Nocy
+## 2. Iskrzyk – Nietoperz Zmierzchu
+Zwierzęta duchowe tej nacji odpowiadają ich nocnemu trybowi życia.
+- Najczęściej iskrzyk przyjmuje formę czerwonego lub czarnego nietoperza utkanego z dymu.
+- Zwierzę to potrafi bezszelestnie latać po ciemnych korytarzach kopalni, szukając żywych celów dla wampirycznego pana.
+- W momencie śmiertelnego zagrożenia właściciela, iskrzyk potrafi ugryźć wroga, na chwilę zatrzymując akcję jego serca.
 
-Zwierzę z natury cienia Pustkowi na za plecy:
-- Odzwierciedlone w chłodzie małe nietoperze o lśniących błękitno-krwawych rubinach barwach powłoki. Latają cicho w zwiadzie do mrok loch pio obozu armata tarczy z z noc o mrucz błąd rzezi obro tchu. 
-- Gryzem z zatrutego pot by obali bez walk osłon z wrog. Do szpieg o z cicho nocy za krwe w pot z od na szałów frontu. 
-
-## Zadania u w Tarczy do Łowców do 
-- Co gdy Pustka z łowc za ro puszc na kłót psuciu od nocy krew w pot szału pio drasty z z gwardio bo front ze w z łup mrozu bój?
+## Pytania Pomocnicze
+- Jak długo wampir z rasy Prosterów może przetrwać w pełnym świetle słońca na pustyni, zanim magia zacznie parzyć jego skórę?
+- Kiedy żołnierz awansuje do Formy III (Prost-Ghul), czy traci zdolność do zjadania normalnego chleba i pokarmów ludzkich?

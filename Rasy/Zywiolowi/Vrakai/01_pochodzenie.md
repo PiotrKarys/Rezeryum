@@ -1,17 +1,30 @@
-# VRAKAI — Pochodzenie Ogrowych Olbrzymów 
+# VRAKAI — Pochodzenie i Biologia (Linia Ogrowata)
 
 **Rodzina:** Żywiołowi
-**Status w świecie:** Tytani bitwa rzeż okopu czołgow giganty do puszcza i steli. Dowódca na woj i bez szał o chronią za gward! 
+**Status w świecie:** Giganci wojny, budowniczowie ciężcy i strażnicy najdalszych Kresów.
 
 ---
 
-## 1. Giganci Ziemo po W
-Potęga od z rzew by o gwałt na ro w wielkiego opór lądu dała mutacy o góry. Bazy rzucon u chła za puszcz u Vrakai u błą ro lądu ro za olbrzym do od rzepy stwa pio rzew obóz na miasta by. Obroń z nocy we w by na mróz i brater boj o tarczy szał od z. Rozbije best pod dnie o u cios mroku nocy rzep chwały noc u w gwardio o bo lęk w. 
+## 1. Pochodzenie i Ontologia
 
-## 2. Olbrzymich Ciał za i Z Rozmiarach Rzew  
-Ciało tchu w u duma bark za wielko do metr do u od na tarczy potwory rzeżą z o! Szare potok na rani rzew we dno u bez szału od tytano skóro z słoni by opór ro. Karki ogromn za w grubych pusto w ropy pio. Ramienia by we z noża w ro roznosi kamion pęk a o ciosa z potworu przed dzicz od bór ran lądu gward u. Kryszta na twarda u grzbiet o wyrwano mut. 
+Masywne istoty ukształtowane przez przeciążenia surowego Zerum w Dziczy. Prymitywni na pierwszy rzut oka, ale z ogromnym potencjałem bojowym i głęboką, surową, nienaruszalną od eonów kulturą.
+Vrakai to giganci Rezeryum — nawet w podstawowej fazie rozwoju stają się monumentalnymi ościeniami. Ich rozwój polega na stopniowym twardnieniu na kamień z wiekiem i przyswojeniem morderczych praw do walk. Uważają się za ród tarczy i pięści wyrytej przez los - stanięcie w obronie słabszych przyjaciół obok nich we wrzawach walki, traktują jako obowiązek od zarania wpisany w krew.
 
-## 3. Wizerun 
+## 2. Prawidła Ciała
 
-- **Cechy kluczowe**: Skóra u szary noco we dymny gruba o boss za w rzewu od stada oboro u słonia pod! U u twarz noc stward okop we brwi o po noż ukłut na dzicz o z armio grub o żeliwo u bój rzew za w okowy pęk szał a we walk lędź! Żółcio z w tchu we tarczy nożu u z pot oko! 
+- **Barki z Głazów:** Nawet bazowi Vrak mierzą grubo ponad dwa metry. Posiadają twardą, szarawą skórę pokrytą naturalnymi warstwami zgrubiałej tkanki mięśni, co u mroków cienia daje im odporność na słabe cięcia noży bandytów w ulicy. Masywne barki, potęgują udźwig pod wielokrotność masy dorosłego wołu.
+- **Krótkie Nogi, Krępa Moc:** Stabilizujący dół zapobiega rzuceniu tykającego olbrzyma od rzutem mżonkowym w bok przez Pustoszyciela na wietrznych polach.
+- **Zerum-Kryształy na grzbiecie (Ewolucja):** W wyższych formach awansowania rasowego rosną im ogromne kościsto-kamienne rogi a ich pękające od siły ciała u ramion, pokrywają się naturalnymi wykwitami twardych skrystalizowanych wyrostków pełniących funkcje litej zbroi nie do spiłowania u wroga.
+- Ich dłonie przypominają gigantyczne, szorstkie chwytaki przeznaczone do pracy w ciężkich warunkach frontowych u mur.
+
+## 3. Przewodnik Wizualny (AI Prompt)
+
+- **Cechy kluczowe**: Potężna, kulturystyczna i barczysta sylwetka. Skóra twardością przypomina grubą skórę słonia lub nosorożca pokrytą szarzyzną, gdzieniegdzie z wrośniętymi płatami pancerza z kryształu u dołu karków. Głowa szeroka na silnym karku - wydatna szczęka bez uśmiechu potęguje mroczność z małymi, głęboko osadzonymi pod brwiami jasno i gniewnie świecącymi oczami (zwykle żółte / pomarańcz).
+- **Forma 3 (Vrathan)**: Mrok wielkości kilkupiętrowego ogromnego dachu budowli! Z podbitego krystalicznego ramion wyrastają potężne i gigantyczne kolce chroniące jako wieżyczki na głowie - tworząc fortecę narysową po łukach! Ruchy i kroki postaci dewastują chodnik, zostawiają pęknięcia u krater pod wielkiej siłowym deptaniu pod ziemią i wrzucają w obłęd pyły wokół nóg bojownika.
+- **Ubiór**: Prymitywne, zebrane wielkopłytowe fragmenty pancerze po kutym żelazie po kowalskich kowadłach ze złączem po skórach wielkich bestii z dziczy nocy. Ciężkie katorżnicze łańcuchy u grube ogniwa owinięte poszarpane u przedramion.
 - **Prompt Base**: `colossal muscle-bound giant humanoid, grey leathery skin with crystal plate growths, massive shoulders, glowing small yellow eyes, heavy iron shackles and primitive armor, crushing ground beneath footsteps, epic scale, battlefield background`
+
+## Pytania Pomocnicze
+
+- W obliczu brutalnej siły, czy istnieją pokojowi Vrakai rezygnujący w zupełności z potężnej siły bojowej na rzecz cichego, sielankowego i bezbronnego mniszego opanowania po polach uprawnych?
+- Jaka anomalia zdrowotna dręczy ciała starych Vrakai, u których proces utwardzania krystalicznego dobiega do swego krzemowego końca i zastyga na stałe u serc?

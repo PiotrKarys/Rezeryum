@@ -24,9 +24,9 @@ Poniższa lista zawiera kluczowe pojęcia kształtujące świat, jego religię, 
 | **Pustoszyciel** | Kolosalny awatar Głębi — rzadki, ale katastrofalny potwór wędrowny |
 | **Wysocy** | Istoty światła, które wygrały Wojnę Koron — milczący bogowie z ukrytymi celami |
 | **Głębokie** | Bezimienne otchłanie — dysharmonie dążące do chaosu i entropii |
-| **Ziarno Przemiany** | Zmutowany owoc z najgłębszych instancji Komnat. Gwarantuje unikalny i potężny talent bojowy za bezwzględną cenę całkowitego zablokowania drogi ewolucyjnej (utrata możliwości Nadawania Imienia). |
-| **Wymazanie Imion** | Brutalny rytuał całkowitego zniszczenia Prawdziwego Imienia ofiary — potworna zbrodnia psychologiczna, chętnie narzucana wyrokiem przez formację Milczących. |
-| **Wydrążenie** | Czasowe albo stałe pożeranie układu Splotu u nosiciela przez mroczny pasożyt Pęknięć. Doprowadza ofiarę na krawędź bezmyślnego szału destrukcji. |
+| **Ziarno Przemiany** | Jednorazowy unikalny owoc mocy z głębi Pęknięcia — daje absurdalną zdolność za całkowitą blokadę Nadawania Imienia ras |
+| **Wymazanie** | Niezwykle rzadkie zniszczenie Prawdziwego Imienia innej osobie — to kara gorsza od śmierci, używana przez Głosicieli |
+| **Wydrążenie** | Powolne korumpowanie i przejęcie istoty przez Głębię z uśpionego Zarodka |
 | **Głos-Kamienie** | Niezbadane, zakazane zapisy prawdziwej historii w języku starszym od Chóru, do znalezienia pod ziemią |
 | **Mury-Koron** | Mityczne (lub usilnie zapomniane) Bastiony zbudowane w ciałach skamieniałych Pustoszycieli |
 | **Rodowe Sploty** | Elitarne linie klanowe dające silne dziedziczne mutacje lub połączenia Natur Zerum |

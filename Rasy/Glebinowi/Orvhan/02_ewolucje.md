@@ -1,20 +1,20 @@
-# ORVHAN — Ewolucje Rozmycia Cienia
+# ORVHAN — Ewolucje Rozproszonych Ech
 
-Dymna natura powtórek Pęknięć ewolucyjnie pozwala Orvhanom przenikać przez lite struktury rzeczywistości bez hałasu.
+Awans bojowy w tej rasie oznacza coraz większą kontrolę nad ciemnością. Wojownik uczy się przenikać przez lite skały.
 
 ---
 
-## 1. System Dowodzenia Mgłą (3 Formy)
+## 1. Drzewo Ewolucyjne (3 Formy)
 
-- **Forma I (Zatarty Szpieg):** Najsłabszy adept, stający się powszechnie dymem. Powszechny morderca nocny używający lewitujących igieł i małych sztyletów ukrytych z rękawach. Ignoruje wzrok na patrolach stając się niewidzialnym w absolutnej czerni.
-- **Forma II (Tkacz Ciemności):** Zaawansowany oficer operacyjny. Przemienia kończyny na bojowiskach w dławiące, chłodne mgły owijające tchawice wrogów z Bastionu na odległość. Dezorientuje całe sekcje przeciwnika nakładając czasową ślepotę cienia.
-- **Forma III (Architekt Mroku):** Postać o randze generała. Wojownik zatraca człowieczeństwo i wsysa całe światło na kilkanaście metrów. Operuje jako krocząca dziura w wizji, potrafiąca używać natychmiastowych mikro-teleportacji dymnych między strefami mroku dla zabójczych pchnięć w serce.
+- **Forma I (Zatarty Szpieg):** Najsłabszy adept. Potrafi stać się niewidzialnym w całkowitych ciemnościach. Używa małych sztyletów ukrytych w rękawach.
+- **Forma II (Tkacz Ciemności):** Oficer. Potrafi zamienić ramiona w gęstą mgłę dławiącą wrogów. Potrafi również oslepić grupe przeciwników na kilka minut. Doskonale radzi sobie z zabójstwami na odległość.
+- **Forma III (Architekt Mroku):** Forma generalska. Wojownik staje się chodzącą dziurą w rzeczywistości. Pochłania całe światło wokół siebie na odległość kilkunastu metrów. Zyskuje zdolność do teleportacji pomiędzy miejscami, w których panuje absolutna noc.
 
-## 2. Iskrzyk – Maski Upiory
+## 2. Zwierzęcy Chowaniec
+- Iskrzyk Orvhana rzadko przypomina żywe zwierzę.
+- Zazwyczaj jest to latający, mrugający kawalek szarego papieru lub latająca czarna maska o smutnym wyrazie.
+- Chowaniec ten potrafi odwrócić uwagę strażnika, imitując dźwięk kroków idącego człowieka w pustym korytarzu lochów.
 
-Orvhan nie mruczy chowańcami zwierząt nocnych, wzywając echa dawnych ludzi z otchłani strachu.
-- Iskrzyki przypominają zazwyczaj lewitujące, latające puste maski o dramatycznym, rozmazanym wyrazie bólu. 
-- Oddziałuje uderzeniami paranoi w Pęknięciu: iskrzyk na żądanie u potrafi wypuszczać bezgłośne, iluzyjne kroki ludzi w korytarzu obok wrogich dowódców, wymuszając błędne decyzje armii dezinformacji.
-
-## Pytania Pomocnicze Dymu
-- Jaką taryfę potrafi zgarnąć z gildii Architekt za kradzież map generałów o ukryciu wojsk Pustoszycielskich?
+## Pytania Pomocnicze
+- Ile minut generał Orvhanów potrafi spędzić w postaci czystego dymu pod wodą, zanim magia ulegnie rozproszeniu?
+- Czy ranni żołnierze Formy Pierwszej leczą się za pomocą zjadania węgla z ognisk?

@@ -1,21 +1,25 @@
-# MYRRHAN — Pochodzenie Amorficznego Błota
+# MYRRHAN — Pochodzenie Błotnistych Zwiadowców
 
 **Rodzina:** Głębinowi
-**Status w świecie:** Eteryczni i nieprzewidywalni zwiadowcy o zmiennym, płynnym kształcie. Ich rola skupia się na infiltracji i asymilacji danych.
+**Status w świecie:** Amorficzne, niezrozumiałe i nieobliczalne istoty z "Niczyjego Kształtu". Skupieni na asymilacji informacji z otoczenia.
 
 ---
 
-## 1. Ontologia — Bezkształtna Geneza
-Myrrhan narodzili się w najgłębszych Komnatach Bramowych z błota silnie nasyconego czystym Zerum. 
-- Zjawisko to spowodowało powstanie inteligentnej materii poszukującej oparcia we wzorcach otoczenia. 
-- Nie posiadają stałego kośćca ani z góry ustalonej płci, co czyni ich doskonałymi szpiegami Ligi, potrafiącymi przedostać się przez najwęższe szczeliny skalne do serca obozowisk wroga.
+## 1. Ontologia — Bezkształt z Pękniętej Komnaty 
+Zrodzeni na poły pod ziemią, w najgłębszych Komnatach Bramowych w Dziczy. Przypuszcza się, że powstały z samego błota wymieszanego z ogromnym nagromadzeniem Zerum.
+- Ich ciała poszukują stałego wektora, oblepiając to, co poznają. W najwcześniejszej postaci nie mają żadnego wewnętrznego kośćca.
+- Z perspektywy rzemieślników Ligi są traktowani jako cenne obiekty zwiadowcze do wpuszczania przez wąskie szczeliny bram grobowców, potrafiące bez odkształceń formy rozlać się po zamku.
 
-## 2. Anatomia Płynnej Mazi
-- **Błotnista Powłoka:** Organizmy zbudowane z półprzezroczystego, irydescentnego żelu. Do poruszania się po twardym bruku Bastionów często wchłaniają w siebie elementy metalowe lub skalne, służące im jako tymczasowy punkt podparcia.
-- **Naśladownictwo:** Zdolność przybierania dowolnych kształtów (np. imitacja ludzkiej sylwetki) kosztuje ich stały wysiłek magiczny Splotu. Gdy są ranni lub zmęczeni, tracą rygor i rozlewają się w formę amorficzną.
-- **Pływające Oczy:** Wewnątrz galaretowatej struktury swobodnie przemieszczają się ich narządy wzroku, pozwalając na jednoczesną obserwację otoczenia we wszystkich kierunkach.
+## 2. Anatomia Przeźroczystej Mazi
+- **Humanoidalna Galaretka:** Powłoka z mżonkowo splecionej, półprzezroczystej materii śluzowo-żelowej! Z natury nie posiadają kośćca.
+- **Naśladownictwo Kształtu:** Mogą przybierać w zarysie formy podobne do ludzi czy orków, jednak utrzymanie rygorystycznego, ludzkiego wyglądu przez dłuższy czas kosztuje ich ogromny wysiłek Splotu. 
+- **Oczy Pływające:** Na powierzchni ich galaretowatej głowy z reguły pływają dwie, a nierzadko trzy okrągłe tęczówki, niemające ściśle określonego miejsca. Swobodnie przesuwają się pod błoną na boki w trakcie ruchu, umożliwiając widzenie we w każdą stronę korytarzy!
 
 ## 3. Przewodnik Wizualny (AI Prompt)
-- **Cechy kluczowe**: Amorficzny humanoid o powłoce z półprzezroczystego żelu lub ożywionego błota. Pływające w ciele świetliste tęczówki. Wchłonięta wewnątrz ciała drobna biżuteria i elementy zbroi.
-- **Forma 3 (Myrrhakael)**: Ogromny obłok pęczniejącej mazi formujący setki kończyn dla obrony strefy i blokowania naporu fizycznego potworów.
+- **Cechy kluczowe**: Zjawa z żelu humanoid o strukturze błota irydesecencyjnego. Dwoje pękatych pływających świecących oczu wewnątrz galaretki ciała. 
+- **Forma 3 (Myrrhakael - Rozpadający na Siebie Samych Awatar)**: Potężny amorficzny obłok pęczniejący dziesiątkami rąk łapiących spadające głazy z sufita dając potężną obroną mięknącą tarczę z lepkiej powłoki na front walki.
 - **Prompt Base**: `amorphous humanoid made of iridescent opal gel, translucent slime body, glowing inner core organs, morphing fluid shape, bizarre aesthetic, wearing floating metal jewelry inside the slime body, magical mysterious dungeon background`
+
+## Pytania Pomocnicze
+- Ile uderzeń ciosów kamiennej broni potrzeba, by galaretowate ciało Myrrhana straciło spójność na polu bitwy?
+- Jaki kruszec noszą pod swoim śluzem, by podłoże twardego bruku miasta nie wysuszało ich stóp na szlaku marszowym?

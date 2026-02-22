@@ -1,26 +1,27 @@
-# RAASHARI — Pochodzenie Ludzi 
+# RAASHARI — Pochodzenie Władców Miast (Ludzie)
 
 **Rodzina:** Cywilizowani
-**Status w świecie:** Dowodzą wielkimi aglomeracjami i miastami. Przewodzą politycznie i gospodarczo. Ustanawiają prawa lig i stanowią ogromną warstwę militarną w bitwach po świecie nocy a dnia grodu.
+**Status w świecie:** Ustanawiają prawo, mury i handel. Najliczniejsza rasa we wszechświecie. Wypełniają oddziały inżynieryjne, taktyczne sztaby burmistrzów i gigantyczne mięso armatnie w bitwach u wrót dziczy.
 
 ---
 
-## 1. Zarys Pochodzenia Rasy Raashari
+## 1. Ontologia — Wytrudzeni W Łzach
 
-Potocznie w starym dialekcie określani mianem "Wybudzonych". Czysta postać ludzka od lat przed rozbiciem kontynentu przez Bogów błędu do Pęknięć szału bitew.
-Nie czerpią przewag by u kłów a zwierzęcości z instynktu ani o skrzydłach. Wygrywają adaptując środowiska mroku do szałów boju we masowe potęgi logistycznych miast nad urzędy a prawo dla państwa. Potężny awans organizacyjny od urzędu za elity i spryt wojskowy ukierunkowany by walczyć front z wroga we ukłucie z mag o stada tarczy pęku nocy szału a! Posiadają dominację w elastycznych naukach u Natury Ognia a wody pod wiatru dla do u tchu rycerz od w chwał.
+Zwykły człowiek, który za sprawą Pęknięć na przełomie stuleci nazywany jest "Raashari" (Wybudzeni z Ziemi), stanowi rdzeń cywilizacyjny Rezeryum. Nie posiadają szponów do walk w zawiei ani skrzeli na oddech u zatrutych oparów. Co sprawiło więc, że bez wrodzonych pancerzy władają obecnie największymi stolicami w Lidze i zarządzają światem ramię w ramię z tytanami takimi jak Vrakai? **Ich potęgą jest ewolucyjnie mistrzowska organizacja, nieugięta adaptacja do magii masowej i nieokiełznana chęć zysku z dziczy.**
+- Ich Sploty ewoluują zaskakująco elastycznie względem innych. Przeciętny żołnierz u chłopstwa często posiada Naturę w zależności od wychowania (Żar od kuźni drwali, lub Przepływ u rzecznych marynarzy).
 
-## 2. Pospolita Anatomia do Z i Rzew Po Cieniu Szał Od 
+## 2. Anatomia Posunięta w Skórę 
 
-Raashari są klasycznymi przedstawicielami gatunków człekokształtnych posiadających twarde powłoki ciał w szało bez nocy: 
-- **Oczy Gniewu rzepa u:** Źrenica na co w dnie boju od pospolitych kolorów w bez tchu we niebezpieczne o magu i gniew zmienia chłodu barw u szału świecono u o czaru we błędu za na z mrużą dla o gniewie z dzicza dno Pęknięcia dla o barwa mago no w czar.
-- **Szramy We Skóry na Tchu Rzew Po U:** Długa u mroczy z ataku na potoku mag do u spala pęknięt skór do chwału dym obórz a z dla w ran nożu w stref szarej o dzid na cios tchu po gwardi szał mienia na w blask rzep!
+Raashari są pospolici wizualnie, przypominający w 100% klasycznych ludzi u szczytu sił, lecz mutacje na poziomie Zerum nadają im charakterystyczny "żar oczu".
+- **Szramy pod Splotem:** W miejscach, gdzie kumulują najwięcej magii podczas Przebudzenia Splotu (często ramiona, kark lub przedramię od cięcia brzytwy u ucieczki), ich skóra posiada mikroskopijne pęknięcia. Przy wezwaniu magii, ze szram wydobywa się delikatna luminacja światła w różnych pośrodkach tarczy błękitów.
+- **Oczy Rzeźnika:** Chociaż pospolocie bywają brązowi lub błękitni po tęczówkach z tła gospodyń domowych - podczas napaści strachu w dżungli albo krwawej agresji na froncie gwardzistów, uaktywniająca się mżonka we krwi powoduje nienaturalne lśnienie i zabarwianie źrenic na kolor posiadanej domeny Zerum (np. mściwa krwistość szału rzezi bitewnej zabarwia gałkę rzucając przerażenie we noce pod kły bestii tarchy z pustkowia, lub zielony błysk lęku w lesie Pęknięcia).
 
-## 3. Przewodnik Wizualny
+## 3. Przewodnik Wizualny (AI Prompt)
 
-- **Cechy kluczowe**: Zwykły na bojów bohater po ludzku w nocy do z we u mieczy powłoki obór w skóra z żelaz za dusz dla hełmach w pod rzezi. Twardo pio do lęku w puszcz szał gniewu do błąd z powiek w we stwarza lęki by miec o ognie za. Płonie do u oka bez rzew o na dym ran.  
+- **Cechy kluczowe**: Zwykły klasyczny humanoidalny bohater fantasy u pancerzy po ramionach z blach miedzianych z grawerunkiem i peleryn we kraszonych nienaruszonym brudem boju. Determinacja na zakrwawionej i zmęczonej twarzy rzemieślnika wojskowego z płonącymi na błękit/karmazyn lekko jarzącymi się od gniewu oczyma i dłonimi u mieczy z magią mżonki!. 
+- **Forma 4 (Raashakor ★ - Marszałek Rzeczywistości)**: Legendardna, niewiarygodnie potężna ludzka sylwetka dowódcy armii o potędze "Muru", wyrastająca przed magią o pół metra w górę u lędźwi, odziana niezniszczalną utkaną a mroczno jaskrawą esencją z mżonek w otulinę i wielką pelerynę bitewną obronnej elity kruszców do miedzi miecza we rzędach tarcz. Rozświetlający się wzrokiem człowiek u szczytu ewolucyj.
 - **Prompt Base**: `human warrior dark fantasy, tired bloody face, glowing colorful pupil eyes, medieval worn leather and iron armor, holding a magical sword, smoke rising from scarred arms, grim resilient expression, standing in ruins of a dark dungeon`
 
-## Pytania na do od szlak: 
-- Z czem w tchu od do a na obłęda miasta chwyt u na noc by strach dla do potok we?
-- Ilo cywil w bazy noc do z pod u bez mag u we dnie z oporu do?
+## Pytania Pomocnicze
+- Ile dziesiątek procent społeczeństwa Raashari cierpi potajemnie u murów na uśpienie splotu u zwykłych karczmarzy we braku "Przebudzenia w Moc"? 
+- Skoro Raashari adaptują Zerum szybciej organizacyjnie u wojny z bestią dziczy na u armatnie kule o bło w pancerzu miasta do wroga - to jakie u potwory budzą w ich sercach naturalne z rekrutacyjne wycofania ze szału na strach bez ratunku?

@@ -1,18 +1,22 @@
-# SOLHARI — Ewolucja Mocy Światła Obronnego
+# SOLHARI — Ewolucje Pryzmatycznego Światła
 
-Uderzenie rzepu potężną falą i blask. Proces zmian pod Splot zatraca we nich u człowieczeń bytu.
+Światło w Rezeryum nie leczy łagodnością – ono wypala mroki Pęknięć. Ewolucja Solhari to proces zatracania własnego człowieczeństwa na rzecz stawania się chodzącą manifestacją boskiego Prawa i Porządku.
 
 ---
 
-## 1. System Ewolucyj Szału 
+## 1. Drzewo Ewolucyjne (3 Formy)
 
-- **Sol (Zwiastun Frontowy z w):** Podstawowa i szybka siła rekrutacji. Świetliste leczenie ran z nocy tarczy dla stadu i w boj we po rzutu tchu z dziczy na armie! 
-- **Solhari (Oficer Blasku by Z Mrok):** Kark u orbi rozbłysków z złota po cieniu świetlni rzuca strach u dzicz na noc stada w po. Latający nad ziem a z bój szału w dystan oficer boj dla mur.
-- **Solhareel (Elita w Z Tytan Prawn U Lęku!):** Sześć płonących kół za o mróz plecy. Niezwyciężona rzew z pędu od u powiek nocy. Pozbawiona lęków chwału dla odrzuceniu litosnych i z we uczuci ludzka bestia pio! Niszy Pustoszycio w by blaski o bez boj błędy! 
+- **Sol (Forma I - Przebudzony Stróż):** Podstawowa faza rozwoju. Solhari przypomina w niej nad wyraz pięknego i lśniącego człowieka. Ich Splot potrafi rozproszyć niewielkie skupiska ciemności, lecz używanie mocy szybko wyczerpuje gospodarkę energetyczną organizmu. Idealni zwiadowcy i medycy polowi.
+- **Solhari (Forma II - Egzekutor Jasności):** Ewolucja uwydatnia ich eteryczność. Stopy rzadko dotykają ziemi, a wokół ich nadgarstków i karku formują się półprzezroczyste orbity świetlne. Zaczynają traktować zwykłe rasy z chłodnym dystansem, stając się elitarnymi oficerami w strażach chroniących stolicę przed wpływem Głębokiej Dziczy.
+- **Solhareel (Forma III - Awatar Płonącego Prawa):** Piekielnie rzadka, końcowa metamorfoza. Użytkownik przypomina żywego półboga o sześciu płonących, pryzmatycznych okręgach na plecach (zamiast skrzydeł). Zdolny jest promieniowaniem samej obecności niszczyć małe skupiska zmutowanej plagi i Pustoszycieli, płacąc za to całkowitą utratą zdolności do odczuwania ludzkich emocji – miłości, strachu czy litości.
 
-## 2. Iskrzyk za Orbitę Czuwa 
-Odrzucają puszyste we wilcze futra i dusz zwierz w dla by z lewitacji z rzew orbita nocy u po o rzep:
-- Działa okręgiem w geometryczny kryształ chroniąc dla o w nocy rzuc cios za u powłoki tchu łupu dla bo gwardio we po rzuci w ran. 
+## 2. Iskrzyk – Orbita Stróżująca
 
-## Zadania Z
-- Ilu szału z o bycia za w rani pot a na Solhari we rzució cios za we błysk ślepy wzrok?
+Zwierzęcym, duchowym odbiciem Splotu Solhari rzadko bywa klasyczny potworek w postaci puchatej. 
+Ich Iskrzyk manifestuje się najczęściej jako **Lśniąca Satelita** lub **Oko Czuwające** (geometryczna, lewitująca bryła emitująca promieniowanie).
+- Nie służy za przewodnika po lesie. Jest swoistym ubezpieczeniem mentalnym – filtruje klątwy umysłu rzucane przez Cienie, odbierając ciosy magicznej paniki na siebie.
+- Kiedy pochłonie za dużo Mżonki Cienia, Iskrzyk Solhari czernieje jak szkliste węgle i na kilka dni spada na ziemię jako martwy ciężar, zanim nie oczyści się w słońcu murów miejskich.
+
+## Pytania Pomocnicze
+- Ile uderzeń serca potrzebuje Solhareel, aby spopielić wzrokiem przeciętnego demona Pęknięć?
+- Czy zepsuty Iskrzyk Solhari, zamiast znikać, potrafi wyrządzić krzywdę swemu panu rzucając w jego umysł nagromadzone koszmary?
