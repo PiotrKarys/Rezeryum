@@ -11,37 +11,30 @@ Każdy z Bastionów wyewoluował w unikalny sposób: jedne to ociekające złote
 - **Cytadele Górskie** — Ściśle wbudowane w martwe jaskinie i głębokie szczeliny wysokich pasm górskich; ich chłód i niedostępność często strzegą niezwykle bezcennych i terytorialnych podziemnych kopalni z cennymi łupami surowego Zerum.
 - **Miasta Portowe** — Konstruowane niepewnie na palach lub zacumowane przy mrocznych wodach Jezior Splotu oraz na brzegach Głębokich Mórz. Silnie zintegrowane w handlu rzecznym z Zylmari i okrętową logistyką wodnych karawan.
 - **Miasta-Nomadzi** — Gigantyczne i architektonicznie chaotyczne konstrukcje osadzone ciężko na kolosalnych, spękanych pancerzach i grzbietach potężnych bestii Archaionów. Cyklicznie wędrują one swoimi własnymi szlakami przez Dzicz.
-- **Mury-Koron** — Najmroczniejszy i najbardziej bluźnierczy z sekretów Rezeryum. Zapomniane Bastiony wydrążone i obudowane wewnątrz gigantycznych, martwych powłok skamieniałych Pustoszycieli. Ich oszukani mieszkańcy bezwzględnie nie znają prawdy o przerażającej otoczce swojego własnego domu.
+- **Miasto Korony (Świątynia-Utopia)** — Głębokiej wiary mekka i główna siedziba fanatyków Kultu Wysokich. Niezwykła metropolia w całości wykuta i zamknięta we wnętrzu gigantycznego, skamieniałego tytana z Wojny Koron (dawniej "Mury-Koron"). Miasto jest całkowicie i rygorystycznie odcięte od informacji ze świata zewnętrznego. Nie jest to ponura tyrania – mieszkańcy są chorobliwie radośni, żyją w otoczeniu olśniewających sztucznych ogrodów i fałszywych dogmatów o przerażającym raju z absolutną pewnością, że reszta planety to martwe piekło chaosu. Dla reszty Rezeryum jest to miejsce opowiadane szeptem: nikt kto tam dobrowolnie, albo siłą wchodzi, nigdy nie powraca na zewnątrz by uświadomić bliskich czym kult jest w rzeczywistości.
 
-### 5.1. Szlaki Handlowe
+### 5.1. Szlaki Szumu (Nawigacja Eksploracyjna)
 
-Handel to jedyny pulsujący krwiobieg, który utrzymuje zwaśnione Bastiony Rezeryum przy wspólnym życiu. Wytyczone, kluczowe szlaki to:
+Bastiony **nie są ze sobą połączone stałymi, stabilnymi drogami**. Podróż pomiędzy chronionymi Pęknięciami miast wymaga orientacji w kapryśnej przestrzeni magii za pomocą tzn. **Szlaków Szumu**.
 
-- **Szlak Kryształowy** *(Żarnogród ↔ Głębomir ↔ Kornak)* — Najważniejsza i najbardziej morderczo strzeżona arteria świata. Zapewnia transport najczystszego, bezcennego surowego Zerum z potężnych kopalni Gór Kręgowych wprost do ociekających luksusem stolic handlu.
-- **Szlak Wichrów** *(Żarnogród ↔ Kres Wichrów)* — Surowa, długa trasa przecinająca bezkresne Stepy. Regularnie eskortowana przez uzbrojone po zęby karawany opłacane okiem Ghorran oraz Zakonem Przysięgłych. Wysoce niebezpieczna przez bandytyzm, ale gargantuicznie opłacalna logistycznie.
-- **Szlak Mokry** *(Prządka ↔ Splecin)* — Płynny transport wodny wytyczony przez lśniące Jeziora Splotu. Zamglony szlak, w całości operowany i pilotowany przez niezawodnych i cichych Zylmari.
-- **Szlak Nomada** *(Czerszawa → wszędzie)* — Unikalny, majestatycznie ruchomy węzeł szlaku Miasta-Nomady. Przeciera nowe ścieżki transportu, docierając do najbardziej ufortyfikowanych, izolowanych osad pochowanych przed gniewem Głębokiej Dziczy.
+Są to ulegające powolnym przesunięciom "ścieżki" harmonicznego naładowania, wzdłuż których przetrwały resztki bezpieczniejszej przestrzeni. Przechodzą one przez lewitujące archipelagi z lejącymi się wodospadami, terytoria osadzone na gargantuicznych skamieniałościach czy ukształtowane w przezroczyste teleporty rozpięte między szczytami Pustkowi. Kto nie podróżuje Szlakiem Szumu, a decyduje się na samodzielne zboczenie w Głęboką Dzicz, igra z niemal pewną śmiercią – w Dziczy grasują mutacje, anomalie oraz agresywna fauna pilnująca terytorium. Z drugiej strony to właśnie w najciemniejszych obszarach dziczy odnaleźć można materiały i unikalną zwierzynę do konwencjonalnych rzemiosł. 
+**Uwaga Lore:** W Głębokiej Dziczy **nie ma** Kamieni Esencji ani przepełnionych magią bossów (bossowie i kryształy rodzą się tylko pod ustabilizowanymi Pęknięciami / w Dungeonach). Zboczenie z trasy służy polowaniom rzemieślniczym i skracaniu dystansu kosztem absolutnego ryzyka zatracenia. 
 
-## 6. EKONOMIA ZERUM
+## 6. EKONOMIA I BIZNES
 
-Całe społeczeństwo Rezeryum brutalnie zależy od Zerum jako fundamentu i uniwersalnego zasobu imperiów:
-- **Kryształowe Pola** — Rygorystycznie strzeżone, sztuczne uprawy kryształów pełniące role życiodajnego pożywienia, nieskończonego paliwa energetycznego oraz najtwardszej, stabilnej waluty wymiany.
-- **Hodowle Bestii** — Przymusowo mutowane, nasycane Zerum w kontrolowanych dawkach dzikie stworzenia używane do wzmożonego transportu, nadludzkiej pracy siłowej oraz morderczej obrony garnizonowej.
-- **Sztuczne Słońca** — Skomplikowane architektonicznie instalacje ufundowane z serc "Żywych Run", rozświetlające ponure, uwięzione pod ziemią dziedzińce Bastionów oraz całe terytoria podziemnych kopalni.
-- **Wydobycie z Komnat** — Elitarne i naznaczone masową śmiercią ekspedycje cechów Latarników wyprawiane prosto w trzewia otwartych Pęknięć po wybitnie rzadkie zasoby z wymiaru Komnat.
-- **Kopalnie Żył** — Surowe bryły krystalicznego Zerum brutalnie wydzierane i kute tysiącami kilofów głęboko z żył potężnych Gór Kręgowych.
-
-Brak stałego dostępu do świeżego Zerum zawsze oznacza to samo = ostateczny głód, błyskawiczne wygaszenie energii ratunkowej i powolny, brutalny upadek całego Bastionu. Dlatego też polityczna oraz zbrojna kontrola bezwzględnie decyduje o panowaniu nad każdym odnalezionym Pęknięciem i wytyczonym szlakiem transportu.
+Społeczeństwo Rezeryum brutalnie zależy od rzadszych wypraw by napędzać życie:
+- **Konwencjonalne Uprawy i Tanie Szam** — Rygorystycznie ogradzane biologicznie pola rzadszych warzyw, syntetycznych ziaren Shenn oraz olbrzymich mchów w Prządce. Cała biedota operuje zwykłym systemem przetrwania – nikt nie pożywia się niszczącymi układ tkankowy rudami. Zebrane materiały z dziczy również sprzedawane są na wagę na targach by opłacić "tanią strawę".
+- **Hodowle Bestii** — Przymusowo mutowane w kontrolowanych dawkach stworzenia używane do nadludzkiej pracy siłowej, obrony oraz jako wielkie, opancerzone wierzchowce na Szlaki Szumu.
+- **Sztuczne Słońca** — Skomplikowane instalacje ufundowane z Kamieni Esencji, rozświetlające ponure, uwięzione dziedzińce Bastionów oraz całe sekcje podziemne w cyklach zrównanych do dziennych.
+- **Wyprawy w Głąb (Dungeony)** — To absolutne koło napędowe elit. Ponieważ brakuje tradycyjnych kopalń kopiących złoża "wszędzie", elitarne wyprawy uderzeniowe wyprawia się w trzewia otwartych Pęknięć (Bram) po łupy skrystalizowanej Rudy i Kamieni Esencji wycinanych z wielkich Bossów. To stamtąd wypływa najpotężniejszy kapitał Gildii (Syndykatów).
 
 ---
 
 ## 7. TRANSPORT
 
-- **Karawany Lądowe** — Podstawowa masa logistyczna ciągnięta przez potężne bestie juczne i silnie eskortowana przez uzbrojonych po zęby najemników; regularnie kursuje po zdradliwych pustkowiach szlaków wschodnich miast.
-- **Latające Okręty** — Powietrzne cudy inżynierii, wykorzystujące generatory i potężne relikty *Serc Esencji* do zaginania wektorów grawitacyjnej dylatacji. Ekstremalnie luksusowe, bardzo szybkie i całkowicie odporne na ataki z ziemi.
-- **Tunele Podziemne** — Klaustrofobiczna, hermetyczna sieć dusznych i rozgrzanych korytarzy wyrąbana pod gruntem Dziczy rękami mistrzów rasy Drask i kastę roboczą Velmari; transport omija mroki na powierzchni chroniąc się w obrzydliwym szlamie i ciężkim pyle kuźni.
-- **Barki Splotu** — Rzeczne pontony handlu, ślizgające się na magicznie wyładowanych strumieniach wód pod jurysdykcją wodnej linii ras żeglujących.
-- **Czerszawa (Miasto-Nomada)** — Logistyczny i architektoniczny moloch kroczący po grzbiecie ożywionej legendy potwora - wyizolowana platforma handlowa zrzucająca zaopatrzenie małym osadom na peryferiach Dziczy.
+- **Karawany Lewitujące (Statki Esencji)** — Powietrzne cudy inżynierii opłacane przez największych bogaczy, wykorzystujące relikty by zaginać wektory nawigacji (na Szlakach Szumu) omijając bezpośrednie dno dziczy w luksusowych i ryzykownych skokach od wyspy do wyspy.
+- **Transport Przez Archaiony** — Logistyczne platformy wybudowane przez kasty z niższych grup podłączone łańcuchami do skorup twardych, opancerzonych stworzeń znoszących ekstremalną florę bez najmniejszych ran.
+- **Barki Splotu** — Rzeczne pontony na Jeziorach Splotu ślizgające się na magicznie wyładowanych strumieniach wód pod jurysdykcją wodnej linii Shenn/Zylmari.
 
 ---
 
