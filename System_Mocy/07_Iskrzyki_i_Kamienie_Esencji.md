@@ -20,19 +20,24 @@ Rola Iskrzyka zawęża się wyłącznie do technicznego wspomagania przetrwania 
 
 ---
 
-### 4.14. Kamienie Esencji (Rdzenie Bestii)
+### 4.14. Kamienie Esencji (Rdzenie Bestii i Harvesting)
 
-**Kamienie Esencji** to skrystalizowane, nienaruszalne narządy magiczne wypadające z ciał potężnych bestii i mutantów zamieszkujących Bramy. W odróżnieniu od naturalnych, surowych Kryształów Zerum (które wydobywa się z wrogiej ziemi niczym rudę), Kamienie są w pełni "przefiltrowaną" przez układ zwierzęcia potęgą.
+**Kamienie Esencji** to skrystalizowane, fizyczne narządy magiczne pulsujące żywym Zerum, stanowiące ostateczny, uniwersalny łup tego świata.
+Występują one **wyłącznie wewnątrz ustabilizowanych Pęknięć (Dungeonów)** — w organizmach "bossów" lub potężnych strażników danego wymiaru. Zwykła, drapieżna fauna zamieszkująca Głęboką Dzicz ich nie posiada, co nadaje polowaniom wewnątrz Pęknięć tak niesamowite i niebezpieczne znaczenie ekonomiczne.
+
+**Zasada Harvestingu (Lootowanie i Proch):**
+Boss pęknięcia po utracie życia nie zostawia trwałych, zwykłych szczątków. Gdy wprawny myśliwy zanurza ręce w jego tułowiu i brutalnie wycina tlący się magią Kamień Esencji – dochodzi do zerwania balansu materii u bestii. W ułamku sekundy po odłączeniu "rdzenia", olbrzymie ciało potwora sypie się w niematerialny pył i czarny proch rozpływający się po posadzce.
+Dlatego myśliwi stosują **Harvesting (Skórowanie)**: przed wycięciem upragnionego Kamienia, rzemieślnicy muszą fizycznie odciąć toporem trofea (wielkie kły, pancerze, ostrza kostne, ostre łuski). Te odłupane fragmenty, oddzielone zaistniałym chirurgicznym dystansem od serca, materializują się, podczas gdy reszta zwierza "prochnieje" wraz z wydobyciem klejnotu.
 
 **Klasyfikacja Kamieni powiązana z Progami Mocy (3.0):**
 
 | Tier | Klasa Kamienia | Źródło (Typ Bramy) | Skala Wartości Drobnej |
 |---|---|---|---|
-| I | **Zrąb Esencji** | Bramy Zarzewia | Standardowa waluta; jadalna racja dla niższych splotów |
+| I | **Zrąb Esencji** | Bramy Zarzewia | Standardowa waluta; niski rzadki moduł alchemiczny |
 | II | **Odłamek Esencji** | Bramy Nurtu | Duże transakcje handlowe w Bastionach |
-| III | **Kryształ Esencji** | Bramy Eskalacji | Główny budulec drogich sprzętów i rezerw potęg |
+| III | **Kryształ Esencji** | Bramy Eskalacji | Główny budulec drogich sprzętów bitewnych i potężnych super-narzędzi |
 | IV | **Rdzeń Esencji** | Bramy Rezonansu | Strategiczne paliwo miejskie; zasilanie murów o zbroi wielkogabarytowej |
-| V | **Serce Esencji** | Bramy Absolutu | Surowiec na poziomie legendarnym, służący do tworzenia mitycznych *Głos-Kamieni* |
+| V | **Serce Esencji** | Bramy Absolutu | Surowiec na poziomie legendarnym, służący do tworzenia mitycznych *Głos-Kamieni* i Absolutnego Oręża |
 
 **Ekonomia i Biologia:**
-Kamienie to filar przetrwania cywilizacji. Stanowią ostateczny wymierny łup — karmią, zasilają miejskie systemy i pozwalają na potężne (acz tymczasowe) zastrzyki adrenaliny u samych najemników podczas walki na śmierć i życie. Różnica między rudą a Kamieniem to różnica międz ropą naftową a czystą adrenaliną w strzykawce.
+Kamienie to filar przetrwania w świecie wypranym z darów niebios i absolutny skarb cywilizacji. Stanowią ostateczny, potężny łup, który opłaca karawany, miejskie oświetlenie (Sztuczne Słońca) oraz pozwala rzemieślnikom wbijać niszczycielskie "pasywki" do broni Łowców walczących na śmierć i życie. Skoki do Pęknięć po *Kamienie* to najmroczniejszy i najbardziej ekscytujący mechanizm gromadzenia fortuny w historii metropolii.

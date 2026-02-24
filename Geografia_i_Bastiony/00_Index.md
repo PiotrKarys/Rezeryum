@@ -51,3 +51,8 @@ Kluczowa, żelazna reguła świata brzmi: **im wyższe jest nasycenie Zerum w gl
 | Ekstremalne | Egzotyczny, chaotyczny — serce Głębokiej Dziczy   | Śmiertelnie, bezwzględnie niebezpieczny  |
 
 ---
+
+## Struktura Plików
+- [Bastiony/](Bastiony/)
+- [Biomy_Naturalne/](Biomy_Naturalne/)
+- [Gleboka_Dzicz/](Gleboka_Dzicz/)

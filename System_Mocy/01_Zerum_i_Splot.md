@@ -1,44 +1,25 @@
 # 01 Zerum i Splot
 
-### 4.1. Zerum — Żar Duszy
+### 4.1. Zerum — Energia Życia i Stworzenia
 
-**Zerum** to prymarna energia napędzająca świat Rezeryum. Posiada właściwości zarówno fizyczne, jak i duchowe. Podlega absolutnemu prawu zachowania energii: nie można jej stworzyć z niczego, ani całkowicie zniszczyć.
+**Zerum** to prymarna energia napędzająca świat Rezeryum, potężne i efektowne paliwo bitew i rozwoju. Posiada właściwości zarówno fizyczne, jak i duchowe. Podlega absolutnemu prawu zachowania energii: nie można jej stworzyć z niczego, ani całkowicie zniszczyć.
 
 **Stany występowania Zerum:**
-- **Stan spoczynku:** Naturalnie płynie we krwi istot żywych i roślinach. Podtrzymuje funkcje życiowe, kształtuje wolę i zapewnia odporność na korupcję duszy.
-- **Kondensacja (Pęknięcia):** W strefach anomalii Zerum gęstnieje do formy świetlistych mgieł. Agresywnie mutuje faunę i florę oraz wywołuje zabójcze zjawiska pogodowe.
-- **Forma skrystalizowana:** Materialne **Kryształy Zerum** (ruda). To fundament przetrwania Bastionów: uniwersalna waluta, paliwo dla potężnych tarczy ochronnych miast oraz (w ostateczności) jadalne racje survivalowe.
+- **Stan spoczynku:** Naturalnie płynie we krwi istot żywych i potężnych organizmach. Podtrzymuje funkcje życiowe i kształtuje wolę bojownika. 
+- **Kondensacja (Pęknięcia):** W strefach wyrw, Zerum gęstnieje do formy magii tworzącej kieszonkowy, morderczy wymiar z bossami.
+- **Forma skrystalizowana:** Materialne **Kryształy Zerum**. To fundament ekonomii w Rezeryum: najdroższa waluta, zasilanie miast i wbijane w broń klejnoty umiejętności (Sockety). Niższe warstwy miejskie na co dzień **oszczędzają by kupić jedzenie konwencjonalne** — czyli tanie pasty syntetyczne, gigantyczne grzyby z mokradeł dowożone statkami oraz powszechne mąki rolnicze plemion Shenn. Kamienie Esencji służą tylko do walki, kreacji oręża i rozbudowy.
 
 ### 4.2. Splot Zerum (Układ Magiczny)
 
-Każda istota rodzi się z wbudowanym **Splotem Zerum** — unikalnym układem "naczyń" przypominającym krwiobieg, którym w ciele krąży magia. Splot jest niezmienny od narodzin i bezwzględnie definiuje wrodzony potencjał.
+Każda istota rodzi się z wbudowanym **Splotem Zerum** — genetycznym układem "naczyń" przypominającym krwiobieg, którym w ciele krąży magia. 
 
 **Co definiuje Splot:**
-- **Typ Przebudzenia:** Z góry określa dziedzinę mocy (np. uderzenia kinetyczne, iluzje, manipulacja biologią).
-- **Natura Zerum:** Przypisuje dominujący żywioł / "smak" magii.
-- **Limit przyswajania:** Określa fizyczną wytrzymałość organizmu na potęgę Głosów Pierwszych.
-- **Podatność psychiczna:** Definiuje ryzyka przy nawiązywaniu Więzi oraz odporność na Zarodki Cieni.
+- **Typ Przebudzenia:** Z góry określa zdolności bojowe.
+- **Natura Zerum:** Przypisuje dominujący żywioł Bojowy.
+- **Odporność:** Definiuje podatność na debuffy oraz Klątwy.
 
-**Limity i Koszty (Przeciążenie Splotu):**
-Ilość Zerum w ciele jest zawsze ograniczona. Czerpanie magii ponad własne biologiczne limity (**Nadużywanie mocy**) prowadzi do brutalnego i stopniowego zniszczenia organizmu:
-1. **Faza I (Poparzenia):** Splot "przegrzewa" tkanki, wywołując postępujące, bolesne oparzenia duszy i ciała.
-2. **Faza II (Amnezja):** Przepalenie neuronów skutkujące bezpowrotną utratą własnych wspomnień.
-3. **Faza III (Mutacja):** Niekontrolowana siła wykręca i mutuje komórki nabłonka.
-4. **Ostateczny Koniec (Rozszarpanie):** Ciało imploduje pod ciśnieniem mocy, na ułamek sekundy tworząc znikomą mini-Bramę pochłaniającą materię, pozostawiając tylko krwawy pył.
+**Limity i Koszty (Exhaustion na HP zamiast auto-zniszczeń):**
+W odróżnieniu od okrutnych wymiarów, czerpanie magii przez bohatera udaje się zazwyczaj niezwykle sprawnie w walce (magia jest zjawiskowa i brutalna względem wrogów). Organizmy bohaterów płacą **tylko** przy całkowitym wyczerpaniu z naturalnych stanów.
 
-### 4.2. Splot Zerum (Układ Magiczny)
-
-Każda istota rodzi się z wbudowanym **Splotem Zerum** — unikalnym układem "naczyń" przypominającym krwiobieg, którym w ciele krąży magia. Splot jest niezmienny od narodzin i bezwzględnie definiuje wrodzony potencjał.
-
-**Co definiuje Splot:**
-- **Typ Przebudzenia:** Z góry określa dziedzinę mocy (np. uderzenia kinetyczne, iluzje, manipulacja biologią).
-- **Natura Zerum:** Przypisuje dominujący żywioł / "smak" magii.
-- **Limit przyswajania:** Określa fizyczną wytrzymałość organizmu na potęgę Głosów Pierwszych.
-- **Podatność psychiczna:** Definiuje ryzyka przy nawiązywaniu Więzi oraz odporność na Zarodki Cieni.
-
-**Limity i Koszty (Przeciążenie Splotu):**
-Ilość Zerum w ciele jest zawsze ograniczona. Czerpanie magii ponad własne biologiczne limity (**Nadużywanie mocy**) prowadzi do brutalnego i stopniowego zniszczenia organizmu:
-1. **Faza I (Poparzenia):** Splot "przegrzewa" tkanki, wywołując postępujące, bolesne oparzenia duszy i ciała.
-2. **Faza II (Amnezja):** Przepalenie neuronów skutkujące bezpowrotną utratą własnych wspomnień.
-3. **Faza III (Mutacja):** Niekontrolowana siła wykręca i mutuje komórki nabłonka.
-4. **Ostateczny Koniec (Rozszarpanie):** Ciało imploduje pod ciśnieniem mocy, na ułamek sekundy tworząc znikomą mini-Bramę pochłaniającą materię, pozostawiając tylko krwawy pył.
+1. **Exhaustion (Wyciskanie resztek):** Gdy pula wyjściowa many u bohatera wynosi "0", a on nadal pragnie formować ataki (tzw. Overshielding Skilli), zmusza rdzeń do pociągnięcia esencji z własnej tkanki biologicznej; zżerając tym samym brutalnie fizyczne HP (często przy wycieku z oczu i płuc z przepracowania).
+2. **Backlash Głosów Pierwszych:** Uszkodzenia (rozpad do pęknięcia, zmiażdżenia nerwów) zachodzą gdy gracz nieudanie uderzy elitarną formą Głosów z błędem zapisanym w tkance Stworzenia. 

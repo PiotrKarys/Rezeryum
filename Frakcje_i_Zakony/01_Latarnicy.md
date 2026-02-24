@@ -1,14 +1,12 @@
 # 01 Latarnicy
 
-### 7.1. Latarnicy
+### 7.1. Latarnicy (Strażnicy Bastionów i Szlaków)
 
-**Rola (Korporacja Myśliwych-Ekstraktorów):**
-Zbrojne organizacje rzemieślników Pęknięć. Stanowią kręgosłup logistyczny i militarny każdego Bastionu. Dawniej postrzegani poetycko jako "tłumiciele" pożarów. W dobie nowożytnej to zakotwiczycielowie instancji potworów — to oni zmuszają dzikie wyrwy w przestrzeni do uformowania się w zamknięte lokacje (Bramy), by potem wysyłać tam swoje ekspedycje wypruwające z ciał fauny bezcenne Kamienie Esencji.
+**Charakterystyka i Rola:**
+Latarnicy to podstawowa i najliczniejsza formacja odpowiadająca za szeroko pojęte bezpieczeństwo wewnątrz gęsto zaludnionych Bastionów oraz na bezlitosnych Szlakach Szumu. Ich codzienne obowiązki to przyziemna straż miejska, ochrona porządku, pilnowanie bram, patrolowanie dzielnic nędzy i eskortowanie karawan na bezpieczniejszych trasach. Są także pierwszą linią wsparcia, która zabezpiecza i przygotowuje nowo otwarte Szczeliny dla wyżej postawionych łowców i awanturników, adaptując teren, odgradzając terytorium i pobierając opłaty eksploatacyjne w imieniu miast.
 
-**Działania Zbrojne:**
-- **Zakotwiczenie:** Użycie stabilizatorów Zerum w celu stworzenia instancji czasowej Pęknięcia z progiem dopasowanym do drużyny.
-- **Rzeź i ekstrakcja (Farming):** Metodyczne czyszczenie odizolowanych komnat w celu zbierania z pokonanych mutantów *Kryształów Esencji* i *Odłamków Esencji*, zanim instancja się zawali i doprowadzi do udaru terytorialnego.
-- Prowadzenie handlu w obrębie miast zyskaną materią.
+**Metody Działania i Mechaniki:**
+Zamiast epickich magicznych ewolucji, Latarnicy opierają się na twardym drylu, niezawodnej liczebności i praktycznej standaryzacji. Ich ubiór to utylitarne płaszcze i hełmy z wbudowanymi mniejszymi Latarniami, rozświetlającymi mroki ulic i odstraszającymi pomniejsze drapieżniki Zerum z Przedpól. Jako siła prewencyjna posiadają uprawnienia do legitymowania, dokonywania aresztowań i wprowadzania surowego rygoru zbrojnego na ulicach. W walce ulicznej nierzadko operują masowo, aby zalać i obezwładnić przeciwników siłą tłumu i żelazną formacją.
 
-**Struktura Progowa:**
-Zorganizowani jak rygorystyczne gildie najemnicze; najsłabsi zwerbowani rekruci na poziomie *Zarzewia* obsługują logistykę na terytoriach Przedpól i obrzeży wejść. By przeżyć w Bramach tieru czwartego (*Rezonansu*) drużyny uderzeniowe (tzw. Tarcze i Ostrza) zrzeszające weteranów nie mają prawa podjąć próby niżej niż na poziomie w pełni uzbrojonej pancerzem mutacji chłodnego etapu *Eskalacji*.
+**Tajemnice i Relacje:**
+Z założenia mają być absolutnie nieskazitelną tarczą chroniącą i pilnującą praw dla zwykłych mieszkańców. W rzeczywistości jednak to frakcja poboczna przesiąknięta wielowarstwową korupcją. Boleśnie niski żołd i potężne wpływy wszechwładnych Gildii Handlowych sprawiają, że dowódcy garnizonów z uśmiechem przymykają oko na przemyt, strefy podziemnych wymuszeń i brutalną walkę o monopole, jeżeli wice-tytani biznesu odpowiednio sypną złotem. Wyjątkowo zaciekle ścigają bojówki Przysięgłych Więzi, regularnie polując na tę chaotyczną rebelię.

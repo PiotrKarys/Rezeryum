@@ -85,3 +85,19 @@ Rasy Rezeryum wegetują w ekstremalnej ciasnocie wymuszonej przez system Bastion
 - **Olimp a Skrajności:** 
   - **Raashari** – arystokratyczny, liczebny moloch sterujący Bastionami z góry, ucinający politycznie mniejsze frakcje u podnóża muru.
   - **Velmari** – jedyni zdolni funkcjonować w roju na śmiercionośnych Przedpolach poza murami, szantażując arystokrację unikalnym dla nich masowym logistycznym handlem zbrojeniowym pod szalonym niebem.
+
+## Struktura Plików
+- [Aurynn/](Aurynn/)
+- [Drask/](Drask/)
+- [Ghorran/](Ghorran/)
+- [Myrrhan/](Myrrhan/)
+- [Orvhan/](Orvhan/)
+- [Prosterzy/](Prosterzy/)
+- [Raashari/](Raashari/)
+- [Shenn/](Shenn/)
+- [Solhari/](Solhari/)
+- [Tharumi/](Tharumi/)
+- [Thrakkor/](Thrakkor/)
+- [Velmari/](Velmari/)
+- [Voryth/](Voryth/)
+- [Vrakai/](Vrakai/)

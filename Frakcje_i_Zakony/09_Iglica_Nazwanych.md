@@ -1,11 +1,16 @@
 # 09 Iglica Nazwanych
 
-### 7.9. Iglica Nazwanych (Bastion Wylęgowy Elit)
+### 7.9. Iglica Nazwanych (Ścieżka Panteonu)
+*Domena: CIAŁO | Serce dawnej chwały militarnej, niezależne dojo i uczelnia dla wojowników fizycznych form i siły kinetycznej.*
 
-**Rola (Akademia Wojskowa):**
-Elitarna jednostka szkoleniowa i sztab strategiczny w sercu *Splecina*. Zbrojna akademia przyjmująca starannie wyselekcjonowanych rekrutów, nadzorująca ich ewolucję i przeprowadzająca rygorystyczne awanse od progu *Zarzewia* aż do potężnej *Eskalacji*. Dowództwo Iglicy dostarcza miastom wyszkolonych wektorowo generałów i asów dowodzenia bojowego w Bramach.
+**Charakterystyka i Rola:**
+Iglica Nazwanych to potężna, mistyczna cytadela wyciągająca swe strome dachy i dziedzińce ku pękniętemu niebu. Stanowi absolutną czołową uczelnię i akademię dla wszystkich wojowników fizycznych w całym społeczeństwie Rezeryum. Tu rzeźbi się najdoskonalszą biomechanikę do powstrzymywania czystego destrukcyjnego uderzenia oraz formuje ducha walki. Mimo uniwersalnego immunitetu w politykach z Bastionami nie jest ona pasywną przechowalnią wiedzy, to oś świata militarnego. Magia żywiołów jest tu wpajana z niesłychanym respektem, jednak tylko i wyłącznie pod ścisłym kryterium tego, co jest bezpośrednio przydatne i wspierające w śmiertelnych zderzeniach wręcz w pierwszych liniach wrogiego ognia.
 
-**Struktura Dowodzenia (Żelazny Kanon):**
-- Władzę nad logistyką szkoleniową i strategiczną trzyma bezwzględny, merytoryczny triumwirat — **Trzy Pierwsze Ostrza** (Ostrze Zaradnej Krwi ds. logistyki miejskiej, Ostrze Cienia Rajdu ds. dowodzenia operacyjnego i Ostrze Wyciszenia zajmujące się cenzurą oraz wywiadem). Rozciągnięci pod nimi sztabowi "Instruktorzy-Sektorowi" przydzielają z kolei misje mniejszym eskadrzyłom dowodzonym na polu rzezi.
-- Narzucają żelazny kodeks dyscypliny w zespole. Bezwzględnie zakazują jakichkolwiek działań mogących sprowokować Cienie Zbiorowe - pod groźbą sądu polowego i wygnania za mury bez ekwipunku. 
-- Absolwenci Iglicy są potężnym narzędziem politycznym w rozstrzyganiu sporów wojennych w elitach metropolii, tłumiąc bunty rygorem nabytego szacunku wojskowego i budząc grozę wśród wrogich dyktatorów innych miast.
+**Wewnętrzna Struktura i Rekrutacja:**
+Struktura dowodzenia zbudowana jest na fundamencie absolutnej mistrzowskiej perfekcji – stanowiska władzy przydzielają się z wagi ucieleśnionych umiejętności bojowych, a poszczególnych dyscyplin uczą nauczyciele będący absolutnymi fenomenami w swym jedynym fachu, po jednym wielkim arcymistrzu z każdego rodzaju ostrego rzemiosła broni, by w pełni przekazać ugruntowany szczyt swojej wiedzy chłonnym adeptom. Na samej radzie mędrców zasiada potężny *Sztylet* – czwórka głównych, najpotężniejszych Mistrzów, spoza bezpośredniej kadry nauczycielskiej. Głosy Sztyletu kreują testy – awans w kręgach Iglicy wiąże się nieodzownie z przeprawą przez specjalnie zaprojektowane z morderczym okrucieństwem, unikalne i potwornie wymyślne pod zrzeszoną grupę "Próby".
+
+**Metody Działania i Mechaniki:**
+Absolwent z herbem Iglicy na rynsztoku sieje chwalebny strach i dumę na Kresach dając elitarną asystę uderzeniową w wyprawach drążących serca Bram. Sama akademia operuje niespotykanie gęstym zjawiskiem z elitarną "Ścieżką Łowców Klątw". Proces tej legendarnej dziedziny rozpoczyna się oficjalnie w zimnych murach Iglicy – ci heroiczni absolwenci, którzy przebywają tę szaleńczą szkołę wytrzymałości wiedzą dokąd uderzyć dalej. Nie kończą jej definitywnie uczelnianym dyplomem obronnym – lecz ich świadome, drastyczne i heroiczne decyzje dają im po wszystkim wybór: kontynuować morderczy los jako Żniwiarz Cienia łamiąc własne pęta ciała, lub poszukać własnego mroku poza śladami reszty panteonu w ukryciu świata. 
+
+**Tajemnice i Relacje:**
+Iglica trzyma w żelaznym szachu brutalny wewnątrz-szkolny honor. Nie potrzebuje drużyn skrytobójców. Gdy któryś z adeptów po latach nadużyje nabytych u mistrzów zaszczytów siły plamiąc uświęcone imię szkoły swym postępowaniem, nie ma litości. Zarządza się pościg prowadzony natychmiastowo we wspólnym przymierzu połączonych trzech sił inkwizytorskiego wyroku i strachu: ścigający z samego Sztyletu, operacyjni bezcześciciele ukrytych z szeregów Korzenników oraz wściekli wykonawcy dekretu od Milczących Imion ustalają ostateczną gigantyczną globalną nagrodę za odciętą głowę zdrajcy; to rodzaj rzezi, przez który po dziś dzień nie słyszano lęgami szeptów by winny pociągnął oddychając swobodnie dłużej niż zaledwie i krótki rok od wystosowania łowów wyrokowych. Z pogardą trzymają moralny próg obronny przed próbami skorumpowania przez uśmiechających się cynicznie handlarzy z potężnych Gildii.
