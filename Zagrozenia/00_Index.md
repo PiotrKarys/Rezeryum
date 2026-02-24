@@ -15,3 +15,10 @@ Dzicz określa wszystko poza ochronną wibracją miast i Bram, charakteryzując 
 - Skupiska Mgławicowych Puszcz i Odwróconych Lasów wypalają płuca, tworząc barierę biologiczną, którą przekroczyć bez opancerzenia duchowego mogą wyłącznie elitarne jednostki *Eskalacji*. Wejście w same serca owych biomów narzuca stały drenaż mocy u progu wytrzymałości organizmu; brak asysty doświadczonej drużyny równa się ostatecznemu przepadciu w strukturze zmutowanej ewolucji.
 
 ### 6.7. Zagrożenia Bramowe (Sztywne Prawa Instancji)
+
+## Struktura Plików
+- [01_Pustoszyciele.md](01_Pustoszyciele.md)
+- [02_Legiony_Wydrazonych.md](02_Legiony_Wydrazonych.md)
+- [03_Zarodki_Cieni_i_Klatwy.md](03_Zarodki_Cieni_i_Klatwy.md)
+- [04_Glos_Kamienie.md](04_Glos_Kamienie.md)
+- [05_Wysocy.md](05_Wysocy.md)

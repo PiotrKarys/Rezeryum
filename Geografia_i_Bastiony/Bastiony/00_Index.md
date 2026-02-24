@@ -61,3 +61,14 @@ Kruchy układ świata bezustannie drży w zbrojnych posadach. Pomiędzy Bastiona
 - **Rywalizacja ekonomiczna** — Wściekłe Gildie Handlowe w różnych, potężnych Bastionach toczą ukryte wojny wewnątrz samej koniunktury, likwidując bez skrupułów nowo wyłaniające się domy cechowe, pragnące łamać wybitne monopole surowców rynkowych.
 - **Napięcia rasowe** — Im bardziej miasto staje się hermetycznie nacjonalistyczne, tym surowiej są marginalizowane poszczególne rasy skazane na getta u uboższych pierścieni, co prowadzi w końcu w cykliku lat do otwartej rewolucji o godność z rzezią na dzielnicowych.
 - **Kwestia Korzenników** — Radykalny ruch bojowników domagających się upadków rządzących rad miejskich dzieli glob. Otwarty i pacyfistyczny *Splecin* toleruje ich teorie jako głos akademicki, natomiast militarne potęgi takie jak *Głębomir* i *Kornak* natychmiastowo posyłają akolitów Nurtu pod topór jako wywrotowców reżimu, tłumiąc rebelię w zalążku.
+
+## Struktura Plików
+- [Czerszawa/](Czerszawa/)
+- [Glebomir/](Glebomir/)
+- [Jasne_Progi/](Jasne_Progi/)
+- [Kornak/](Kornak/)
+- [Kres_Wichrow/](Kres_Wichrow/)
+- [Mury_Koron/](Mury_Koron/)
+- [Przadka/](Przadka/)
+- [Splecin/](Splecin/)
+- [Zarnogrod/](Zarnogrod/)

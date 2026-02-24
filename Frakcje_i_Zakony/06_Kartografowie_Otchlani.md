@@ -1,10 +1,13 @@
 # 06 Kartografowie Otchlani
 
-### 7.6. Kartografowie Otchłani
+### 7.6. Kartografowie Otchłani (Zwiadowcy i Analitycy Splotu)
+*Gildia wysoce wyszkolonych geomantów zajmujących się selektywną dystrybucją prawdy o Pęknięciach.*
 
-**Rola (Wywiad Ekstremalny Absolutu):**
-Ryzykanci o fanatycznym rygorze przetrwania. Deszyfratorzy prawdy, którzy porzucili oficjalne mapy i dogmaty państwowe. Ich misją jest przedarcie się przez fałsz narzucony przez elity miast i udokumentowanie rzeczywistych, zmiażdżonych praw fizyki w najgłębszej Dziczy.
+**Charakterystyka i Rola:**
+Mylna, archaiczna nazwa nierzadko usypia czujność nowicjuszy, wyobrażających sobie starców z pergaminami. Kartografowie to w rzeczywistości elitarna gildia uczonych, stanowiąca absolutny fundament informacyjny świata na pierwszej linii chaosu. Ich bezwzględnym zadaniem jest lokalizowanie nowych Pęknięć (Dungeonów) i kategoryzacja poziomu niebezpieczeństwa formującej się instancji. Jednak ich rola dalece wykracza poza zwykły zwiad. Są specyficznym ulepkiem: w połowie naukowcami, w połowie urzędnikami państwowymi, a w połowie strzegącymi sekretów kapłanami Splotu. Bycie "do wszystkiego" sprawia jednak, że w żadnej z tych ról nie są idealni. Kartografowie trzymają absolutny, twardy monopol na pojęcia i terminologię. To oni de facto pociągają za sznurki nastrojów globalnych: jeśli o zbliżającym się zagrożeniu napiszą w raporcie "Lokalna Anomalia", miasto rano nawet nie pomyśli o ewakuacji; jeśli nadadzą mu rangę "Rdzenia Proliferacyjnego", lokalny handel i gospodarka w panice załamie się w kilka godzin. Słowo Kartografa gładko równa się polityce.
 
-**Działania Zespołowe i Teoria Monolitu:**
-- Zmuszają się do rajdów w głąb najbardziej śmiercionośnych Komnat (często na poziomie *Absolutu*). Walczą bez wsparcia Latarników i ochrony stabilizatorów czasu, ryzykując potężnym ubytkiem własnego życia przez lokalną dylatację.
-- Cel ekspedycji rzadko wiąże się z łupami rolniczymi; poszukują ukrytych reliktów, *Serc Esencji* oraz zaginionych logów historycznych. Śmiertelność w oddziałach sięga 90%, lecz powracający przynoszą bezcenne informacje demaskujące kłamstwa Wysokich i układ władzy o Mury-Koron.
+**Metody Działania i Mechaniki:**
+Są uzbrojeni w astrolabia, sekstanty cienia, rezonatory i potężną wiedzę geomantyczną. Kartograf potrafi "zważyć" śmiertelność dungeona przykładając dłoń do wibrującej skały. Sprzedają bezcenne raporty uderzeniowe Podróżnikom za absurdalne stawki. Ale ich najważniejszym, strzeżonym narzędziem są zakazane **Czarne Mapy** – nieudostępniane nikomu archiwa stanowiące brutalnie przedefiniowaną, alternatywną historię świata. Na Czarnych Mapach ukryta jest selektywna prawda o Pęknięciach, które ignorując prawa logiki gwałtownie rosną zaraz po fizycznym "wyczyszczeniu", a także dokumentacja o odrastających rdzeniach bestii i mrocznych obszarach, gdzie radioaktywne Zerum wcale nie maleje, lecz trwale strukturalnie się stabilizuje w nową rzeczywistość.
+
+**Tajemnice i Relacje:**
+Wiedza w tym świecie nie jest tania i darmowa, a monopol na nią bywa drastycznie egzekwowany w kuluarach. Wszelcy samozwańczy "Fałszywi Kartografowie" próbujący handlować własnymi podróbkami map, klasyfikować Bramy naruszając globalny system lub grożący ujawnieniem fragmentu wiedzy z Czarnych Map, natykają się na bezszelestny sprzeciw samego świata. Nie ma śledztw, brakuje procesów. W ukryciu do akcji wkraczają brutalni Korzennicy ze swoim panteonem egzekucji i deale informacyjne zostają natychmiast ucięte na zawsze, a heretycy uciszeni w ciemności zaułków.

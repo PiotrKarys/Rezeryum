@@ -27,8 +27,3 @@ Kult Wysokich to tylko jedna z dominujących wersetami religii. Rozbita jest w s
     Stosowany przez odłamy w tradycjonalnych miastach wobec krytykujących dogmaty. Grzesznik dostaje przyszytą srebrym drutem do języka Maskę Wysokich i wygłodzony wygłasza niezrozumiały "szept bóstwa", podczas gdy tłum obserwuje tę karę mającą rzekomo "oczyścić go z grzechów chaosu". U jednych budzi to grozę, podczas gdy łotry czy frakcje anty-systemowe (np. nowi Korzennicy) zwyczajnie tę tradycję publicznie wyśmiewają.
 
 
-
-
-co do pliku 3go mozemy rozszerzyc go jeszcze bardziej. jesli chodzi o faze A 
-
-korzennicy zniwiaze cieni maja miec tylko pozostawioną nazwę zaproponowac agent ma zaproponowac nowy opis 

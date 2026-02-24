@@ -1,8 +1,13 @@
 # 08 Kulty Pęknięć
 
-### 7.8. Kulty Pęknięć
+### 7.8. Kulty Pęknięć (Skażeni Apostołowie Obłędu)
+*Masa zmutowanych, niepohamowanych fanatyków będąca istną, nieuleczalną epidemią przestrzeni.*
 
-**Rola (Polityka Wyznaniowa Rygorów Ulicznych):**
-Skrajna bieda, przeludnienie gett i odcięcie od przywilejów doprowadziło do rozkwitu radykalnych dogmatów:
-- **Kulty Wysokich:** Sponsorowana przez elity państwowe religia oparta na ślepym posłuszeństwie i pokorze wobec władzy. Wmawia najbiedniejszym, że trud udręki to "próba od ocalonych pod chmurami boskich opiekunów" (Wysokich). Służy de facto jako narzędzie manipulacji Solhari i tłumienia społecznych buntów przez rządy w miastach.
-- **Kulty Głębi:** Zrodzone w mroku zakazanych dzielnic jako odpowiedź na tyranię. Błędnie traktują Zepsucie wyłaniające się z Pęknięć i Cienie Zbiorowe jako "oczyszczającą siłę". Przyciągają desperatów, morderców i Wydrążonych Agentów. Władze tępią ich jako ekstremistów, gdyż Kulty Głębi celowo infekują mieszkańców, próbując doprowadzić Bastiony do kolapsu przez masowe szaleństwo obywateli.
+**Charakterystyka i Rola:**
+W Rezeryum Kulty Pęknięć nie są hermetycznymi myślicielami, zbłąkanymi teologami w zakurzonych habitach czy elitarną mafią z wyrafinowaną filozofią buntu. To zło w najczystszej postaci; frakcja nierozerwalnie i stricte wręcz toksyczna do stopnia obłędu, zjednująca sobie z otwartymi rękoma błyskawiczny atak wymierzony im natychmiastowo na sam widok ze wszystkich stron świata. Kult nie ma spójnej księgi, skomplikowanej teologii i misternie utajonej doktryny. To dosłownie nieszczęśliwa, potworna i absolutnie niepowstrzymana **Epidemia** pożerająca bez ratunku najsłabsze ogniwa cywilizacji ludzkich i rasowych we wszystkich miejscach biedy i zatracenia. Czczą rozdarcie samego Splotu. Anomalie traktują ze śmiertelną, odrażającą świętością, do gargantuicznych Bossów modlą się w spazmatycznych bólach łaknąc od nich jakiejś nowej wiary dla świata, a niszczącą zdrowie degenerację biologiczną utożsamiają z błogosławieństwem od stwórców chaosu.
+
+**Metody Działania i Mechaniki:**
+Są niezrównoważonymi, fizycznie i psychicznie chorymi rzeszami fanatyków na granicy załamania formy rasowej. Regularnie spędzając czas po kolana w bagnach i nieoświetlonych wyziewach z Bram, wdychają surowe, radioaktywne dla duszy Zerum co doprowadziło cały ten odłam do masywnych obrzydliwych i dramatycznych deformacji szkieletu. Szał nienawiści rekompensują niewytłumaczalną potęgą samej siły kinetycznej u swoich wynaturzonych sylwetek. Ich siłą wojskową nie są genialne, epickie talenty miecza, potężne komendy rzucane we flankach uderzeniowych ani unikalne łuki. Ich główna struktura wojskowa to ślepa masa; hordy ciał bez myśli, chwytające w drgawkach za każdy łom gotowe z masochistycznym krzykiem na bezcelowe i beztroskie, widowiskowe samozniszczenie we mgle, po to by choć uszkodzić z bliska oddziały wroga u wejścia do Pęknięć. Zero strachu leczy ich ze wszystkiego co w wojnie niepokonane.
+
+**Tajemnice i Relacje:**
+Z ich wulgarnego charakteru formują wielkie, namacalne zagrożenie dla ogólnego bytu miast: są bronią masową na skalę miejską, destylując trwogę w najprostszej postaci zjawiska oblężeniowego na szczeblu zwykłego plebsu rzuconego w furię w stronę garnizonów Latarników na murach. Absolutnie nikt nie debatuje z Kultyśtą Pęknięć; sam ich mroczny zapach natychmiast wyzwala natychmiastową decyzję o egzekucji i dekapitacji pośród ścigających ich Żniwiarzy Cieni, którzy masowo utylizują największe siedliska. Wśród innych frakcji pełnią wyłącznie funkcję zjadliwego rażącego pępka na ciele uniwersum.
