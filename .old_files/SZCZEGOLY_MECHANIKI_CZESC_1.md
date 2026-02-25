@@ -1,0 +1,48 @@
+# SZCZEGÓŁOWA MECHANIKA SYSTEMU MOCY: CZĘŚĆ 1
+
+Niniejszy dokument stanowi głębokie, analityczne rozwinięcie fundamentalnych aspektów walki i fizjologii Przebudzonych w świecie Rezeryum. Został przygotowany z zachowaniem całkowicie technicznego i poważnego rygoru lore.
+
+---
+
+## 1. MORDERCZA FIZJOLOGIA: ZERUM, SPLOT I EXHAUSTION
+
+Podstawą egzystencji jakiegokolwiek wojownika w bezlitosnym środowisku Pęknięć jest kondycja jego **Splotu** – wrodzonej sieci, podobnej do układu krwionośnego, która rozprowadza surowe Zerum po całym organizmie. To właśnie on funkcjonuje jako rezerwuar i przekaźnik Mocy. Wyczerpanie tkwiącego w nim paliwa utrudnia starcie, lecz go nie kończy. Smierć egzystencji wojownika następuje jednoznacznie w momencie, gdy z powodu zadanych ran lub skrajnego wycieńczenia biologicznego (Exhaustion), jego Punkty Życia (HP) spadną bezpośrednio do zera.
+
+### 1.1. Mechanika Przewyższenia (Exhaustion)
+Zerum ulega w walce szybkiemu spalaniu na zasilanie potężnych umiejętności. Kiedy jednak zasoby wojownika spadną gwałtownie do absolutnego zera (całkowita pustka układu magii), nie staje się on obezwładniony. Zamiast tego, wkracza przed ostateczny test biologicznej woli i zdolności przetrwania organizmu. Proces zmuszania Splotu do zasilania układu bojowego całkowicie na pusto, określany jest jako **Exhaustion**.
+
+Proces ten opiera się na prostym i brutalnym prawie fizjologii: pusty Splot zaczyna z morderczym uporem kanalizować materię stricte fizyczną. Rdzeń Przebudzonego wymusza pożeranie własnych Punktów Życia (HP). Użycie każdej kolejnej techniki, do której brakuje naturalnego pokrycia w Zerum, powoduje natychmiastową utratę struktury na tkankach wojownika.
+*   **Przelicznik Krwi (Koszta Wykraczania):** Organizm ulega zgniataniu od środka. Skutkuje to odebraniem Punktów Życia o wymiarze **dwukrotnie większym (x2)** niż wynikałoby to z bazowego, nominalnego kosztu Zerum dla aktywowanej w ten sposób techniki.
+*   **Symptomy na ciele:** Rozszerzenie i dosłowne pękanie naczyń krwionośnych w gałkach ocznych, zwęglenie naskórka na dłoniach rzucającego, dławienie się popiołem własnych płuc z powodu przeciążenia dróg oddechowych oraz krwawe wymioty. Zjawisko to potęguje się wraz z każdym następnym atakiem rzuconym bez zasilania, omijając wszelkie pasywne zdolności redukcji u wojownika.
+*   **Wyjątek – Świadome Użycie Tkanek:** Przebudzeni dysponujący niespotykaną skalą naturalnej lub pasywnej regeneracji, wykształcili zdolność całkowicie obcego taktycznego omijania zubożałego Splotu poprzez w pełni świadome zastępowanie Zerum w procesach magii prosto swoimi cennymi Punktami HP. Dla takich osób system Exhaustion funkcjonuje jak rezerwowe źródło energii odnawialnej.
+
+---
+
+## 2. DOMINACJA PASYWNA (WIĄŻĄCE PRZYSIĘGI)
+
+Niektóre z form mutacji egzystencjalnej wyrzekają się otwartej manifestacji na rzecz wewnętrznych inżynierii biologicznych. Najbardziej ryzykownym polem udoskonalenia swojej istoty jest poddanie Splotu prawu równowartości za pomocą uformowania tzw. **Wiążącej Przysięgi**.
+
+Ten akt nie jest kwestią szlachetnego zaufania. Wojownik nakłada na siebie brutalne, skrajne restrykcje, rzeźbiąc żelazne zasady zakazów tuż na własnych komórkach Splotu. Przebudzony może zdecydować się na okaleczenie biologiczne (np. bezpowrotne wygaszenie percepcji z lewego oka) bądź nałożenie ekstremalnie ryzykownych obwarowań stylu działania (np. absolutny zakaz korzystania z tarczy), prosząc o wymianę w potencjale bojowym. Splot natychmiast narzuca mu zwielokrotniony zysk w postaci pasywnej, niepowstrzymanej dominacji i stałego doładowania – sprawiając choćby, że uderzenia fizyczne obnażonym ramieniem stają się brutalnie miażdżące za każdą podjętą próbą obrony wroga.
+
+**Nierozerwalność na Polu Rzezi:**
+Podczas starć i obłędu instynktu, sformułowane Wiążące Przysięgi pozostają ostatecznym, fizycznym rygorem we krwi narzuconym do śmierci podmiotu. Są dla wojownika bezwzględnie, żelaznie i **absolutnie nierozerwalne**. Zmiana decyzji na tym poziomie to mordercza utrata zdrowia. Jeżeli Przebudzony pod jakimkolwiek pretekstem naruszy warunki przysięgi wymuszone we własnym Splocie by, przykładowo, zablokować ręką śmiertelny cios by chronić towarzysza – system opowiada gwałtowną eksplozją rdzenia układu nerwowego. Bohater zostaje natychmiast surowo skarcony i dozna trwałej, niemożliwej do wyleczenia normalnymi sposobami głębokiej utraty maksymalnej wartości swoich Punktów HP, powstrzymując całe lata morderczych postępów na polu wspinaczki za wielką siłą do końca swojego ułomnego już życia.
+
+*Ratunek Ostatniej Instancji:* Usunięcie obietnicy, w świetle fizjologii naturalnej, zagraża istnieniu Przebudzonego i jest aktem fizycznie niedostępnym rębaczom i myśliwym po osadach. Przysięga nie ginie samodzielnie – akt "odwiązania" tkanki Splotu od narzuconego na niego ciężaru równowagi w bezpieczny i profesjonalny sposób wymaga mistrzowskiej precyzji zdolnej operować na pojedynczych włóknach Splotu bez implozji całości. Taki zabieg odczynienia kosztuje potężny wysiłek na stole pod nadzorem u najrędzniejszych elit uzdrowicielskich na świecie, do zrealizowania jedynie na bezpiecznym terytorium potężnych Bastionów. 
+
+---
+
+## 3. PROGI MOCY I FORMY OSTATECZNE
+
+Droga na najwyższe rubieże ewolucji bohatera wykracza poza samo równe wybijanie potworności w lochach. Skok biologiczny, przenoszący jednostkę na kolejny z węższych *Progów Mocy*, wiąże Splot ściśle z siłą wykrzywień ludzkiej duszy.
+
+**Katalizatory Awansu:** 
+Przejście na nowy etap rozwoju nie następuje gładko, to zawsze rozerwanie granicy uśpionego potencjału za pomocą skrajnego doznania. Zmiana narzuca się nie tylko przy ostatecznym obłędzie instynktu podczas przetrwania starć z elitarnym bestiariuszem – proces wyrabiania nowego poziomu gęstości magicznej ma twardo udokumentowane powiązania z obłędem ekstremalnych, druzgocących duszę stresów emocjonalnych. Skok pomiędzy Progami Mocy z pewnością następuje szybciej w momencie mrocznych, wstrząsających zdarzeń, np. po przetrwaniu niespodziewanego kataklizmu, ocaleniu rdzenia życia podczas rzezi grupy by przeżyć samemu czy rewolucyjnego, szokującego zmysły odkrycia naukowego potęgującego w pełni rozpad światopoglądu nosiciela. Każdy wielki wstrząs, wibrujący w świadomości po stronie życia za śmiercią, to okazja na pogłębienie układu na twardy pancerz Mocy.
+
+### 3.1. Rozszerzenie Domeny (Dominacja Przestrzeni)
+U krańca potęgi na poziomach Rezonansu/Absolutu, mistrzowie otwierają wybitną formę rygoru – ustanawiają absoluty imperatyw by nagiąć dla siebie prawa na danym metrażu kwadratowym. Przebudzony dokonując brutalnego aktu oddania połowy mocy obwarów zasobami zdrowia za rzuceniem na wroga, ustanawia zamkniętą regułę: „wymuszam stuprocentowe przebijanie gładko każdego iluzjonisty by ostatecznie zatrzymać jego czas na zawsze i pominąć uniki we wzrokowym polu pojęć dla atakowania go”.
+Złotą zasadą strukturalną układu fizjologii wojownika jest fakt, że istnieje sztywny limit formy. Może powstać **wyłącznie Jedna Domena na jednostkę**; ostateczny manifest egzystencji do sztywnego wypolerowania za całe trwanie kariery wojownika. Nikt we wszechświecie nie posiada wielokrotnych Rozszerzeń, a domena dyktującej reguły dopełnia samą filozofię rębaczów do formy, której stawiają ostateczne szlifowania aż do samej swojej śmierci w wewnątrz pęknięcia. 
+
+### 3.2. Absolutne Uwolnienie (Manifestacja Szczytowa Oręża)
+Najczystszą, elitarną ścieżką ostatecznej, dewastującej transformacji organizmu z układu bitewnego nie jest proces pochłaniany powolnym, tępym, zabijającym go powoli ciśnieniem HP. Formą wybitnej przewagi rzeźnickiej potęgi przewidzianej na wojnie na najsurowszy i ostateczny punkt życia oddziału, znanej jako **Absolutne Uwolnienie**, jest zbrodnicze połączenie doskonałości kucia ze Złotym Pokładem samego Dziedzica Oręża do jednego ciosu uosobienia Natury wojownika do jednego organizmu wojny gotowego przetrwać pełną wybitną skalę długości obrony na jednym stałym zasilaniu. 
+*   **Wymagania Struktury Oręża:** Nie obdzieszesz mechanicznych barier Absolutu żadnym potężnym znaleziskiem na targu. Przedmiot wykorzystywany przez Splot absolutnego pana pola bitwy musi stanowić wybitny relikt unikalnego, dedykowanego w dłuta mistrza arcydzieła, idealnie wykalkulowanego i precyzyjnego po zapotrzebowania, doboru materiałowego pod parametry aury zlecającego – zestrojonego wyłącznie by dany władający potęgą poczuł swój odcień istnienia rozrywany za machnięcie ostrza tego rębaka jako przedłużenie zmysłu komorowego bestii z jego natury. Zwykła, krzta podrzędnej broni, nie odpowiadająca precyzji, po potraktowaniu gigantycznym natężeniem formy i wejściem transformacji zostaje ułamana, spalona i rozsypana w pył jak oszukany fałsz przed wymuszonym uwolnieniem u wielkiego pana dłuta na ołtarzu walk.
+*   **Koszt i Stabilność Absolutu:** To nie jest mroczna samobójcza ewolucja zżerająca sekunda po sekundzie resztę zdrowia na rzecz ataku. Formacja absolutnej duszy to **wielo-potężny, ekstremalnie stabilny Buff trwający przez okrutną pełnię starcia walczącej postaci w morderczej formie rzeźnika otoczonego dominacyjną zbroją/mocą na organizmie**. Brutalną karą za uzyskanie nietykalnego wręcz trybu egzystencji nie jest powolna mordercza utrata samego limitu HP w pustce bitewnych godzin, lecz faktu absolutnie radykalnego ograniczenia samej wszechświata – aktywacja pochłania i trwale *rezerwuje olbrzymią, zdecydowaną większość ze zgromadzonego Splotu i nafaszerowanego w organizmie pulsu Zerum* Przebudzonego a on nie oddaję jej w postaci ciosów ani regeneracji pod ułoki. Zostaje odcięty do korzystania ze skomplikowanej w wachlarzu puli tradycyjnej Magii rzucanego pola.

@@ -6,7 +6,7 @@ Dokument przeznaczony do ręcznego, precyzyjnego wpisania matematycznych wartoś
 
 ## 1. TABELA NATUR I ARCHETYPÓW
 
-Każdy Przebudzony przejawia wyłącznie jedną z ośmiu fundamentalnych, wrodzonych Natur. Nie ma od tej reguły wyjątków, a opanowanie własnej Mocy i łączenie jej z aurą zespołu to absolutna podstawa przeżywalności.
+Klasyfikacja 8 fundamentalnych Natur określająca ich z góry zaplanowany rodzaj zachowania / Archetyp bojowy (rolę).
 
 | Natura Zerum | Archetyp (Rola Bojowa) |
 | :--- | :--- |
@@ -20,21 +20,12 @@ Każdy Przebudzony przejawia wyłącznie jedną z ośmiu fundamentalnych, wrodzo
 | **KWARC** | Strukturalny (Modyfikator/Pole Walki) |
 
 ---
-## 2. CHEMIA BOJOWA – PODSTAWY
 
-Współczesne walki potężnych formacji bojowych nie opierają się na prostym uderzaniu magią, lecz na wirtuozerii układów kombinacyjnych – chemii wielożywiołowej. 
+## 2. REAKCJE PODWÓJNE
 
-*   **Aura:** Pierwszy status, jaki przyjmuje organizm wroga – rany, otwarte ślady czy warstwa powłoki zrodzona z poprzedniego uderzenia danym żywiołem rzuconego z wyprzedzeniem.
-*   **Wyzwalacz (Tryger):** Wymuszone zderzenie całkowicie innej Natury partnera broni uderzającej centralnie i precyzyjnie prosto na osłabioną i nałożoną z góry powłokę (Aurę), wywołując wewnątrz organizmu niszczącą implozję, re-akcję chemii żywiołów odpalającą ułamek sekundy po impakcie. Poziom *Elemental Mastery* dyktuje skalę brutalności detonalizacji.
+Poniżej znajduje się wylistowanie dwu-elementowych reakcji z podziałem na Konflikty (zderzenia błędne/osłabiające po stronie rzucających) i Synergie (domknięcia niszczące Aurą i Wyzwalaczem). Kolejność "Żywioł A -> Żywioł B" oznacza: Nałożona Aura z Żywiołu A uderzona Wyzwalaczem z Żywiołu B.
 
-**Twarda Zasada Różnicowa (Cień, Pryzmat i Czas)**
-Zanim wejdziesz w walkę na wielkim poziomie – zapamiętaj odwieczny podział pięciu podstawowych i trzech elitowych rygorów zachowań na polach bitewnych. 
-*   *Cień* i *Pryzmat* są absolutnymi skrajnościami – z reguły żreją się przede wszystkim między sobą; ich rezonanse są twardo egocentryczne i nie wchodzą w stałą chemię rozlewiska reszty bojowego rynsztunku. Ich interakcje na bestię opierają się na tnącym oszukiwaniu czy laserowym deklasowaniu reszty osłon a rzadko łączeniu.
-*   *Natura Czasu* nie potrafi stworzyć twardej z własnej definicji "chemii bojowej" jak lawa czy wybuch i stop metali; Czas nigdy nie zapala iskry innej substancji sam. Nie miesza się by stworzyć nowy materiał biologiczny. Działa absolutnie jak *wielki pogłębiający modyfikator bojowy każdej reki* – nałożenie ułudnego dymu skrajnego opóźnienia uderzenia na daną synergię echem powoduje zwielokrotnienie i powtórzenia rozpadu z uderzeń podjętych obarczając obszar echem.
-
-## 3. REAKCJE PODWÓJNE
-
-Chemia bitwy to nie twardy, matematyczny wynik dwóch rzucających osób. Kąt zderzenia jest kluczem do pożądanej egzekucji potwora i definiowany jest jako ściśle jednokierunkowy. Ogień na wodzie to potężny rykoszet wybuchowej, łamiącej siły rozbicia zbroi w obłęd z głośnym tlenem przestrzeni; ale jeśli woda rzucona opadnie by przykrywać żar to mamy zgaszenie obłędu w zaledwie chmurę zasłaniającą, która tylko zamgli wejścia zamiast złamać nogi elitom. Wypusty chemii dzieli się na błędy walk (Konflikty z braku porozumienia celów) i Synergie (wspólną wole destrukcji).
+### 2.1. Konflikty Zderzeń
 
 ### Żar → Przepływ
 Przepływ zalewa rozgrzane strefy, odbierając Żarowi tlen i rozpraszając nagromadzone ciepło w parę. Ogień nie znika całkowicie, ale traci dziki impet i zostaje sprowadzony do kontrolowanego żaru w tle.
@@ -118,73 +109,9 @@ Kwarc obrasta skorupy Rdzy, zamieniając je w jeden, spójny byt. Z łuszczącyc
 Rdza wprowadza do Kwarcu ciężar i nieczystości. Kryształy mętnieją, stają się mniej przeźroczyste, bardziej brutalne w formie – jak szkło zbrojone metalowym pyłem.
 *Efekt mechaniczny:* [DO UZUPEŁNIENIA PRZEZ ARCHITEKTA]
 
-### 3.1. Rezonanse Natur Wyższych (Cień, Pryzmat, Czas)
-
-#### Ostrzeżenie Projektowe: Natury Wyższe są wykluczone z tradycyjnej, dwukierunkowej fuzji form. Uderzenie nimi jako Wyzwalaczem nie powoduje "scalenia", lecz całkowicie subordynuje Aurę podstawową, przekształcając ją w narzędzie o pożądanym Archetypie.
-
-### Żar → Czas
-Żar wypala strefę, a Czas zamyka moment pęknięcia temperatury w pętli. Płomień zamarza w przestrzeni, by ułamki sekund później wybuchać ponownie z tą samą mocą, tworząc piekielne echo pierwszej eksplozji.
-*Efekt mechaniczny:* [DO UZUPEŁNIENIA PRZEZ ARCHITEKTA]
-
-### Przepływ → Czas
-Przepływ nakłada na zmiażdżone tkanki wilgotną powłokę, a Czas uderza w nią opóźnioną klatką. Strumienie zostają "przewinięte" w tył, metodycznie rozrywając zadane przed chwilą rany i wymuszając ciągłą, postępującą degenerację ciała.
-*Efekt mechaniczny:* [DO UZUPEŁNIENIA PRZEZ ARCHITEKTA]
-
-### Rdza → Czas
-Rdza nadgryza strukturę wroga, rozluźniając spoiny, po czym Czas przyspiesza proces tego rozkładu tysiąckrotnie w ułamku sekundy. Erozja, która powinna trwać miesiące, kruszy najtwardsze materiały podczas mrugnięcia okiem.
-*Efekt mechaniczny:* [DO UZUPEŁNIENIA PRZEZ ARCHITEKTA]
-
-### Grom → Czas
-Błyskawica wnika w układ nerwowy, a strzał Czasu rozszczepia ten impuls na zapętlającą się serię mikrowyładowań. Ofiara paraliżuje się w spazmach rażona własnym zblokowanym bólem w nieskończoność formy.
-*Efekt mechaniczny:* [DO UZUPEŁNIENIA PRZEZ ARCHITEKTA]
-
-### Kwarc → Czas
-Kwarc zagęszcza teren kryształem, a Czas wstrzymuje jego uformowanie w punkcie szczytowego napięcia molekularnego. Powstaje zablokowana struktura w stanie wiecznego bezruchu – taktyczna mina o opóźnionym zapłonie.
-*Efekt mechaniczny:* [DO UZUPEŁNIENIA PRZEZ ARCHITEKTA]
-
-### Żar → Cień
-Gdy wypalający Żar zostaje przełamany Cieniem, światło płomieni pożera mrok, odwracając ciepło w trupi chłód. Płomienie przestają palić ciało fizyczne – zaciemniają umysł, wypalając wyostrzone zmysły wroga czarnym popiołem.
-*Efekt mechaniczny:* [DO UZUPEŁNIENIA PRZEZ ARCHITEKTA]
-
-### Przepływ → Cień
-Cień zatruwa czysty rytm Przepływu, ścinając chłód z cieczy na rzadką, niemal smolistą maź wdzierającą się przez rany wprost do układu nerwowego wroga. Wywołuje u elit czyste przerażenie nałożonego zepsucia.
-*Efekt mechaniczny:* [DO UZUPEŁNIENIA PRZEZ ARCHITEKTA]
-
-### Rdza → Cień
-Mgła metalicznej rdzy i rozkładu zostaje zagłuszona pełnym pochłonięciem formy Cienia. Wyrodzenie pozbawione materii niszczy bezpośrednio witalność formy niematerialnej zmysłu potworów do obrony i walki.
-*Efekt mechaniczny:* [DO UZUPEŁNIENIA PRZEZ ARCHITEKTA]
-
-### Grom → Cień
-Potężny łuk Pioruna zostaje złamany falą czarnego mroku, co wywołuje zjawisko gwałtownej, absolutnej ciemności w miejscu błysku. Mrok odcina całkowicie zmysły bojowe w strefie uderzonego potwora z boku formacji.
-*Efekt mechaniczny:* [DO UZUPEŁNIENIA PRZEZ ARCHITEKTA]
-
-### Kwarc → Cień
-Matowy błysk Kwarcu chłonie Cień formując "fantomy luster" na polu – kruche i mroczne odzwierciedlenia rzeczywistości, które chłoną wszelkie buffy uderzeniowe rzucane na wroga pożerając duszę formacji po stronie przeciwników.
-*Efekt mechaniczny:* [DO UZUPEŁNIENIA PRZEZ ARCHITEKTA]
-
-### Żar → Pryzmat
-Wybuchający dziki Żar przebija się wybudzeniem przez Pryzmat. Szkielet skupia bałagan natury energii wyrzucając z fuzji płomienie spójnej laserowej precyzji strukturalnego gorąca tnącej bariery fizycznie.
-*Efekt mechaniczny:* [DO UZUPEŁNIENIA PRZEZ ARCHITEKTA]
-
-### Przepływ → Pryzmat
-Mokry impakt Przepływu rozbija i przepuszczony filtrami soczewki Pryzmatu wystrzeliwuje jako harmoniczna czysta fala ratunkowa do sojuszników wokół impaktu po upadku kropel natury odbijającego rezonansu obrony i rześkiej mżawki leczenia krwi na polach dookoła wroga rygorów dekompresji u wroga u ucieczki towarzyszy frontu w sojuszu. 
-*Efekt mechaniczny:* [DO UZUPEŁNIENIA PRZEZ ARCHITEKTA]
-
-### Rdza → Pryzmat
-Masa metalicznego brudnego opadu napotyka hartującą siatkę na odrzut Pryzmatu w powietrzu do krystalizacji, wyrównując skale opadu zamienia osad formy na twardy pancerz wsparcia bycia odbijanym po sojuszniku na czystą obronną kopułę i zlustrowania pancerza szkłem wsparcia tarcz blokującego uderzenia rygorów pocisków od boksowych instancji twardego uderzenia w plecy na dystans do walk wektorowych balistyki powrotnej do odesłania prosto w wroga do zniszczenia za uderzenie formą mrokowej aury rykoszetom od strzelców za linie stref i odbicia.
-*Efekt mechaniczny:* [DO UZUPEŁNIENIA PRZEZ ARCHITEKTA]
-
-### Grom → Pryzmat
-Poraźny impuls energii filtrowany łagodząco rozszczepiany przez siatkę krysiału pryzmatu o odbijający się system i rozsyła małe pobudki stymulującego twarde buff natury po rygor członkom wypchniętego rozładowania i formacji kinetycznej form dla przemieszczenia siatek wektora natury wolnej stref a od boku strefy bez niszczenia towarzyszy błyskami skokami bez obciążeń. 
-*Efekt mechaniczny:* [DO UZUPEŁNIENIA PRZEZ ARCHITEKTA]
-
-### Kwarc → Pryzmat
-Twarda blokada rezonująca przez ziemię zamienia bryłę minerału w doskonały form stymulującej wieży z transmiterem fal przestrzeni potęgującej od uderzeń i na krystalizację a odbijającą rezonans walk party do buffu obalających skalowania by powielić sił by z powielonych odłamów pancerza za atak wspierać o ataki obszarów wokół bez pęknięcia minerału z powieleniem wzmocnione dla formacji we wsparciu twardych obrażeń strzelań za wieży blokowania do fuzji po uderzeniach z przestrzenią przelotową na ostrzał frontu modyfikatorów na pęknięcia buffowanego rezonansu o rygor osłonek buffowania z natury. 
-*Efekt mechaniczny:* [DO UZUPEŁNIENIA PRZEZ ARCHITEKTA]
-
 ---
 
-## 4. REAKCJE POTRÓJNE (REGUŁA FINISHERA)
+## 3. REAKCJE POTRÓJNE (REGUŁA FINISHERA)
 
 Najwyższy krąg sztuki walki formacji trójosobowych. Wygenerowanie na celu trzech Natur {A, B, C} determinuje wyzwolenie konkretnego zjawiska.
 **Reguła Finishera:** Ostatni żywioł uczestniczący w łańcuchu nadaje wymuszony, ostateczny charakter, formę i sposób egzekucji tego uderzenia w miazdze ataku.
