@@ -2,13 +2,6 @@
 
 ### 4.7. Przebudzenie i Progi Mocy
 
-**Przebudzenie** to skokowy zapłon wewnętrznego Zerum, wyrywany z uśpienia przez ekstremalny bodziec stresowy. Następuje wyłącznie w sytuacjach granicznych:
-- Bezpośrednie zagrożenie życia (np. na progu śmierci w walce).
-- Traumatyczna ekspozycja na rdzeń Pęknięcia.
-- Kontakt z aktywnym, archaicznym reliktem.
-- Wymuszona krystalizacja Prawdziwego Imienia (Nadanie).
-
-Każdy akt Przebudzenia trwale poszerza "naczynia" Splotu i podnosi istotę na wyższy **Próg Mocy**. Momentowi temu zawsze towarzyszy gwałtowny wybuch energii (od widocznej aury w postaci mgły, aż po destrukcyjną erupcję).
 
 **Pięć Progów Mocy:**
 1. **Zarzewie:** Faza instynktu. Zmysły zyskują nieludzką ostrość. Zerum działa jako odruch bezwarunkowy (np. nieświadome zbijanie ciosów, minimalne widzenie w ciemności, niekontrolowane przyspieszenie).
@@ -17,10 +10,20 @@ Każdy akt Przebudzenia trwale poszerza "naczynia" Splotu i podnosi istotę na w
 4. **Rezonans:** Anomalna gęstość magii. Wojownik zaczyna funkcjonować jak jednoosobowe Pęknięcie, zyskując władzę manipulowania prawami fizyki na bliskim dystansie wokół siebie.
 5. **Absolut:** Dyktat istnienia. Całkowita fuzja ze Splotem, pozwalająca naginać grawitację, czas czy śmierć poprzez rygorystyczne posługiwanie się *Głosami Pierwszych*.
 
-**Prawa Wzrostu (Zasada Blizn):**
-- **Ewolucja przez przetrwanie:** Moc rośnie wyłącznie systematycznie — poprzez brutalne nagromadzenie doświadczeń. Zabijanie potworów w Bramach dociąża i uodparnia Splot organiczny jak mięśnie.
-- **Skokowa natura:** Awans na wyższy Próg Mocy nie następuje płynnie. Gdy "naczynie" jest pełne zgromadzonego doświadczenia, nadal do Przebudzenia wymagany jest drastyczny bodziec.
-- **Podwójny tor Ewolucji:** Naturalny awans biologiczny gatunku (np. zyskanie cech wyższej formy rasy) oraz wspinaczka po Progach Mocy stanowią dwa oddzielne, niezależne od siebie procesy. Nadanie Imienia ekstremalnie dopala wytrzymałość bojową organizmu, ale nie przeskakuje za bohatera kolejnych Progów Mocy za darmo.
+**Katalizatory Awansu (Zasada Przełamania):**
+- **Ewolucja w Strachu i Rozpaczy:** Skok biologiczny na wyższy Próg Mocy niemal nigdy nie zachodzi wskutek spokojnej nauki. Proces wyrabiania nowego poziomu gęstości magicznej ma twardo udokumentowane powiązania z obłędem ekstremalnych, druzgocących duszę stresów emocjonalnych. Może to być obłęd rzezi pod ciosami bestii, ale równie mocno do progu wynieść może tragiczna śmierć towarzysza, przetrwanie kataklizmu, czy rewolucyjne objawienie absolutnej grozy starożytnego faktu rozpadającego światopogląd. Każdy taki wstrząs pogłębia układ na twardy pancerz Mocy.
+- **Zasada Trwałej Ewolucji:** Naturalny rozwój ewolucyjny gatunku a wspinaczka po Progach stanowi dwa niezależne nurty; zdobycie nowych szczebli wyczerpuje umysł na tyle, że redefiniuje tożsamość bohatera z pękniętym i oswojonym cierpieniem.
+
+### 4.8. Formy Ostateczne u Szczytu Ścieżki
+
+Przebudzeni docierający na morderczy przedsionek Rezonansu i Absolutu kształtują moce dotykające limitów układu:
+
+**Rozszerzenie Domeny (Dominacja Przestrzeni):**
+Ostateczny rygor ustala absolutny imperatyw naginający prawa fizyki na danym metrażu. Przebudzony dokonuje aktu oddania połowy mocy uderzając własnym HP, by ustanowić zamkniętą regułę (np. stuprocentowe przebijanie uników iluzjonisty). Złotą zasadą strukturalną jest zasada **„jedna Domena na wojownika”**. Nikt nie posiada wielokrotnych Rozszerzeń – domena to dopieszczona, ostateczna wizytówka egzystencji bohatera, szlifowana aż do śmierci.
+
+**Absolutne Uwolnienie (Manifestacja Szczytowa Oręża):**
+Najczystszą ścieżką ostatecznej transformacji organizmu nie jest powolne żerowanie na zdrowiu (HP). Wymaganiem struktury oręża jest **wybitny relikt unikalnego, dedykowanego zbrojmistrza**, arcydzieło idealnie zestrojone pod parametry aury zlecającego. Zwykła, podrzędna broń rozsypie się w pył od samej aktywacji. Zestrojony oręż narzuca **ekstremalnie stabilny, pełnowymiarowy Buff bojowy trwający pełnię starcia**.
+Koszt uderza brutalnie w zasoby potęgi – aktywacja pochłania i trwale **rezerwuje olbrzymią, zdecydowaną większość ze zgromadzonego pulsu Zerum** Przebudzonego. Zostaje on odcięty od skomplikowanej w wachlarzu puli tradycyjnej Magii rzucanego pola, by ucieleśnić jedną, bezkompromisową machinę bitewną napędzaną przez ostrze.
 
 ### 4.9. Wymazanie i Wydrążenie (Anomalie Splotu)
 
