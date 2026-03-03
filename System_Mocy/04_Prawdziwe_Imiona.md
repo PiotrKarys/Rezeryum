@@ -1,37 +1,34 @@
 # 04 Prawdziwe Imiona
 
-### 4.5. Prawdziwe Imiona (Kod Duszy)
+### 4.5. Prawdziwe Imiona (Dar Potęgi)
 
-**Prawdziwe Imię** nie jest zbitką słów, lecz fundamentalnym fizyczno-duchowym kodem zapisanym w dnie Splotu każdego organizmu. Pełni funkcję magicznego DNA, które z góry determinuje:
-- **Pułap potęgi:** Nieugięty, genetyczny limit maksymalnej mocy, jaką istota potrafi udźwignąć.
-- **Ścieżki ewolucji:** Wrodzone, uśpione możliwości fizjologicznej transformacji na polu bitwy.
-- **Rezonans Głosu:** Stopień sztywnej wrażliwości układu nerwowego na *Głosy Pierwszych*.
+**Prawdziwe Imię** nie jest mistycznym, wrodzonym kodem organizmu, lecz potężnym zastrzykiem energii przekazywanym całkowicie z zewnątrz. To po prostu zwerbalizowana wola dawcy – bez względu na to, jakim słowem zechce nazwać biorcę (choćby było wysoce trywialne), Imię zyska swoją niszczycielską moc dzięki obopólnej zgodzie. Zwykłe imię nadawane po narodzinach to zaledwie konwencja społeczna, natomiast Prawdziwe Imię to celowy transfer potęgi, który determinuje:
+- **Limit Potęgi:** To wyłącznie siła nadającego – a zgoła nie biologiczny potencjał biorcy – wyznacza maksymalny pułap mocy i skalę przekazywanego wzmocnienia.
+- **Ścieżki ewolucji:** Zewnętrzne doładowanie budzi uśpione w ciele możliwości szybkiej, fizjologicznej transformacji, pozwalając zaadaptować się do nowej, rygorystycznej siły.
 
-Istota żyje, walczy i rośnie naturalnie bez uświadamiania sobie własnego Imienia. Jednak proces jego wymuszonej **krystalizacji** (Nadania z zewnątrz) modyfikuje ten kod, wyzwalając absurdalny skok siły.
+Prawdziwe Imię jest dla bardzo słabych jednostek jedną z nielicznych metod na gwałtowny rozwój. Taki dar pozwala drastycznie nagiąć ograniczenia własnego ciała, powiększając pojemność i rezerwy bojowe, o ile sam proces nasycenia zakończy się sukcesem.
 
-### 4.6. Nadawanie Imion (Krystalizacja)
+### 4.6. Rytuał Nadania Imienia
 
-**Nadanie Imienia** to inwazyjny akt, w którym znacznie potężniejszy byt wstrzykuje własną, gęstą esencję w Splot słabszego organizmu, przymusowo krystalizując jego luźne Prawdziwe Imię.
+Inżynieria duszy nie rozgrywa się na brudnym, skąpanym we krwi polu bitwy. **Nadanie Imienia** to misterne rzemiosło duchowe, odbywające się wyłącznie w absolutnym wyciszeniu powierzchownych katakumb czy sanktuarium w głębi chronionego Bastionu. Akt ten stanowi ostateczne, niemal święte poszerzenie puli potęgi biorcy.
 
-**Zasady Nadania:**
-- **Jednorazowość:** Imię można naturalnie skrystalizować tylko jeden raz w życiu, w momencie dojrzałości Splotu.
-- **Wymóg Potęgi:** Dawca musi drastycznie przewyższać odbiorcę siłą (musi znajdować się na dużo wyższym Progu Mocy, być archaicznym reliktem lub np. skondensowaną wolą całego Bastionu).
-- **Zastrzyk Mocy:** Nadanie nie dodaje nowych umiejętności, ale jest potężnym doładowaniem — stale podnosi pulę surowego Zerum zasilającego wrodzone moce.
-- **Brak zgody:** Odbiorca nie posiada prawa weta. Splot wymusza instynktowną akceptację daru powiązaną z głodem ewolucji.
-- **Brak rytuałów:** Akt ten omija inkantacje. Może nastąpić bezszelestnie poprzez przekazanie czystej woli, albo gwałtownie, w szaleństwie bitewnej traumy.
-
-**Skutki u Odbiorcy:**
-1. Drastyczny, stały wzrost limitu wytrzymałości i pojemności wewnętrznego Zerum.
-2. Ekstremalne pogłębienie już obudzonych talentów rodowych.
-3. Natychmiastowa mutacja fizjologiczna — ciało odbiorcy asymiluje akcenty biologiczne dawcy (np. przybierając łuski, pył mroku lub określone zrogowacenia).
+**Żelazne Zasady Rytuału:**
+- **Zero autonomii:** Prawdziwe Imię to gigantyczne dziedzictwo, które można jedynie otrzymać. Z natury fizyki świata nie istnieje coś takiego jak powiększające samego siebie, zjawiskowe autonadanie.
+- **Wymóg doświadczenia:** Aktu Nadania nie można nauczyć się z zakurzonych grymuarów, bez organicznego odczucia Splotu. Aby móc wtłoczyć własną matrycę komuś innemu, dawca musi w przeszłości sam otrzymać Imię, albo chociaż stanowić naocznego, świadomego świadka tego konkretnego aktu we krwi.
+- **Zastrzyk Mocy:** Pomyślne Nadanie trwale podnosi limit surowego Zerum zasilającego wrodzone moce organizmu, wywołując we wnętrzu biorcy gwałtowną, fizyczną asymilację z nowo pozyskaną z zewnątrz energią.
+- **Nierozerwalna Więź:** Raz utrwalone Imię więzi struktury Splotu na zawsze. Pomiędzy twórcą a obdarowanym zostaje wylany potężny, mentalny fundament – nosiciel do końca życia z nieubłaganą ostrością będzie pamiętał osobę, z ust której zyskał nowe siły.
+- **Reguła wieku:** Rytuał Imienia jednoznacznie wyklucza z udziału dzieci do ukończenia 12. roku życia. Ich osobiste biostruktury są jeszcze podczas kruchego formowania, w wyniku czego pod wpływem tak agresywnej energii z zewnątrz nastąpiłoby ich rozerwanie.
 
 **Akt Nadpisania Imienia (Absolutna Dominacja):**
-W skrajnych przypadkach byt o mocy przewyższającej granice pojęcia potrafi **nadpisać** już uformowane Imię. Nowa pętla brutalnie miażdży starą architekturę Splotu. Dawne moce odbiorcy zostają z nim, ale zaczynają rezonować wedle praw podyktowanych przez nową infekcję.
+W wybitnie marginalnych przypadkach, byt charakteryzujący się kosmiczną wręcz dominacją potrafi obezwładnić i bezlitośnie **nadpisać** uformowane już Imię. Nowo wprowadzona, zagęszczona do granic wola odgórnie miażdży i formuje ułożoną już wcześniej architekturę Splotu. Dawne moce odbiorcy zostają z nim, ale zaczynają rezonować wedle ostrych praw dyktowanych wyłącznie przez ciężar przytłaczającej dłoni nowego mistrza.
 
-**Zapłata Dawcy (Krwawy Uwiąd):**
-Zerum niezbędne do Nadania Imienia zawsze wiąże się z okaleczeniem. Dawca musi trwale wyrwać i ofiarować fragment absolutnego żaru własnego ciała:
-- *Lekkie Nadanie:* Poważne oparzenia żył na rękach i kilkudniowa całkowita niemoc wymagająca izolacji.
-- *Głęboka Krystalizacja:* Tygodnie gorączki łamiącej kości, czasowa utrata świadomości i bezruch kliniczny.
-- *Nadpisanie (Ryzyko Śmierci):* Akt obarczony śmiertelnym ryzykiem dla nadawcy. Jeżeli prywatny Splot usiłuje przesłać zbyt gęstą potęgę i nie wytrzyma transferu, ciało dawcy ulega wzdęciu i krwawej implozji od wewnątrz.
+**Mordercza Repulsja (Cena Błędu):**
+Choć Nadanie to akt, który desperacko kusi zdesperowane istoty – jest on skrajnie, krytycznie ryzykowny. Śmiercionośny zapłon wymyka się zazwyczaj w jednym konkretnym przypadku: gdy nadmiernie pewny siebie dawca przeszacuje własną objętość lub tragicznie pomyli się w ocenie drobnej pojemności biorcy.
+Jeżeli ułomne układy obu pospiesznie zaplatanych istot zderzą się w otwartym obnażeniu – dochodzi do natychmiastowej **morderczej repulsji**. Surowe oszalałe Zerum brutalnie imploduje w pustkę, mieląc powłoki w błysku białego światła. Z miażdżącą obojętnością odruch ten wymazuje w gęstej, ostrej mgle zarówno niewystarczająco silnego mentora, jak i poszukującego ratunku ucznia, zacierając w kwasie ostateczności jakiekolwiek fragmenty dające im świadectwo istnienia.
 
-Z tego powodu Nadanie Imienia tworzy między dawcą a biorcą rygorystyczną, nierozerwalną więź telepatyczno-duchową i uchodzi za akt szaleńczego poświęcenia (bądź totalnego zawłaszczenia).
+### 4.7. Manifestacja i Rezonans Imienia (Dziedzictwo We Krwi)
+
+Olbrzymi wtrysk przelanej we krew potęgi w żadnym świetle nie staje się wyłącznie cyfrową wartością. Z upływem czasu pozornie gładko asymiluje się on i chowa między tętniącymi arteriami, jednakże zawsze rezerwuje u biorcy drobne, niepokojące echo jej pierwotnego stwórcy. W momentach skrajnych przeciążeń bojowych staje się ono jasnym znakiem przynależności.
+
+- **Rezonans Zmysłowy:** Skrajnie przyparty do muru obdarowany, głęboko wchłaniający zapasy zarezerwowanego Zerum od dawcy, uaktywnia cichą sygnaturę otoczenia, zniekształcając fizyczne realia. Na jego zbroi nagle potrafi zakwitać lodowy szron obnażający mrok dawcy, w powietrzu budzi się duszący aromat spalonego w bólu igliwia i łamiącego się szkła, lub naturalny krzyk zyskuje podwójny, starczy, dojrzały ton gardłowy nie pasujący do młodego biorcy.
+- **Echo Wizualne Splotu:** Doświadczony i opanowany Łowca zawsze powiąże te wizualne deformacje powietrza z rzemykiem prawowitego rodowodu. W trakcie przekraczania ram ewolucyjnych i aktywacji absolutnej broni, cień obdarowanego potrafi odkleić się ze ściany i spiętrzyć przez mikrosekundy w wynaturzoną, wysoką postać swego mistrza. Ofiarowane przez Prawdziwe Imię wybawienie pozostaje nierozerwalnym dziedzictwem – broni przed brutalnością Rezeryum, będąc jednoczenie niewymazanym piętnem całkowitego oddania komuś z o wiele, wiele starszej linii przetrwania.
