@@ -1,92 +1,137 @@
-# 06 Wiążące Przysięgi
+# 06 Wiążące Przysięgi (Vows)
 
-### 4.11. Wiążące Przysięgi (Vows — Solipsystyczny Kontrakt z Własną Krwią)
+### 4.11. Wiążące Przysięgi (Vows — Rytuał Równej Wymiany)
 
-Wędrując przez gnijące ziemie Rezeryum, Przebudzeni szukają każdej brutalnej przewagi zdolnej przedłużyć im życie o kolejny dzień. **Wiążąca Przysięga** to całkowicie solipsystyczna obietnica wyrzeźbiona przez bohatera wyłącznie na zrębie własnej, obłąkanej determinacji — przymusowa umowa wojownika z jego własnym kodem we krwi, wymieniająca dobrowolne okaleczenie na skrajne premie bojowe.
+Rezeryum jest stabilne. Bastiony stoją, Szlaki Szumu działają, Gildie handlują, Bramy otwierają się i zamykają wedle cykli znanych Kartografom od pokoleń. Świat nie płonie. To ludzie chcą więcej.
 
-To nie pakt z demonem. Nie kontrakt z frakcją. Nie obietnica złożona innemu żywemu stworzeniu. Wiążąca Przysięga jest **aktem samoagresji wpisanym w strukturę Splotu** — wojownik celowo, świadomie i nieodwracalnie wyrywa ze swojego ciała konkretną funkcję biologiczną lub taktyczną, a Splot — jak bezlitosny, ślepy chirurg — odpowiada kompensacyjnym przerzutem mocy w pozostałe, nieobcięte ścieżki organizmu.
+**Wiążąca Przysięga (Vow)** to jednorazowy, nieodwracalny rytuał specjalizacji oparty na zasadzie równej wymiany. To nie buff. Nie power-up. Nie kolejny szczebel w drabinie mocy. To chirurgiczne przesterowanie własnej esencji w Splocie — świadoma decyzja o porzuceniu jednego aspektu istnienia, by inny aspekt osiągnął szczyt, którego naturalny rozwój nigdy by nie zapewnił.
 
-Zasada jest prosta jak gilotyna: **co utracisz, tym zyskasz**. Im głębiej wetniesz nóż we własny kod, tym potężniejszą dominację pasywną Splot wpompuje w to, co po cięciu pozostanie.
-
----
-
-## Mechanika Wyrzeźbienia — Jak Powstaje Przysięga
-
-Wiążąca Przysięga nie jest zaklęciem, rytuałem ani deklaracją słowną. Jest **fizycznym aktem rzeźbienia w żywej tkance Splotu** — procesem porównywalnym do wypalania obwodu nerwowego gorącym drutem. Wojownik pod kontrolą świadomej medytacji bojowej zagłębia się we własny Splot, lokalizuje naczynia odpowiedzialne za wybraną zdolność i metodycznie je **zamurowuje** od środka. Powstaje zamknięty, nierozerwalny blok geometryczny — struktura, którą Splot rozpoznaje jako permanentny rozkaz i wokół której natychmiast zaczyna przekierowywać strumienie Zerum.
-
-**Warunki Wyrzeźbienia:**
-- **Świadoma wola:** Przysięga nie może być złożona pod przymusem, w stanie paniki ani pod wpływem substancji zaburzających Splot. Próba wpisu w stanie emocjonalnego chaosu kończy się zazwyczaj Mikro-Skazą i trwałym uszkodzeniem nerwów bez żadnego zysku — Splot odrzuca niespójny rozkaz jak ciało odrzuca przeszczep.
-- **Próg minimalny — Nurt:** Wojownicy na Progu Zarzewia nie posiadają dostatecznej kontroli nad własnymi naczyniami, by przeprowadzić precyzyjne zamurowywanie. Pierwsza Przysięga staje się dostępna dopiero od Progu Nurtu, gdy Przebudzony osiągnie świadomą kontrolę nad przepływem Zerum.
-- **Brak limitu ilościowego, ale brutalny limit biologiczny:** Teoretycznie nie istnieje twardy pułap liczby Przysiąg.  Praktycznie — każda kolejna obcina następny kawałek funkcjonalności ciała. Trzecia, czwarta Przysięga nie wymaga już odwagi. Wymaga obłędu. Splot kompensuje stratę, ale organizm biologiczny ma skończoną pojemność na ból i deformację. Wojownicy z wieloma aktywnymi Przysięgami to wynaturzone maszyny bitewne z ciałami pokrytymi bliznami zamurowań — zdolne do przerażającej dominacji w jednym wąskim wektorze ataku, lecz fizycznie niezdolne do normalnego funkcjonowania poza boiskiem walki.
+Vow nie jest narzędziem ratowania świata. Jest **mechanizmem ambicji** — ekstremalnej, osobistej specjalizacji w świecie rosnących oczekiwań. Wojownik, który składa Przysięgę, nie robi tego, bo musi. Robi to, bo chce być **czymś więcej**, i godzi się zapłacić za to czymś, co już ma.
 
 ---
 
-## Anatomia Przysięgi — Okaleczenie i Kompensacja
+## Zasada Równej Wymiany — Fundament Systemu
 
-Każda Wiążąca Przysięga składa się z dwóch nierozerwalnych elementów: **Cięcia** (co wojownik traci) i **Dominacji** (czym Splot go wynagradza). Poniższe wzorce to powtarzalne, udokumentowane przez zbrojmistrzów Iglicy Nazwanych formy Przysiąg spotykanych na polach bitew Rezeryum:
+Granicą systemu jest odwieczne prawo Zerum: **nic nie powstaje z niczego**.
 
-### Przysięga Wyrzeczenia Tarczy *(Cięcie: Obrona → Dominacja: Ofensywa)*
+Vow operuje na zasadzie bezwzględnej, absolutnej symetrii. Cokolwiek zyskujesz — cokolwiek innego oddajesz w zamian. Nie częściowo. Nie tymczasowo. **Całkowicie i permanentnie.** To, co oddajesz, znika ze struktury Splotu na zawsze — nie jest tłumione, nie jest uśpione, nie czeka w rezerwie. Zostaje wycięte z kodu esencji z chirurgiczną precyzją, a uwolniona przestrzeń natychmiast zalewa się nową konfiguracją, wzmacniając wybrany przez składającego aspekt istnienia.
 
-Wojownik zamuruje w Splocie ścieżki odpowiedzialne za odruchowe blokowanie ciosów. Jego ciało dosłownie **nie jest w stanie** wystawić ręki w obronną gardę, odchylić się od ciosu ani aktywować technik defleksji. Każde trafienie przyjmuje na gołe ciało, bez żadnej taktycznej kompensacji.
+**Reguły wymiany:**
+- Można zamienić **lata treningu** na natychmiastową perfekcję w innej dziedzinie.
+- Można zamienić **Zerum** na surową siłę fizyczną.
+- Można zamienić **techniki bojowe** na wyostrzoną percepcję.
+- Można zamienić **talent społeczny** na zdolność ekonomiczną.
+- Można zamienić **cokolwiek na cokolwiek** — pod warunkiem, że wymiana jest symetryczna.
 
-W zamian Splot zalewa ścieżki ofensywne nieskrępowanym strumieniem Zerum. Siła ciosów rośnie drastycznie — uderzenia niosą morderczą wagę przekraczającą biologiczny limit mięśni, a techniki ataku zyskują nieludzką prędkość rozwinięcia. Wojownik staje się żywą armatą pozbawioną pancerza — jeden strzał musi trafić, bo drugiego może nie dożyć.
-
-### Przysięga Zaślepienia *(Cięcie: Wzrok → Dominacja: Percepcja Splotu)*
-
-Dobrowolna, pełna rezygnacja ze zdolności widzenia. Splot zamuruje naczynia optyczne, wygaszając oczy na biało — nie tymczasowo, nie symbolicznie, lecz **permanentnie i fizycznie**. Ślepy wojownik na ulicach Bastionu budzi skrajne emocje: litość u postronnych, grozę u znawców.
-
-Kompensacja jest przerażająco skuteczna. Pozbawiony wzroku Splot przerzuca całą pojemność sensoryczną na bezpośrednie odczytywanie wibracji Zerum w otoczeniu. Wojownik „widzi" świat jako trójwymiarową mapę pulsacji energetycznych — wykrywa bicie serca wroga za ścianą, czuje trajektorię pocisku przed jego wystrzeleniem, wyczuwa Zarodki Cieni w tkankach pozornie zdrowych towarzyszy. W Bramach, gdzie ciemność jest absolutna i normalne oczy służą jedynie do zbierania strachu, zaślepiony Przysięgą wojownik paradoksalnie staje się **najcenniejszym zwiadowcą formacji**.
-
-### Przysięga Okaleczenia Mobilności *(Cięcie: Ucieczka → Dominacja: Zakotwiczenie)*
-
-Najtwardsza, najrzadziej spotykana forma Przysięgi. Wojownik zamuruje w Splocie odruchy odpowiedzialne za cofanie się, odskakiwanie i wycofywanie z walki. Jego ciało traci zdolność ucieczki — nie w sensie mentalnym, lecz **neurologicznym**. Nogi odmawiają ruchu do tyłu. Mięśnie odpowiedzialne za odruch unikania kostnieją na stałe w pozycji frontalnej.
-
-Dominacja jest potworna: Splot przekierowuje całe zasoby dynamiczne w bezwzględną kontrolę pozycji. Wojownik staje się nieruszalną twierdzą — jego stopy wrastają w pozycję aurą Zerum tak gęstą, że żadna siła kinetyczna nie jest w stanie go odepchnąć, podrzucić ani przesunąć. Ciosy, które normalnie posłałyby Przebudzonego przez ścianę, rozbijają się o zakotwiczoną sylwetkę jak fale o klif. Idealna Przysięga dla wojowników-tarczowników na Progu Rdzy, operujących na przedpolach Bastionów — ludzi, którzy wiedzą, że z pola bitwy wrócą albo na nogach, albo wcale.
+Wartość oddanego musi **równać się** wartości zyskanego. Splot nie jest dobroczynną instytucją. Jest beznamiętnym systemem energetyczno-informacyjnym, który przelicza zasoby z matematyczną obojętnością.
 
 ---
 
-## Żelazna Cena Złamania — Absolutna Nieodwracalność
+## Mechanika Przysięgi — Przesterowanie Splotu
 
-Podczas starć sformułowane Wiążące Przysięgi są dla wojownika bezwzględnie, żelaznie i **absolutnie nierozerwalne**. Zmiana decyzji na tym poziomie to nie kwestia silnej woli ani pokonania bariery mentalnej. To kwestia przeżycia.
+Złożenie Vow to nie zaklęcie, nie modlitwa i nie emocjonalny krzyk w ciemność. To precyzyjny, świadomy akt wewnętrznej inżynierii — intencjonalne zablokowanie określonych sekwencji neurologicznych w Splocie i jednoczesne przekierowanie całego uwolnionego przepływu w nową konfigurację.
 
-Jeżeli Przebudzony pod jakimkolwiek pretekstem naruszy warunki Przysięgi wymuszone we własnym Splocie — na przykład wyciągnie rękę do bloku łamiąc Wyrzeczenie Tarczy, albo odruchowo odskoczy od ciosu łamiąc Okaleczenie Mobilności — system odpowiada natychmiastowo i bez ostrzeżenia:
+**Jak działa Splot podczas Vow:**
+Splot nie deformuje ciała groteskowo. Nie łamie kości, nie wykrzywia mięśni, nie rzeźbi ran. Zamiast tego:
+- **Blokuje** określone sekwencje neurologiczne — zamyka kanały esencji odpowiedzialne za oddaną zdolność.
+- **Wycisza** konkretne ścieżki przepływu — wyłącza je z obiegu jak odcięty obwód.
+- **Przekierowuje** uwolnione zasoby w wybrane przez składającego ścieżki, zagęszczając je ponad naturalny pułap biologiczny.
 
-**Gwałtowna eksplozja rdzenia układu nerwowego.**
+To system energetyczno-informacyjny. Precyzyjny. Cichy. Bez spektaklu. Wynik jest widoczny nie w zniekształceniu ciała, lecz w **absolutnej, nieomylnej biegłości** w wybranym aspekcie.
 
-To nie jest ból. To nie jest kara do przetrzymania. To fizyczna detonacja zamurowanego bloku geometrycznego, który — zmuszony do przepuszczenia zakazanego impulsu — pęka od środka jak granat w zamkniętej dłoni. Efektem jest **stała, głęboka i niedająca się uleczyć utrata maksymalnej wartości HP**. Nie tymczasowa. Nie do odbudowania regeneracją. Permanentna, nieodwracalna amputacja górnego pułapu żywotności — trwałe obcięcie potencjału biologicznego, który nigdy nie odrośnie.
-
-Wojownicy, którzy przeżyli złamanie Przysięgi, noszą na ciele jaskrawe blizny implozji — lejkowate, zwęglone kratery w skórze, pod którymi sieć Splotu wygląda jak roztrzaskana szyba. Są żywymi ostrzeżeniami dla każdego adepta Iglicy Nazwanych rozważającego złożenie pierwszej Przysięgi zbyt pochopnie.
-
----
-
-## Odwiązanie — Jedyna Droga Wyjścia
-
-Cofnięcie Wiążącej Przysięgi nie polega na samej woli. Akt „odwiązania" tkanki Splotu w bezpieczny sposób — bez detonacji zamurowanego bloku — jest procedurą wymagającą chirurgicznej precyzji na poziomie molekularnym i jest możliwy **wyłącznie pod nadzorem elitarnych uzdrowicieli w głównych Bastionach**.
-
-**Realia Odwiązania:**
-- **Dostępność:** Uzdrowiciele zdolni do bezpiecznego Odwiązania to jednostki na Progu Eskalacji lub wyżej, z dekadami doświadczenia w architekturze Splotu. W całym Rezeryum może ich być zaledwie kilkudziesięciu. Ich usługi nie są na sprzedaż — uzdrowiciele tego kalibru operują pod egidą Bastionów lub Iglicy Nazwanych i przyjmują pacjentów wyłącznie na podstawie rekomendacji i oceny strategicznej.
-- **Czas:** Odwiązanie pojedynczej Przysięgi trwa od tygodni do miesięcy systematycznej, wyczerpującej pracy. Splot musi zostać „przekonany" do otwarcia zamurowanego bloku bez wywołania kaskadowego rozpadu okolicznych naczyń. Każda sesja jest potwornie bolesna — porównywalna do operacji na otwartym sercu bez znieczulenia.
-- **Koszt:** Nawet pomyślne Odwiązanie nie przywraca stanu sprzed Przysięgi. Splot pamięta dawne wyrzeźbienie jako bliznę. Wojownik po Odwiązaniu traci częściowo pasywną dominację zrekompensowaną za Cięcie, ale odzyskana funkcja biologiczna wraca osłabiona — ręka ponownie blokuje, ale wolniej; oczy widzą, ale rozmycie nie znika do końca. **Nic, co Splot raz stracił, nie wraca w pełni**.
+**Warunki złożenia Vow:**
+- **Pełna intencja:** Przysięga wymaga stuprocentowej, niepodważalnej świadomości tego, co się oddaje i co się zyskuje. Próba złożenia Vow w panice, desperacji lub pod wpływem substancji zaburzających Splot nie da żadnego efektu — Splot odrzuci niespójny rozkaz bez konsekwencji, ale i bez rezultatu.
+- **Jednorazowość:** Jedna osoba może złożyć wyłącznie **jeden Vow w życiu**. Brak stackowania, brak farmienia, brak obejść. Splot akceptuje jedno przesterowanie i zamyka drogę do kolejnych. To nie jest system levelowania — to jest punkt bez powrotu.
+- **Rzadkość:** Vow nie jest masową praktyką. To narzędzie wyjątkowych jednostek podejmujących wyjątkowe decyzje. Jeśli każdy rzeźnik na rynku i każdy żebrak pod murem składałby Przysięgi — świat straciłby swój kręgosłup. Rzadkość Vow jest tym, co nadaje im ciężar.
 
 ---
 
-## Przysięgi a Architektura Świata — Dlaczego Ludzie To Sobie Robią
+## Zastosowania — Każda Warstwa Społeczeństwa
 
-W świecie, w którym Pęknięcia wypluwają bestie zdolne miażdżyć bataliony, Pustoszyciele łamią Sploty samą obecnością, a Cienie Zbiorowe indukują krwawą psychozę w całych miastach — Wiążące Przysięgi nie są aktem desperacji szaleńców. Są **kalkulacją przetrwania**.
+Vow nie jest wyłączną domeną wojowników. Splot nie zna podziału na kasty i profesje. Jest tkaniną egzystencji **każdej czującej istoty** — a zatem każda czująca istota może go przesterować, pod warunkiem że posiada coś wartego oddania.
 
-Podróżnik na Progu Nurtu, stojący u wejścia do Bramy Eskalacji, wie z brutalną precyzją, że jego bazowe parametry nie wystarczą. Gildie Handlowe policzyły prawdopodobieństwo. Ubezpieczenie Ekspedycyjne wyceniło ryzyko. Statystyka mówi jasno: bez przewagi — giniesz. Wiążąca Przysięga daje tę przewagę kosztem kawałka siebie.
+### Wojownik — Zerum za Siłę
 
-Iglica Nazwanych traktuje Przysięgi z ponurym respektem. Nie zachęca do nich, ale i nie zabrania. Każdy adept, który decyduje się na wyrzeźbienie, przechodzi obowiązkową konsultację z mistrzem uzdrowicielem, który tłumaczy — z chirurgiczną szczerością — co dokładnie straci i czego nigdy nie odzyska. Pomimo tego, co roku kolejne pokolenie wojowników świadomie kładzie dłoń na swojej krtani, zamyka oczy i pozwala, by Splot wyrżnął im z ciała następny kawałek normalności — w zamian za moc wystarczającą, by wrócić z Bramy żywym.
+Przebudzony na Progu Nurtu decyduje się zamienić swoje Zerum na surową siłę kinetyczną. Po złożeniu Vow:
+- Zerum zostaje **całkowicie zablokowane**. Nie regeneruje się. Nie może być używane. Nie może być uzupełniane miksturami, Kamieniami Esencji ani przebywaniem w strefach wysokiego nasycenia.
+- Siła fizyczna rośnie proporcjonalnie do oddanej wartości — na skalę wykraczającą daleko poza biologiczne limity rasy.
+- Wojownik traci dostęp do wszelkich technik wymagających Zerum. Żadnych projekcji, żadnych żywiołowych ataków, żadnych kanalizacji. Pozostaje mu czysty, surowy, fizyczny impakt — ale impakt o mocy, której normalny Przebudzony nie osiągnie nawet po dekadach treningu.
 
-To jest esencja Rezeryum. **Nikt nie jest potężny za darmo.**
+Równa wymiana. Bezwzględna symetria.
+
+### Handlarz — Zdolność Walki za Intuicję Ekonomiczną
+
+Kupiec z niższych gildii, człowiek, który nigdy nie przekroczy Progu Eskalacji i nie wejdzie do Bramy Rezonansu, składa Vow oddając każdą posiadaną zdolność bojową — odruchowe bloki, wrodzoną wytrzymałość fizyczną, resztki defensywnego Zerum.
+
+W zamian zyskuje nadnaturalną intuicję ekonomiczną. Widzi wzorce, których inni nie widzą. Wyczuwa wahania cen Kryształów Zerum zanim rynki zareagują. Patrzy na twarz partnera handlowego i **wie** — z chirurgiczną pewnością — czy ten kłamie. W salach Gildii Handlowych Uznani szepcą między sobą: *„Nie walcz z nim na rynku. On złożył Przysięgę."*
+
+Ceną jest absolutna bezbronność fizyczna. Na ulicach Bastionów, gdzie bieda kąsa i nóż jest tani, handlarz po Vow jest tak bezradny jak dziecko.
+
+### Uczony — Emocje za Absolutną Pamięć
+
+Geomanta z Kartografów Otchłani poświęca **pełne spektrum emocjonalne** — zdolność do odczuwania radości, strachu, gniewu, tęsknoty — w zamian za absolutną, krystaliczną pamięć. Każda przeczytana strona, każdy zmierzony rezonans, każda twarz zarejestrowana przez oczy zostaje wyryta w umyśle na zawsze, bez zniekształceń i bez rozpadu.
+
+Wynik: żywy rejestr danych, bezcenny dla każdej instytucji, od Iglicy Nazwanych po radę Bastionów. Cena: istota pozbawiona emocji, funkcjonująca z precyzją narzędzia, niezdolna do zbudowania więzi osobistej, obojętna wobec piękna i grozy w równym stopniu. Latarnicy traktują takie jednostki z instynktownym niepokojem — nie dlatego, że są niebezpieczne, lecz dlatego, że nie sposób przewidzieć, czego pragnie ktoś, kto **nie potrafi pragnąć**.
+
+### Generał — Lata Życia za Natychmiastową Potęgę
+
+Dowódca garnizonu na Kresach Wichrów, starzejący się za biurkiem, składa Vow oddając **dekady przyszłego życia** — jego biologiczny zegar przyspiesza gwałtownie, obcinając oczekiwaną długość egzystencji do ułamka pozostałego czasu.
+
+W zamian zyskuje natychmiastowy skok potęgi — kosmiczny zastrzyk doświadczenia bojowego i gęstości Splotu, którego normalna droga wymagałaby właśnie tych oddanych lat treningu i ewolucji. Wkracza na pole bitwy jako siła, z którą jeszcze wczoraj nikt się nie liczył. Za rok albo dwa — nie żyje. Nie z rany. Ze starości, która dopadła go przed czasem.
+
+---
+
+## Odwracanie Vow — Operacja na Duszy
+
+Normalnie: **niemożliwe**. Vow jest jednorazowym przesterowaniem struktury Splotu i Splot nie posiada funkcji cofania. Zamknięte kanały nie otwierają się samorzutnie. Przekierowany przepływ nie wraca na stare ścieżki.
+
+Istnieje jeden wyjątek — brutalna, niezwykle rzadko praktykowana procedura wymagająca **najlepszych uczonych operujących na Splocie**.
+
+**Proces:**
+Elitarni specjaliści — jednostki na Progu Eskalacji lub wyżej, z dekadami doświadczenia w architekturze naczyń magicznych — mogą, przez długi i mozolny proces trwający tygodnie lub miesiące, **wyzerować użytkownika do stanu początkowego**. Przesterowanie zostaje cofnięte. Zamknięte kanały otwierają się. Zyskana specjalizacja rozpływa się. Składający wraca do punktu wyjścia — ale nie do tego samego ciała.
+
+**Koszt:**
+Ingerencja w rdzeń egzystencji zostawia trwały, nieodwracalny ślad: **permanentne skrócenie długości życia (max HP)**. To nie jest efekt uboczny — to koszt operacji. Splot, zmuszony do ponownego przebudowania struktury, pobiera zapłatę z najgłębszych rezerw organizmu. Ile dokładnie? Zależy od skali pierwotnego Vow. Ale zawsze — zawsze — efektem jest istota biologicznie starsza, krutsza, bliższa krawędzi niż przed pierwszą Przysięgą.
+
+To nie jest zabieg kosmetyczny. To **operacja na duszy**. I nikt nie wychodzi z niej taki sam.
+
+---
+
+## Vow a Architektura Świata — Stabilność, Nie Apokalipsa
+
+Wiążące Przysięgi nie destabilizują Rezeryum. Nie tworzą kataklizmów. Nie są tajnym filarem kosmicznej równowagi. Nie napędzają spisków frakcji i nie otwierają Pęknięć.
+
+Są **wyborem jednostki**.
+
+W świecie, w którym Pustoszyciele patrolują kontynent, Cienie Zbiorowe indukują masowe psychozy, a Milczący Imion czczą w sekrecie Głębokich — Vow jest zdumiewająco cichym, prywatnym zjawiskiem. Nie ma ceremonii. Nie ma tribunału. Nie ma frakcji, która kontroluje dostęp do Przysiąg — bo kontrolować nie ma czego. To akt wewnętrzny, dokonywany w ciszy własnego Splotu, widoczny dla otoczenia dopiero po fakcie, w postaci wyników.
+
+To jest właśnie to, co czyni Vow potężnym dramaturgicznie. Nie jest to jeszcze jeden mechanizm eskalacji zagrożeń w i tak już brutalnym świecie. Jest to **mechanizm ekstremalnej specjalizacji w świecie rosnącej ambicji** — narzędzie dla tych, którym nie wystarcza bycie dobrym, a muszą być **jedynym w swoim rodzaju**.
+
+Świat trwa. Ludzie się wyostrzają.
+
+---
+
+## Ograniczenia Systemowe — Twarde Granice
+
+| Reguła | Opis |
+| :--- | :--- |
+| **Jeden Vow na osobę** | Splot akceptuje jedno przesterowanie i zamyka drogę do kolejnych. Brak wyjątków. |
+| **Brak stackowania** | Niemożliwe jest kumulowanie wielu Przysiąg, nawet przy teoretycznym cofnięciu pierwszej. |
+| **Brak farmienia** | Vow nie jest mechaniką do grindowania. Zysk jest jednorazowy i proporcjonalny do oddanej wartości. |
+| **Brak samodzielnego cofania** | Jedynie elitarni specjaliści mogą dokonać odwrócenia, i każde odwrócenie skraca życie. |
+| **Brak stabilizatorów** | Nie istnieją artefakty, mikstury ani rytuały pozwalające złagodzić koszt lub obejść ograniczenia systemu. |
+| **Rzadkość** | Vow musi pozostać zjawiskiem wyjątkowym. Powszechność dewaluuje mechanizm i niszczy jego dramaturgiczny ciężar. |
 
 ---
 
 ## Uwagi Architektoniczne (Meta-Notatki Warsztatu)
 
-> **Integracja z Kanonem:** Wiążące Przysięgi stanowią bezpośrednie rozwinięcie mechaniki opisanej w `01_Zerum_i_Splot` (sekcja „Dominacja Pasywna" — linie 26–28). Zasada nieodwracalności, eksplozja rdzenia nerwowego za złamanie i wymóg elitarnych uzdrowicieli do Odwiązania — wszystko przeniesione z kanonu bez modyfikacji. Trzy wzorce Przysiąg (Wyrzeczenie Tarczy, Zaślepienie, Okaleczenie Mobilności) to przykłady rozwijające surowy zapis kanoniczny, a nie nowe mechaniki.
+> **Integracja z Kanonem:** Wiążące Przysięgi bazują na mechanice Dominacji Pasywnej opisanej w `01_Zerum_i_Splot` (linie 26–28). Kanoniczny zapis mówi o „rzeźbieniu w Splocie żelaznych obietnic" i „okaleczeniu biologicznym albo wyrzeczeniu się tarczy" w zamian za „potężny zysk w postaci pasywnej dominacji". Niniejszy draft przekłada te zasady na system równej wymiany z jednorazowym limitem.
+>
+> **Zmiana wobec poprzednich iteracji:** Usunięto wielokrotne Przysięgi, body horror i narrację „desperackiego przetrwania". Vow jest teraz mechaniką ambicji, nie mechanizmem ratunkowym. Splot blokuje/przekierowuje neurologicznie, nie deformuje ciała.
 >
 > **Otwarte Pola do Rozwoju:**
-> - Interakcja Przysiąg z Naturami Zerum — czy Przysięga Zaślepienia manifestuje się inaczej u wojownika Natury Cień niż u Natury Żar?
-> - Przysięgi a Prawdziwe Imiona — czy Nadanie Imienia wpływa na istniejące zamurowywania w Splocie, wzmacniając je lub łamiąc?
-> - Przysięgi Zbiorowe — hipotetyczny, niepotwierdzony wariant, w którym cała formacja składa identyczną Przysięgę, tworząc rezonans grupowy. Materiał do rozważenia w przyszłych iteracjach.
+> - Interakcja Vow z Prawdziwym Imieniem — czy Nadanie Imienia przez potężniejszą istotę wpływa na zamknięte kanały Splotu?
+> - Vow a Progi Mocy — czy złożenie Przysięgi na Progu Zarzewia daje inny efekt niż na Progu Eskalacji?
+> - Vow a Natury Zerum — jak wymiana manifestuje się u Natury Czas vs Natury Żar?
+> - Historyczne przypadki masowego składania Vow — material na `Historia_Swiata/`.
