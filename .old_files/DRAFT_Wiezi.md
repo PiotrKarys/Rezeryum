@@ -97,41 +97,50 @@ To nie jest zabieg kosmetyczny. To **operacja na duszy**. I nikt nie wychodzi z 
 
 ---
 
-## Vow a Architektura Świata — Stabilność, Nie Apokalipsa
+---
 
-Wiążące Przysięgi nie destabilizują Rezeryum. Nie tworzą kataklizmów. Nie są tajnym filarem kosmicznej równowagi. Nie napędzają spisków frakcji i nie otwierają Pęknięć.
+## Więzi Fuzji Symbiotycznej — Architektura Podwójna
 
+Podczas gdy Przysięgi są aktem absolutnie solipsystycznym i rozgrywającym się we własnym zamkniętym ciele, istnieje w Rezeryum drugi, drastycznie różniący się typ kontraktu ewolucyjnego: **Więzi Fuzji Symbiotycznej**.
+
+Zamiast zamykać kanały, Fuzja polega na otwarciu własnego Splotu i permanentnym splątaniu jego architektury z Splotem innej istoty. To otwarte skrzyżowanie żywego Zerum między Przebudzonym a świadomym partnerem, udomowionym zwierzęciem (np. Krwawym Jastrzębiem, cieniującym wilkiem) bądž w rzadkich przypadkach dawnym reliktem o samoświadomym jądrze.
+
+**Zasady działania Fuzji:**
+- **Obustronna Wymiana:** Więź splata na dobre krwiobiegi dwójki. W przeciwieństwie do Vows, Fuzja to umowa całkowicie obustronna. Partnerzy na bieżąco uzupełniają słabe strony: jeden daje potężną instynktowną złość i pęd drapieżnika, drugi świadomą nawigację i osłonę. Wymieniają dary w locie bojowym bez wypowiadania słów.
+- **Współdzielenie Obrażeń i Bólu:** Połączone Sploty są jednym układem. Jeżeli wilk łamie żebra, Łowca w Bastionie czuje miażdżący ból w tym samym miejscu. Mechaniczny transfer sił to broń obosieczna; obrażenia są dzielone (bądź przenoszone w zależności od gęstości połączenia), co oznacza, że ranienie partnera to ranienie właściciela.
+- **Jedyna Droga Zakończenia — Śmierć:** Raz połączonej Fuzji nie da się odwrócić ani „anulować" u specjalistów. Tę sieć przecina fizycznie i obiektywnie tylko jedno cięcie — zgon jednej ze stron. Śmierć partnera powoduje gwałtowne rozerwanie obwodu. U ocalałego wywołuje to ekstremalny szok sprzężeniowy Splotu: jego własny system percepcji (w tym Iskrzyk) ulega wygaszeniu na długi czas, zamykając go na ból fantomowy utraconego organizmu i fizyczne wycieńczenie.
+
+**Limit Systemowy Fuzji:**
+Istota może podtrzymywać architektonicznie **wyłącznie jedną Fuzję Symbiotyczną w danym momencie swojego życia**. Nie da się utworzyć stada powiązanych bestii The Splot operatora nie ma pojemności wielokanałowej; pęknie szybciej, niż domknie drugą, asymetryczną więź. Dopiero jeżeli uwięziony partner umrze, po potężnej rekonwalescencji (fizycznej i psychicznej), weteran odzyskuje teoretyczną pustkę na splątanie z kimś rzutowanym na nowe lata.
+
+---
+
+## Kontrakty a Architektura Świata — Stabilność, Nie Apokalipsa
+
+Niewyobrażalna brutalność Przysiąg oraz radykalne Więzi nie destabilizują Rezeryum. Nie tworzą kataklizmów.
 Są **wyborem jednostki**.
 
-W świecie, w którym Pustoszyciele patrolują kontynent, Cienie Zbiorowe indukują masowe psychozy, a Milczący Imion czczą w sekrecie Głębokich — Vow jest zdumiewająco cichym, prywatnym zjawiskiem. Nie ma ceremonii. Nie ma tribunału. Nie ma frakcji, która kontroluje dostęp do Przysiąg — bo kontrolować nie ma czego. To akt wewnętrzny, dokonywany w ciszy własnego Splotu, widoczny dla otoczenia dopiero po fakcie, w postaci wyników.
+W świecie, w którym Pustoszyciele patrolują kontynent, Cienie Zbiorowe indukują psychozy, a Bastiony biją się mrocznym szlakiem ekonomicznym — te kontrakty są zdumiewająco cichym zjawiskiem. To akt wewnętrzny.
 
-To jest właśnie to, co czyni Vow potężnym dramaturgicznie. Nie jest to jeszcze jeden mechanizm eskalacji zagrożeń w i tak już brutalnym świecie. Jest to **mechanizm ekstremalnej specjalizacji w świecie rosnącej ambicji** — narzędzie dla tych, którym nie wystarcza bycie dobrym, a muszą być **jedynym w swoim rodzaju**.
-
-Świat trwa. Ludzie się wyostrzają.
+To mechanizm ekstremalnej specjalizacji w świecie rosnącej ambicji — narzędzie dla tych, którym nie wystarcza bycie dobrym. Muszą być jedyni w swoim rodzaju, albo by przetrwać, nigdy nie polować w pojedynkę.
 
 ---
 
 ## Ograniczenia Systemowe — Twarde Granice
 
-| Reguła | Opis |
+| Reguła (Vow / Symbioza) | Opis |
 | :--- | :--- |
-| **Jeden Vow na osobę** | Splot akceptuje jedno przesterowanie i zamyka drogę do kolejnych. Brak wyjątków. |
-| **Brak stackowania** | Niemożliwe jest kumulowanie wielu Przysiąg, nawet przy teoretycznym cofnięciu pierwszej. |
-| **Brak farmienia** | Vow nie jest mechaniką do grindowania. Zysk jest jednorazowy i proporcjonalny do oddanej wartości. |
-| **Brak samodzielnego cofania** | Jedynie elitarni specjaliści mogą dokonać odwrócenia, i każde odwrócenie skraca życie. |
-| **Brak stabilizatorów** | Nie istnieją artefakty, mikstury ani rytuały pozwalające złagodzić koszt lub obejść ograniczenia systemu. |
-| **Rzadkość** | Vow musi pozostać zjawiskiem wyjątkowym. Powszechność dewaluuje mechanizm i niszczy jego dramaturgiczny ciężar. |
+| **Jeden Vow na osobę** | Splot akceptuje jedno przesterowanie wewnętrzne zamykające drogę na zawsze. |
+| **Jedna Symbioza na osobę** | Splot utrzymuje połączenie tylko z jednym partnerem. Druga symbiotyczna więź rozerwie użytkownika. |
+| **Brak stackowania Przysiąg** | Niemożliwe jest kumulowanie Vow, nawet przy teoretycznym cofnięciu pierwszej przez operację. |
+| **Brak samodzielnego cofania (Vow)** | Jedynie elitarni alchemicy mogą cofnąć Vow w zamian za Max HP (starość). |
+| **Cofanie Symbiozy przez Śmierć** | Jedynym sposobem zerwania żywej Więzi jest fizyczny zgon jednej ze stron (wywołujący szok i tymczasową utratę percepcji Iskrzyka u ocalałego). |
+| **Brak farmy** | Mechaniki to nie zabawki do grindowania. Skok do potęgi obarczony jest drastyczną stawką fizyczną i brakiem powrotów. |
 
 ---
 
 ## Uwagi Architektoniczne (Meta-Notatki Warsztatu)
 
-> **Integracja z Kanonem:** Wiążące Przysięgi bazują na mechanice Dominacji Pasywnej opisanej w `01_Zerum_i_Splot` (linie 26–28). Kanoniczny zapis mówi o „rzeźbieniu w Splocie żelaznych obietnic" i „okaleczeniu biologicznym albo wyrzeczeniu się tarczy" w zamian za „potężny zysk w postaci pasywnej dominacji". Niniejszy draft przekłada te zasady na system równej wymiany z jednorazowym limitem.
+> **Integracja z Kanonem:** Dokument wyodrębnia mechaniki Vow i Więzi Fuzji jako dwie równoległe drogi inżynierii Splotu dla Przebudzonych: pierwszą (Vow) zbudowaną z odcięcia by wymusić dominację, oraz drugą (Symbiozę), która otwiera się na zewnętrzny organizm (tworząc współdzielone HP i wtórny interfejs percepcji Iskrzyka dla bestii).
 >
-> **Zmiana wobec poprzednich iteracji:** Usunięto wielokrotne Przysięgi, body horror i narrację „desperackiego przetrwania". Vow jest teraz mechaniką ambicji, nie mechanizmem ratunkowym. Splot blokuje/przekierowuje neurologicznie, nie deformuje ciała.
->
-> **Otwarte Pola do Rozwoju:**
-> - Interakcja Vow z Prawdziwym Imieniem — czy Nadanie Imienia przez potężniejszą istotę wpływa na zamknięte kanały Splotu?
-> - Vow a Progi Mocy — czy złożenie Przysięgi na Progu Zarzewia daje inny efekt niż na Progu Eskalacji?
-> - Vow a Natury Zerum — jak wymiana manifestuje się u Natury Czas vs Natury Żar?
-> - Historyczne przypadki masowego składania Vow — material na `Historia_Swiata/`.
+> **Zmiana wobec poprzednich iteracji:** Usunięto wielokrotne Przysięgi, body horror. Dodano ścisłe limity dla Symbiozy (1 zwierzę) i zintegrowano śmierć bestii z karą sprzężeniową wpływającą na fizyczne sensory radarowe człowieka. System walki ma twarde, dające wymierne skutki (szoki) kary.

@@ -1,7 +1,7 @@
 # 09 Iglica Nazwanych
 
 ### 7.9. Iglica Nazwanych (Ścieżka Panteonu)
-*Domena: CIAŁO | Serce dawnej chwały militarnej, niezależne dojo i uczelnia dla wojowników fizycznych form i siły kinetycznej.*
+*Serce dawnej chwały militarnej, niezależne dojo i uczelnia dla wojowników fizycznych form i siły kinetycznej.*
 
 **Charakterystyka i Rola:**
 Iglica Nazwanych to potężna, mistyczna cytadela wyciągająca swe strome dachy i dziedzińce ku pękniętemu niebu. Stanowi absolutną czołową uczelnię i akademię dla wszystkich wojowników fizycznych w całym społeczeństwie Rezeryum. Tu rzeźbi się najdoskonalszą biomechanikę do powstrzymywania czystego destrukcyjnego uderzenia oraz formuje ducha walki. Mimo uniwersalnego immunitetu w politykach z Bastionami nie jest ona pasywną przechowalnią wiedzy, to oś świata militarnego. Magia żywiołów jest tu wpajana z niesłychanym respektem, jednak tylko i wyłącznie pod ścisłym kryterium tego, co jest bezpośrednio przydatne i wspierające w śmiertelnych zderzeniach wręcz w pierwszych liniach wrogiego ognia.

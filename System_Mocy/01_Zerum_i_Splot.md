@@ -12,7 +12,7 @@ Podstawą egzystencji jakiegokolwiek wojownika w bezlitosnym środowisku Pękni�
 
 - **Stan spoczynku:** Naturalnie płynie we krwi istot żywych i potężnych organizmach. Podtrzymuje funkcje życiowe i kształtuje wolę bojownika. 
 - **Kondensacja (Pęknięcia):** W strefach wyrw, Zerum gęstnieje do formy magii tworzącej kieszonkowy, morderczy wymiar z manifestacjami Głębi.
-- **Forma skrystalizowana:** Materialne **Kryształy Zerum**. To fundament ekonomii w Rezeryum: najdroższa waluta, zasilanie miast i osadzane w orężu klejnoty rezonujące z archaicznymi technikami. Niższe warstwy miejskie na co dzień **oszczędzają by kupić jedzenie konwencjonalne** — czyli tanie pasty syntetyczne, gigantyczne grzyby z mokradeł dowożone statkami oraz powszechne mąki rolnicze plemion Shenn. Kamienie Esencji służą tylko do walki, kreacji oręża i rozbudowy rzemieślniczej.
+- **Forma skrystalizowana (Kamienie Esencji):** To zjawiskowe, taktyczne akumulatory. Ich wydobycie stanowi zaplecze ekonomii przetrwania w Rezeryum: zasilają wojnę, oręż i dają energię wieżom Bastionów. Nie są jednak zwykłym pieniądzem do opłacania zupy w karczmie – chleb, mieszkanie czy długi niższe kasty miast załatwiają masowo obracając kopalnianym potężnym **Złotem** (mieniącym się srebro-zieloną, rynkową rudą kopaną z ziemi). Kamienie Esencji służą tylko do walki, potężnych interesów miedzy szczytami Gildii i rozbudowy rzemieślniczej.
 
 ---
 

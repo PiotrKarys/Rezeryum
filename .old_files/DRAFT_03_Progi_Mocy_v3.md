@@ -1,4 +1,4 @@
-# 03 Progi Mocy i Przebudzenie
+# 03 Progi Mocy i Przebudzenie (DRAFT v3)
 
 ---
 
@@ -30,7 +30,7 @@ Moc wciąż mieści się w granicach biologicznych. Jest realna, użyteczna i ko
 
 Biologiczne granice Splotu zostają przekroczone. Trwale. Po Rozszczepieniu użytkownik operuje mocą innego rzędu — surową, dużą, w pełni osadzoną w ciele i kierowaną wolą.
 
-Rozszczepienie nie powoduje samo w sobie żadnego destabilizowania przestrzeni. To nadal moc należąca do człowieka, nie do środowiska.
+Rozszczepienie nie powoduje sama w sobie żadnego destabilizowania przestrzeni. To nadal moc należąca do człowieka, nie do środowiska.
 
 To ostatni Próg wspólny dla wszystkich. Dalej ścieżki się rozchodzą.
 
@@ -52,7 +52,7 @@ Drogi są równoległe i nieprzechodnie. Raz ustalony kierunek zostaje.
 
 Moc zostaje skondensowana wewnątrz użytkownika. Absolut uzyskuje precyzyjną kontrolę nad lokalnym polem oddziaływania: może manipulować grawitacją, lokalnie wpływać na upływ czasu, kształtować przepływy informacji i oddziaływać na percepcję. Wszystko w wymiernym, ograniczonym zasięgu — ale z chirurgiczną dokładnością.
 
-To moc dyskretna i celowa. Absolut nie „emituje" jej bezustannie. Używa jej wtedy, kiedy tego chce — w obronie Bastionu, w negocjacjach politycznych, w rzemiośle wymagającym skupienia, którego nie osiągnie nikt inny.
+To moc dyskretna i celowa. Absolut nie „emituje" jej bezustannie. Używa jej wtedy, kiedy tego chce — w obronie bastionu, w negocjacjach politycznych, w rzemiośle wymagającym skupienia, którego nie osiągnie nikt inny.
 
 **Życie społeczne.** Absolut żyje normalnie. Jest kupcem, kapłanem, rzemieślnikiem, wojownikiem — cokolwiek wybrał. Bastiony prowadzą rejestr i oczekują dyskrecji. Dyskrecja jest normą, nie wyjątkiem.
 
@@ -121,62 +121,6 @@ Poniższe czynniki mogą wywołać skok Splotu. Mogą działać osobno lub razem
 **Edukacja i badania.** Iglica Nazwanych i Akademie Bastionów zajmują się badaniem wyższych progów i opieką nad kandydatami. To nie jest popularna wiedza. To specjalistyczna, zamknięta domena.
 
 **Widoczność.** Osoby na najwyższych progach żyją normalnie — nie są pomnikami ani publicznymi symbolami. Ich istnienie jest powszechnie znane. Ich tożsamość — najczęściej nie.
-
----
-
-## Formy Ostateczne — szczyt ścieżki
-
-Osoby na Absolutcie i Rezonansie, które dostatecznie długo żyły ze swoim Splotem, mogą dojść do punktu, w którym ich relacja z Zerum krystalizuje się w jedną, ostateczną formę. To nie jest tryb walki ani przełącznik — to kulminacja całego życia z Zerum.
-
-### Domena — ustanowienie lokalnej reguły Zerum
-
-Absolut może ustanowić trwałą, lokalną regułę przepływu Zerum zgodną ze swoją Naturą. Nie chodzi tu o naginanie praw fizyki siłą woli — chodzi o to, że użytkownik osiąga tak głęboką spójność ze swoją Naturą, że Zerum w jego otoczeniu zaczyna płynąć według jego wzorca. Wynik jest lokalny, wymierny i specyficzny dla danej osoby.
-
-Przykłady tego, jak może się to przejawiać: w promieniu kilkunastu metrów grawitacja może mieć stały, nielosowy kierunek; czas percepcji może być lokalnie spójny dla wszystkich w obszarze; przepływy informacji mogą być zablokowane lub ukierunkowane. Konkretna reguła zależy od Natury użytkownika i jest z nią ściśle powiązana.
-
-**Jedna Domena na wojownika.** Nikt nie posiada dwóch. Domena to ostateczna, dopracowana tożsamość relacji użytkownika z Zerum — nie zestaw umiejętności, lecz wyraz tego, kim jest. Przez całe życie jest szlifowana, pogłębiana, ale nie rozszerzana na kolejne reguły.
-
-Ustanowienie Domeny jest kosztowne — wymaga od użytkownika trwałego zaangażowania znaczącej części swojej pojemności Zerum. Domena jest aktywna, ale nie bezwarunkowa: działa silniej, gdy użytkownik jest skupiony, i słabiej w stanie wyczerpania.
-
-### Absolutne Uwolnienie — koncentracja w jeden kierunek
-
-Absolut, który doszedł do szczytu swojej drogi, może wejść w stan całkowitej koncentracji — przekierowania niemal całej swojej pojemności Zerum w jeden, precyzyjny wektor działania. To nie jest wzmocnienie bojowe w ogólnym sensie. To rezygnacja z całego wachlarza możliwości na rzecz jednej, bezkompromisowej formy.
-
-**Warunek:** Absolutne Uwolnienie wymaga dedykowanego oręża — przedmiotu precyzyjnie dobranego i nastrojonego pod Splot użytkownika przez wybitnego twórcę. Zwykłe narzędzie lub broń nie utrzyma struktury takiego przepływu; rozpadnie się pod jego ciężarem.
-
-**Koszt:** Aktywacja trwale rezerwuje zdecydowaną większość zgromadzonego Zerum na czas działania. Użytkownik traci dostęp do technik wymagających zróżnicowanego przepływu — staje się jednym, spójnym uderzeniem, a nie elastycznym operatorem.
-
-**Zgodność z drogą Absolutu:** Dominacja = koncentracja w jeden kierunek. Absolutne Uwolnienie jest dokładnie tym — nie jest anomalią, nie jest wybuchem. Jest ostatecznym wyrazem ścieżki Absolutu: wszystko w jedno, precyzyjnie, celowo.
-
----
-
-## Wydrążenie — korupcja Splotu od wewnątrz
-
-Splot jest architekturą — zestawem kanałów, przez które Zerum przepływa zgodnie z Naturą użytkownika. Ta architektura jest wrodzona, ale nie nienaruszalna. Wydrążenie to proces, w którym obca wola zaczyna powoli nadpisywać wzorzec przepływu, zastępując Naturę użytkownika swoją własną.
-
-To nie jest jednorazowy atak. To infekcja.
-
-### Mechanika procesu
-
-Zarodek przenika do Splotu — najczęściej przez długotrwałą ekspozycję na skoncentrowane Zerum Cieni lub przez bezpośredni kontakt z bytami z Głębi w trakcie otwartego starcia. Nie zajmuje Splotu siłą. Zamiast tego zaczyna rezonować obok jego struktury, stopniowo przestrajając kanały na swój rytm.
-
-Ciało pozostaje niezmienione. Moce i Próg użytkownika pozostają niezmienione. Wspomnienia, nawyki, maniery — wszystko zostaje. Tylko kompas: intencje, lojalności, cele — zaczyna cicho dryfować w stronę nadpisującego wzorca. Wydrążony nie wie, że to się dzieje. To nie jest opętanie. To jest przekalibrowanie.
-
-Proces trwa od kilku miesięcy do kilku lat, w zależności od siły Splotu ofiary i intensywności ekspozycji na czynnik zewnętrzny. Im potężniejszy Splot — tym dłużej się opiera, ale też tym trudniej to odwrócić, gdy już postęp jest zaawansowany.
-
-### Wykrywanie
-
-Wydrążonego nie poznasz po zewnętrznych oznakach. Oczy nie świecą. Zachowanie nie jest raptownie inne. Właśnie to czyni go najgroźniejszym rodzajem zagrożenia wewnątrz Bastionów.
-
-Jedyną metodą wykrycia jest bezpośrednie odczytanie Splotu — a konkretnie: wyczucie, że Natura użytkownika zaczyna pachnieć czymś obcym. Doświadczeni praktycy (zazwyczaj od Rozszczepienia wzwyż) opisują to jako subtelne odczucie „zgnilizny" w eterze, nielogiczne zimno w obecności osoby, albo wrażenie, że Zerum rozmówcy płynie w kierunku, który nie pasuje do jego deklarowanej Natury. To nie jest pewna diagnoza — to przesłanka.
-
-Bastiony mają procedury weryfikacyjne dla osób o wysokich Progach i dla wszystkich powracających z wypraw w pobliżu Pęknięć czy obszarów Głębi. Procedury są dyskretne. Nikt otwarcie nie mówi, że są standard.
-
-### Konsekwencje i status zagrożenia
-
-Wydrążony z dostępem do wysokiego Progu to zagrożenie operacyjne pierwszej kategorii. Nie dlatego, że jest silniejszy — ale dlatego, że działa od środka, z pełną wiarygodnością i znajomością środowiska. Bastiony klasyfikują potwierdzony przypadek Wydrążenia jako incydent państwowy.
-
-Czy Wydrążenie jest odwracalne? Nie ma jednoznacznej odpowiedzi. Wczesne stadia — być może. Późne — nie stwierdzono udanej interwencji. To jeden z aktywnych tematów badawczych Iglicy Nazwanych i Akademii Bastionów, omawiany niemal wyłącznie zamkniętymi kanałami.
 
 ---
 

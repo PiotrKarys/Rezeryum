@@ -1,7 +1,7 @@
 # 03 Zniwiarze Cieni
 
 ### 7.3. Żniwiarze Cieni (Kultyści Zaćmienia – Łowcy Klątw)
-*Domena: CIEŃ | Pół-legendarna elita, ostateczna linia obrony przed czystym mrokiem.*
+*Pół-legendarna elita, ostateczna linia obrony przed czystym mrokiem.*
 
 **Charakterystyka i Rola:**
 Jeśli Korzennicy strzegą rzeczywistości przed anomalią w prawach magicznych, Żniwiarze stają twarzą w twarz z czystą, organiczną klątwą Pęknięć. Swoją rolę wypełniają absolutnie z ukrycia, nie rozwieszają żadnych własnych sztandarów, koncentrując się niemal wyłącznie na sferze niematerialnej. Uderzają na cienie i ekstremalne przypadki w Bramach. Ich etyka jest prosta, ale nienaruszalna: paktują z samą śmiercią, aby powstrzymać to, co za nią podąża. Ich motto brzmi: *"Nie służymy światłu ani ciemności – służymy równowadze klątwy."*

@@ -1,7 +1,7 @@
 # 04 Korzennicy
 
 ### 7.4. Korzennicy (Strażnicy Rzeczywistości)
-*Domena: UMYSŁ | Sieć wybitnych jednostek, interweniująca wyłącznie w obliczu zagrożeń skali uniwersalnej.*
+*Sieć wybitnych jednostek, interweniująca wyłącznie w obliczu zagrożeń skali uniwersalnej.*
 
 **Charakterystyka i Rola:**
 Korzennicy nie są armią, zakonem ani urzędową policją. To głęboko zakonspirowana, absolutnie niezależna od jakiejkolwiek politycznej władzy sieć wybitnych umysłów, potężnych taktyków i legendarnych wojowników. Pojawiają się znikąd niczym upiory – wyłącznie wtedy, gdy stabilność całego uniwersum wisi na włosku, a standardowe procedury Bastionów okazują się bezradne. Działają ponad podziałami państwowymi w imię "racjonalnej sprawiedliwości". Jeśli w jednym z miast pojawia się anomalia naginająca prawa Splotu lub zjawisko zagrażające istnieniu całych kontynentów, Korzennicy zajmują się tym chirurgicznie, znikając bez śladu natychmiast po zażegnaniu kryzysu.
