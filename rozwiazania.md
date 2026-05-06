@@ -1,93 +1,66 @@
 # Rozwiązania Krytycznych Niespójności (K1 - K10)
 
-Poniższy dokument stanowi szczegółowe rozwinięcie i analizę decyzji projektowych dotyczących pierwszych dziesięciu punktów z pliku `krytyczne_niespojnosci.md`. Dokument ten jest krokiem pośrednim – służy do zatwierdzenia szczegółów wizji, zanim zmiany zostaną wprowadzone do odpowiednich plików (frakcji, geografii, ras i systemu mocy).
-
 ---
 
 ### **K1: Biologia Aurynn (Rasa vs System Mocy)**
-**Decyzja Użytkownika:** System Mocy jest nadrzędny. Aurynn *nie dysponują* Głosami Pierwszych. Ich wyjątkowość opiera się na konieczności złączenia się z innym bytem w celu przeżycia. Złączenie nie jest negatywne, wymaga obopólnej zgody i zatrzymuje dla nich presję czasu/rozpadu. Nie mają żadnego dostępu do Głosów.
-**Rozwinięcie i Analiza:**
-- **Usunięcie Głosów:** Posiadanie darmowego dostępu do kosmicznej siły (Głosów Pierwszych) łamało balans gry i deprecjonowało unikalność Głosicieli. Całkowite wycięcie tej mechaniki z rasy Aurynn naprawia "cheatowanie" systemu.
-- **Złączenie Symbiotyczne:** Zamiast agresywnego "pożerania" energii, Aurynn będą ewoluować wokół idei zrównoważonej i pożądanej symbiozy. Aurynn to rasa efemeryczna, która odczuwa postępujący "głód bytu" (lub upływ czasu), dopóki nie utworzy silnej Więzi z innym nosicielem Iskry. Zgoda obu stron tworzy niezwykle unikalny duet, w którym Aurynn zyskuje stabilność i zatrzymanie upływu czasu (biologiczna wieczność do momentu rozbicia więzi), a u partnera nie wywołuje to negatywnych skutków mechanicznych czy fabularnych (może oferować wsparcie pasywne w postaci lepszej percepcji czy harmonii Splotu).
-- **Zasieg Edycji:** Należy całkowicie przepisać plik `Rasy/Aurynn/00_Overview.md` (oraz wszelkie pokrewne), usuwając wzmianki o Głosach oraz modyfikując mechanikę Złączenia.
---- wydaje sie mocno OP?
-
+**Diagnoza konfliktu:** Aurynn otrzymali dostęp do efektów przypominających Głosy Pierwszych i darmowe podbijanie progresji partnera, co łamie unikalność Głosów i zasady ewolucji osobistej.
+**Decyzja kanoniczna:** Aurynn **nie mają dostępu do Głosów Pierwszych**. „Złączenie” pozostaje mechaniką przetrwania i stabilizacji Aurynn, ale bez automatycznego awansu progu partnera.
+**Konsekwencje:** Zachowana rzadkość Głosicieli, brak skrótu progresji i utrzymanie roli Aurynn jako rasy symbiotycznej, nie dominującej systemowo.
+**Plan wdrożenia:** `Rasy/Aurynn/00_Overview.md` + rozdziały rasowe Aurynn, `System_Mocy/05_Glosy_Pierwszych.md`, `System_Mocy/03_Progi_Mocy_i_Przebudzenie.md`.
 
 ### **K2: Paradoks Roju u Velmari (Biologia vs System Mocy)**
-**Decyzja Użytkownika:** System Mocy jest nadrzędny. Należy naprawić "Paradoks Roju".
-**Rozwinięcie i Analiza:**
-- **Problem Wydrążenia (Hollowing):** Dotychczas bycie częścią mentalnego ula (Roju Velmari) równało się w Systemie zerowaniu woli (Wydrążeniu) przez nadrzędny byt, co całkowicie kasowało grywalność jednostek i łowców Velmari.
-- **Rozwiązanie:** Rój Velmari zostanie zredefiniowany. Nie jest to już "aktywna tyrania jednej woli", ale raczej biologiczne, pasywne dziedzictwo – rozproszona "Sieć Empatii" (lub Echa Kasty). Każdy Velmari ma swoje własne "ja" i wolną wolę, ale na poziomie podświadomym odczuwa nastroje i echa swoich pobratymców na niewielkie odległości. Zostaną oni odpięci od "Globalnego Splotu Ula", co przywróci im autonomię wymaganą do zostania Łowcami. "Wydrążenie" wciąż pozostaje mrocznym widmem magii, ale bycie Velmari samo z nim nie koreluje.
----super
-
+**Diagnoza konfliktu:** Model globalnego „ula” sugeruje utratę autonomii jednostki i kolizję z definicją Wydrążenia.
+**Decyzja kanoniczna:** Rój Velmari retconujemy do **sieci echa/emocji** bez nadpisywania woli. Każdy Velmari zachowuje pełną podmiotowość.
+**Konsekwencje:** Velmari pozostają grywalni jako niezależne postacie; Wydrążenie wraca do roli skażenia, a nie cechy gatunkowej.
+**Plan wdrożenia:** `Rasy/Velmari/00_Overview.md`, `Rasy/Velmari/04_Kultura_i_Spoleczenstwo.md`, odniesienia w `System_Mocy/06_Wiezi_i_Symbiozy.md`.
 
 ### **K3: Wampiryzm Prosterzy na Pustkowiach**
-**Decyzja Użytkownika:** Pozostawiono wolną rękę do dopracowania. 
-**Rozwinięcie i Analiza:**
-- **Problem:** Prosterzy, wchłaniając pasywnie Zerum z powietrza, byliby skazani na natychmiastową śmierć uduszeniową w Głębokiej Dziczy (gdzie darmowego Zerum według zapisków nie ma).
-- **Rozwiązanie:** Usuniemy mechanikę "pasywnego wampiryzmu strefowego". Zamiast tego, wampiryzm dzikich form (lub mutacji) opiera się na bezpośrednim transferze z płynów, nosicieli lub materii biologicznej (fizyczne "wypijanie/absorbowanie" przetworzonego Zerum z krwiobiegu ofiar, bestii lub Kamieni Esencji). Ich mechanika biologiczna wymaga *zapasu* – Prosterzy działają jak "zbiorniki", ładując się w przyczółkach lub przed wyprawą i powoli zużywając zgromadzone zapasy. W Dziczy nie wysysają powietrza, tylko czerpią z rezerw we własnym ciele lub z bestii, na które polują.
----wydaje sie ok
+**Diagnoza konfliktu:** Pasywne „oddychanie Zerum z powietrza” koliduje z kanonem obszarów, gdzie wolnego Zerum praktycznie nie ma.
+**Decyzja kanoniczna:** Prosterzy nie żywią się pasywnie atmosferą; korzystają z **rezerw biologicznych** i transferu z materii/istot nasyconych Zerum.
+**Konsekwencje:** Spójna logistyka ekspedycji i brak automatycznej śmierci Prosterzy poza bastionami.
+**Plan wdrożenia:** `Rasy/Prosterzy/02_Charakterystyka_i_Zdolnosci.md`, `Geografia_i_Bastiony/Gleboka_Dzicz/*`, `System_Mocy/01_Zerum_i_Splot.md`.
 
-
-### **K4: Zamknięcie Ekonomii (Krystaliczne Pola vs Pęknięcia)**
-**Decyzja Użytkownika:** Działki i przedpola z pewnego rodzaju zasobami zostają w "Średniej Dziczy", a postacie mogą żyć poza Murem. Riffy/Bramy (prawdziwe generatory Kamieni Esencji) ukazywać się będą od Średniej Dziczy wzwyż (a nie w samym centrum osiedli ludzkich).
-**Rozwinięcie i Analiza:**
-- Ziemie przy Bastionach i przedpolach to obszary na wpół zbadane – można tam uprawiać standardowe rolne surowce i prowadzić ludzkie osadnictwo, lecz "Krystaliczne Pola pełne darmowego Zerum" będą traktowane wyłącznie jako skąpe złoża o niskiej wartości, przydatne do zasilania żarówki, ale rynkowo niemal bezwartościowe.
-- Prawdziwe Kamienie Esencji (te trzymające gospodarki, za które Bastiony walczą) rodzą się *wyłącznie* we wnętrzach aktywnych Bram/Pęknięć, które otwierają się dopiero na skraju Średniej i Głębokiej Dziczy. Dzięki temu najemnicy (Gracze) zawsze będą mieli motywację do wymarszu z domów na niebezpieczne rubieże.
----wydaje sie ok
-
+### **K4: Krystaliczne Pola vs ekonomia Pęknięć**
+**Diagnoza konfliktu:** „Darmowe pola esencji” dewaluują sens wypraw do Bram i gospodarkę opartą na ryzyku.
+**Decyzja kanoniczna:** Powierzchniowe kryształy mają **niską jakość użytkową**; strategiczne Kamienie Esencji pochodzą głównie z aktywnych Bram/Pęknięć.
+**Konsekwencje:** Utrzymany ciężar ekonomii rajdowej i motywacja do wypraw na rubieże.
+**Plan wdrożenia:** `Geografia_i_Bastiony/Gleboka_Dzicz/02_Krystaliczne_Pustynie.md`, `System_Mocy/07_Iskrzyki_i_Kamienie_Esencji.md`, `System_Mocy/08_Bramy.md`.
 
 ### **K5: Fałszywe Natury vs System Mocy**
-**Decyzja Użytkownika:** System Mocy (Natury Zerum) jest bezwzględnie nadrzędny. Wszystkie pliki ras do poprawki.
-**Rozwinięcie i Analiza:**
-- Pozbywamy się z praw świata słów takich jak: "Runa", "Krew" czy "Biomasa" w ujęciu systemowym. Magia na całym świecie opiera się na 8 sztywnych Naturach (np. Rdza, Czas, Pryzmat). 
-- Jeśli jakaś cywilizacja (np. Tharumi lub Prosterzy) używa magii przypominającej władanie Krwią, to fabularnie wynika to ze specyficznego kontrolowania ukierunkowanego np. Czasu czy Rozkładu (Rdzy) komórek, ale w twardej mechanice gry gracz *zawsze* deklaruje użycie jednej ze standardowych 8 Natur twardego kanonu. Dopilnuje to stabilności balansu i walk.
-- Pliki opisowe poszczególnych ras zostaną wyczyszczone z łamania tych ograniczeń.
----zgadzam sie
+**Diagnoza konfliktu:** Opisy rasowe używają terminów „Krew/Biomasa/Runa” jako osobnych Natur, poza zamkniętym kanonem.
+**Decyzja kanoniczna:** Obowiązuje wyłącznie zestaw legalnych Natur z `System_Mocy/02_Natury_Zerum.md`; pozostałe nazwy są metaforą stylu, nie kategorią mechaniczną.
+**Konsekwencje:** Jedna matryca balansu dla wszystkich ras i klas, bez „dzikich” wyjątków systemowych.
+**Plan wdrożenia:** `Rasy/00_index.md`, `Rasy/Tharumi/*`, `Rasy/Prosterzy/*`, `Rasy/Velmari/*`, `System_Mocy/02_Natury_Zerum.md`.
 
+### **K6: Tożsamość Korzenników (Frakcje vs Geografia)**
+**Diagnoza konfliktu:** Korzennicy są opisywani raz jako siła metapoziomu, raz jako lokalna bojówka uliczna.
+**Decyzja kanoniczna:** Korzennicy pozostają **frakcją interwencji wysokiego rzędu**; lokalne bunty przypisujemy innym grupom.
+**Konsekwencje:** Naprawa hierarchii zagrożeń i wiarygodności skali świata.
+**Plan wdrożenia:** `Frakcje_i_Zakony/04_Korzennicy.md`, czyszczenie kolizji w `Geografia_i_Bastiony/Bastiony/*`.
 
-### **K6: Zakon Korzenników vs Geografia Bastionów**
-**Decyzja Użytkownika:** Pliki Frakcji (Korzennicy jako wyższy zakon anielsko-strażniczy) są nadrzędne. Ujęcie Geograficzne musi zostać zmienione.
-**Rozwinięcie i Analiza:**
-- W plikach Geografii musimy gruntownie usunąć wszelkie wzmianki o Korzennikach jako tanich "wyrzutkach/buntownikach" tłumionych na ulicach przez milicję.
-- Korzennicy to absolutna Kosmiczna Potęga, zjawiająca się wyłącznie wtedy, gdy równowaga fizyczna planety i apogeum zmian tego wymaga. Zastąpimy w opisie geograficznym tych "ulicznych buntowników" np. uciskaną subkulturą cywilną lub odłamem kultystów (lub frakcją Ostrzy Biedy, o ile ma to logiczny sens).
----wydaje sie ok 
+### **K7: Wędrujące miasta a stacjonarne Pęknięcia**
+**Diagnoza konfliktu:** Mobilne bastiony opisano tak, jakby były niezależne od stacjonarnych źródeł strategicznych zasobów.
+**Decyzja kanoniczna:** Miasta nomadyczne działają jako **systemy orbitalne/szlakowe** między stałymi strefami pozysku i wymiany.
+**Konsekwencje:** Zachowana fantazja mobilnych miast bez złamania ekonomii Pęknięć.
+**Plan wdrożenia:** `Geografia_i_Bastiony/Bastiony/Czerszawa/*`, `Geografia_i_Bastiony/00_Index.md`, `System_Mocy/08_Bramy.md`.
 
-### **K7: Problem Wędrujących Miast i Stacjonarnych Bram**
-**Decyzja Użytkownika:** Poruszające się miasta i przedpola muszą zostać na mapie w sposób dostosowany.
-**Rozwinięcie i Analiza:**
-- **Dostosowanie Logiki:** Skoro Bramy (źrodła zasobów dla cywilizacji) to obiekty absolutnie stacjonarne, "Wielkie Poruszające się Bastiony" (Nomadzi na Archaionach) nie mogą żyć *całkowicie* poza orbitą Pęknięć.
-- **Rozwiązanie Mechaniczne:** Zostaną one zaprojektowane jako cykliczne "Platformy Zbieracze" bądź Lotniskowce. Metropolie na ogromnych bestiach / maszynach krążą wytyczonymi szlakami "Od Pęknięcia do Pęknięcia". Zatrzymują się na kilka dekad nad wielką, trwalszą lokacją rzuconą w świecie, eksplorują ją wysyłając łowców (kotwicząc system przesyłu), i kiedy pożywka drastycznie słabnie, miasto zrywa zakotwiczenie i rusza w wieloletni marsz ku następnemu sygnałowi.
----wydaje sie ok
+### **K8: Status ras reliktowych (Zylmari/Nythrai/Pyrrhani)**
+**Diagnoza konfliktu:** Część dokumentów nazywa rasy wymarłymi, inne pokazują je jako aktywne populacje pełnej skali.
+**Decyzja kanoniczna:** Zgodnie z kierunkiem redakcyjnym: rasy reliktowe **istnieją jako rzadkie mniejszości**, bez dominujących państw i bez masowej obecności.
+**Konsekwencje:** Zachowana unikalność i grywalna obecność bez burzenia demografii rdzenia świata.
+**Plan wdrożenia:** `World_Decisions.md`, `Rasy/00_index.md`, odpowiednie wzmianki w `Geografia_i_Bastiony/*` i `Frakcje_i_Zakony/07_Gildie_Handlowe.md`.
 
-### **K8: Szczepienie "Wymarłych" Ras Zylmari, Nythrai, Pyrrhani**
-**Decyzja Użytkownika:** "Do dostosowania"
-**Rozwinięcie i Analiza:**
-- **Problem:** Floty rynkowe handlują z martwymi rasami (Pyrrhani), a Zylmari budują stacjonarne podwodne miasta, choć wedle `Master Indexu Ras` gatunki te stanowią wykoszoną plagę mutantów czy bytów bez formy na wymarciu.
-- **Dostosowanie:** Te 3 gatunki otrzymają oficjalny status **Pół-Wymarłych (Reliktowych)**. Cywilizacyjne dominia zostały obrócone w pył, główna tkanka zmutowała i wymarła, ale nieliczne garstki biologicznych autochtonów zachowały poczytalność i formę w ekstremalnie odizolowanych rezerwatach (Poniżej oceanu, czy głęboko w izolowanych lejach). Spotkanie Zylmari w stolicy na rynku to ewenement, a ich giełdowe imperia z rąk historii przeszły na poziom hermetycznych "enklaw rzemieślniczych", z którymi handel polega niemal na mistyce i rzadkiej dyplomacji, nie na masówkach z tysiącem handlarzy obcej rasy.
----inaczej chce. wole zeby te gatunki istnialy w mniejszosci wewnatrz tych co pisalem w podstawie. maja byc rzadkie ale istniec byc podobne ale unikalne.
+### **K9: Dodruk monet vs gospodarka kruszcu i esencji**
+**Diagnoza konfliktu:** Magiczny dodruk monet przez gildie niszczy sens podaży, ryzyka i handlu strategicznego.
+**Decyzja kanoniczna:** Złoto pozostaje surowcem fizycznym; Kamienie Esencji są walutą/surowcem wysokiej rangi. Brak legalnego „dodruku magicznego”.
+**Konsekwencje:** Stabilna ekonomia wielowarstwowa (codzienna vs strategiczna) i wiarygodna polityka cen.
+**Plan wdrożenia:** `Frakcje_i_Zakony/07_Gildie_Handlowe.md`, `System_Mocy/07_Iskrzyki_i_Kamienie_Esencji.md`, `World_Decisions.md`.
 
-### **K9: Dodruk Pieniądza vs Ekonomia Złota/Kamieni**
-**Decyzja Użytkownika:** Złoto pozostaje materiałem do codziennego użytku (fizycznie produkowanym), Kamienie Esencji jako wyższa i rzadsza waluta.
-**Rozwinięcie i Analiza:**
-- "Magiczny dodruk monet w skarbcach Gildii z oparów Splotu" zostanie całkowicie wycięty z plików Frakcji.
-- Złoto odzyskuje status fizycznie wydobywanego i trudem bitego kruszcu. Służy do opłacania usług rzemieślników, czynszów, życia codziennego.
-- Kamienie Esencji stają się surowcem strategicznym na poziomie wyższym. Używa się ich do ulepszeń ekwipunku, podtrzymania życia w Bastionach i potężnych transakcji handlowych z arystokracją lub mrocznym rynkiem gildyjnym. Zapobiega to magii dewaluacji pieniądza (inflacji czarów).
-
-### **K10: Bunt Iskrzyków w rasach Vrakai i Ghorran**
-**Decyzja Użytkownika:** System Mocy ma rację bytu chroniąc Iskrzyki jako obiektywy bez ciała. Vrakai/Ghorran muszą zostać zmienione.
-**Rozwinięcie i Analiza:**
-- **Problem:** Rasy przypisały sobie Iskrzyki jako "fizyczne noszące towary pszczoły" lub "ogromne, bojowe byty konne", co łamało nietykalną zmysłowo-lekką definicję Iskrzyka (radaru magii).
-- **Usunięcie i Zamiennik:** Pliki frakcji/ras dostaną poprawki. Orwellowskie byty fizyczne, rasy zrzucają na karby np. naturalnej tresury zwierzyny łownej (Zwykłe bestie oswojone w dziczy) LUB (jeśli mowa o umiejętności Iskrzyka) Iskrzyk u tych ras ma po prostu doskonały zasięg pasywny i lepsze mapowanie terenu. Zero chwytania liny czy bycia żywym gończym tatusiem w walce. Iskrzyk to w całym uniwersum przezroczyste Echo Umysłu w przestrzeni, nic więcej.
-
----
-### Podsumowanie i Prośba do Użytkownika:
-Powyższe rozwiązania zostały przygotowane w oparciu o Twoje wytyczne (K1-K10). Zgadzają się z obranym kursem stabilizacji *Systemu Mocy* jako kanonicznego kręgosłupa i zachowują poetykę świata, jednocześnie spinając mechaniczną logikę (ekonomia, klasy postaci).
-
-Daj mi znać w konwersacji powrotnej:
-1. **Czy akceptujesz wszystkie powyższe wyklarowania na ich podstawie?** 
-2. **Czy rzucać następne punkty partiami (jeśli uznasz format 10 punktów za czytelny, możesz dorzucić kolejne)?**
-3. Czy zaktualizować od razu pliki główne dla tej dziesiątki?
+### **K10: Iskrzyki w Vrakai i Ghorran**
+**Diagnoza konfliktu:** Iskrzyki otrzymały cechy fizycznych chowańców/transportowców, sprzeczne z ich definicją bezcielesnego echa percepcji.
+**Decyzja kanoniczna:** Iskrzyk pozostaje bytem bezmasowym; funkcje transportowe/bojowe realizują narzędzia, zwierzęta lub techniki użytkowników.
+**Konsekwencje:** Spójność mechaniki zwiadu i brak obejścia systemu udźwigu/ekwipunku.
+**Plan wdrożenia:** `Rasy/Vrakai/02_Charakterystyka_i_Zdolnosci.md`, `Rasy/Ghorran/02_Charakterystyka_i_Zdolnosci.md`, `System_Mocy/07_Iskrzyki_i_Kamienie_Esencji.md`.
 
 # Rozwiązania Krytycznych Niespójności (K11 - K20)
 
