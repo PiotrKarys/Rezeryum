@@ -4,7 +4,15 @@
 
 Czerszawa jest Miastem-Nomadą. Nie posiada własnego, stałego Pęknięcia ani pełnej infrastruktury wydobywczej typowej dla Bastionów pierścieniowych.
 
-Jej przetrwanie opiera się na ruchu szlakowym. Archaion niesie miasto między stałymi strefami pozysku, punktami wymiany i zewnętrznymi Bramami kontrolowanymi przez inne Bastiony, gildie albo placówki graniczne.
+Jej przetrwanie opiera się na ruchu szlakowym. Archaion niesie miasto między stałymi strefami pozysku, punktami wymiany i zewnętrznymi Bramami kontrolowanymi przez inne Bastiony, gildie albo placówki graniczne. Mieszkańcy nie kierują Archaionem. Obserwują jego wieloletnie pętle i planują gospodarkę wokół miejsc, do których powraca.
+
+## Archaion
+
+Archaion Czerszawy jest ogromnym, żywym bytem widocznym z wielu kilometrów. Porusza się bardzo wolno. Każdy etap jego marszu jest mozolny i trudny do przyspieszenia.
+
+Grzbiet i boki stworzenia obrosły warstwami kamienia na dziesiątki metrów w głąb. Na tych warstwach opiera się miasto. Archaion żyje, ale jego pancerz nie daje się zranić dostępnymi metodami. Nie jest narzędziem oblężniczym ani bronią polową. Jego wartość polega na tym, że jest chodzącą podstawą miasta.
+
+Nie wiadomo, dlaczego wybiera konkretne miejsca postoju. W kulturze Czerszawy przyjmuje się, że niesie mieszkańców tam, gdzie powinni dotrzeć. W praktyce jego postoje często wypadają blisko punktów potrzebnych do przetrwania: wody, żywności, napraw, informacji i dostępu do Kamieni Esencji.
 
 ## Model zasobowy
 
@@ -21,7 +29,7 @@ Podstawowe źródła zaopatrzenia:
 
 Mobilność Czerszawy daje przewagę handlową i ewakuacyjną, ale nie znosi zależności od stacjonarnych Pęknięć.
 
-Miasto działa w cyklach zapasu. Długie zejście ze szlaku ogranicza oświetlenie, pracę warsztatów, leczenie alchemiczne i zdolność obrony. Rada karawanowa musi planować trasę według zużycia Kamieni Esencji, dostępności wody, stanu Archaiona i ryzyka politycznego na kolejnych punktach wymiany.
+Miasto działa w cyklach zapasu. Długie opóźnienie względem znanej pętli ogranicza oświetlenie, pracę warsztatów, leczenie alchemiczne i zdolność obrony. Rada karawanowa nie wybiera celu marszu, ale planuje zapasy według przewidywanego tempa Archaiona, dostępności wody, stanu platform i ryzyka politycznego na kolejnych punktach wymiany.
 
 ## Nota kanoniczna K7
 

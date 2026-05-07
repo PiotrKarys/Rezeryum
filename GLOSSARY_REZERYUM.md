@@ -5,7 +5,7 @@
 |-------|-----|-------------------|-----------------------|-------------------|------------------|--------------------|
 | Absolut | system_mocy | Próg Mocy | System_Mocy/03_Progi_Mocy_i_Przebudzenie.md | 4.7 Przebudzenie i Progi | canon | Piąty, najwyższy próg mocy |
 | Absolutne Uwolnienie | system_mocy | Manifestacja | System_Mocy/03_Progi_Mocy_i_Przebudzenie.md | 4.8 Formy Ostateczne | canon | Zespojenie Zbrojmistrza i Splotu |
-| Archaion | istota | Bestia Pociągowa | Geografia_i_Bastiony/Bastiony/Czerszawa/01_Miasto_Nomada.md | Opis Czerszawy | wip | Żywy nosiciel miasta-nomady |
+| Archaion | istota | Nośnik Miasta-Nomady | Geografia_i_Bastiony/Bastiony/Czerszawa/01_Miasto_Nomada.md | Opis Czerszawy | wip | Ogromny, niekierowany byt niosący Czerszawę po wieloletniej pętli |
 | Archipelagi Księżycowe | lokacja | Dzicz | Geografia_i_Bastiony/Gleboka_Dzicz/03_Archipelagi_Ksiezycowe.md | Biom Głęboki | wip | Anomalie grawitacji |
 | Aurynn | rasa | Niebiańscy | Rasy/Aurynn/00_Overview.md | Drzewo Ewolucyjne | wip | Posiadają mechanikę Złączenia |
 | Bagna Mglistej Głębi | lokacja | Biom Naturalny | Geografia_i_Bastiony/Biomy_Naturalne/05_Bagna_Mglistej_Glebi.md | Biomy | wip | Główne siedlisko roju Velmari |

@@ -17,7 +17,7 @@
 ## 🩸 Relacje, Frakcje i Esencja (Zerum)
 9. W przeciwieństwie do stolic takich jak Głębomir czy Kornak, Czerszawa nie ma "Pęknięcia" (Bramy) i sztucznie wbudowanych "Żył Czystych". Skąd organizacje zapewniają pulsujące serce obozowiska w regularne, ożywcze dawki rzadkiego Zerum do zasilania pieców i latarni?
 10. Obozowisko cyklicznie zaopatruje najmniejsze wiochy obrzeży (zgodnie ze Szlakiem Nomada). Jaka waluta nieoczywista płynie w dłonie wysłanników Czerszawy za fatygę ryzykowania na Głębokiej Dziczy — krew, tajemnice surowców, a może tania siła robocza ze strachu?
-11. Która konkretnie Gildia Przemytników czy po cichu powołana Rada Wielu Ras ukrywa za kulisami ostateczny patent na sterowanie instynktami bestii i narzuca wściekłość na rywali psujących "sól koncesji"?
+11. Która gildia, rada albo grupa Kartografów ma największy wpływ na interpretowanie zachowań Archaiona, skoro nikt nie potrafi nim sterować ani zmusić go do zmiany trasy?
 12. Nawet w centrum galopującego zepsucia handlarzy karawan musi być cnota. Jaki towar na pancerzu Archaiona jest absolutnie i brutalnie wyklęty (np. magiczne stymulanty burzące zachowanie jucznego olbrzyma), narażając na natychmiastową banicję z grzbietu bestii?
 
 ## 🌑 Zagrożenia i Tajemnice
