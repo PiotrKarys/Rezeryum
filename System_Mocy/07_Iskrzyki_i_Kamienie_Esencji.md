@@ -40,6 +40,8 @@ Mechanika Iskrzyków reaguje ściśle na zawarcie głębokich Więzi (Fuzji Symb
 **Kamienie Esencji** to skrystalizowane, fizyczne narządy magiczne pulsujące żywym Zerum, stanowiące ostateczny, uniwersalny łup tego świata.
 Występują one **wyłącznie wewnątrz ustabilizowanych Pęknięć (Dungeonów)** — w organizmach "bossów" lub potężnych strażników danego wymiaru. Zwykła, drapieżna fauna zamieszkująca Głęboką Dzicz ich nie posiada, co nadaje polowaniom wewnątrz Pęknięć tak niesamowite i niebezpieczne znaczenie ekonomiczne.
 
+**Zasada pochodzenia surowca:** Kryształy pozyskiwane poza Bramami (np. z Krystalicznych Pustyń) mogą być wysokiej jakości, ale ich wydobycie jest nieregularne i skrajnie ryzykowne logistycznie. Kamienie Esencji z rdzeni Pęknięć pozostają bardziej przewidywalnym filarem planowania strategicznego Bastionów.
+
 **Zasada Harvestingu (Lootowanie i Proch):**
 Boss pęknięcia po utracie życia nie zostawia trwałych, zwykłych szczątków. Gdy wprawny myśliwy zanurza ręce w jego tułowiu i brutalnie wycina tlący się magią Kamień Esencji – dochodzi do zerwania balansu materii u bestii. W ułamku sekundy po odłączeniu "rdzenia", olbrzymie ciało potwora sypie się w niematerialny pył i czarny proch rozpływający się po posadzce.
 Dlatego myśliwi stosują **Harvesting (Skórowanie)**: przed wycięciem upragnionego Kamienia, rzemieślnicy muszą fizycznie odciąć toporem trofea (wielkie kły, pancerze, ostrza kostne, ostre łuski). Te odłupane fragmenty, oddzielone zaistniałym chirurgicznym dystansem od serca, materializują się, podczas gdy reszta zwierza "prochnieje" wraz z wydobyciem klejnotu.

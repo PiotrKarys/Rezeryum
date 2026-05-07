@@ -3,7 +3,6 @@
 ## Relacje
 
 - Najlepsi sojusznicy: **Prosterzy** (wspólny kryzys tożsamości), **Drask** (kowalstwo + Runy = syneria)
-- Napięcia z: **Milczący Imion** (Tharumi ignorują normalne zasady Imion — ich „Imię" to Runa, nie wzór duszy)
 
 ## Bastiony
 

@@ -84,6 +84,8 @@ Ekspedycje do Pęknięć Absolutu/Rezonansu są de facto nigdy nieformalnie orga
 
 ## Rola Pęknięć w Ekonomii Świata
 
+W praktyce oznacza to, że nawet bogate złoża powierzchniowe (np. Krystaliczne Pustynie) nie zastępują pełnej ekonomii wypraw: problemem bywa nie jakość, lecz dostępność, odległość od cywilizacji i ekstremalne ryzyko wydobycia.
+
 Kamienie Esencji wydobywane z Pęknięć to nie tylko waluta — to biologiczny metabolizm cywilizacji. Bez nich:
 
 - Bastiony nie mają czym zasilać oświetlenia, murów i systemów wieżowych.

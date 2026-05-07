@@ -6,6 +6,12 @@
 **Charakterystyka i Rola:**
 Korzennicy nie są armią, zakonem ani urzędową policją. To głęboko zakonspirowana, absolutnie niezależna od jakiejkolwiek politycznej władzy sieć wybitnych umysłów, potężnych taktyków i legendarnych wojowników. Pojawiają się znikąd niczym upiory – wyłącznie wtedy, gdy stabilność całego uniwersum wisi na włosku, a standardowe procedury Bastionów okazują się bezradne. Działają ponad podziałami państwowymi w imię "racjonalnej sprawiedliwości". Jeśli w jednym z miast pojawia się anomalia naginająca prawa Splotu lub zjawisko zagrażające istnieniu całych kontynentów, Korzennicy zajmują się tym chirurgicznie, znikając bez śladu natychmiast po zażegnaniu kryzysu.
 
+
+**Zakres Interwencji (kanon):**
+- Korzennicy aktywują się wyłącznie przy zagrożeniach wysokiego rzędu (anomaliach systemowych, skażeniach kontynentalnych, kryzysach stabilności Splotu).
+- Nie pełnią roli lokalnej policji, najemników ani „bojówki ulicznej”.
+- Zamieszki, bunty dzielnicowe i przemoc polityczna pozostają domeną lokalnych frakcji oraz służb Bastionów.
+
 **Wewnętrzna Struktura i Rekrutacja:**
 Organizacja pozbawiona jest klasycznej piramidy dowodzenia. Przybiera formę *Konsorcjum* – zdecentralizowanej pajęczyny kontaktów "Oka Bez Imienia". Członkostwa nie można kupić, ani się o nie ubiegać. Korzennicy sami selekcjonują przyszłych kandydatów, obserwując ich latami, poszukując nie tylko nadludzkiej siły, ale przede wszystkim zimnej logiki, bezwzględnej lojalności wobec samego świata i nieugiętego racjonalizmu. Każdy z członków może być pozornie zwykłym kowalem, zakonnym bibliotekarzem lub łowcą na Kresach, nosząc w ukryciu znak swojej przynależności.
 

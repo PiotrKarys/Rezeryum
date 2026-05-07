@@ -8,3 +8,5 @@ Jakiekolwiek wyprawy w Głęboką Dzicz wymagają żelaznego doświadczenia, pot
 - [03_Archipelagi_Ksiezycowe.md](03_Archipelagi_Ksiezycowe.md)
 - [04_Odwrocone_Lasy.md](04_Odwrocone_Lasy.md)
 - [05_Morza_Pamieci.md](05_Morza_Pamieci.md)
+W praktyce oznacza to, że przetrwanie ekspedycji zależy od zapasów, nośników i punktów transferu Zerum; wyjątek stanowią wyspecjalizowane linie (np. Prosterzy), które używają masek z kamyczkiem Zerum do kontrolowanej inhalacji i zyskują przewagę w strefach wysokiego nasycenia.
+

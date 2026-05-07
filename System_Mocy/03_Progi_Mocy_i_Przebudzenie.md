@@ -36,6 +36,12 @@ To ostatni Próg wspólny dla wszystkich. Dalej ścieżki się rozchodzą.
 
 ---
 
+## Niezbywalność progresji
+
+Awans przez Progi jest **osobistą transformacją Splotu** i nie może zostać przekazany, „nadany” ani skopiowany przez relację społeczną, rytuał partnerski czy więź rasową.
+
+Mechaniki symbiotyczne (np. Złączenia) mogą poprawić stabilizację, koordynację i przeżywalność, ale **nie podnoszą automatycznie Progu Mocy drugiej osoby**.
+
 ## Punkt bifurkacji
 
 Po Rozszczepieniu Splot stabilizuje się — i nie pyta o zdanie.

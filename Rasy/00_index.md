@@ -37,6 +37,8 @@ Ewolucja to twardy proces biologiczny opłacany krwią w Bramach:
 
 ---
 
+> **Nota kanoniczna (K5):** Określenia takie jak „Krew/Wampiryzm”, „Biomasa/Rój” i „Runa” opisują styl kultury/manifestacji, a nie odrębne Natury mechaniczne. Obowiązuje zamknięty katalog Natur z `System_Mocy/02_Natury_Zerum.md`.
+
 ## 4. Spis Ras — Drzewo Ewolucyjne
 
 **RODZINA: ŻYWIOŁOWI** *(Skała, rośliny, ogień, woda)*
@@ -56,16 +58,16 @@ Ewolucja to twardy proces biologiczny opłacany krwią w Bramach:
 |---|-----------|------------------------------|----------|---------------------|
 | 5 | Thrakkor | `thrakkor.md` | ★ 4 | Cień |
 | 6 | Voryth | `voryth.md` | ★ 4 | Czas |
-| 7 | Prosterzy | `prosterzy.md` | 3 | Różne (Krew/Wampiryzm)|
+| 7 | Prosterzy | `prosterzy.md` | 3 | Cień / Przepływ (mix) |
 | 8 | Myrrhan | `myrrhan.md` | 3 | Różne |
-| 9 | Velmari | `velmari.md` | 3 | Biomasa / Rój |
+| 9 | Velmari | `velmari.md` | 3 | Przepływ / Kwarc / Rdza (mix) |
 | 10| Orvhan | `orvhan.md` | 3 | Cień |
 
 **RODZINA: CYWILIZOWANI** *(Struktura, rygor, organizatorzy stalaktytowych miast)*
 | # | Rasa | Plik docelowy | Ewolucje | Natura Zerum |
 |---|----------|----------------------------|----------|--------------|
 | 11| Raashari | `raashari.md` | ★ 4 | Różne |
-| 12| Tharumi | `tharumi.md` | 3 | Runa |
+| 12| Tharumi | `tharumi.md` | 3 | Pryzmat / Kwarc (mix) |
 
 **RODZINA: NIEBIAŃSCY** *(Światło, bezwzględna boska inżynieria)*
 | # | Rasa | Plik docelowy | Ewolucje | Natura Zerum |

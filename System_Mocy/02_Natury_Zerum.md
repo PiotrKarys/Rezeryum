@@ -20,6 +20,8 @@ Każdy Przebudzony przejawia wyłącznie jedną z ośmiu fundamentalnych, wrodzo
 | **KWARC** | Strukturalny (Modyfikator/Pole Walki) |
 
 ---
+
+
 ## 2. CHEMIA BOJOWA – PODSTAWY
 
 Współczesne walki potężnych formacji bojowych nie opierają się na prostym uderzaniu magią, lecz na wirtuozerii układów kombinacyjnych – chemii wielożywiołowej. 

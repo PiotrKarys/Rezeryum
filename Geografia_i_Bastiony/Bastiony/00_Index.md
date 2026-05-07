@@ -60,7 +60,7 @@ Kruchy układ świata bezustannie drży w zbrojnych posadach. Pomiędzy Bastiona
 - **Spory terytorialne** — Granice biologicznych Przedpoli naturalnie i nieprzewidywalnie falują w naturze. Ostre kwestie tego, pod czyimi prawami znajduje się nowo obrodzona, suta Równina Ziaren pomiędzy metropoliami, potrafią oblać się bez ostrzeżenia posoką potężnych batalii bojowych.
 - **Rywalizacja ekonomiczna** — Wściekłe Gildie Handlowe w różnych, potężnych Bastionach toczą ukryte wojny wewnątrz samej koniunktury, likwidując bez skrupułów nowo wyłaniające się domy cechowe, pragnące łamać wybitne monopole surowców rynkowych.
 - **Napięcia rasowe** — Im bardziej miasto staje się hermetycznie nacjonalistyczne, tym surowiej są marginalizowane poszczególne rasy skazane na getta u uboższych pierścieni, co prowadzi w końcu w cykliku lat do otwartej rewolucji o godność z rzezią na dzielnicowych.
-- **Kwestia Korzenników** — Radykalny ruch bojowników domagających się upadków rządzących rad miejskich dzieli glob. Otwarty i pacyfistyczny *Splecin* toleruje ich teorie jako głos akademicki, natomiast militarne potęgi takie jak *Głębomir* i *Kornak* natychmiastowo posyłają akolitów Nurtu pod topór jako wywrotowców reżimu, tłumiąc rebelię w zalążku.
+- **Kwestia Korzenników** — Korzennicy nie są lokalnym ruchem rebelianckim ani siłą ulicznych przewrotów. To ponadpaństwowa formacja interwencji wysokiego rzędu, aktywowana wyłącznie przy zagrożeniach skali systemowej; lokalne bunty i przemoc polityczna przypisuje się innym frakcjom.
 
 ## Struktura Plików
 - [Czerszawa/](Czerszawa/)
