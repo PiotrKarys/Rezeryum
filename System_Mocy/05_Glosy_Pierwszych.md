@@ -22,6 +22,8 @@ Słowa tego języka nie posiadają standardowego słownika. Nie da się ich wyku
 
 ---
 
+> **Doprecyzowanie kanoniczne:** Aurynn, niezależnie od praktyk symbiotycznych (Złączenie), **nie uzyskują dostępu do Głosów Pierwszych**. Złączenie nie zastępuje warunków biologicznych i akustycznych wymaganych do artykulacji Głosu.
+
 ## Kto Może Artykułować Głosy
 
 Zdolność do artykułacji Głosów Pierwszych nie jest umiejętnością, którą można kupić, wyćwiczyć na manekinach ani przeczytać z instrukcji. Jest ona nierozerwalnie powiązana z **gęstością i czystością Splotu** osobnika, a zatem z jego biologicznym Progiem Mocy.
