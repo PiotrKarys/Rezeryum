@@ -1,4 +1,4 @@
-# Rezyrium — Globalny Prompt Refaktoryzacyjny dla Agenta AI
+# Rezyrium — Global
 
 ## 1. Rola Agenta
 
