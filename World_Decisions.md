@@ -243,7 +243,8 @@ Istnieje 10 frakcji, m.in.:
 - Ostrza Biedy
 
 ## Układ Władzy
-- Bastiony są samowystarczalne.
+- Stałe Bastiony dążą do samowystarczalności przez kontrolę Pęknięć, pól i infrastruktury miejskiej.
+- Miasta-Nomadzi nie są samowystarczalne energetycznie. Funkcjonują jako ruchome węzły szlakowe zależne od cyklicznego dostępu do Bram, punktów wymiany i zapasów.
 - Istnieje handel.
 - Istnieją nierówności ekonomiczne.
 - Społeczeństwo oficjalnie wierzy, że porządku pilnują Latarnicy.

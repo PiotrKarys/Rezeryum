@@ -11,6 +11,8 @@ Pomiędzy poszarpanymi rozpadlinami tętnią **normalne krajobrazy**: cieniste l
 - **Leje po upadłych Koronach** — niezwykle rozległe kratery uderzeniowe, wokół których zagęszcza się najbogatsze naturalne Zerum. To właśnie w ich centrach wznoszono wybitne Bastiony.
 - **Złamany horyzont** — optyczna, potężna anomalia dobrze widoczna z dalekich dystansów, która wygina perspektywę globu, jednak nie utrudnia zbytnio rutynowego i codziennego życia.
 
+**Nota kanoniczna K7:** Mobilne Bastiony nie zastępują stałych Pęknięć. Miasta-Nomadzi funkcjonują jako systemy szlakowe między strefami pozysku, wymiany i postoju. Ich mobilność zwiększa zasięg handlu, ale nie tworzy niezależnego źródła Kamieni Esencji.
+
 Klasyczne i fizyczne prawa natury w miarę rozważnie i niezmiennie funkcjonują w szerokich, pasach zwanych **Splotami** (strefach naturalnej równowagi). Prawdziwa i skrajna niestabilność przestrzenna objawia się z brutalną siłą wyłącznie w strefach bliskich dzikim Pęknięciom oraz w bezkresnym, tajemniczym sercu Głębokiej Dziczy.
 
 ### 3.2. Przedpola (Strefy Wokół Bastionów)

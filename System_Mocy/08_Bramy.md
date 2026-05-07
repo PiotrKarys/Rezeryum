@@ -95,6 +95,18 @@ Kamienie Esencji wydobywane z Pęknięć to nie tylko waluta — to biologiczny 
 
 Łowcy, którzy wchodzą w Bramy, nie robią tego z idealizmu. Robią to dlatego, że jest to jedyne zajęcie, za które płaci się proporcjonalnie do ryzyka. I które świat musi utrzymywać, żeby funkcjonować.
 
+### Miasta-Nomadzi a Bramy
+
+Mobilne Bastiony nie posiadają równoważnika stałego Pęknięcia na własnym grzbiecie ani platformie. Nie generują strategicznych Kamieni Esencji samodzielnie.
+
+Ich gospodarka działa przez dostęp pośredni:
+- kupno Kamieni Esencji od Bastionów ze stałymi Bramami;
+- udział kontraktowy w wyprawach do kontrolowanych Pęknięć;
+- skup łupów od niezależnych Łowców;
+- transport ludzi, map i zaopatrzenia między odizolowanymi punktami.
+
+Z tego powodu miasta takie jak Czerszawa są ruchomymi węzłami obiegu, a nie niezależnymi źródłami surowca. Ich trasy muszą cyklicznie wracać do punktów wymiany lub stref pozysku.
+
 ---
 
 ## Nowe Pęknięcia
