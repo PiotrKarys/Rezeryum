@@ -6,4 +6,4 @@
 
 ---
 
-Mroczny biologiczny i kolektywny triumf głębinowego życia. Velmari powstali w zakamarkach najbardziej wilgotnych terenów podziemnych. Prezentują nadświadomość ula i grzybni — pojedynczy przedstawiciele nie stanowią bytu niezależnego, ale funkcjonują jako wtyczki neuronalne całego zmutowanego ekosystemu symbiozy, zdolni opanczerzyć swą obecność żywym, chitynowym rynsztunkiem na komendy roju.
+Mroczny biologiczny triumf głębinowego życia. Velmari powstali w zakamarkach najbardziej wilgotnych terenów podziemnych. Łączy ich **sieć echa i emocji** oparta o feromony, grzybnię i rezonans Zerum — silna, ale nie nadrzędna wobec jednostki. Każdy Velmari zachowuje własną wolę, tożsamość i odpowiedzialność za decyzje, a wspólna sieć służy koordynacji, nie kontroli umysłów.

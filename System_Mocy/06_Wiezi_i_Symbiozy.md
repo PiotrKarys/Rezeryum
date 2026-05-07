@@ -113,6 +113,8 @@ Przysięga to dobrowolna **amputacja w zamian za ostrze**. I ciało doskonale o 
 
 ### 4.12. Więzi Fuzji Symbiotycznej — Architektura Podwójna
 
+> **Nota kanoniczna (Velmari):** „Rój” Velmari opisuje sieć echa i emocji wspierającą koordynację grupową. Nie nadpisuje woli jednostki i nie stanowi odmiany Wydrążenia.
+
 Podczas gdy Przysięgi są aktem absolutnie solipsystycznym i rozgrywającym się we własnym zamkniętym ciele, istnieje w Rezeryum drugi, drastycznie różniący się typ kontraktu ewolucyjnego: **Więzi Fuzji Symbiotycznej**.
 
 Zamiast zamykać kanały, Fuzja polega na otwarciu własnego Splotu i permanentnym splątaniu jego architektury z Splotem innej istoty. To otwarte skrzyżowanie żywego Zerum między Przebudzonym a świadomym partnerem, udomowionym zwierzęciem (np. Krwawym Jastrzębiem, cieniującym wilkiem) bądž w rzadkich przypadkach dawnym reliktem o samoświadomym jądrze.
