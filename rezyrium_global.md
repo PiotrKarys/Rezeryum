@@ -1,6 +1,6 @@
 # Rezyrium — Global
 
-## 1. Rola Agenta
+## 1. Rola 
 
 Działasz jako redaktor techniczny i architekt systemowy świata „Rezyrium”.
 
