@@ -32,7 +32,7 @@
 | Grom | system_mocy | Natura Zerum | System_Mocy/02_Natury_Zerum.md | Podział archetypów | canon | Rola Bojowa Inicjująca |
 | Góry Kręgowe | lokacja | Biom Naturalny | Geografia_i_Bastiony/Biomy_Naturalne/04_Gory_Kregowe.md | Klasyfikacja biomów | wip | Dominacja Drasków i kopalni |
 | Iglica Nazwanych | frakcja | Uczelnia Bojowa | Frakcje_i_Zakony/09_Iglica_Nazwanych.md | Akademia Mistrzów | canon | Szkoła szaleńczej sztuki i mocy |
-| Iskrzyki | istota | Narząd Duszy (Radar) | System_Mocy/07_Iskrzyki_i_Kamienie_Esencji.md | Fizjologia magii | wip | Świetlny kompan każdego Przebudzonego |
+| Iskrzyki | istota | Interfejs Splotu (UI) | System_Mocy/07_Iskrzyki_i_Kamienie_Esencji.md | Fizjologia magii | canon | Bezcielesny interfejs: mapa, backpack, kodeks, zadania, historia, komunikacja i automatyzacje; bez walki, buffów i transportu |
 | Jasne Progi | bastion | Otwarty Front | Geografia_i_Bastiony/Bastiony/Jasne_Progi/01_Otwarta_Architektura.md | Typy Bastionów | wip | Miejsce mediacji, dyplomacji, zjazdów |
 | Jeziora Splotu | lokacja | Biom Naturalny | Geografia_i_Bastiony/Biomy_Naturalne/03_Jeziora_Splotu.md | Kategoria rejonów | wip | Pod władaniem morskiej odnogi Shenn |
 | Kamienie Esencji | artefakt | Łupy / Waluta | System_Mocy/07_Iskrzyki_i_Kamienie_Esencji.md | Ekonomia Pęknięć | wip | Wycina się je z Bossów |
@@ -112,7 +112,9 @@
 | Zerum | system_mocy | Energia Pierwotna | System_Mocy/01_Zerum_i_Splot.md | Podstawy Fizyki | canon | Paliwo kreujące świat, magię jak i bogactwa naturalne |
 | Ziarna Przemiany | artefakt | Zniekształcenie Botaniczne | System_Mocy/06_Wiezi_i_Symbiozy.md | Ewenementy | wip | Odblokowują niesamowitą ewolucję ale palą własne nadane Imię |
 | Złoto (Kruszec) | artefakt | Monety Rezeryum | Frakcje_i_Zakony/07_Gildie_Handlowe.md | Ekonomia świata | canon | Występują tuż po kryształach by opłacić tanie, naturalne rzemiosło |
-| Zylmari | rasa | Ewolucyjna | Rasy/00_index.md | Asymilacje | wip | Morska lina asymilacyjnie wymarła pod rządami rzecznymi Shenn |
+| Zylmari | rasa | Reliktowa (linia akwatyczna) | Rasy/00_index.md | Asymilacje | canon | Historycznie wchłonięci przez struktury Shenn; nadal obecni jako rzadsza odmiana (zwykle ok. 80/20), postrzegani jako bardziej unikalni bez przewagi mechanicznej |
+| Nythrai | rasa | Reliktowa (linia chitynowa) | Rasy/00_index.md | Asymilacje | canon | Wchłonięci przez cywilizację Velmari jako rzadsza linia Kasty Chitynowej; status reliktowy, nie wymarły |
+| Pyrrhani | rasa | Reliktowa (linia żaru) | Rasy/00_index.md | Asymilacje | canon | Wchłonięci przez struktury Drasków; przetrwali jako rzadsze rody Linii Żaru (często 70/30 lub 80/20), z aurą wyjątkowości bez bonusu systemowego |
 | Żar | system_mocy | Natura Zerum | System_Mocy/02_Natury_Zerum.md | Podział archetypów | canon | Archetyp / Rola Destrukcji |
 | Żarnogród | bastion | Moloch Pierścieniowy | Geografia_i_Bastiony/Bastiony/Zarnogrod/01_Architektura_i_Profil.md | Kategoria | wip | Światła stolica kupiecka, wroga wobec prostoty z biednej otoczki |
 | Żniwiarze Cieni | frakcja | Straż Niewidzialna | Frakcje_i_Zakony/03_Zniwiarze_Cieni.md | Opis jednostek | canon | Chronią równowagę usuwając najcięższe upiory i echa zarodków bez chwały blasku |

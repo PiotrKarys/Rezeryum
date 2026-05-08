@@ -6,4 +6,8 @@
 
 ## Iskrzyk
 
-Zwinne nocne bestie, utarte z lejącego się i tętniącego ciepłem magicznego Zerum: wilczki, lisy zwiadowcze, bezgłośnie polujące żbiki, kuny wydzielające światło czy zmyślne borsuki pędzące na tyłach wroga i roznoszące informacje do ucha łowcy.
+Zwinne nocne bestie utkane z lejącego się i tętniącego ciepłem Zerum: wilczki, lisy zwiadowcze, bezgłośnie polujące żbiki czy kuny wydzielające światło. Projekcje te nie biegają fizycznie po polu bitwy i nie "roznoszą" meldunków jako samodzielne stworzenia.
+
+Ich rola jest percepcyjna: wzmacniają orientację Ghorrana, wyczuwanie zagrożeń i synchronizację łowcy z własnym Splotem.
+
+W praktyce działają jak interfejs Splotu (mapa, backpack, zadania, historia, komunikacja i automatyzacje), a nie jak fizyczny towarzysz. Nie walczą, nie buffują i nie ingerują w cudze Iskrzyki.

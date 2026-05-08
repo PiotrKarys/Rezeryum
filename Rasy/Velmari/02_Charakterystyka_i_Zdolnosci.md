@@ -7,3 +7,5 @@
 ## Iskrzyk
 
 U Kasty Zarodnikowej: małe gąbczaste fruwające chmury pyłu, zwiadowcze lśniące bio-sowy z mchu, a u Kasty Chitynowej: stado świetlików modliszkowatych, żukowate symbionty i małe insekty esencji lecące w szyku ula.
+
+Są to projekcje interfejsu Splotu, nie autonomiczne jednostki roju. Iskrzyk Velmari wspiera informację i koordynację (mapa, backpack, zadania, komunikacja), ale nie walczy ani nie przenosi fizycznych zasobów.

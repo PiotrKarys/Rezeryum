@@ -8,3 +8,5 @@
 ## Iskrzyk
 
 Iskrzyki Tharumi to stworzenia z aktywnych Run: metaliczno-świetliste żuki z napisami na pancerzu, ptaki z runicznymi wzorami na skrzydłach, psy-golemiki z oczami z Zerum.
+
+Pomimo runicznej oprawy to nadal interfejs Splotu, a nie autonomiczny konstrukt. Iskrzyk Tharumi nie uczestniczy w walce, nie buffuje i nie działa jako transport.

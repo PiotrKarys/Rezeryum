@@ -8,3 +8,5 @@
 ## Iskrzyk
 
 Iskrzyki Voryth to stworzenia „mrugające" w czasie: motyle, które znikają i pojawiają się w innym miejscu; miniaturowe zegary-żuki; ryby pływające w powietrzu, których ruch jest lekko opóźniony.
+
+To wizualny język interfejsu Splotu, nie realne istoty operacyjne. Iskrzyk Voryth służy percepcji i zarządzaniu informacją (mapa, backpack, historia, zadania, komunikacja), bez walki i transportu.

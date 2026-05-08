@@ -8,3 +8,5 @@
 ## Iskrzyk
 
 Iskrzyki Thrakkor to ciemne, niepokojące stworzenia: czarne koty z oczami jak węgle, kruki z cieniowymi skrzydłami, małe kozice z miniaturowymi rogami. Piękne, ale budzące niepokój u postronnych.
+
+Nawet u Thrakkor Iskrzyk pozostaje narzędziem interfejsu Splotu (percepcja, mapa, backpack, zadania, komunikacja), bez prawa do walki, buffów i fizycznej ingerencji w świat.

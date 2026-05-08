@@ -8,3 +8,5 @@
 ## Iskrzyk
 
 Iskrzyki Aurynn to stworzenia dźwiękowe: ptaki, których śpiew rezonuje z Zerum, wibrio-motyle drgające jak struny, miniaturowe delfiny „pływające" w powietrzu z harmonijnym buczeniem.
+
+Niezależnie od formy wizualnej, Iskrzyk Aurynn pozostaje bezcielesnym interfejsem Splotu: służy do percepcji, mapy, backpacka, kodeksu, historii, zadań, komunikacji i automatyzacji. Nie walczy, nie buffuje i nie transportuje fizycznie przedmiotów.

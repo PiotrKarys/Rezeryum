@@ -128,6 +128,8 @@ Poniższe czynniki mogą wywołać skok Splotu. Mogą działać osobno lub razem
 
 **Widoczność.** Osoby na najwyższych progach żyją normalnie — nie są pomnikami ani publicznymi symbolami. Ich istnienie jest powszechnie znane. Ich tożsamość — najczęściej nie.
 
+**Progi a Tiery Bram.** Tier Pęknięcia klasyfikuje środowisko i ryzyko instancji, nie „wymagany numer progu” człowieka. Progi opisują transformację biologiczną jednostki; Tiery opisują warunki operacyjne terenu. Dlatego Bastiony planują wyprawy przez role i synergię drużyny, a nie przez prostą regułę „Tier = Próg”.
+
 ---
 
 ## Formy Ostateczne — szczyt ścieżki

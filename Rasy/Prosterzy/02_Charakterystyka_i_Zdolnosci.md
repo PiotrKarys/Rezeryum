@@ -10,3 +10,5 @@
 ## Iskrzyk
 
 Iskrzyki Prosterów to nocne, niepokojące stworzenia: nietoperze z oczami jak rubiny, czarne koty z pionowymi źrenicami, bezgłośne sowy o bladym upierzeniu.
+
+To jednak wciąż bezmasowy interfejs Splotu, nie polujący chowaniec. Iskrzyk Prosterów służy informacji i organizacji (mapa, backpack, zadania, komunikacja), bez funkcji bojowych i transportowych.

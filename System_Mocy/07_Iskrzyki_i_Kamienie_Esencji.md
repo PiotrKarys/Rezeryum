@@ -13,19 +13,29 @@ Iskrzyk nie myśli, nie decyduje i nie posiada własnej woli. Wszelkie wrażenia
 - Iskrzyk **nie uczestniczy w walce** i pozostaje całkowicie nietykalny. 
 - Brak możliwości fizycznej interakcji oznacza, że Iskrzyk nie może: blokować ciosów, atakować, przyjmować obrażeń, absorbować energii ani umierać zamiast właściciela. Miecze czy potężne fale Zerum po prostu przez niego przenikają.
 
-**Stabilizacja Formy Wizualnej:**
-Kształt Iskrzyka często rezonuje z Naturą właściciela (np. ptak ułamany z cienia, zarys geometryczny ze światła). Jednakże **forma stabilizuje się przy pierwszej trwałej projekcji i pozostaje stała**. Kolejne Progi Mocy zwiększają jedynie stabilność, zasięg i klarowność projekcji, ale Iskrzyk nie „ewoluuje”, nie zyskuje opancerzenia ani nie rośnie. Nie jest wizualnym wskaźnikiem poziomu potęgi.
+**Stabilizacja Formy Wizualnej i Personalizacja:**
+Kształt Iskrzyka zwykle startowo rezonuje z rasą i Naturą właściciela (np. ptak ułamany z cienia, zarys geometryczny ze światła), ale nie jest to wyrok na całe życie. Forma może być personalizowana i rekodowana wizualnie przez wyspecjalizowanych kalibratorów Splotu, bez zmiany natury samego Iskrzyka.
+
+Zmiana wyglądu nie daje przewagi bojowej ani wzrostu statystyk. To konfiguracja interfejsu — estetyka i ergonomia percepcyjna pod użytkownika.
 
 **Stan Projekcji i Wyczerpanie:**
 - Iskrzyk może zostać **wizualnie wygaszony** na życzenie, jeśli użytkownik potrafi kontrolować swoje Zerum. Ukryty Iskrzyk (brak projekcji) nadal funkcjonuje jako uśpione narzędzie percepcyjne Splotu.
 - Gdy u Przebudzonego poziom Zerum spada dramatycznie do dna, projekcja Iskrzyka słabnie i zanika. Ponowna projekcja jest możliwa dopiero po regeneracji paliwa w Splocie.
 - Śmierć biologiczna organizmu natychmiastowo i trwale wygasza projekcję.
 
-**Funkcje (jako właściwości Splotu, realizowane przez Iskrzyka):**
-Rolą tej projekcji jest rozszerzenie fizjologii Przebudzonego o warstwę analityczną Zerum:
-1. **Funkcja Percepcyjna:** Znacznie poszerza radar użytkownika o zdolność wyczuwania przepływów Zerum, stężeń nienaturalnych anomalii oraz precyzyjnego wytyczania szlaków nawigacyjnych w przestrzeniach zaburzonych.
-2. **Kieszeń Przestrzenna:** Zdolność połykania mniejszych i specyficznych fragmentów materii w drobnym depozycie esencji, służąc jako doraźny środek transportu krytycznych łupów.
-3. **Mosty Komunikacyjne:** Może pełnić funkcję przekaźnika percepcyjnego, tworząc tymczasową bezprzewodową łączność mentalną między właścicielami na określonych dystansach, o ile przepływ na to pozwala.
+**Funkcje Iskrzyka (Interfejs Splotu):**
+Iskrzyk pełni rolę diegetycznego interfejsu użytkownika, osadzonego w świecie jako narząd informacyjny Splotu:
+1. **Mapa i Nawigacja:** Odczyt szlaków, anomalii i punktów orientacyjnych; wsparcie prowadzenia trasy.
+2. **Backpack Splotu:** Zarządzanie magazynem przedmiotów przypisanych do użytkownika (oddzielnie od aktywnie noszonego wyposażenia).
+3. **Kodeks i Historia:** Wgląd w zebrane rekordy wiedzy, zdarzenia, notatki i log działań.
+4. **Zadania i Priorytety:** Rejestr celów, kroków i statusów działań.
+5. **Informacje i Alerty:** Kontekstowe komunikaty o stanie otoczenia i procesów użytkownika.
+6. **Komunikacja na Odległość:** Kanał wymiany wiadomości/informacji między użytkownikami.
+7. **Automatyzacja Czynności Rutynowych:** Sortowanie, tagowanie i porządkowanie zawartości backpacka według reguł użytkownika.
+8. **Obsługa Handlu Zdalnego:** Autoryzowane wysłanie partii zbędnych przedmiotów do sprzedaży przez infrastrukturę handlową.
+
+**Nota kanoniczna (K10):**
+Iskrzyk pozostaje bytem bezmasowym i nietykalnym. Nie walczy, nie zapewnia buffów, nie jest środkiem transportu i nie ingeruje w cudze Sploty ani cudze Iskrzyki. Operacje magazynowe i handlowe realizuje jako interfejs informacji oraz autoryzacji procesów, nie jako fizyczny nośnik towaru.
 
 **Wpływ Więzi i Symbiozy na Iskrzyki:**
 Mechanika Iskrzyków reaguje ściśle na zawarcie głębokich Więzi (Fuzji Symbiotycznej):
@@ -45,6 +55,13 @@ Występują one **wyłącznie wewnątrz ustabilizowanych Pęknięć (Dungeonów)
 **Zasada Harvestingu (Lootowanie i Proch):**
 Boss pęknięcia po utracie życia nie zostawia trwałych, zwykłych szczątków. Gdy wprawny myśliwy zanurza ręce w jego tułowiu i brutalnie wycina tlący się magią Kamień Esencji – dochodzi do zerwania balansu materii u bestii. W ułamku sekundy po odłączeniu "rdzenia", olbrzymie ciało potwora sypie się w niematerialny pył i czarny proch rozpływający się po posadzce.
 Dlatego myśliwi stosują **Harvesting (Skórowanie)**: przed wycięciem upragnionego Kamienia, rzemieślnicy muszą fizycznie odciąć toporem trofea (wielkie kły, pancerze, ostrza kostne, ostre łuski). Te odłupane fragmenty, oddzielone zaistniałym chirurgicznym dystansem od serca, materializują się, podczas gdy reszta zwierza "prochnieje" wraz z wydobyciem klejnotu.
+
+Kamień Esencji nie jest automatycznym dropem po śmierci Strażnika. Wydobycie wymaga świadomego działania zespołu i decyzji o momencie cięcia rdzenia w ramach aktywnego pobytu w instancji.
+
+**Zasada nieodnawialności rdzenia (K12):**
+Kamień Esencji pozyskany z danego Strażnika rdzenia jest jednorazowy. Rdzeń tej samej istoty nie odrasta po czasie. Ewentualna późniejsza kondensacja strefy tworzy nowy byt i nowy układ zagrożeń.
+
+Jeśli drużyna opuści Bramę po zabiciu Strażnika bez wydobycia rdzenia, instancja resetuje się w osłabionej konfiguracji (zwykle niższy Tier), a niewydobyty rdzeń przepada wraz z poprzednim cyklem.
 
 **Klasyfikacja Kamieni powiązana z Progami Mocy (3.0):**
 

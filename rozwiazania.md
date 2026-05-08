@@ -3,63 +3,43 @@
 ---
 
 ### **K1: Biologia Aurynn (Rasa vs System Mocy)**
-**Diagnoza konfliktu:** Aurynn otrzymali dostęp do efektów przypominających Głosy Pierwszych i darmowe podbijanie progresji partnera, co łamie unikalność Głosów i zasady ewolucji osobistej.
-**Decyzja kanoniczna:** Aurynn **nie mają dostępu do Głosów Pierwszych**. „Złączenie” pozostaje mechaniką przetrwania i stabilizacji Aurynn, ale bez automatycznego awansu progu partnera.
-**Konsekwencje:** Zachowana rzadkość Głosicieli, brak skrótu progresji i utrzymanie roli Aurynn jako rasy symbiotycznej, nie dominującej systemowo.
+**Jak to teraz dokładnie jest:** Aurynn nie mają dostępu do Głosów Pierwszych. „Złączenie” to mechanika stabilizacji/przetrwania Aurynn bez automatycznego awansu progu partnera.
 **Plan wdrożenia:** `Rasy/Aurynn/00_Overview.md` + rozdziały rasowe Aurynn, `System_Mocy/05_Glosy_Pierwszych.md`, `System_Mocy/03_Progi_Mocy_i_Przebudzenie.md`.
 
 ### **K2: Paradoks Roju u Velmari (Biologia vs System Mocy)**
-**Diagnoza konfliktu:** Model globalnego „ula” sugeruje utratę autonomii jednostki i kolizję z definicją Wydrążenia.
-**Decyzja kanoniczna:** Rój Velmari retconujemy do **sieci echa/emocji** bez nadpisywania woli. Każdy Velmari zachowuje pełną podmiotowość.
-**Konsekwencje:** Velmari pozostają grywalni jako niezależne postacie; Wydrążenie wraca do roli skażenia, a nie cechy gatunkowej.
+**Jak to teraz dokładnie jest:** Rój Velmari to sieć echa/emocji bez nadpisywania woli. Każdy Velmari zachowuje pełną autonomię.
 **Plan wdrożenia:** `Rasy/Velmari/00_Overview.md`, `Rasy/Velmari/04_Kultura_i_Spoleczenstwo.md`, odniesienia w `System_Mocy/06_Wiezi_i_Symbiozy.md`.
 
 ### **K3: Wampiryzm Prosterzy na Pustkowiach**
-**Diagnoza konfliktu:** Pasywne „oddychanie Zerum z powietrza” koliduje z kanonem obszarów, gdzie wolnego Zerum praktycznie nie ma.
-**Decyzja kanoniczna:** Prosterzy nie żywią się pasywnie atmosferą; korzystają z **rezerw biologicznych** i transferu z materii/istot nasyconych Zerum.
-**Konsekwencje:** Spójna logistyka ekspedycji i brak automatycznej śmierci Prosterzy poza bastionami.
+**Jak to teraz dokładnie jest:** Prosterzy nie żywią się pasywnie Zerum z atmosfery; działają na rezerwach biologicznych i transferze z materii/istot nasyconych Zerum.
 **Plan wdrożenia:** `Rasy/Prosterzy/02_Charakterystyka_i_Zdolnosci.md`, `Geografia_i_Bastiony/Gleboka_Dzicz/*`, `System_Mocy/01_Zerum_i_Splot.md`.
 
 ### **K4: Krystaliczne Pola vs ekonomia Pęknięć**
-**Diagnoza konfliktu:** „Darmowe pola esencji” dewaluują sens wypraw do Bram i gospodarkę opartą na ryzyku.
-**Decyzja kanoniczna:** Powierzchniowe kryształy mają **niską jakość użytkową**; strategiczne Kamienie Esencji pochodzą głównie z aktywnych Bram/Pęknięć.
-**Konsekwencje:** Utrzymany ciężar ekonomii rajdowej i motywacja do wypraw na rubieże.
+**Jak to teraz dokładnie jest:** Powierzchniowe kryształy mają niską jakość użytkową; strategiczne Kamienie Esencji pochodzą głównie z aktywnych Bram/Pęknięć.
 **Plan wdrożenia:** `Geografia_i_Bastiony/Gleboka_Dzicz/02_Krystaliczne_Pustynie.md`, `System_Mocy/07_Iskrzyki_i_Kamienie_Esencji.md`, `System_Mocy/08_Bramy.md`.
 
 ### **K5: Fałszywe Natury vs System Mocy**
-**Diagnoza konfliktu:** Opisy rasowe używają terminów „Krew/Biomasa/Runa” jako osobnych Natur, poza zamkniętym kanonem.
-**Decyzja kanoniczna:** Obowiązuje wyłącznie zestaw legalnych Natur z `System_Mocy/02_Natury_Zerum.md`; pozostałe nazwy są metaforą stylu, nie kategorią mechaniczną.
-**Konsekwencje:** Jedna matryca balansu dla wszystkich ras i klas, bez „dzikich” wyjątków systemowych.
+**Jak to teraz dokładnie jest:** Obowiązuje wyłącznie katalog Natur z `System_Mocy/02_Natury_Zerum.md`; określenia „Krew/Biomasa/Runa” są metaforą stylu, nie osobną mechaniką.
 **Plan wdrożenia:** `Rasy/00_index.md`, `Rasy/Tharumi/*`, `Rasy/Prosterzy/*`, `Rasy/Velmari/*`, `System_Mocy/02_Natury_Zerum.md`.
 
 ### **K6: Tożsamość Korzenników (Frakcje vs Geografia)**
-**Diagnoza konfliktu:** Korzennicy są opisywani raz jako siła metapoziomu, raz jako lokalna bojówka uliczna.
-**Decyzja kanoniczna:** Korzennicy pozostają **frakcją interwencji wysokiego rzędu**; lokalne bunty przypisujemy innym grupom.
-**Konsekwencje:** Naprawa hierarchii zagrożeń i wiarygodności skali świata.
+**Jak to teraz dokładnie jest:** Korzennicy pozostają frakcją interwencji wysokiego rzędu; lokalne bunty nie należą do ich standardowego profilu.
 **Plan wdrożenia:** `Frakcje_i_Zakony/04_Korzennicy.md`, czyszczenie kolizji w `Geografia_i_Bastiony/Bastiony/*`.
 
 ### **K7: Wędrujące miasta a stacjonarne Pęknięcia**
-**Diagnoza konfliktu:** Mobilne bastiony opisano tak, jakby były niezależne od stacjonarnych źródeł strategicznych zasobów.
-**Decyzja kanoniczna:** Miasta nomadyczne działają jako **systemy orbitalne/szlakowe** między stałymi strefami pozysku i wymiany.
-**Konsekwencje:** Zachowana fantazja mobilnych miast bez złamania ekonomii Pęknięć.
+**Jak to teraz dokładnie jest:** Miasta nomadyczne funkcjonują jako systemy szlakowe między stałymi strefami pozysku i wymiany, a nie jako niezależne źródła strategicznych zasobów.
 **Plan wdrożenia:** `Geografia_i_Bastiony/Bastiony/Czerszawa/*`, `Geografia_i_Bastiony/00_Index.md`, `System_Mocy/08_Bramy.md`.
 
 ### **K8: Status ras reliktowych (Zylmari/Nythrai/Pyrrhani)**
-**Diagnoza konfliktu:** Część dokumentów nazywa rasy wymarłymi, inne pokazują je jako aktywne populacje pełnej skali.
-**Decyzja kanoniczna:** Zgodnie z kierunkiem redakcyjnym: rasy reliktowe **istnieją jako rzadkie mniejszości**, bez dominujących państw i bez masowej obecności.
-**Konsekwencje:** Zachowana unikalność i grywalna obecność bez burzenia demografii rdzenia świata.
+**Jak to teraz dokładnie jest:** Rasy reliktowe istnieją jako rzadsze linie wchłonięte przez większe populacje (np. 80/20 lub 70/30), są postrzegane jako bardziej unikalne, ale bez przewagi mechanicznej.
 **Plan wdrożenia:** `World_Decisions.md`, `Rasy/00_index.md`, odpowiednie wzmianki w `Geografia_i_Bastiony/*` i `Frakcje_i_Zakony/07_Gildie_Handlowe.md`.
 
 ### **K9: Dodruk monet vs gospodarka kruszcu i esencji**
-**Diagnoza konfliktu:** Magiczny dodruk monet przez gildie niszczy sens podaży, ryzyka i handlu strategicznego.
-**Decyzja kanoniczna:** Złoto pozostaje surowcem fizycznym; Kamienie Esencji są walutą/surowcem wysokiej rangi. Brak legalnego „dodruku magicznego”.
-**Konsekwencje:** Stabilna ekonomia wielowarstwowa (codzienna vs strategiczna) i wiarygodna polityka cen.
+**Jak to teraz dokładnie jest:** Złoto to fizyczny kruszec (wydobycie/przetop/mennice), bez legalnego magicznego dodruku; Kamienie Esencji pozostają strategicznym surowcem/walutą wysokiej rangi.
 **Plan wdrożenia:** `Frakcje_i_Zakony/07_Gildie_Handlowe.md`, `System_Mocy/07_Iskrzyki_i_Kamienie_Esencji.md`, `World_Decisions.md`.
 
 ### **K10: Iskrzyki w Vrakai i Ghorran**
-**Diagnoza konfliktu:** Iskrzyki otrzymały cechy fizycznych chowańców/transportowców, sprzeczne z ich definicją bezcielesnego echa percepcji.
-**Decyzja kanoniczna:** Iskrzyk pozostaje bytem bezmasowym; funkcje transportowe/bojowe realizują narzędzia, zwierzęta lub techniki użytkowników.
-**Konsekwencje:** Spójność mechaniki zwiadu i brak obejścia systemu udźwigu/ekwipunku.
+**Jak to teraz dokładnie jest:** Iskrzyk jest bezmasowym, nietykalnym interfejsem Splotu (mapa, backpack, kodeks, historia, zadania, komunikacja, automatyzacje). Nie walczy, nie buffuje, nie transportuje fizycznie i nie ingeruje w cudze Iskrzyki.
 **Plan wdrożenia:** `Rasy/Vrakai/02_Charakterystyka_i_Zdolnosci.md`, `Rasy/Ghorran/02_Charakterystyka_i_Zdolnosci.md`, `System_Mocy/07_Iskrzyki_i_Kamienie_Esencji.md`.
 
 # Rozwiązania Krytycznych Niespójności (K11 - K20)
@@ -67,34 +47,24 @@
 ---
 
 ### **K11: Mechanika Lochu (Tiery Bram vs Progi Mocy)**
-**Diagnoza konfliktu:** Opis Bram wymusza stabilny „próg 4” jako standard rajdowy, podczas gdy `03_Progi_Mocy.md` prowadzi postęp inaczej i nie traktuje tego progu jako długiego etapu docelowego. Powstaje luka między progresją postaci a skalą instancji.
-**Decyzja kanoniczna:** Utrzymujemy pięciostopniową skalę zagrożenia Bram, ale **Tier Bram nie jest tożsamy z progiem biologicznym postaci**. Tier opisuje środowisko i gęstość zagrożeń, a nie „wymagany numer progu” gracza.
-**Konsekwencje:** Balans wraca do drużyn mieszanych (role wsparcia/awangardy), bez psucia ścieżek ewolucji ras. System Mocy pozostaje nadrzędny i nie wymusza sztucznego „progu parkingowego”.
-**Plan wdrożenia:** `System_Mocy/08_Bramy.md` (sekcja tierów), `System_Mocy/03_Progi_Mocy_i_Przebudzenie.md` (doprecyzowanie relacji „próg vs środowisko”), wzmianki w `Frakcje_i_Zakony/06_Kartografowie_Otchlani.md`.
+**Jak to teraz dokładnie jest:** Tiery Bram są ośmiostopniowe i opisują środowisko/ryzyko instancji, a Progi Mocy opisują rozwój biologiczny postaci — to dwa osobne wektory.
+**Plan wdrożenia:** `System_Mocy/08_Bramy.md` (sekcja tierów), `System_Mocy/03_Progi_Mocy_i_Przebudzenie.md` (relacja „próg vs środowisko”), wzmianki w `Frakcje_i_Zakony/06_Kartografowie_Otchlani.md`.
 
 ### **K12: Looting Pęknięć (regeneracja rdzeni bossów)**
-**Diagnoza konfliktu:** Kartografowie opisują odrastanie rdzeni/serca, co niszczy sens harvestingu i ekonomii Kamieni Esencji.
-**Decyzja kanoniczna:** Po śmierci bossa rdzeń **nie odrasta**; może wystąpić jedynie wtórna kondensacja szczątkowa strefy po długim czasie, bez przywrócenia tej samej istoty.
-**Konsekwencje:** Utrzymana rzadkość łupu, sens zwiadu i ryzyka wypraw. Brak „farmy nieskończonej” z jednego ciała.
+**Jak to teraz dokładnie jest:** Po śmierci bossa rdzeń nie odrasta; Kamień Esencji nie dropi automatycznie i wymaga ręcznego harvestingu. Po wyjściu grupy bez wydobycia rdzenia Brama resetuje się słabiej, a niewydobyty rdzeń przepada.
 **Plan wdrożenia:** `Frakcje_i_Zakony/06_Kartografowie_Otchlani.md`, `System_Mocy/08_Bramy.md`, `System_Mocy/07_Iskrzyki_i_Kamienie_Esencji.md`.
 
 ### **K13: Ostrza Biedy a operacje w Riftach**
-**Diagnoza konfliktu:** Frakcja uliczna została opisana jak podmiot swobodnie kontrolujący byty z Riftów, co przeczy skali zagrożeń Bram.
-**Decyzja kanoniczna:** Ostrza Biedy **nie kontrolują** istot z Riftów; wykorzystują wyłącznie sabotaż szlaków, dezinformację i logistykę na obrzeżach.
-**Konsekwencje:** Frakcja pozostaje groźna społecznie, ale nie narusza metafizyki Pęknięć ani hierarchii zagrożeń.
+**Jak to teraz dokładnie jest:** Ostrza Biedy nie kontrolują bytów z Riftów; działają przez sabotaż, dezinformację i zakłócanie logistyki na obrzeżach stref Bram.
 **Plan wdrożenia:** `Frakcje_i_Zakony/05_Ostrza_Biedy.md`, doprecyzowanie granic działań w `System_Mocy/08_Bramy.md`.
 
 ### **K14: Iskrzyk i „kieszeń przestrzenna”**
-**Diagnoza konfliktu:** Jeden plik jednocześnie odbiera Iskrzykowi masę i daje mu zdolność noszenia przedmiotów.
-**Decyzja kanoniczna:** Iskrzyk pozostaje bytem bezmasowym; „kieszeń” retconujemy na **technikę użytkownika** (mikrodepozyty, linki, zasobniki przy uprzęży), którą Iskrzyk tylko nawiguje.
-**Konsekwencje:** Bez łamania udźwigu TTRPG i bez tworzenia „latającego muła”. Spójność ze słownikiem systemowym.
+**Jak to teraz dokładnie jest:** „Kieszeń” działa jako Backpack Splotu (warstwa zarządzania zasobami i procesami), bez fizycznego udźwigu Iskrzyka.
 **Plan wdrożenia:** `System_Mocy/07_Iskrzyki_i_Kamienie_Esencji.md`, korekty ras korzystających z tej umiejętności.
 
 ### **K15: Latarnicy i zabezpieczanie nowych Pęknięć**
-**Diagnoza konfliktu:** Latarnicy (formacja porządkowa) dostali kompetencje głębokich operacji ekspedycyjnych poza ich profilem.
-**Decyzja kanoniczna:** Latarnicy zabezpieczają **strefę bastionową i perymetr**, a dalekie rozpoznanie/ekspedycje prowadzą wyspecjalizowane gildie i rajdy.
-**Konsekwencje:** Czytelny podział ról frakcyjnych, brak teleportacji logistycznej służb miejskich.
-**Plan wdrożenia:** `Frakcje_i_Zakony/01_Latarnicy.md`, odniesienia w `Geografia_i_Bastiony/Bastiony/*` i `System_Mocy/08_Bramy.md`.
+**Jak to teraz dokładnie jest:** Latarnicy zabezpieczają strefę bastionową i perymetr wejść; dalekie rozpoznanie i głębokie rajdy prowadzą wyspecjalizowane gildie ekspedycyjne.
+**Plan wdrożenia:** `Frakcje_i_Zakony/01_Latarnicy.md`, `Frakcje_i_Zakony/10_Podroznicy.md`, odniesienia w `Geografia_i_Bastiony/Bastiony/*` i `System_Mocy/08_Bramy.md`.
 
 ### **K16: Kartografowie „wynajmują” Korzenników**
 **Diagnoza konfliktu:** Korzennicy (siła najwyższego rzędu) zostali zdegradowani do roli egzekutorów sporów rynkowych.

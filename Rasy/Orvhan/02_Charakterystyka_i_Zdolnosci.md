@@ -8,3 +8,5 @@
 ## Iskrzyk
 
 Iskrzyki Orvhan to cieniste stworzenia: bezgłośne sowy z oczami jak lusterka, koty-widma przechodzące przez ściany, motyle bez cienia.
+
+U Orvhan Iskrzyk zachowuje kanon interfejsu Splotu: percepcja, mapa, backpack, kodeks, historia, zadania, komunikacja i automatyzacje. Nie atakuje, nie wzmacnia statystyk i nie ingeruje w cudze Sploty.

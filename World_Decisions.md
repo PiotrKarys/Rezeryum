@@ -53,7 +53,8 @@ Napięcia rosną powoli — przez ambicję, ekonomię i dostęp do Zerum.
 
 ## Kryształy Zerum a Waluta Powolna (Złoto)
 - **Kryształy Zerum:** Pozyskiwane z Bram. Stanowią „walutę premium/wojenną” — zasilają technologię Bastionów, ekwipunek i mikstury.
-- **Złoto (Magiczny Kruszec):** Mieniące się na srebro-zielono złoto wydobywane w konwencjonalnych kopalniach na całym uniwersum. To powszechna, obiegowa waluta świata.
+- **Złoto (Fizyczny Kruszec):** Mieniące się na srebro-zielono złoto wydobywane w konwencjonalnych kopalniach na całym uniwersum. To powszechna, obiegowa waluta świata.
+- **Brak dodruku magicznego:** Legalny obrót złotem opiera się na wydobyciu, przetopie i emisji menniczej; gildie mogą manipulować ceną i podażą rynkową, ale nie tworzą monet z niczego.
 - Zmiana relacji: Za Złoto niższe i średnie kasty kupują żywność, opłacają czynsz i codzienny byt. Płacenie Kryształami za chleb jest skrajnie nieopłacalne, są one surowcem taktycznym i ekonomią militarno-rozwojową napędzającą geopolitykę.
 
 Zerum i Złoto = biologia + rynkowa gospodarka + władza.
@@ -281,12 +282,21 @@ Kluczowa idea:
 
 ---
 
+# 16.1 Status ras reliktowych
+
+- Zylmari, Nythrai i Pyrrhani są rasami/lineage reliktowymi: historycznie wchłoniętymi przez większe struktury społeczne, ale niewymarłymi.
+- Ich obecność w populacji pozostaje wyraźnie mniejsza (najczęściej proporcje około 80/20 lub 70/30 względem linii dominującej zależnie od regionu).
+- Postrzeganie tych linii jako "bardziej unikalnych" lub "minimalnie lepszych" wynika z selekcji środowiskowej, reputacji i mitologizacji, a nie z formalnej przewagi mechanicznej.
+
+---
+
 # 17. Iskrzyki
 
-- Iskrzyk jest wrodzonym, energetycznym przejawem Zerum.
+- Iskrzyk jest wrodzonym, energetycznym przejawem Zerum i działa jako interfejs użytkownika osadzony w świecie.
 - Każda istota posiada Iskrzyka od urodzenia, jednak dopiero Przebudzenie pozwala na jego stabilną projekcję.
-- Iskrzyk nie posiada autonomii ani świadomości – stanowi rozszerzenie percepcji właściciela.
-- Nie uczestniczy w walce i pozostaje całkowicie nietykalny.
-- Jego forma stabilizuje się przy pierwszej trwałej projekcji i nie zmienia się wraz z rozwojem mocy.
-- Może zostać wizualnie wygaszony, lecz nadal funkcjonuje jako narzędzie percepcyjne.
+- Iskrzyk nie posiada autonomii ani świadomości – stanowi rozszerzenie percepcji i obsługi informacji właściciela.
+- Nie uczestniczy w walce, nie daje buffów i pozostaje całkowicie nietykalny.
+- Nie jest środkiem transportu i nie ingeruje w innych ludzi ani cudze Iskrzyki.
+- Jego wygląd domyślnie rezonuje z rasą/Naturą, ale może być personalizowany przez specjalistów kalibracji Splotu.
+- Funkcje kanoniczne: mapa, backpack Splotu (osobny od aktywnego ekwipunku), kodeks, historia, zadania, informacje, komunikacja na odległość, automatyzacja sortowania oraz zdalna obsługa sprzedaży zbędnych przedmiotów przez infrastrukturę handlową.
 - Zanik projekcji następuje przy wyczerpaniu Zerum; śmierć biologiczna powoduje trwałe wygaszenie.

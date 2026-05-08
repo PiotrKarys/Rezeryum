@@ -8,3 +8,5 @@
 ## Iskrzyk
 
 Iskrzyki Myrrhan to amorficzne krople — półprzezroczyste bąble Zerum, które ciągle zmieniają kształt. Czasem wyglądają jak ryba, chwilę potem jak ptasia sylwetka, za moment jak kwiat.
+
+Mimo płynnej estetyki to nadal bezcielesny interfejs Splotu: obsługa informacji, backpacka, mapy, zadań i komunikacji. Iskrzyk Myrrhan nie walczy i nie działa jako środek transportu.

@@ -9,9 +9,11 @@
 W brutalnym ekosystemie Rezeryum przetrwali najsilniejsi lub ci, którzy zdołali włączyć słabszych w swoje struktury. Po procesach asymilacji i morderczych wojen, ostateczny kanon obejmuje **14 unikalnych gałęzi ewoluujących**.
 
 Rozwiązanie dawnych, słabych ogniw ewolucji (Asymilacja):
-- **Zylmari** zostali dosłownie wchłonięci w agresywną, botaniczno-nekromantyczną tkankę **Shenn**.
-- Gorąca furia **Pyrrhani** stała się paliwem ubocznym zasilającym rdzawą mechanikę i pożary w imperiach **Drasków**.
-- Insektoidalni **Nythrai** zmutowali w wyspecjalizowaną Kastę Chitynową mrocznego, tranzytowego roju **Velmari**.
+- **Zylmari** zostali historycznie wchłonięci przez struktury **Shenn**, ale nie wymarli — przetrwali jako rzadsza, reliktowa linia (zwykle proporcje rzędu 80/20 na korzyść dominującej linii Shenn).
+- Gorąca furia **Pyrrhani** została wchłonięta przez imperia **Drasków**, lecz część rodów reliktowych nadal istnieje jako rzadsza odmiana Linii Żaru (często około 70/30 lub 80/20 wobec głównego nurtu populacji).
+- Insektoidalni **Nythrai** zostali włączeni w cywilizację **Velmari** jako linia reliktowa Kasty Chitynowej; pozostają nieliczni, ale kulturowo i strategicznie widoczni.
+
+Rasy reliktowe są postrzegane jako bardziej unikalne i "odrobinkę lepsze", lecz to efekt selekcji, legendy i narracji społecznej — nie przewaga systemowa ani mechaniczna.
 
 ---
 
@@ -23,7 +25,7 @@ Każdy z 14 plików rasowych **MUSI** rygorystycznie trzymać się poniższego u
 2. **Mocne strony:** Wymierne, survivalowe i taktyczne przewagi biologiczne (np. wrodzone widzenie w mroku utylitarne dla Latarników).
 3. **Słabe strony:** Tragiczne usterki genetyczne, często fatalne w skutkach w warunkach polowych (np. załamanie w kontakcie ze światłem).
 4. **Unikalna Cecha Rasowa (Trait):** Asymetryczna, wyłączna dla gatunku mutacja powiązana ze Splotem i Zerum.
-5. *(Opcjonalnie)* **Ścieżki Ewolucji:** Konkretne rozgałęzienia na próg *Nurtu* i *Eskalacji* definiowane przez Imię.
+5. *(Opcjonalnie)* **Ścieżki Ewolucji:** Konkretne rozgałęzienia opisane na aktywnej osi Progów Mocy (*Iskra*, *Impuls*, *Rozszczepienie* oraz dalsza bifurkacja), definiowane przez praktykę i kontekst świata.
 6. *(Opcjonalnie)* **AI Prompt Guide:** Baza słów kluczowych do spójnej generacji (Vibe, Anatomy, Details).
 
 ---
@@ -31,13 +33,15 @@ Każdy z 14 plików rasowych **MUSI** rygorystycznie trzymać się poniższego u
 ## 3. Integracja z Systemem Mocy (Ewolucja)
 
 Ewolucja to twardy proces biologiczny opłacany krwią w Bramach:
-- **Zarzewie (Forma Bazowa):** Domyślna fizjologia z wrodzonymi wadami mięsa i początkującą cechą rasową.
-- **Nurt / Eskalacja (Przebudzenie Specjalistyczne):** Skok ewolucyjny. Wymaga **Krystalizacji (Nadania Imienia)** i przyswojenia brutalnych Kamieni Esencji z głębi lochów. Pod wpływem granicznego stresu wyzwala rzeźniczą mutację rasy.
-- **Rezonans / Absolut (Szczyt):** Legendarne wyżyny formy (tzw. czwarta forma ostateczna), niedostępne dla mas. Monstrualne zespolenie organizmu ze świecącym Splotem.
+- **Forma Bazowa:** Domyślna fizjologia z wrodzonymi wadami mięsa i początkującą cechą rasową.
+- **Progi wspólne (Iskra, Impuls, Rozszczepienie):** Kolejne stabilizacje i przeciążenia Splotu, wynikające z praktyki, ekspozycji i granicznych doświadczeń.
+- **Bifurkacja końcowa (Absolut / Rezonans):** Legendarne wyżyny formy, niedostępne dla mas. Monstrualne zespolenie organizmu ze świecącym Splotem przy odmiennym profilu działania.
 
 ---
 
 > **Nota kanoniczna (K5):** Określenia takie jak „Krew/Wampiryzm”, „Biomasa/Rój” i „Runa” opisują styl kultury/manifestacji, a nie odrębne Natury mechaniczne. Obowiązuje zamknięty katalog Natur z `System_Mocy/02_Natury_Zerum.md`.
+
+> **Nota redakcyjna (K5/K19):** Terminy „Nurt” i „Eskalacja” traktujemy jako nazewnictwo archiwalne (deprecated) i nie używamy ich do opisu aktywnej mechaniki Progów.
 
 ## 4. Spis Ras — Drzewo Ewolucyjne
 
